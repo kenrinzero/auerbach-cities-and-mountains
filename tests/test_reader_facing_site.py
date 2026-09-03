@@ -70,14 +70,13 @@ class ReaderFacingSiteTests(unittest.TestCase):
             self.assertNotIn(provenance_term.lower(), text.lower())
 
     def test_overview_claims_and_qualifiers_are_pinned(self):
-        text = visible_text(element(self.page, "section", "tab-overview"))
+        overview = element(self.page, "section", "tab-overview")
+        text = visible_text(overview)
         for expected in (
             "rank 15",
             "ξ = 0.9801",
             "ξ ∈ [0.911, 1.089]",
             "all 94",
-            "−1.15",
-            "inverse",
             "roughly 70%",
             "nine-complex",
             "exploratory",
@@ -88,6 +87,17 @@ class ReaderFacingSiteTests(unittest.TestCase):
             "Coverage bias in summit lists points toward the mountain result",
         ):
             self.assertIn(expected, text)
+
+        new_here_match = re.search(
+            r'<div class="card"><h3>What is new here</h3>.*?</div>',
+            overview,
+            flags=re.DOTALL,
+        )
+        self.assertIsNotNone(new_here_match)
+        new_here = visible_text(new_here_match.group(0))
+        self.assertIn("Appendix Figure A1", new_here)
+        self.assertIn("−1.15", new_here)
+        self.assertIn("log rank on log population", new_here)
 
     def test_reader_text_measures_match_the_approved_axtell_like_layout(self):
         overview = css_properties(self.page, ".overview")

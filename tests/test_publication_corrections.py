@@ -46,6 +46,10 @@ class PublicationCorrectionTests(unittest.TestCase):
         self.assertNotIn("upper bound, not a like-for-like replication", self.explorer)
         self.assertNotIn("the mechanism sentence is what survives", self.explorer)
 
+    def test_verifier_emits_the_full_gabaix_ibragimov_value_on_c19(self):
+        c19 = next(line for line in self.checks.splitlines() if line.startswith("CLAIM C19 "))
+        self.assertIn("Gabaix-Ibragimov rank-1/2 xi 0.8027", c19)
+
 
 if __name__ == "__main__":
     unittest.main()

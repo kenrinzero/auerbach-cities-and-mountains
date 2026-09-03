@@ -331,7 +331,7 @@ def main():
     claim("C18", "all 94 ranks: alpha %s -> xi %s, bootstrap 95%% CI [%s, %s]" % fits[0],
           ["0.9801", "2.0203", "[0.7787, 1.1851]"], "receipts stage1")
     claim("C19", "all 94: project population-on-rank OLS xi %s (SE %s, HC1 %s, HC3 %s); Gabaix-Ibragimov rank-1/2 xi %s"
-          % (ols[0][0], ols[0][1], ols[0][2], ols[0][3], gi[0][0]),
+          % (ols[0][0], ols[0][1], ols[0][2], ols[0][3], gi[0]),
           ["0.8553", "0.0291", "0.8027"], "receipts stage1")
     claim("C20", "ranks >= 15 (upper-truncated zeta, s_max 306): xi %s CI [%s, %s]; OLS on the window %s"
           % (fits[1][1], fits[1][2], fits[1][3], ols[1][0]),

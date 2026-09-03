@@ -30,7 +30,7 @@ CLAIM C15a AU-C5 implied populations (A.K./Sp.K.*100, Mill.): Deutsches Reich 64
 CLAIM C16 AU-C6 Prussian provinces Sp.K.: Rheinland 152, Westfalen 124, Schlesien 88, Hannover 83, Ostpreußen 54, Posen 44 (Posen below Ostpreußen as printed)  recomputed from CSV  [in REPORT.md]
 CLAIM C17 AU-C7 Europe complex: A.K. 169 over 334 places >= 50,000; 169/4.32 = 39.1204 -> printed 39  recomputed  [in REPORT.md]
 CLAIM C18 all 94 ranks: alpha 2.0203 -> xi 0.9801, bootstrap 95% CI [0.7787, 1.1851]  receipts stage1  [in REPORT.md]
-CLAIM C19 all 94: project population-on-rank OLS xi 0.8553 (SE 0.0118, HC1 0.0559, HC3 0.0291); Gabaix-Ibragimov rank-1/2 xi 0  receipts stage1  [in REPORT.md]
+CLAIM C19 all 94: project population-on-rank OLS xi 0.8553 (SE 0.0118, HC1 0.0559, HC3 0.0291); Gabaix-Ibragimov rank-1/2 xi 0.8027  receipts stage1  [in REPORT.md]
 CLAIM C20 ranks >= 15 (upper-truncated zeta, s_max 306): xi 1.4383 CI [0.8397, 3.1155]; OLS on the window 0.9767  receipts stage1; deviation 2  [in REPORT.md]
 CLAIM C21 EXT-C1 project reproduction: inverse spec slope -1.1489 (HC3 0.0328) -> mapped xi 0.8704; population-on-rank HC3 0.0291 -- source reports only generic robust SE 0.03, and direct inspection determines its axes  receipts stage1; source audit 2026-09-03  [in REPORT.md]
 CLAIM C21a log-log correlation r = -0.9913 (r^2 0.9827)  receipts stage1  [in REPORT.md]
