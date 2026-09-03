@@ -1,0 +1,398 @@
+{{Short description|none}}
+This is a list of all 101 of the [[ultra-prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[West Asia]]. It includes peaks on the islands of Cyprus and Socotra. It also includes the 10 ultras of the [[Caucasus]] (also listed under [[List of European ultra prominent peaks#Caucasus Mountains|Europe]]) as they are also geographically connected to the mountains of West Asia. Two of these peaks (Mount Aragats and Kapudzhukh Lerr) are on the Asian side of the ridge of the Greater Caucasus, which forms the [[boundary between Asia and Europe]], and four more are on the border itself and so in both Europe and Asia.
+
+==List==
+[[Image:MountArarat.jpg|thumb|right|200px|[[Mount Ararat]], [[Turkey]]]]
+[[Image:Turkey.Mount Erciyes01.jpg|thumb|right|200px|[[Mount Erciyes]], [[Turkey]]]]
+[[Image:KackarDagi fromNorth hory.jpg|thumb|right|200px|[[Kaçkar Mountains]], [[Turkey]]]]
+[[Image:Hermonsnow.jpg|thumb|right|200px|[[Mount Hermon]], [[Syria]]]]
+[[Image:Kolunchin Zardkuh.JPG|thumb|right|200px|[[Zard Kuh]], [[Iran]]]]
+[[Image:Alvand 2007.jpg|thumb|right|200px|[[Alvand]], [[Iran]]]]
+[[Image:Damavand in winter.jpg|thumb|right|200px|[[Mount Damavand]], [[Iran]]]]
+[[Image:Sab dalj1.JPG|thumb|right|200px|[[Sabalan]], [[Iran]]]]
+[[Image:BazmanNASA.jpg|thumb|right|200px|[[Bazman]], [[Iran]]]]
+
+{| class="wikitable sortable"
+!data-sort-type="number"|No !! Peak !!data-sort-type="number"|Elevation (m)
+!data-sort-type="number"|Prominence (m) !! Country !! Range
+!data-sort-type="number"|Col (m)
+!Notes
+|-
+|colspan=7| '''1 Turkey'''
+|
+|-
+|1.01 || [[Mount Ararat]] || 5,137 || '''3,611''' || {{TUR}} || [[Armenian Highlands]] || 1526
+|
+|-
+|1.02 || Uludoruk (Resko Tepe) || 4,136 || '''2,483''' || {{TUR}} || [[Zagros Mountains]] || 1653
+|
+|-
+|1.03 || [[Mount Erciyes]] || 3,917 || '''2,419''' || {{TUR}} || Central [[Anatolia]] || 1498
+|
+|-
+|1.04 || [[Demirkazık Peak|Demirkazik Tepe]] || 3,756 || '''2,336''' || {{TUR}} || [[Taurus Mountains]] || 1420
+|
+|-
+|1.05 || [[Kaçkar Dağı]] || 3,932 || '''2,272''' || {{TUR}} || [[Pontic Mountains]] || 1660
+|
+|-
+|1.06 || [[Mount Süphan]] || 4,058 || '''2,189''' || {{TUR}} || [[Armenian Highlands]]  || 1869
+|
+|-
+|1.07 || [[Medetsiz Mountain|Medetsiz Tepe]] || 3,524 || '''2,058''' || {{TUR}} || [[Taurus Mountains]] || 1466
+|
+|-
+|1.08 || [[Bey Daglari]] || 3,070 || '''1,966''' || {{TUR}} || South West Anatolia || 1104
+|
+|-
+|1.09 || [[Mount Hasan]] || 3,268 || '''1,922''' || {{TUR}} || Central [[Anatolia]] || 1346
+|
+|-
+|1.10 || [[Mor Dagi]] || 3,800 || '''1,805''' || {{TUR}} || [[Zagros Mountains]] || 1995
+|
+|-
+|1.11 || [[Babadağ (mountain, Muğla)|Babadağ]] || 1,969 || '''1,763''' || {{TUR}} || South West Anatolia || 206
+|
+|-
+|1.12 || [[Samdi Dag]] || 3,811 || '''1,729''' || {{TUR}} || [[Zagros Mountains]] || 2082
+|
+|-
+|1.13 || [[Uyluk Tepe]] || 3,016 || '''1,664''' || {{TUR}} || South West Anatolia || 1352
+|
+|-
+|1.14 || [[Dedegol Tepesi]] || 2,980 || '''1,657''' || {{TUR}} || [[Taurus Mountains]] || 1323
+|
+|-
+|1.15 || [[Mount Tmolus|Boz Dag]] || 2,156 || '''1,579''' || {{TUR}} || Western Anatolia || 577
+|
+|-
+|1.16 || [[Barla Dagi]] || 2,800 || '''1,574''' || {{TUR}} || [[Taurus Mountains]] || 1226
+|
+|-
+|1.17 || [[Kesis Dagi]] || 3,546 || '''1,559''' || {{TUR}} || [[Pontic Mountains]] || 1987
+|
+|-
+|1.18 || [[Davraz Tepe]] || 2,635 || '''1,553''' || {{TUR}} || [[Taurus Mountains]] || 1082
+|
+|-
+|1.19 || [[Killi Tepe]] || 3,075 || '''1,547''' || {{TUR}} || [[Taurus Mountains]] || 1528
+|
+|-
+|1.20 || [[Ilgaz Daglari]] || 2,587 || '''1,544''' || {{TUR}} || [[Pontic Mountains]] || 1043
+|
+|-
+|1.21 || [[Geyik Daglari]] || 2,877 || '''1,543''' || {{TUR}} || [[Taurus Mountains]] || 1334
+|
+|-
+|1.22 || [[Akbaba Tepesi]] || 3,457 || '''1,509''' || {{TUR}} || [[Pontic Mountains]] || 1948
+|
+|-
+|1.23 || [[Uludağ]] || 2,543 || '''1,504''' || {{TUR}} || Western Anatolia || 1039
+|
+|-
+|colspan=7| '''2 Arabia, Levant and Cyprus'''
+|
+|-
+|2.01
+|[[Jabal An-Nabi Shu'ayb]]
+|3,666
+|'''3,326'''
+|{{YEM}}
+|[[Arabian Highlands]]
+|340
+|
+|-
+|2.02
+|[[Jebel Shams]]
+|3,019
+|'''2,899'''
+|{{OMN}}
+|[[Al Hajar Mountains]]
+|120
+|
+|-
+|2.03
+|[[Mount Catherine]]
+|2,629
+|'''2,404'''
+|{{EGY}}
+|[[Sinai Peninsula|Sinai]]
+|225
+|
+|-
+|2.04 ||[[Qurnat as Sawda']]|| 3,088 ||'''2,392'''|| {{LBN}} ||[[Lebanon]]|| 695
+|
+|-
+|2.05 ||[[Mount Olympus (Cyprus)|Mount Olympus]]|| 1,952 ||'''1,952'''|| {{CYP}} ||[[Cyprus]]|| 0
+|
+|-
+|2.06 ||[[Mount Hermon]]|| 2,814 ||'''1,804'''|| {{SYR}}/{{LBN}} || [[Anti-Lebanon]]|| 1010
+|
+|-
+|2.07
+|[[Jabal Al Harim|Jebel al Harim]]
+|2,087
+|'''1,727'''
+|{{OMN}}
+|[[Al Hajar Mountains]]
+|360
+|
+|-
+|2.08
+|[[Jebel Kawr]]
+|2,730
+|'''1,718'''
+|{{OMN}}
+|[[Al Hajar Mountains]]
+|1012
+|
+|-
+|2.09 ||[[Jebel Jar]]|| 2,300 ||'''1,709'''|| {{SAU}} ||[[Arabian Highlands]]|| 591
+|
+|-
+|2.10 ||[[Jebel Raymah]]|| 2,920 ||'''1,635'''|| {{YEM}} ||[[Arabian Highlands]]|| 1285
+|
+|-
+|2.11 ||[[Jabal al-Lawz]]|| 2,580 ||'''1,622'''|| {{SAU}} ||[[Arabian Highlands]]|| 958
+|
+|-
+|2.12 ||[[Jebel Khadar]]|| 2,200 ||'''1,600'''|| {{OMN}} ||[[Al Hajar Mountains]]|| 600
+|
+|-
+|2.13
+|[[Jabal Sabir]]
+|3,006
+|'''1,586'''
+|{{YEM}}
+|Arabian Highlands
+|1420
+|
+|-
+|2.14 || [[Hajhir]] || 1,505 || '''1,505''' || {{YEM}} || [[Socotra]] || 0
+|
+|-
+|colspan=7| '''3 Iran'''
+|
+|-
+|3.01 || [[Mount Damavand]] || 5,610 || '''4,667''' || {{IRN}} || [[Alborz Mountains]]  || 943
+|
+|-
+|3.02 || [[Sabalan]] || 4,811 || '''3,283''' || {{IRN}} || [[Lesser Caucasus]]  || 1528
+|
+|-
+|3.03 || [[Taftan Volcano]] || 3,941 || '''2,901'''  || {{IRN}} || Eastern Iran || 1040
+|
+|-
+|3.04 || [[Hazaran]] || 4,500 || '''2,741''' || {{IRN}} || [[Hazaran]] || 1759
+|
+|-
+|3.05 || [[Dena]] || 4,409 || '''2,604''' || {{IRN}} || [[Zagros Mountains]] || 1805
+|
+|-
+|3.06 || [[Bazman]] || 3,503 || '''2,400''' || {{IRN}} || Eastern Iran   || 1103
+|
+|-
+|3.07 || [[Shir Kuh]] || 4,050 || '''2,271''' || {{IRN}} || [[Iranian plateau]]  || 1779
+|
+|-
+|3.08 || [[Kuh-e Shab]] || 2,681 || '''2,100''' || {{IRN}} || [[Zagros Mountains]] || 581
+|
+|-
+|3.09 || [[Zard Kuh]] || 4,221 || '''2,095''' || {{IRN}} || [[Zagros Mountains]]  || 2105
+|
+|-
+|3.10 || [[Mount Paraw]] ||3390 || '''2083''' || {{IRN}} || [[Zagros Mountains]]  || 1322
+|
+|-
+|3.11 || [[Kuh-e Fareghan]] || 3,240 || '''2,082''' || {{IRN}} || [[Zagros Mountains]] || 1158
+|
+|-
+|3.12 || [[Kuh-e Siah Khvani]] || 3,314 || '''2074''' || {{IRN}} || [[Alborz Mountains]]   || 1444
+|
+|-
+|3.13 || [[Kuh-e Genu]] || 2,350 || '''2,035''' || {{IRN}} || [[Zagros Mountains]] || 315
+|
+|-
+|3.14 || [[Oshtorankuh]] || 4,139 || '''1,986''' || {{IRN}} || [[Zagros Mountains]]  || 2153
+|
+|-
+|3.15 || [[Kuh-e Palvar]] || 4,229 || '''1,970''' || {{IRN}} || [[Hazaran]]  || 2259
+|
+|-
+|3.16 || [[Kuh-e Nay Band]] || 2,960 || '''1,968''' || {{IRN}} || [[Iranian plateau]] || 992
+|
+|-
+|3.17 || [[Khvoshkuh]] || 2,650 || '''1,967''' || {{IRN}} || [[Zagros Mountains]] || 683
+|
+|-
+|3.18 || [[Kuh-e Hami]] || 3,190 || '''1,944''' || {{IRN}} || [[Zagros Mountains]] || 1246
+|
+|-
+|3.19 || [[Kuh-e Shahvar]] || 3,890 || '''1,881''' || {{IRN}} || [[Alborz Mountains]]  || 2009
+|
+|-
+|3.20 || HP [[Eshdeger Range]] || 2,920 || '''1,830''' || {{IRN}} || Eastern Iran || 1103
+|
+|-
+|3.21 ||[[Alam Kuh]] || 4,805 || '''1,827''' || {{IRN}} || [[Alborz Mountains]]  || 2978
+|
+|-
+|3.22 ||[[Sahand]] || 3,707 || '''1,826''' || {{IRN}} || [[Azerbaijan (Iran)|Azerbaijan Mountains]]  || 1881
+|
+|-
+|3.23 ||[[Garrin Mountain]] || 3,630 || '''1,780''' || {{IRN}} || [[Zagros Mountains]]  || 1850
+|
+|-
+|3.24 ||[[Kuhha-ye Hezar Masjed]] || 3,120 || '''1,760''' || {{IRN}} || [[Alborz Mountains]]  || 1360
+|
+|-
+|3.25 ||[[Kuh-e Khabr]] || 3,856 || '''1,758''' || {{IRN}} || [[Zagros Mountains]] || 2098
+|
+|-
+|3.26 ||[[Kuhe Haji Ebrahim]] || 3,587 || '''1,747''' || {{IRQ}} / {{IRN}} || [[Zagros Mountains]]  || 1840
+|
+|-
+|3.27 ||[[Kuh-e Kharanaq]] || 3,150 || '''1,732''' || {{IRN}} || [[Iranian plateau]] || 1418
+|
+|-
+|3.28 ||[[Kuh-e Shahu]] || 3,350 || '''1,714''' || {{IRN}} || [[Zagros Mountains]] || 1636
+|
+|-
+|3.29 ||[[Kuh-e Gar]] || 2,950 || '''1,710''' || {{IRN}} || [[Alborz Mountains]]  || 1240
+|
+|-
+|3.30 ||[[Kuh-e Karkas]] || 3,870 || '''1,698''' || {{IRN}} || [[Iranian plateau]] || 2172
+|
+|-
+|3.31 ||Kuh-kansifi || 3,065 ||'''1,697'''|| {{IRN}} || [[Zagros Mountains]] || 1792
+|
+|-
+|3.32 ||[[Mila Kuh]] || 2,888 || '''1,686''' || {{IRN}} || Eastern Iran    || 1202
+|
+|-
+|3.33 ||[[Kuh-e Takht]] || 2,975 || '''1,675''' || {{IRN}} || [[Zagros Mountains]] || 1300
+|
+|-
+|3.34 ||[[Kuh-e Mirza 'Arab]] || 2,887 || '''1,657''' || {{IRN}} || Eastern Iran    || 1230
+|
+|-
+|3.35 ||[[Alvand]] || 3,570 || '''1,654''' || {{IRN}} || [[Zagros Mountains]] || 1916
+|
+|-
+|3.36 ||[[Kuh-e Bagh-e Bala]] || 3,775 || '''1,635''' || {{IRN}} || [[Hazaran]]  || 2140
+|
+|-
+|3.37 ||[[Kuh-e Aq Dagh]] || 3,321 || '''1,625''' || {{IRN}} || [[Alborz Mountains]]  || 1696
+|
+|-
+|3.38 ||[[Kuh-e Hezar Darreh]] || 3,880 || '''1,620'''|| {{IRN}} || [[Zagros Mountains]] || 2260
+|
+|-
+|3.39 ||[[Kuh-e Rag]] || 3,661 || '''1,609'''|| {{IRN}} || [[Zagros Mountains]] || 2052
+|
+|-
+|3.40 ||[[Kuh-e Namak (Jahrom)|Kuh-e Namak]] || 2,846 || '''1,601'''|| {{IRN}} || [[Zagros Mountains]] || 1245
+|
+|-
+|3.41 ||[[Kuh-e Jupar]] || 4,150 || '''1,597''' || {{IRN}} || [[Hazaran]] || 2553
+|
+|-
+|3.42 ||[[Kuh-e Mohammadabad]] || 3,592 || '''1,585''' || {{IRN}} || [[Iranian plateau]] || 2007
+|
+|-
+|3.43 ||[[Cheekha Dar]] || 3,611 || '''1,575''' || {{IRQ}} / {{IRN}}  || [[Zagros Mountains]] || 2036
+|
+|-
+|3.44 ||[[Kuh-e Ja'in]] || 2,980 || '''1,572''' || {{IRN}} || [[Zagros Mountains]] || 1408
+|
+|-
+|3.45 ||[[Kuh-e Bul]] || 3,943 || '''1,563'''|| {{IRN}} || [[Zagros Mountains]] || 2380
+|
+|-
+|3.46 ||[[Molkooh]] || 2,958 || '''1,560''' || {{IRN}} || Eastern Iran    || 1398
+|
+|-
+|3.47 ||[[Kuh-e Gereh]] || 3,990 || '''1,557''' || {{IRN}} || [[Zagros Mountains]] || 2433
+|
+|-
+|3.48 ||[[Kuh-e Denband]] || 2,777 || '''1,539'''|| {{IRN}} || [[Iranian plateau]] || 1238
+|
+|-
+|3.49 ||[[Geli Kuh]] || 2,995 || '''1,534''' || {{IRN}} || Eastern Iran    || 1461
+|
+|-
+|3.50 ||[[Kuh-e Par-e Lavar]] || 2,209 || '''1,530''' || {{IRN}} || [[Zagros Mountains]] || 679
+|
+|-
+|3.51 ||[[Kuh-e Nozva]] || 3,730 || '''1,510''' || {{IRN}} || [[Alborz Mountains]]  || 2220
+|
+|-
+|3.52 ||[[Kuh-e Menar]] || 3,750 || '''1,510''' || {{IRN}} || [[Zagros Mountains]] || 2240
+|
+|-
+|3.53 ||[[Kuh-e Raziyeh]] || 3,120 || '''1,510''' || {{IRN}} || [[Zagros Mountains]] || 1610
+|
+|-
+|3.54 ||[[Kuh-e Patu]] || 3,070 || '''1,509''' || {{IRN}} || [[Alborz Mountains]]  || 1561
+|
+|-
+|3.55 ||[[Kiyamaki Dagh]] || 3,358 || '''1,500''' || {{IRN}} || [[Lesser Caucasus]]  || 1858
+|
+|-
+|-
+|colspan=7| '''4 Caucasus'''
+|
+|-
+|4.01 ||[[Mount Elbrus]] ||5,642||'''4,741'''|| {{RUS}} || [[Greater Caucasus]] ||901
+|
+|-
+|4.02
+|[[Mount Bazarduzu]] || 4,466 ||'''2,454'''|| {{RUS}} / {{AZE}} || [[Greater Caucasus]] ||2012
+|
+|-
+|4.03
+|[[Mount Kazbek]] || 5,034 ||'''2,353''' || {{RUS}} / {{GEO}} || [[Greater Caucasus]] || 2681
+|
+|-
+|4.04 || [[Tebulosmta]] || 4,493 ||'''2,145''' || {{RUS}} / {{GEO}} || [[Greater Caucasus]] || 2348
+|
+|-
+|4.05 || [[Mount Aragats]] || 4,090 || '''2,143''' || {{ARM}} || [[Lesser Caucasus]] || 1947
+|
+|-
+|4.06 || [[Dykh-Tau]] || 5,205 || '''2,002'''|| {{RUS}} || [[Greater Caucasus]] || 3203
+|
+|-
+|4.07 || [[Dyultydag]] || 4,127 || '''1,834''' || {{RUS}} || [[Greater Caucasus]] || 2293
+|
+|-
+|4.08 || [[Kapudzhukh Lerr]] || 3,905 ||'''1,820'''|| {{ARM}} / {{AZE}} || [[Lesser Caucasus]] || 2085
+|
+|-
+|4.09 || [[Gora Addala Shukgelmezr]] || 4,152 || '''1,792''' || {{RUS}} || [[Greater Caucasus]] || 2360
+|
+|-
+|4.10 || [[Gora Shan]] ||4,451 ||'''1,775''' || {{RUS}} / {{GEO}} || [[Greater Caucasus]] || 2676
+|
+|-
+|}
+
+==See also==
+* [[List of Iranian four-thousanders]]
+
+==Sources==
+* [http://www.peaklist.org/WWlists/ultras/turkey.html List - Turkey]
+* [http://www.peaklist.org/WWlists/ultras/mideast.html List - Arabia]
+* [http://www.peaklist.org/WWlists/ultras/iran.html List - Iran]
+* [http://www.peaklist.org/WWmaps/asia/map/ASIA_W.gif Map - Turkey & Iran]
+* [http://www.peaklist.org/WWmaps/asia/map/ASIA_SW.gif Map - Arabia]
+
+{{West Asia}}
+{{Lists of ultras}}
+
+{{DEFAULTSORT:Ultras Of West Asia}}
+[[Category:Landforms of West Asia|*]]
+[[Category:Mountains of Asia|*]]
+[[Category:Asia-related lists]]
+[[Category:Lists of mountains by prominence|West Asia Ultras]]
+[[Category:Middle East-related lists]]

@@ -1,0 +1,96 @@
+==============================================================================
+Stage 3 raw -> derived (contract rule 2). Raw: mountains-2026-09-02
+   raw custody verified: 22/22 files match _manifest.json sha256
+   retrieved 2026-09-02T22:13:27Z | licence CC-BY-SA 4.0 (Wikipedia); CC0 (Wikidata)
+   recon notes: peaklist.org unreachable (curl 000 on https www+bare; 404 on http); peakbagger.com/site/terms.aspx HTTP 403 so the contract's mandatory ToS check could not be satisfied -> not scraped; scaruffi.com 404 -> Miskinis 548-summit list not obtainable.
+
+[X1 Wikidata cross-check] raw rows 1858, distinct qids 1543
+   no elevation               73
+   A1 elevation impossible    276
+   A1 prom>elev               95
+
+[A0] global ultra set: union of 16 Wikipedia lists, membership prominence >= 1500 m
+   list-of-ultras-of-africa                             kept   85 distinct   85 (index 84, delta +1) rejected: {'missing elev/prom': 1}
+      A6 dropped (unparsable elev/prom): (no name) [elev=None prom=None] cells=[]
+   list-of-ultras-of-antarctica                         kept   43 distinct   43 (index 41, delta +2) rejected: {}
+   list-of-ultras-of-central-asia                       kept   78 distinct   78 (index 75, delta +3) rejected: {}
+   list-of-ultra-prominent-peaks-of-japan               kept   21 distinct   21 (index 21, delta +0) rejected: {}
+   list-of-ultras-of-northeast-asia                     kept   51 distinct   51 (index 51, delta +0) rejected: {}
+   list-of-ultras-of-southeast-asia                     kept   42 distinct   42 (index 42, delta +0) rejected: {}
+   list-of-ultras-of-the-himalayas                      kept   77 distinct   77 (index 76, delta +1) rejected: {'missing elev/prom': 1}
+      A6 dropped (unparsable elev/prom): Khyarisatam [elev='6,870' prom=''] cells=['9', '[[Chiumo|Khyarisatam]]', '{{IND}}&nbsp;/&nbsp;{{CHN}}']
+   list-of-ultras-of-the-karakoram-and-hindu-kush       kept   61 distinct   61 (index 61, delta +0) rejected: {}
+   list-of-ultras-of-the-malay-archipelago              kept   91 distinct   91 (index 91, delta +0) rejected: {}
+   list-of-ultras-of-the-philippines                    kept   29 distinct   29 (index 29, delta +0) rejected: {}
+   list-of-ultras-of-tibet-east-asia-and-neighbouring-a kept  119 distinct  115 (index 112, delta +3) rejected: {}
+   list-of-ultras-of-west-asia                          kept  102 distinct  102 (index 88, delta +14) rejected: {'missing elev/prom': 4}
+      A6 dropped (unparsable elev/prom): (no name) [elev=None prom=None] cells=["'''1 Turkey'''", '']
+      A6 dropped (unparsable elev/prom): (no name) [elev=None prom=None] cells=["'''2 Arabia, Levant and Cypr", '']
+      A6 dropped (unparsable elev/prom): (no name) [elev=None prom=None] cells=["'''3 Iran'''", '']
+      A6 dropped (unparsable elev/prom): (no name) [elev=None prom=None] cells=["'''4 Caucasus'''", '']
+   list-of-european-ultra-prominent-peaks               kept  160 distinct  119 (index 120, delta -1) rejected: {'prominence below cutoff': 19}
+   list-of-ultras-of-north-america                      master-table rows 353, kept 353 (caption 353, index 356)
+   list-of-ultras-of-oceania                            kept   69 distinct   69 (index 69, delta +0) rejected: {}
+   list-of-ultras-of-south-america                      kept  209 distinct  209 (index 211, delta -2) rejected: {'prominence below cutoff': 1}
+   [A0] parsed rows 1590 -> distinct summits 1522 (merged 68)
+   A4 union 1522 vs index-stated world total 1516 (delta +6, tolerance [1490,1540])
+   A2 Everest present: Mount Everest elev 8848.00 prom 8848.00 (sources list-of-ultras-of-the-himalayas)
+
+[coord donor] list-of-mountain-peaks-by-prominence kept 155 rows (stated 125)
+   coordinates filled from the Wikidata snapshot by qid: 120 rows
+   A0 rows receiving coordinates via the donor join: 84 of 1522 (deviation D2)
+   [A0] coordinate-bearing rows 440/1522; pairs within 1 km: 0
+   [X1 Wikidata] coordinate-bearing rows 1539/1543; pairs within 1 km: 10
+      Atlasov Island               | Alaid                         0.182 km  elev 2339/2285
+      Nun-Kun Massif               | Nun                           0.000 km  elev 7135/7135
+      Pollino                      | Serra Dolcedorme              0.638 km  elev 2267/2267
+      Hüiten Peak                  | Tavan Bogd                    0.000 km  elev 4374/4082
+      Mount Waialeale              | Kawaikini                     0.932 km  elev 1569/1598
+      Tarso Toussidé               | Pic Toussidé                  0.042 km  elev 3315/3315
+      Vinson Massif                | Mount Vinson                  0.031 km  elev 4892/4892
+      Korab                        | Korab                         0.004 km  elev 2764/2753
+      Jakupica                     |                               0.000 km  elev 2225/2540
+      Mount Calowahcan             | McDonald Peak                 0.000 km  elev 9061/9820
+
+[R1] Alps — list-of-alpine-peaks-by-prominence, membership prominence >= 1500 m
+   [R1] parsed rows 44 -> distinct summits 44 (merged 0)
+   rejects: {} ; index states 44
+   cross-check: Europe article Alps-section rows 44 vs dedicated Alps list 44
+[R2] Himalayas — list-of-ultras-of-the-himalayas (index states 76)
+      A6 dropped (unparsable elev/prom): Khyarisatam [elev='6,870' prom=''] cells=['9', '[[Chiumo|Khyarisatam]]', '{{IND}}&nbsp;/&nbsp;{{CHN}}']
+   [R2] parsed rows 77 -> distinct summits 77 (merged 0)
+   rejects: {'missing elev/prom': 1}
+[R3] Rockies — NA article sub-tables 'Canadian Rockies' + 'Rocky Mountains of the United States'
+   candidate sub-table: section='Canadian Rockies' caption='The 19 mountain peaks of the Rocky Mountains of Cana' rows=19
+   candidate sub-table: section='US Rocky Mountains' caption='The 17 mountain peaks of the Rocky Mountains of the ' rows=17
+   [R3] parsed rows 36 -> distinct summits 36 (merged 0)
+   sub-table rows [19, 17] -> 36 distinct (expected 19 + 17 = 36)
+   cross-check: master-table rows whose Mountain range mentions 'Rock*': 16
+   cross-check overlap: 16 of 36 sub-table peaks also flagged Rocky in the master table
+   cross-check: 36 of 36 Rockies-arm peaks are also in the A0 union by name/link
+
+[E1] elevation-only arm — list-of-highest-mountains-on-earth
+   caption: List of Earth's highest peaks with their prominence and parent mountain
+   rows with an elevation: 120 ; numeric-rank rows 108 (E1 primary) ; 'S' sub-prominence rows 12 (E1b)
+   E1 elevation range 7200..8849 m (dynamic range 1.23x)
+   E1 rows with missing/A1-violating prominence: 0 (prominence is not the E1 membership rule)
+
+[derived] writing CSVs (bytes, UTF-8, LF, no BOM)
+   wrote mountains-global-ultras.csv  (1522 rows, 146982 bytes, sha256 e70b3a7635e83ca3)
+   wrote mountains-alps.csv  (44 rows, 3843 bytes, sha256 b5668577a8d6d039)
+   wrote mountains-himalayas.csv  (77 rows, 6369 bytes, sha256 2ed471011961bcf0)
+   wrote mountains-rockies.csv  (36 rows, 4246 bytes, sha256 4cbed0afd567f2d3)
+   wrote mountains-highest-by-elevation.csv  (120 rows, 5646 bytes, sha256 87f61622fa876c8c)
+   wrote mountains-wikidata-crosscheck.csv  (1543 rows, 89966 bytes, sha256 eece21013c7e738c)
+
+[coverage] A0 distinct 1522 ; Wikidata qids 1543 ; Wikidata qids passing A1 1085 ; name overlap 140
+
+[A5] within-source prominence monotonicity:
+   tables with a non-monotone prominence column: 17 (reported, not enforced: the source tables order by different keys)
+[A6] rows dropped for missing elevation are counted in the per-article reject lines above ('missing elev/prom').
+[A7] every derived CSV above was written from raw + this parser; hashes printed.
+
+[structural repairs] 2 table(s) re-aligned (rows shorter than their header):
+   list-of-ultras-of-north-america | Canadian Rockies | rows carry 7 cells for 8 header columns: region+range are emitted in one cell, so columns after index 3 shift left by one
+   list-of-ultras-of-north-america | US Rocky Mountains | rows carry 7 cells for 8 header columns: region+range are emitted in one cell, so columns after index 3 shift left by one
+[deviation] contract A2 names Everest 8848.86 m; the ultra lists carry 8848 m (rounded). The 8848.86 value appears in the coordinate-donor list and Wikidata. The primary set keeps the lists' rounded value.

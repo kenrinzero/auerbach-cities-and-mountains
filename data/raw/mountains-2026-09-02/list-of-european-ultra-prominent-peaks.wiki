@@ -1,0 +1,1490 @@
+{{Short description|None}}
+This is a list of all the mountains in [[Europe]] with [[ultra-prominent peak]]s with [[topographic prominence]] greater than {{convert|1500|m|disp=or}}. 
+
+==European peaks by prominence==
+[[File:046 Наверху. Вид на Эльбрус (с зумом).JPG|thumb|300x300px|[[Mount Elbrus]], highest mountain in Russia, and in Europe]]
+The column "Col" in the chart below denotes the highest elevation to which one must descend from a peak in order to reach peaks with higher elevations; note that the elevation of any peak is the sum of its prominence and col.
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Elbrus]]
+|{{RUS}}
+|5,642
+|'''4,741'''
+|901
+|-
+|2
+|[[Mont Blanc|Monte Bianco]]/ [[Mont Blanc]]
+|{{ITA}}/ {{FRA}}
+|4,810
+|'''4,697'''
+|113
+|-
+|3
+|[[Mount Etna]]
+|{{ITA}} ([[Sicily]])
+|3,357
+|'''3,357'''
+|0
+|-
+|4
+|[[Mulhacén]]
+|{{ESP}}
+|3,479
+|'''3,285'''
+|194
+|-
+|5
+|[[Aneto]]
+|{{ESP}}
+|3,404
+|'''2,812'''
+|592
+|-
+|6
+|[[Monte Cinto]]
+|{{FRA}} ([[Corsica]])
+|2,706
+|'''2,706'''
+|0
+|-
+|7
+|[[Corno Grande]]
+|{{ITA}}
+|2,912
+|'''2,476'''
+|436
+|-
+|8
+|[[Musala]]
+|{{BGR}}
+|2,925
+|'''2,473'''
+|432
+|-
+|9
+|[[Mount Ida (Crete)|Mount Ida]]
+|{{GRC}} ([[Crete]])
+|2,456
+|'''2,456'''
+|0
+|-
+|10
+|[[Grossglockner]]
+|{{AUT}}
+|3,798
+|'''2,423'''
+|1375
+|}
+
+The above European Top 10 list excludes peaks on lands and islands that are part of European countries but are outside or on the limits of the [[Europe|European continent]] and its [[Eurasian Plate|tectonic]] and [[Geography of Europe|geographic boundaries]], like [[Teide]] (with prominence of {{convert|3715|m|abbr=on|disp=comma}}), Tenerife Island, Spain; [[Belukha Mountain|Belukha peak]] of the [[Altai Mountains]] in Russia (with prominence of {{convert|3343|m|abbr=on|disp=comma}}); and [[Piton des Neiges]] (with prominence of {{convert|3069|m|abbr=on|disp=comma}}), [[Réunion]], France.
+
+For ease of reference, the complete list below is divided into sections. Islands in the [[North Atlantic Ocean|Atlantic]], like [[Azores]] and [[Iceland]], the [[Arctic Ocean|Arctic]] archipelagos of [[Jan Mayen]], [[Svalbard]], and [[Novaya Zemlya]], [[Mediterranean Sea|Mediterranean]] [[Sicily]] and the other Mediterranean islands, territories of European countries, have also been included as sections (with the exception of [[Greenland]]), and are taken into account for the Top 10 List, although being somehow on the [[Boundaries between the continents of Earth|European boundaries]]. [[Mount Etna]] active volcano is somehow on, or just outside the boundaries of the [[Eurasian Plate]], resting on the subduction boundary where the [[African Plate|African tectonic plate]] is being pushed under the Eurasian plate, but geographically is part of [[Europe]], and is also included in the Top 10 list.
+
+The sections include peaks on the [[African Plate]], the [[Canary Islands]] and [[Madeira]], and some peaks on or just outside the [[Boundaries between the continents of Earth|European boundaries]] located in the [[Caucasus Mountains]] ([[European Russia]] and the [[Caucasus|Caucasus states]]) and the [[Ural Mountains]], both forming the geographic boundaries between the Europe and [[Asia]], but those last mentioned aren't included in the Top 10 List. [[Mount Narodnaya]], the highest peak in the Ural Mountains, is on the main watershed ridge, so on the limits of Europe, and cannot be considered a strictly European mountain and peak. [[Mount Elbrus]] is a dormant [[stratovolcano]], forming part of the Caucasus Mountains, and geographically it is laying entirely in Europe and Russia, {{convert|20|km|mi|abbr=on}} north of the main [[ridge]] and [[Drainage divide|watershed]] of the [[Greater Caucasus]], considered as the one that is forming the limits of Europe, that also forms great part of the length of the border between [[Russia]] and [[Georgia (country)|Georgia]].<ref name="cia-russia-geography">{{cite web|title=CIA World Factbook – Russia, Geography|url=https://www.cia.gov/the-world-factbook/countries/russia/|archive-url=https://web.archive.org/web/20210109173026/https://www.cia.gov/the-world-factbook/countries/russia/|url-status=dead|archive-date=January 9, 2021|website=US CIA|publisher=US Central Intelligence Agency|access-date=22 February 2016}}</ref> [[Mount Bazardüzü]], also in the Caucasus, has a prominence of {{convert|2454|m}}, but is located on the [[Boundaries between the continents of Earth|boundary between Europe and Asia]], on the border between Russia and Azerbaijan, so it cannot be considered a strictly European mountain and peak.
+
+==Alps==
+{{main|List of Alpine peaks by prominence}}
+
+[[Image:Monte_bianco.JPG|thumb|right|[[Mont Blanc]], [[France]]/[[Italy]]]]
+[[Image:Großglockner_from_behind_the_glass_panorama_tower.JPG|thumb|right|[[Großglockner]], [[Austria]]]]
+[[Image:Tödi.jpg|thumb|right|[[Tödi]], [[Switzerland]]]]
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country<!--No flags, per MOS:FLAGS-->
+!Elevation (m)
+!Prominence (m)
+!Col height (m)
+|-
+|1
+|[[Mont Blanc]]
+|{{FRA}} / {{ITA}}
+|align=right|4,810
+|align=right|'''4,697'''
+|align=right|113
+|-
+|2
+|[[Großglockner]]
+|{{AUT}}
+|align=right|3,798
+|align=right|'''2,423'''
+|align=right|1375
+|-
+|3
+|[[Finsteraarhorn]]
+|{{CHE}}
+|align=right|4,274
+|align=right|'''2,279'''
+|align=right|1995
+|-
+|4
+|[[Wildspitze]]
+|{{AUT}}
+|align=right|3,768
+|align=right|'''2,261'''
+|align=right|1507
+|-
+|5
+|[[Piz Bernina]]
+|{{CHE}}
+|align=right|4,048
+|align=right|'''2,236'''
+|align=right|1812
+|-
+|6
+|[[Hochkönig]]
+|{{AUT}}
+|align=right|2,941
+|align=right|'''2,181'''
+|align=right|760
+|-
+|7
+|[[Dufourspitze]]<br/>([[Monte Rosa]])
+|{{CHE}} / {{ITA}}
+|align=right|4,634
+|align=right|'''2,165'''
+|align=right|2469
+|-
+|8
+|[[Hoher Dachstein]]
+|{{AUT}}
+|align=right|2,995
+|align=right|'''2,136'''
+|align=right|859
+|-
+|9
+|[[Marmolada]]
+|{{ITA}}
+|align=right|3,343
+|align=right|'''2,131'''
+|align=right|1212
+|-
+|10
+|[[Monte Viso]]
+|{{ITA}}
+|align=right|3,841
+|align=right|'''2,062'''
+|align=right|1779
+|-
+|11
+|[[Triglav]]
+|{{SVN}}
+|align=right|2,864
+|align=right|'''2,052'''
+|align=right|812
+|-
+|12
+|[[Barre des Écrins]]
+|{{FRA}}
+|align=right|4,102
+|align=right|'''2,045'''
+|align=right|2057
+|-
+|13
+|[[Säntis]]
+|{{CHE}}
+|align=right|2,503
+|align=right|'''2,021'''
+|align=right|482
+|-
+|14
+|[[Ortler]]
+|{{ITA}}
+|align=right|3,905
+|align=right|'''1,953'''
+|align=right|1952
+|-
+|15
+|[[Monte Baldo]]/[[Cima Valdritta]]
+|{{ITA}}
+|align=right|2,218
+|align=right|'''1,950'''
+|align=right|268
+|-
+|16
+|[[Gran Paradiso]]
+|{{ITA}}
+|align=right|4,061
+|align=right|'''1,891'''
+|align=right|2170
+|-
+|17
+|[[Pizzo di Coca]]
+|{{ITA}}
+|align=right|3,050
+|align=right|'''1,878'''
+|align=right|1172
+|-
+|18
+|[[Cima Dodici]]
+|{{ITA}}
+|align=right|2,336
+|align=right|'''1,874'''
+|align=right|462
+|-
+|19
+|[[Dents du Midi]]
+|{{CHE}}
+|align=right|3,257
+|align=right|'''1,796'''
+|align=right|1461
+|-
+|20
+|[[Chamechaude]]
+|{{FRA}}
+|align=right|2,082
+|align=right|'''1,771'''
+|align=right|311
+|-
+|21
+|[[Zugspitze]]
+|{{DEU}} / {{AUT}}
+|align=right|2,962
+|align=right|'''1,746'''
+|align=right|1216
+|-
+|22
+|[[Monte Antelao]]
+|{{ITA}}
+|align=right|3,264
+|align=right|'''1,735'''
+|align=right|1529
+|-
+|23
+|[[Arcalod]]
+|{{FRA}}
+|align=right|2,217
+|align=right|'''1,713'''
+|align=right|504
+|-
+|24
+|[[Grintovec]]
+|{{SVN}}
+|align=right|2,558
+|align=right|'''1,706'''
+|align=right|852
+|-
+|25
+|[[Großer Priel]]
+|{{AUT}}
+|align=right|2,515
+|align=right|'''1,700'''
+|align=right|810
+|-
+|26
+|[[Grigna Settentrionale]]
+|{{ITA}}
+|align=right|2,409
+|align=right|'''1,686'''
+|align=right|723
+|-
+|27
+|[[Monte Bondone]]
+|{{ITA}}
+|align=right|2,180
+|align=right|'''1,679'''
+|align=right|501
+|-
+|28
+|[[Presanella]]
+|{{ITA}}
+|align=right|3,558
+|align=right|'''1,676'''
+|align=right|1882
+|-
+|29
+|[[Birnhorn]]
+|{{AUT}}
+|align=right|2,634
+|align=right|'''1,665'''
+|align=right|969
+|-
+|30
+|[[Col Nudo]]
+|{{ITA}}
+|align=right|2,471
+|align=right|'''1,644'''
+|align=right|827
+|-
+|31
+|[[Pointe Percée]]
+|{{FRA}}
+|align=right|2,750
+|align=right|'''1,643'''
+|align=right|1107
+|-
+|32
+|[[Jôf di Montasio]]
+|{{ITA}}
+|align=right|2,753
+|align=right|'''1,597'''
+|align=right|1156
+|-
+|33
+|[[Mölltaler Polinik]]
+|{{AUT}}
+|align=right|2,784
+|align=right|'''1,579'''
+|align=right|1205
+|-
+|34
+|[[Tödi]]
+|{{CHE}}
+|align=right|3,614
+|align=right|'''1,570'''
+|align=right|2044
+|-
+|35
+|[[Birkkarspitze]]
+|{{AUT}}
+|align=right|2,749
+|align=right|'''1,564'''
+|align=right|1185
+|-
+|36
+|[[Ellmauer Halt]]
+|{{AUT}}
+|align=right|2,344
+|align=right|'''1,551'''
+|align=right|793
+|-
+|37
+|[[Grande Tête de l'Obiou]]
+|{{FRA}}
+|align=right|2,790
+|align=right|'''1,542'''
+|align=right|1248
+|-
+|38
+|[[Hochtor]]
+|{{AUT}}
+|align=right|2,369
+|align=right|'''1,520'''
+|align=right|849
+|-
+|39
+|[[Grimming]]
+|{{AUT}}
+|align=right|2,351
+|align=right|'''1,518'''
+|align=right|833
+|-
+|40
+|[[Grand Combin]]
+|{{CHE}}
+|align=right|4,309
+|align=right|'''1,512'''
+|align=right|2797
+|-
+|41
+|[[La Tournette]]
+|{{FRA}}
+|align=right|2,351
+|align=right|'''1,514'''
+|align=right|837
+|-
+|42
+|[[Zirbitzkogel]]
+|{{AUT}}
+|align=right|2,396
+|align=right|'''1,502'''
+|align=right|894
+|-
+|43
+|[[Piz Kesch]]
+|{{CHE}}
+|align=right|3,418
+|align=right|'''1,502'''
+|align=right|1916
+|-
+|44
+|[[Cima Brenta]]
+|{{ITA}}
+|align=right|3,151
+|align=right|'''1,501'''
+|align=right|1650
+|}
+
+==Apennines, Italian peninsula and neighbouring islands==
+[[Image:Verda48a.jpg|thumb|right|[[Monte Cinto]], [[Corsica]]]]
+[[Image:Corno Grande with paths.jpg|thumb|right|[[Corno Grande]], [[Italy]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Etna]]
+|{{ITA}} ([[Sicily]])
+|3,357
+|'''3,357'''
+|0
+|-
+|2
+|[[Monte Cinto]]
+|{{FRA}} ([[Corsica]])
+|2,706
+|'''2,706'''
+|0
+|-
+|3
+|[[Corno Grande]]
+|{{ITA}}
+|2,912
+|'''2,476'''
+|436
+|-
+|4
+|[[Punta La Marmora]]
+|{{ITA}} ([[Sardinia]])
+|1,834
+|'''1,834'''
+|0
+|-
+|5
+|[[Monte Amaro]]
+|{{ITA}}
+|2,795
+|'''1,812'''
+|983
+|-
+|6
+|[[Monte Dolcedorme]]
+|{{ITA}}
+|2,267
+|'''1,715'''
+|552
+|-
+|7
+|[[Montalto (Aspromonte)|Montalto]]
+|{{ITA}}
+|1,955
+|'''1,709'''
+|246
+|-
+|8
+|[[Monte Cimone]]
+|{{ITA}}
+|2,165
+|'''1,577'''
+|588
+|-
+|}
+
+==Arctic islands==
+[[Image:Beerenberg_Jan_Mayen.JPG|thumb|right|[[Beerenberg]], [[Norway]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Beerenberg]]
+|{{NOR}} ([[Jan Mayen]])
+|2,277
+|'''2,277'''
+|0
+|-
+|2
+|[[Newtontoppen]]
+|{{NOR}} ([[Svalbard]])
+|1,717
+|'''1,717'''
+|0
+|-
+|3
+|[[Mount Kruzenshtern]]
+|{{RUS}} ([[Novaya Zemlya]])
+|1,549
+|'''1,549'''
+|0
+|-
+|}
+
+==Atlantic islands==
+[[Image:Teide Tenerife3.jpg|thumb|right|[[Teide]], [[Canary Islands]] ([[Spain]])]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Teide]]
+|{{ESP}} ([[Canary Islands|Canaries]])
+|3,715
+|'''3,715'''
+|0
+|-
+|2
+|[[Roque de los Muchachos]]
+|{{ESP}} ([[Canary Islands|Canaries]])
+|2,423
+|'''2,423'''
+|0
+|-
+|3
+|[[Mount Pico]]
+|{{POR}} ([[Azores]])
+|2,351
+|'''2,351'''
+|0
+|-
+|4
+|[[Hvannadalshnúkur]]
+|{{ISL}}
+|2,110
+|'''2,110'''
+|0
+|-
+|5
+|[[Pico de las Nieves]]
+|{{ESP}} ([[Canary Islands|Canaries]])
+|1,949
+|'''1,949'''
+|0
+|-
+|6
+|[[Pico Ruivo]]
+|{{POR}} ([[Madeira]])
+|1,861
+|'''1,861'''
+|0
+|-
+|7
+|[[Pico de Malpaso]]
+|{{ESP}} ([[Canary Islands|Canaries]])
+|1,501
+|'''1,501'''
+|0
+|-
+|}
+
+==Southeast Europe==
+[[File:Musala IMG 1447.jpg|thumb|right|[[Musala]], [[Bulgaria]]]]
+[[File:Olympus National Park 30.jpg|thumb|right|[[Mount Olympus]], [[Greece]]]]
+[[File:Jezerca Massive.jpg|thumb|right|[[Maja Jezercë|Maja e Jezercës]], [[Albania]]]]
+[[File:Vihren Pirin IMG 8898.jpg|thumb|alt=the highest summit of Pirin|[[Vihren]], [[Pirin|Pirin Mountain]], [[Bulgaria]]]]
+[[File:Kalabak IMG 4600.jpg|thumb|right|[[Radomir (mountain)|Radomir/Kalabak/Kerkini]], [[Belasitsa]], Bulgaria and Greece]]
+[[File:Botev Peak from I-6 road.JPG|thumb|View of [[Botev Peak]] from [[I-6 road (Bulgaria)]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Musala]]
+|{{BGR}}
+|2,925
+|'''2,473'''
+|452
+|-
+|2
+|[[Mount Olympus]] (Mytikas)
+|{{GRC}}
+|2,917<ref>{{cite web | url=https://www.britannica.com/place/Mount-Olympus-mountain-Greece | title=Mount Olympus &#124; mountain, Greece &#124; Britannica }}</ref><ref>{{cite web | url=https://www.discovergreece.com/en/mainland/macedonia/olympos | title=Olympus }}</ref>
+|'''2,353'''<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=10335| title = Olympus - Peakbagger.com}} </ref>
+|564
+|-
+|3
+|[[Mount Korab|Korab]]
+|{{ALB}}&nbsp;/{{MKD}}&nbsp;
+|2,764
+|'''2,169'''
+|595
+|-
+|5
+|[[Jezercë]]
+|{{ALB}}
+|2,694
+|'''2,036'''
+|658
+|-
+|6
+|[[Mount Athos]]
+|{{GRC}}
+|2,030
+|'''2,012'''
+|18
+|-
+|7
+|[[Mount Ossa (Greece)|Mount Ossa]]
+|{{GRC}}
+|1,978
+|'''1,854'''
+|124
+|-
+|8
+|[[Papingu]]
+|{{ALB}}
+|2,482
+|'''1,792'''
+|690
+|-
+|9
+|[[Vihren]]
+|{{BGR}}
+|2,914
+|'''1,783'''<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=10355| title = Vihren - Peakbagger.com}} </ref>
+|1131
+|-
+|10
+|[[Pangaion Hills]]
+|{{GRC}}
+|1,956
+|'''1,773'''
+|183
+|-
+|11
+|[[Kajmakchalan]]
+|{{NMK}}&nbsp;/{{GRC}}&nbsp;
+|2,528
+|'''1,758'''
+|770
+|-
+|12
+|[[Smolikas]]
+|{{GRC}}
+|2,637
+|'''1,736'''
+|901
+|-
+|13
+|[[Mount Giona]]
+|{{GRC}}
+|2,510
+|'''1,702'''
+|808
+|-
+|14
+|[[Jakupica]]
+|{{NMK}}
+|2,540
+|'''1,666'''
+|874
+|-
+|15
+|[[Këndrevica]]
+|{{ALB}}
+|2,121
+|'''1,666'''
+|455
+|-
+|16
+|[[Radomir (mountain)|Radomir]]
+|{{BGR}}&nbsp;/&nbsp;{{GRC}}
+|2,031
+|'''1,595'''
+|436
+|-
+|17
+|[[Mount Parnassus]]
+|{{GRC}}
+|2,457
+|'''1,590'''
+|867
+|-
+|18
+|[[Botev Peak]]
+|{{BGR}}
+|2,376
+|'''1,567'''
+|809
+|-
+|19
+|[[Çikë (mountain)|Çikë]]
+|{{ALB}}
+|2,044
+|'''1,563'''
+|481
+|-
+|20
+|[[Valamara]]
+|{{ALB}}
+|2,373
+|'''1,526'''
+|847
+|-
+|21
+|[[Baba Mountain (North Macedonia)|Pelister]]
+|{{NMK}}
+|2,601
+|'''1,516'''
+|1085
+|-
+|22
+|[[Acarnanian Mountains|Psili Koryfi]]
+|{{GRC}}
+|1,589
+|'''1,514'''
+|75
+|-
+|}
+
+==Carpathian Mountains==
+[[Image:Gerlach south face B.jpg|thumb|right|[[Gerlachovský štít]], [[Slovakia]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Gerlachovský štít]]
+|{{SVK}}
+|2,655
+|'''2,356'''
+|300
+|-
+|2
+|[[Parângu Mare]]
+|{{ROM}}
+|2,519
+|'''2,103'''
+|416
+|-
+|3
+|[[Moldoveanu Peak]]
+|{{ROM}}
+|2,544
+|'''2,046'''
+|498
+|-
+|4
+|[[Peleaga]]
+|{{ROM}}
+|2,509
+|'''1,759'''
+|750
+|-
+|5
+|[[Rodna Mountains|Pietrosul Rodnei]]<ref>{{cite web | url=http://www.ii.uib.no/~petter/mountains/europe_finest.html | archive-url=https://web.archive.org/web/20041116090824/http://www.ii.uib.no/~petter/mountains/europe_finest.html | url-status=dead | archive-date=November 16, 2004 | title=The European 100 Finest Mountains ranked by primary factor }}</ref>
+|{{ROM}}
+|2,303
+|'''1,565'''
+|738
+|-
+|}
+
+==Caucasus Mountains==
+[[Image:Mount Elbrus May 2008.jpg|thumb|right|[[Mount Elbrus]], [[Russia]], [[Europe]]]]
+[[File:Dykhtau.jpg|thumb|[[Dykh-Tau]], Russia, Europe]]
+[[File:Адалла-Шухгельмеэр.jpg|thumb|right|[[Mount Addala-Shukhgelmeer]], Russia, Europe]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Elbrus]]
+|{{RUS}}
+|5,642
+|'''4,741'''
+|901
+|-
+|2
+|[[Mount Bazarduzu]]
+|{{RUS}}&nbsp;/&nbsp;{{AZE}}
+|4,466
+|'''2,454'''
+|2012
+|-
+|3
+|[[Mount Kazbek]]
+|{{RUS}}&nbsp;/&nbsp;{{GEO}}
+|5,034
+|'''2,353'''
+|2681
+|-
+|4
+|[[Tebulosmta]]
+|{{RUS}}&nbsp;/&nbsp;{{GEO}}
+|4,493
+|'''2,145'''
+|2348
+|-
+|5
+|[[Dykh-Tau]]
+|{{RUS}}
+|5,205
+|'''2,002'''
+|3203
+|-
+|6
+|[[Dyultydag]]
+|{{RUS}}
+|4,127
+|'''1,834'''
+|2293
+|-
+|7
+|[[Gora Addala Shukgelmezr]]
+|{{RUS}}
+|4,152
+|'''1,792'''
+|2360
+|-
+|8
+|[[Gora Shan]]
+|{{RUS}}&nbsp;/&nbsp;{{GEO}}
+|4,451
+|'''1,775'''
+|2676
+|-
+|}
+The [[boundary between Asia and Europe]] is following the main ridge of the [[Caucasus Mountains]], also forming most of the border between Georgia and Russia. From the above listed 8 peaks, four (Mount Elbrus, Dykh-Tau, Dyultydag, Gora Addala Shukgelmezr) are entirely in Europe, and four are on the border itself and so are both in Asia and Europe.
+
+==Crimea==
+[[Image:Роман-Кош Кримський пз3 КРИМ.jpg|thumb|[[Roman-Kosh]], [[Crimea]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Roman-Kosh]]
+|Territory of [[Ukraine]], [[Russian occupation of Crimea|occupied]] by [[Russia]]<ref name="incrimea">This place is located on the [[Crimea]]n peninsula, which is internationally recognized as part of [[Ukraine]], but since 2014 [[Russian occupation of Crimea|under Russian occupation]]. According to the [[administrative divisions of Ukraine|administrative-territorial division of Ukraine]], there are the Ukrainian divisions (the [[Autonomous Republic of Crimea]] and the [[city with special status]] of Sevastopol) located on the peninsula. Russia claims these as federal subjects of the Russian Federation (the [[Republic of Crimea (Russia)|Republic of Crimea]] and the [[federal cities of Russia|federal city]] of [[Sevastopol]]).</ref>
+|1,545
+|'''1,541'''
+|4
+|-
+|}
+
+==Greek islands and Peloponnese==
+[[Image:Psiloritis, east ridge.jpg|thumb|right|[[Mount Ida (Crete)|Mount Ida]], [[Greece]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Ida (Crete)|Mount Ida]]
+|{{GRC}} ([[Crete]])
+|2,456
+|'''2,456'''
+|0
+|-
+|2
+|[[Taygetus]]
+|{{GRC}}
+|2,404
+|'''2,344'''
+|60
+|-
+|3
+|[[Lefka Ori]]
+|{{GRC}} ([[Crete]])
+|2,453
+|'''2,038'''
+|415
+|-
+|4
+|[[Mount Kyllini]]
+|{{GRC}}
+|2,376
+|'''1,870'''
+|506
+|-
+|5
+|[[Dikti]]
+|{{GRC}} ([[Crete]])
+|2,148
+|'''1,798'''
+|350
+|-
+|6
+|[[Dirfi]]
+|{{GRC}} ([[Euboea]])
+|1,743
+|'''1,743'''
+|0
+|-
+|7
+|[[Mount Ainos]]
+|{{GRC}} ([[Kefalonia]])
+|1,628
+|'''1,628'''
+|0
+|-
+|8
+|[[Fengari]]
+|{{GRC}} ([[Samothrace]])
+|1,611
+|'''1,611'''
+|0
+|-
+|}
+
+==Pyrenees & Iberian Peninsula==
+[[Image:Torrecerredo.jpg|thumb|right|[[Torre de Cerredo]], [[Spain]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mulhacén]]
+|{{ESP}}
+|3,479
+|'''3,285'''
+|194
+|-
+|2
+|[[Aneto]]
+|{{ESP}}
+|3,404
+|'''2,812'''
+|592
+|-
+|3
+|[[Torre de Cerredo]]
+|{{ESP}}
+|2,648
+|'''1,931'''
+|717
+|-
+|4
+|[[Pico Almanzor]]
+|{{ESP}}
+|2,592
+|'''1,690'''
+|902
+|-
+|}
+
+==Massif Central==
+[[Image:Puy de Sancy1.jpg|thumb|right|[[Puy de Sancy]], [[France]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Puy de Sancy]]
+|{{FRA}}
+|1,885
+|'''1,578'''
+|307
+|-
+|}
+
+==Scandinavia==
+[[Image:GaldhøpiggenFromFannaråki.jpg|thumb|right|[[Galdhøpiggen]], [[Oppland]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Galdhøpiggen]]
+|{{NOR}}
+|2,469
+|'''2,372'''
+|97
+|-
+|2
+|[[Kebnekaise]]
+|{{SWE}}
+|2,099
+|'''1,740'''
+|359
+|-
+|3
+|[[Jiehkkevárri]]
+|{{NOR}}
+|1,834
+|'''1,741'''
+|93
+|-
+|4
+|[[Snøhetta]]
+|{{NOR}}
+|2,286
+|'''1,675'''
+|611
+|-
+|5
+|[[Store Lenangstind]]
+|{{NOR}}
+|1,624
+|'''1,576'''
+|48
+|-
+|6
+|[[Sarektjåhkkå]]
+|{{SWE}}
+|2,089
+|'''1,519'''
+|570
+|-
+|}
+
+==Ural Mountains==
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Narodnaya]]
+|{{RUS}}
+|1,894
+|'''1,772'''
+|123
+|-
+|}
+
+==Peaks over 1500 m elevation that miss the 1500-m cutoff==
+[[File:Piramida.jpg|thumb|[[Midžor]], Bulgaria and Serbia]]
+[[Image:Dammahuette02.JPG|thumb|right|[[Dammastock]], [[Switzerland]]]]
+[[File:Ruen IMG 4742.jpg|thumb|right|[[Ruen (mountain)|Ruen peak]], [[Osogovo]], Bulgaria and North Macedonia]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Dauphiné Alps|Taillefer]]
+|{{FRA}}
+|2,857
+|'''1,490'''
+|1367
+|-
+|2
+|[[Monte Amiata]]
+|{{ITA}}
+|1,738
+|'''1,490'''
+|248
+|-
+|3
+|[[Midžor]]
+|{{BUL}}/{{SRB}}
+|2,169<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=13254| title = Midžor - Peakbagger.com}} </ref>
+|'''1,479'''
+|690
+|-
+|4
+|[[Bihor Mountains|Curcubăta Mare]]
+|{{ROM}}
+|1,849
+|'''1,478'''
+|371
+|-
+|5
+|[[Bobotov Kuk]]
+|{{MNE}}
+|2,522
+|'''1,477'''
+|1045
+|-
+|6
+|[[Vogogna|Monte Togano]]
+|{{ITA}}
+|2,301
+|'''1,474'''
+|827
+|-
+|7
+|[[Pelion|Pourianos Stavros (Pelion)]]
+|{{GRC}} ([[Thessaly]])
+|1,610
+|'''1,473'''
+|137
+|-
+|8
+|[[La Torrecilla|Torrecilla]]
+|{{ESP}} ([[Andalucia]])
+|1,919
+|'''1,472'''
+|447
+|-
+|9
+|[[Dammastock]]
+|{{SUI}} ([[Urner Alps|Urner]])
+|3,630
+|'''1,465'''
+|2,165
+|-
+|10
+|[[Monte Vettore]]
+|{{ITA}} ([[Apennine Mountains|Apennines]])
+|2,476
+|'''1,463'''
+|1013
+|-
+|11
+|[[Raucheck]]
+|{{AUT}}
+|2,430
+|'''1,463'''
+|967
+|-
+|12
+|[[Haldensteiner Calanda]]
+|{{SUI}}
+|2,806
+|'''1,461'''
+|1,345
+|-
+|13
+|[[Gjegnen]]
+|{{NOR}}
+|1,670
+|'''1,460'''
+|210
+|-
+|14
+|[[Cristallo (mountain)|Monte Cristallo]]<ref>[https://peakvisor.com/peak/monte-cristallo.html Peakvisor.com - Monte Cristallo]</ref>
+|{{ITA}}
+|3,221
+|'''1,420'''
+|1,801
+|-
+|15
+|[[Ruen (mountain)|Ruen]]<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=71204| title = Ruen - Peakbagger.com}} </ref>
+|{{BUL}}&nbsp;/&nbsp;{{NMK}}
+|2,251
+|'''1,416'''
+|835
+|-
+|16
+|[[Schneeberg (Alps)|Schneeberg]]
+|{{AUT}}
+|2,076
+|'''1,348'''
+|728
+|-
+|17
+|[[Mount Yamantau]]
+|{{RUS}}
+|1,640 
+|'''1,330'''
+|310
+|-
+|18
+|[[Cherni Vrah]]<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=27649| title = Cherni Vrah - Peakbagger.com}} </ref>
+|{{BUL}}
+|2,290
+|'''1,259'''
+|1031
+|-
+|19
+|[[Torre (Serra da Estrela)|Torre]]
+|{{POR}}
+|1,993
+|1,204
+|789
+|-
+|}
+
+==Highest European ultra-prominent peaks==
+List of the highest European [[ultra-prominent peak]]s (elevation above 2,900 m and prominence above 1,500 m):
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Elbrus]]
+|{{RUS}}
+|5,642
+|'''4,741'''
+|901
+|-
+|2
+|[[Dykh-Tau]]
+|{{RUS}}
+|5,205
+|'''2,002'''
+|3203
+|-
+|3
+|[[Mont Blanc]]
+|{{FRA}}/{{ITA}}
+|4,810
+|'''4,697'''
+|113
+|-
+|4
+|[[Dufourspitze]]<br />([[Monte Rosa]])
+|{{SUI}}
+|4,634
+|'''2,165'''
+|2469
+|-
+|5
+|[[Grand Combin]]
+|{{SUI}}
+|4,314
+|'''1,517'''
+|2797
+|-
+|6
+|[[Finsteraarhorn]]
+|{{SUI}}
+|4,274
+|'''2,280'''
+|1994
+|-
+|7
+|[[Gora Addala Shukgelmezr]]
+|{{RUS}}
+|4,152
+|'''1,792'''
+|2360
+|-
+|8
+|[[Dyultydag]]
+|{{RUS}}
+|4,127
+|'''1,834'''
+|2293
+|-
+|9
+|[[Barre des Écrins]]
+|{{FRA}}
+|4,102
+|'''2,045'''
+|2057
+|-
+|10
+|[[Gran Paradiso]]
+|{{ITA}}
+|4,061
+|'''1,891'''
+|2170
+|-
+|11
+|[[Piz Bernina]]
+|{{SUI}}
+|4,049
+|'''2,234'''
+|1815
+|-
+|12
+|[[Ortler]]
+|{{ITA}}
+|3,905
+|'''1,953'''
+|1952
+|-
+|13
+|[[Monte Viso]]
+|{{ITA}}
+|3,841
+|'''2,062'''
+|1779
+|-
+|14
+|[[Grossglockner]]
+|{{AUT}}
+|3,798
+|'''2,423'''
+|1375
+|-
+|15
+|[[Wildspitze]]
+|{{AUT}}
+|3,768
+|'''2,261'''
+|1507
+|-
+|16
+|[[Tödi]]
+|{{SUI}}
+|3,614
+|'''1,570'''
+|2044
+|-
+|17
+|[[Presanella]]
+|{{ITA}}
+|3,558
+|'''1,676'''
+|1882
+|-
+|18
+|[[Mulhacén]]
+|{{ESP}}
+|3,479
+|'''3,285'''
+|194
+|-
+|19
+|[[Piz Kesch]]
+|{{SUI}}
+|3,418
+|'''1,502'''
+|1916
+|-
+|20
+|[[Aneto]]
+|{{ESP}}
+|3,404
+|'''2,812'''
+|592
+|-
+|21
+|[[Marmolada]]
+|{{ITA}}
+|3,343
+|'''2,131'''
+|1212
+|-
+|22
+|[[Mount Etna]]
+|{{ITA}} ([[Sicily]])
+|3,357
+|'''3,357'''
+|0
+|-
+|23
+|[[Monte Antelao]]
+|{{ITA}}
+|3,264
+|'''1,735'''
+|1529
+|-
+|24
+|[[Dents du Midi]]
+|{{SUI}}
+|3,257
+|'''1,796'''
+|1461
+|-
+|25
+|[[Cima Tosa]]
+|{{ITA}}
+|3,173
+|'''1,521'''
+|1652
+|-
+|26
+|[[Pizzo di Coca]]
+|{{ITA}}
+|3,050
+|'''1,878'''
+|1172
+|-
+|27
+|[[Hoher Dachstein]]
+|{{AUT}}
+|2,995
+|'''2,136'''
+|859
+|-
+|28
+|[[Zugspitze]]
+|{{AUT}}/{{GER}}
+|2,962
+|'''1,746'''
+|1216
+|-
+|29
+|[[Hochkönig]]
+|{{AUT}}
+|2,941
+|'''2,181'''
+|760
+|-
+|30
+|[[Musala]]<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=10352| title = Musala - Peakbagger.com}} </ref>
+|{{BGR}}
+|2,925
+|'''2,473'''
+|432
+|-
+|31
+|[[Mount Olympus]] (Mytikas)
+|{{GRC}}
+|2,917<ref>{{cite web | url=https://www.britannica.com/place/Mount-Olympus-mountain-Greece | title=Mount Olympus &#124; mountain, Greece &#124; Britannica }}</ref><ref>{{cite web | url=https://www.discovergreece.com/en/mainland/macedonia/olympos | title=Olympus }}</ref>
+|'''2,353'''<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=10335| title = Olympus - Peakbagger.com}} </ref>
+|564
+|-
+|32
+|[[Vihren]]
+|{{BGR}}
+|2,915
+|'''1,784'''<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=10355| title = Vihren - Peakbagger.com}} </ref>
+|1131
+|-
+|33
+|[[Corno Grande]]
+|{{ITA}}
+|2,912
+|'''2,476'''
+|436
+|}
+
+==See also==
+*[[Most isolated major summits of Europe]]
+*[[Southernmost glacial mass in Europe]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+Sourced from peaklist.org;
+*[http://peaklist.org/WWlists/ultras/EuroCoreP1500m.html Continental Europe]
+*[http://peaklist.org/WWlists/ultras/CaucasusP1500m.html European Russia and the Caucasus]
+*[http://peaklist.org/WWlists/ultras/EuroAtlanticP1500m.html Atlantic Islands]
+*[https://web.archive.org/web/20041116090824/http://www.ii.uib.no/~petter/mountains/europe_finest.html Links to numerous trip reports]
+{{Lists of Ultras}}
+
+{{Ultras of Europe}}
+
+[[Category:Lists of mountains by prominence|European Ultras]]
+[[Category:Lists of mountains of Europe| Ultra]]

@@ -1,0 +1,433 @@
+{{Short description|none}}
+This is a list of all the [[ultra prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[Northeast Asia]]. There are 53 in total.
+
+==[[Lake Baikal|Baikal]] to [[Okhotsk]]==
+[[File:Пик Бам и перевал Ленинградец.jpg|thumb|right|200px|[[Pik BAM]], [[Kodar Range]], [[Transbaikalia]], Russia.]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Pik BAM]]
+|{{RUS}} 
+|3,072
+|'''2,230'''
+|842
+|-
+|2
+|[[Muisky Gigant]]
+|{{RUS}} 
+|3,067
+|'''2,107'''
+|960
+|-
+|3
+|[[Tordoki Yani]]
+|{{RUS}} 
+|2,090
+|'''1,989'''
+|101
+|-
+|4
+| HP [[Taikan Range]]
+|{{RUS}} 
+|2,370
+|'''1,915'''
+|455
+|-
+|5
+|HP [[Upper Angara Range]]
+|{{RUS}} 
+|2,641
+|'''1,819'''
+|822
+|-
+|6
+|HP [[Kodar Range|North Kodar Group]]
+|{{RUS}} 
+|2,966
+|'''1,810'''
+|1156
+|-
+|7
+|[[Pik Baikal]]
+|{{RUS}} 
+|2,841
+|'''1,723'''
+|1118
+|-
+|8
+|HP [[Tokinskiy Stanovik]]
+|{{RUS}} 
+|2,380
+|'''1,683'''
+|697
+|-
+|9
+|[[Gora Lopatina]]
+|{{RUS}} ([[Sakhalin]])
+|1,609
+|'''1,609'''
+|0
+|-
+|10
+|[[Mount Chersky]]
+|{{RUS}} 
+|2,588
+|'''1,596'''
+|992
+|-
+|11
+|[[Mount Shaman]]
+|{{RUS}} 
+|2,363
+|'''1,596'''
+|767
+|-
+|12
+|HP [[Udokan Range]]
+|{{RUS}} 
+|2,570
+|'''1,501'''
+|1069
+|-
+|}
+
+==[[Eastern Siberia]]==
+[[File:Gorapobeda.jpg|thumb|right|200px|[[Peak Pobeda, Sakha]], Russia]]
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Peak Pobeda, Sakha|Pik Pobeda]]
+|{{RUS}} 
+|3,003
+|'''2,443'''
+|560
+|-
+|2
+|[[Ledyanaya]]
+|{{RUS}} 
+|2,453
+|'''2,337'''
+|116
+|-
+|3
+|[[Mus-Khaya]]
+|{{RUS}} 
+|2,959
+|'''1,929'''
+|1030
+|-
+|4
+|HP [[Moma Range]]
+|{{RUS}} 
+|2,480
+|'''1,760'''
+|720
+|-
+|5
+|[[Gora Chen]]
+|{{RUS}} 
+|2,690
+|'''1,740'''
+|950
+|-
+|6
+|HP [[Orulgan]]
+|{{RUS}} 
+|2,409
+|'''1,690'''
+|719
+|-
+|7
+|HP [[Saltag-Tas]]
+|{{RUS}} 
+|2,021
+|'''1,622'''
+|399
+|-
+|8
+|[[Mount Khakandya|Khakandya]]
+|{{RUS}} 
+|2,615
+|'''1,545'''
+|1070
+|-
+|9
+|HP [[Arga-Tas]]
+|{{RUS}} 
+|2,400
+|'''1,510'''
+|890
+|-
+|}
+
+==[[Kamchatka]]==
+[[Image:Shiveluch - 10 July 2007 - iss015e16913.jpg|thumb|right|200px|[[Shiveluch]], [[Russia]]]]
+[[Image:Petropavlovsk-Kamchatsky with Koryaksky Volcano in background.jpg|thumb|right|200px|[[Koryaksky]], [[Russia]]]]
+[[Image:Avachinsky Volcano.jpg|thumb|right|200px|[[Avachinsky]], [[Russia]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Klyuchevskaya Sopka]]
+|{{RUS}} 
+|4,750
+|'''4,649'''
+|101
+|-
+|2
+|[[Shiveluch]]
+|{{RUS}} 
+|3,307
+|'''3,168'''
+|139
+|-
+|3
+|[[Ichinsky]]
+|{{RUS}} 
+|3,607
+|'''3,125'''
+|482
+|-
+|4
+|[[Koryaksky]]
+|{{RUS}} 
+|3,456
+|'''2,999'''
+|457
+|-
+|5
+|[[Kronotsky]]
+|{{RUS}} 
+|3,527
+|'''2,736'''
+|791
+|-
+|6
+|[[Zhupanovsky]]
+|{{RUS}} 
+|2,923
+|'''2,210'''
+|713
+|-
+|7
+|[[Tolbachik|Ostry Tolbachik]]
+|{{RUS}} 
+|3,672
+|'''2,190'''
+|1482
+|-
+|8
+|[[Opala volcano|Opala]]
+|{{RUS}} 
+|2,460
+|'''2,070'''
+|390
+|-
+|9
+|[[Kambalny]]
+|{{RUS}} 
+|2,161
+|'''1,970'''
+|191
+|-
+|10
+|[[Khuvkhoitun]]
+|{{RUS}} 
+|2,616
+|'''1,920'''
+|696
+|-
+|11
+|[[Alney-Chashakondzha]]
+|{{RUS}} 
+|2,598
+|'''1,825'''
+|773
+|-
+|12
+|[[Khodutka]]
+|{{RUS}} 
+|2,089
+|'''1,810'''
+|279
+|-
+|13
+|[[Gamchen]]
+|{{RUS}} 
+|2,577
+|'''1,750'''
+|827
+|-
+|14
+|[[Mutnovsky]]
+|{{RUS}} 
+|2,322
+|'''1,750'''
+|572
+|-
+|15
+|[[Zheltovsky]]
+|{{RUS}} 
+|1,957
+|'''1,730'''
+|227
+|-
+|16
+|[[Udina]]
+|{{RUS}} 
+|2,920
+|'''1,630'''
+|1290
+|-
+|17
+|[[Bakening]]
+|{{RUS}} 
+|2,276
+|'''1,610'''
+|666
+|-
+|18
+|[[Vilyuchik]]
+|{{RUS}} 
+|2,173
+|'''1,610'''
+|563
+|-
+|19
+|[[Zimin volcano]]
+|{{RUS}} 
+|3,080
+|'''1,570'''
+|1510
+|-
+|20
+|[[Avachinsky]]
+|{{RUS}} 
+|2,741
+|'''1,550'''
+|1191
+|-
+|}
+
+==[[Kuril Islands]]==
+[[Image:Atlasovisland.jpg|thumb|right|200px|[[Atlasov Island|Vulkan Alaid]], [[Russia]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Atlasov Island|Vulkan Alaid]]
+|{{RUS}} ([[Atlasov Island]])
+|2,339
+|'''2,339'''
+|0
+|-
+|2
+|[[Tyatya]] 爺爺岳
+|{{RUS}} ([[Kunashiri Island]] 国後島)
+|1,819
+|'''1,819'''
+|0
+|-
+|3
+|[[Chikurachki]]
+|{{RUS}} ([[Paramushir]])
+|1,816
+|'''1,816'''
+|0
+|-
+|4
+|[[Stokap]]/単冠山
+|{{RUS}} ([[Iturup]]/[[Etorofu]] 択捉島)
+|1,634
+|'''1,634'''
+|0
+|-
+|5
+|[[Fuss Peak]]
+|{{RUS}} ([[Paramushir]])
+|1,772
+|'''1,630'''
+|142
+|-
+|6
+|[[Bogdan Khmelnitskiy]]
+|{{RUS}} ([[Iturup]]/[[Etorofu]] 択捉島)
+|1,585
+|'''1,550'''
+|35
+|-
+|7
+|[[Milne Volcano]]
+|{{RUS}} ([[Simushir]])
+|1,539
+|'''1,539'''
+|0
+|-
+|}
+
+==[[Korea]] and [[Manchuria]]==
+[[Image:Korea-Mountain-Jirisan-15.jpg|thumb|right|200px|[[Jirisan]], [[South Korea]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Baekdu Mountain]]
+|{{PRK}}&nbsp;/&nbsp;{{CHN}} 
+|2,744
+|'''2,593'''
+|151
+|-
+|2
+|[[Hallasan]]
+|{{KOR}} ([[Jeju Province|Jeju-do]])
+|1,947
+|'''1,947'''
+|0
+|-
+|3
+|[[Jirisan]]
+|{{KOR}} 
+|1,915
+|'''1,696'''
+|219
+|-
+|}
+
+==Sources==
+*[http://www.peaklist.org/WWlists/ultras/Kamchatka1500m.html List - Kamchatka & Kurils]
+*[http://www.peaklist.org/WWlists/ultras/siberia.html List - Siberia]
+*[http://www.peaklist.org/WWmaps/asia/map/ASIA_NE.gif Map]
+
+{{Lists of ultras}}
+
+{{DEFAULTSORT:List Of Ultras Of Northeast Asia}}
+[[Category:Lists of mountains by prominence|North East Asia Ultras]]
+[[Category:Geography of Northeast Asia]]

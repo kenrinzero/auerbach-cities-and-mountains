@@ -1,0 +1,88 @@
+{{Short description|Mountain with prominence of 1,500 metres}}
+{{Use dmy dates|date=July 2022}}
+[[Image:Map of Ultras.png|thumb|300px|right|Map of ultras worldwide]]
+
+An '''ultra-prominent peak''', or '''ultra''' for short, is a [[mountain]] [[summit]] with a [[topographic prominence]] of {{convert|1500|m|ft}} or more; it is also called a '''P1500'''.<ref>{{cite web|url=https://www.rhb.org.uk/marhofn/marhofn316/marhofn31621.htm|title=Relative hills on Earth|publisher=TheRelativeHillsofBritain|author=Rob Woodall|date=18 May 2016|quote=Ultra: peaks with a minimum prominence/relative height of 1500m. Steve Fry coined the term Ultra in the USA in the 1980s. His original term was 'ultra major mountain'. There are no Ultra summits in Britain. Hall of Fame entry minimum is 15.|access-date=5 January 2019|archive-date=20 October 2018|archive-url=https://web.archive.org/web/20181020140704/https://www.rhb.org.uk/marhofn/marhofn316/marhofn31621.htm|url-status=live}}</ref> The prominence of a peak is the minimum height of climb to the summit on any route from a higher peak, or from sea level if there is no higher peak. There are about 1,500 such peaks on Earth.<ref name="PeakList"/> Some well-known peaks, such as the [[Matterhorn]] and [[Eiger]], are not ultras because they are connected to higher mountains by high [[col]]s and thus do not achieve enough topographic prominence. 
+
+The term "ultra” derives from "ultra major mountain,” a term proposed by earth scientist Steve Fry, who studied peaks in [[Washington (state)|Washington]] in the 1980s.<ref name="helman">{{cite book|first=Adam|last=Helman|title=The Finest Peaks: Prominence and other Mountain Measures|publisher=Trafford|year=2005|isbn=1-4120-5994-1}}</ref>
+
+==Distribution==
+More than 1,500 ultras have been identified above sea level: 654 in [[Asia]], 357 in [[North America]], 209 in [[South America]], 119 in [[Europe]] (including 12 in the [[Caucasus]]), 84 in [[Africa]], 54 in [[Oceania]], and 39 in [[Antarctica]].<ref name="PeakList">{{cite web|url=http://www.peaklist.org/ultras.html|title=The Ultra-Prominences Page|publisher=Peaklist.org|last=Maizlish|first=A.|access-date=2 June 2010|archive-date=25 June 2018|archive-url=https://web.archive.org/web/20180625194755/http://www.peaklist.org/ultras.html|url-status=live}}</ref> 
+
+Many of the world's largest mountains are ultras, including [[Mount Everest]], [[K2]], [[Kanchenjunga]], [[Kilimanjaro]], [[Mont Blanc]], and [[Mount Olympus]]. On the other hand, others such as the [[Eiger]] and the [[Matterhorn]] are not ultras.  Many ultras lie in rarely visited and inhospitable parts of the world, including 39 in [[Greenland]], the high points of the [[Arctic]] islands of [[Novaya Zemlya]], [[Jan Mayen]] and [[Spitsbergen]], and many of the peaks of the [[Greater ranges]] of Asia. In [[British Columbia]], some of the mountains listed do not even have generally recognized names.  
+
+Thirteen of the fourteen [[Eight-thousander|8,000-metre summits]] are ultras (the exception being [[Lhotse]]), and there are a further 64 ultras over {{convert|7000|m|ft}} in height. There are 90 ultras with a prominence of over {{convert|3000|m|ft}}, but only 22 with more than {{convert|4000|m|ft}} prominence.
+
+A number of ultras have yet to be climbed. [[Sauyr Zhotasy]], (possibly) [[Mount Siple]], and [[Gangkar Puensum]] are the most likely candidates for the [[Highest unclimbed mountain#Most prominent unclimbed peak|most prominent unclimbed mountain]] in the world.<ref name="helman"/><ref name="antarctic">{{cite web|url=http://www.peaklist.org/WWlists/ultras/antarctica.html|title=Antarctic Ultra-Prominent Summits|publisher=Peaklist.org|last=Maizlish|first=A.|access-date=2 June 2010|archive-date=8 September 2018|archive-url=https://web.archive.org/web/20180908031353/http://www.peaklist.org/WWlists/ultras/antarctica.html|url-status=live}} (See footnotes 3 and 10.)</ref>  
+
+All of the [[Seven Summits]] are ultras by virtue of the fact that they are the high points of large landmasses. Each has its [[topographic prominence|key col]] at or near sea level, resulting in a prominence value almost equal to its elevation.
+
+== Lists of ultras (1,516 total) ==
+
+Some peaks straddle political boundaries, making the totals of sub-categories greater than expected. For example, the seven ultras [[List of the most prominent summits of Canada|on the Canada-US border]] are counted in both lists.
+
+===General===
+* [[List of islands by highest point]], 115 of which are ultras.
+* [[List of mountain peaks by prominence]] gives the 125 most prominent peaks worldwide.
+
+=== Africa (84) ===
+* [[List of ultras of Africa]] (84)
+
+===Antarctica (41) ===
+* [[List of ultras of Antarctica]], including South Atlantic islands (41)
+
+=== Asia (635) ===
+* [[List of ultras of Central Asia]] (75)
+* [[List of ultras of Japan]] (21)
+* [[List of ultras of Northeast Asia]] (51)
+* [[List of ultras of Southeast Asia]] (42)
+* [[List of ultras of the Himalayas]], including Sino-Nepal Provinces (76)
+* [[List of ultras of the Karakoram and Hindu Kush]] (61)
+* [[List of ultras of the Malay Archipelago]] (91, including 12 in [[Oceania]] {{bracket|[[Papua (province)|Papua]]}})
+* [[List of ultras of the Philippines]] (29)
+* [[List of ultras of Tibet, East Asia and neighbouring areas]], including India (112)
+* [[List of ultras of West Asia]] (88)
+
+=== Europe (120) ===
+* [[List of European ultra-prominent peaks]] (120)
+** [[List of Alpine peaks by prominence]] (44)
+
+===North America (356)===
+[[Image:Mount Logan.jpg|thumb|The summit of [[Mount Logan]] in [[Yukon]], the highest point in [[Canada]], is ranked sixth in the world by topographic prominence.]]
+
+* [[List of ultras of North America]] (356)
+** [[List of the most prominent summits of Canada]] (143)
+** [[List of the most prominent summits of the United States]] (129)
+*** [[List of mountain peaks of Alaska#Most prominent summits|List of ultras in Alaska]] (65)
+** [[List of ultras of Central America]] (23)
+** [[List of ultras of Greenland]] (39)
+** [[List of ultras of Mexico]] (27)
+** [[List of ultras of the Caribbean]] (7)
+
+===Oceania (69) ===
+* [[List of ultras of Oceania]], including the southern Indian Ocean (69)
+** [[List of ultras of Oceania#Australia|List of ultras of Australia]] (2)
+** [[List of ultras of Oceania#New Zealand|List of ultras of New Zealand]] (10)
+** [[List of ultras of Oceania#Papua New Guinea|List of ultras of Papua New Guinea]] (31)
+** [[List of ultras of Oceania#Hawaiian Islands|List of ultras of the Hawaiian Islands]] (6)
+** [[List of ultras of Oceania#Pacific Islands|List of ultras of the Pacific Islands]] (6)
+** [[List of ultras of Oceania#Southern Indian Ocean|List of ultras of the southern Indian Ocean]] (2)
+** [[List of ultras of Oceania#Western New Guinea|List of ultras of Western New Guinea (Indonesia)]] (12)
+
+===South America (209)===
+* [[List of ultras of South America]] (209)
+
+== See also ==
+{{Portal|Mountains}}
+* [[List of mountain lists]]
+* [[List of mountain peaks by prominence]]
+* [[Topographic prominence]]
+
+==References==
+{{reflist}}
+
+{{Lists of ultras}}
+
+[[Category:Mountains]]
+[[Category:Topography]]
+[[Category:Lists of mountains by prominence| Ultra]]

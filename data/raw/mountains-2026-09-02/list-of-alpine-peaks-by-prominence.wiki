@@ -1,0 +1,434 @@
+{{Short description|None}}
+This is a list of the mountains of the [[Alps]], ordered by their [[topographic prominence]]. For a list by height, see the [[list of mountains of the Alps]]. By descending to 1,500 m of prominence, this list includes all the [[Ultra-prominent peak|Ultras]] of the Alps.  Some famous peaks, such as the [[Matterhorn]] and [[Eiger]], are not Ultras because they are connected to higher mountains by high [[col]]s and therefore do not achieve enough topographic prominence.
+
+Where the ''[[Topographic prominence#Parent peak|prominence parent]]'' and the ''[[Topographic prominence#Parent peak|island parent]]'' differ, the prominence parent is marked with "<sup>1</sup>" and the island parent with "<sup>2</sup>" (with Mont Blanc abbreviated to ''MB''). The column "Col height" denotes the lowest elevation to which one must descend from a peak in order to reach peaks with higher elevations; note that the elevation of any peak is the sum of its prominence and col. The column "Col location" denotes the pass where the col height is located.
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country<!--No flags, per MOS:FLAGS-->
+!Elevation (m)
+!Prominence (m)
+!Col height (m)
+!Col location<!--Key col or closest location if unnamed key col-->
+!Parent
+|-
+|1
+|[[Mont Blanc]]
+|[[France]]/[[Italy]]
+|align=right|4,810
+|align=right|'''4,697'''
+|align=right|113
+|somewhere along the [[Volga–Baltic Waterway]]<ref>{{cite web |title=Volga-Baltic Canal |url=https://www.peakbagger.com/KeyCol.aspx?pid=9941 |publisher=Peakbagger}}</ref>
+|[[Mount Everest]] 
+|-
+|2
+|[[Großglockner]]
+|[[Austria]]
+|align=right|3,798
+|align=right|'''2,423'''
+|align=right|1,375
+|[[Brenner Pass]]
+|[[Mont Blanc]]
+|-
+|3
+|[[Finsteraarhorn]]
+|[[Switzerland]]
+|align=right|4,274
+|align=right|'''2,279'''
+|align=right|1,995
+|near [[Simplon Pass]]<!--Not the Simplon Pass itself-->
+|[[Mont Blanc]]
+|-
+|4
+|[[Wildspitze]]
+|[[Austria]]
+|align=right|3,768
+|align=right|'''2,261'''
+|align=right|1,507
+|[[Reschen Pass]]
+|[[Finsteraarhorn]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|5
+|[[Piz Bernina]]
+|[[Switzerland]]
+|align=right|4,048
+|align=right|'''2,236'''
+|align=right|1,812
+|[[Maloja Pass]]
+|[[Finsteraarhorn]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|6
+|[[Hochkönig]]
+|[[Austria]]
+|align=right|2,941
+|align=right|'''2,181'''
+|align=right|760
+|near [[Maishofen]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|7
+|[[Dufourspitze]]<br/>([[Monte Rosa]])
+|[[Switzerland]]/[[Italy]]
+|align=right|4,634
+|align=right|'''2,165'''
+|align=right|2,469
+|[[Great St Bernard Pass]]
+|[[Mont Blanc]]
+|-
+|8
+|[[Hoher Dachstein]]
+|[[Austria]]
+|align=right|2,995
+|align=right|'''2,136'''
+|align=right|859
+|near [[Eben im Pongau]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|9
+|[[Marmolada]]
+|[[Italy]]
+|align=right|3,343
+|align=right|'''2,131'''
+|align=right|1,212
+|near [[Toblach]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|10
+|[[Monte Viso]]
+|[[Italy]]
+|align=right|3,841
+|align=right|'''2,062'''
+|align=right|1,779
+|[[Col de l'Échelle]]
+|[[Mont Blanc]]
+|-
+|11
+|[[Triglav]]
+|[[Slovenia]]
+|align=right|2,864
+|align=right|'''2,052'''
+|align=right|812
+|[[Camporosso Pass]]
+|[[Marmolada]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|12
+|[[Barre des Écrins]]
+|[[France]]
+|align=right|4,102
+|align=right|'''2,045'''
+|align=right|2,057
+|[[Col du Lautaret]]
+|[[Mont Blanc]]
+|-
+|13
+|[[Säntis]]
+|[[Switzerland]]
+|align=right|2,503
+|align=right|'''2,021'''
+|align=right|482
+|near [[Heiligkreuz bei Mels|Heiligkreuz]] bei [[Mels]]
+|[[Finsteraarhorn]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|14
+|[[Ortler]]
+|[[Italy]]
+|align=right|3,905
+|align=right|'''1,953'''
+|align=right|1,952
+|[[Fraele Pass]]
+|[[Piz Bernina]]
+|-
+|15
+|[[Monte Baldo]]/[[Cima Valdritta]]
+|[[Italy]]
+|align=right|2,218
+|align=right|'''1,950'''
+|align=right|268
+|near [[San Giovanni Pass]] in [[Nago–Torbole]]
+|[[Ortler]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|16
+|[[Gran Paradiso]]
+|[[Italy]]
+|align=right|4,061
+|align=right|'''1,891'''
+|align=right|2,170
+|near [[Little St Bernard Pass]]
+|[[Mont Blanc]]
+|-
+|17
+|[[Pizzo di Coca]]
+|[[Italy]]
+|align=right|3,050
+|align=right|'''1,878'''
+|align=right|1,172
+|near [[Aprica]]
+|[[Ortler]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|18
+|[[Cima Dodici]]
+|[[Italy]]
+|align=right|2,336
+|align=right|'''1,874'''
+|align=right|462
+|near [[Pergine Valsugana]]
+|[[Marmolada]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|19
+|[[Dents du Midi]]
+|[[Switzerland]]
+|align=right|3,257
+|align=right|'''1,796'''
+|align=right|1,461
+|[[Col des Montets]]
+|[[Mont Blanc]]
+|-
+|20
+|[[Chamechaude]]
+|[[France]]
+|align=right|2,082
+|align=right|'''1,771'''
+|align=right|311
+|near [[Chambéry]]
+|[[Mont Blanc]]
+|-
+|21
+|[[Zugspitze]]
+|[[Germany]]/[[Austria]]
+|align=right|2,962
+|align=right|'''1,746'''
+|align=right|1,216
+|near [[Fern Pass]]
+|[[Finsteraarhorn]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|22
+|[[Monte Antelao]]
+|[[Italy]]
+|align=right|3,264
+|align=right|'''1,735'''
+|align=right|1,529
+|[[Passo Cimabanche]]
+|[[Marmolada]]
+|-
+|23
+|[[Arcalod]]
+|[[France]]
+|align=right|2,217
+|align=right|'''1,713'''
+|align=right|504
+|near [[Viuz]] in [[Faverges]]
+|[[Mont Blanc]]
+|-
+|24
+|[[Grintovec]]
+|[[Slovenia]]
+|align=right|2,558
+|align=right|'''1,706'''
+|align=right|852
+|near [[Rateče]]
+|[[Triglav]]
+|-
+|25
+|[[Großer Priel]]
+|[[Austria]]
+|align=right|2,515
+|align=right|'''1,700'''
+|align=right|810
+|near [[Pichl-Kainisch]]
+|[[Hoher Dachstein]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|26
+|[[Grigna Settentrionale]]
+|[[Italy]]
+|align=right|2,409
+|align=right|'''1,686'''
+|align=right|723
+|near [[Balisio]] in [[Ballabio]]
+|[[Pizzo di Coca]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|27
+|[[Monte Bondone]]
+|[[Italy]]
+|align=right|2,180
+|align=right|'''1,679'''
+|align=right|501
+|near [[Cadine]] in [[Trento]]
+|[[Ortler]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|28
+|[[Presanella]]
+|[[Italy]]
+|align=right|3,558
+|align=right|'''1,676'''
+|align=right|1,882
+|[[Tonale Pass]]
+|[[Ortler]]
+|-
+|29
+|[[Birnhorn]]
+|[[Austria]]
+|align=right|2,634
+|align=right|'''1,665'''
+|align=right|969
+|near [[Hochfilzen]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|30
+|[[Col Nudo]]
+|[[Italy]]
+|align=right|2,471
+|align=right|'''1,644'''
+|align=right|827
+|[[Passo di Sant'Osvaldo]]
+|[[Monte Antelao|Antelao]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|31
+|[[Pointe Percée]]
+|[[France]]
+|align=right|2,750
+|align=right|'''1,643'''
+|align=right|1,107
+|near [[Pont d'Arbon]] near [[Megève]]
+|[[Mont Blanc]]
+|-
+|32
+|[[Jôf di Montasio]]
+|[[Italy]]
+|align=right|2,753
+|align=right|'''1,597'''
+|align=right|1,156
+|[[Predil Pass]]
+|[[Triglav]]
+|-
+|33
+|[[Mölltaler Polinik]]
+|[[Austria]]
+|align=right|2,784
+|align=right|'''1,579'''
+|align=right|1,205
+|[[Iselsberg Pass]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|34
+|[[Tödi]]
+|[[Switzerland]]
+|align=right|3,614
+|align=right|'''1,570'''
+|align=right|2,044
+|[[Oberalp Pass]]
+|[[Finsteraarhorn]]
+|-
+|35
+|[[Birkkarspitze]]
+|[[Austria]]
+|align=right|2,749
+|align=right|'''1,564'''
+|align=right|1,185
+|[[Seefelder Sattel]]
+|[[Zugspitze]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|36
+|[[Ellmauer Halt]]
+|[[Austria]]
+|align=right|2,344
+|align=right|'''1,551'''
+|align=right|793
+|near [[Ellmau]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|37
+|[[Grande Tête de l'Obiou]]
+|[[France]]
+|align=right|2,790
+|align=right|'''1,542'''
+|align=right|1,248
+|[[Col Bayard]]
+|[[Barre des Écrins]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|38
+|[[Hochtor]]
+|[[Austria]]
+|align=right|2,369
+|align=right|'''1,520'''
+|align=right|849
+|[[Schober Pass]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|39
+|[[Grimming]]
+|[[Austria]]
+|align=right|2,351
+|align=right|'''1,518'''
+|align=right|833
+|near [[Schrödis]] and [[Tauplitz]]
+|[[Großer Priel]]
+|-
+|40
+|[[Grand Combin]]
+|[[Switzerland]]
+|align=right|4,309
+|align=right|'''1,512'''
+|align=right|2,797
+|[[Fenêtre de Durand]]
+|[[Monte Rosa]]
+|-
+|41
+|[[La Tournette]]
+|[[France]]
+|align=right|2,351
+|align=right|'''1,514'''
+|align=right|837
+|[[Col du Marais]]
+|[[Pointe Percée]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|42
+|[[Zirbitzkogel]]
+|[[Austria]]
+|align=right|2,396
+|align=right|'''1,502'''
+|align=right|894
+|[[Neumarkter Sattel]]
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|43
+|[[Piz Kesch]]
+|[[Switzerland]]
+|align=right|3,418
+|align=right|'''1,502'''
+|align=right|1,916
+|[[Lukmanier Pass]]
+|[[Finsteraarhorn]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|-
+|44
+|[[Cima Brenta]]
+|[[Italy]]
+|align=right|3,151
+|align=right|'''1,501'''
+|align=right|1,650
+|near [[Campo Carlo Magno]]
+|[[Presanella]]<sup>1</sup> / [[Mont Blanc|MB]]<sup>2</sup>
+|}
+
+==See also==
+{{portal|Alps|Mountains}}
+*[[List of peaks by prominence|Worldwide list of peaks ranked by prominence]]
+*[[List of mountains of Switzerland]] (with height and prominence ranking)
+*[[List of mountains of the British Isles by relative height|List of peaks in the British Isles ranked by prominence]]
+*[[List of European ultra-prominent peaks]]
+*[[List of the highest European ultra-prominent peaks]]
+
+==References==
+{{reflist}}
+
+*Petter Bjørstad, Jonathan de Ferranti, Eberhard Jurgalski, Vasja Kavcic and Aaron Maizlish, [http://www.peaklist.org/WWlists/ultras/EuroCoreP1500m.html Lists and maps covering all peaks in Europe with 1500m+ prominence] (2004), [http://www.peaklist.org/ultras.html The Ultras Project (peaklist.org)].
+*[https://peakbagger.com/list.aspx?lid=49200 Ultras of the Alps in the Peakbagger database]
+*Eberhard Jurgalski, [http://viewfinderpanoramas.org/reascent/AlpsOver589m.html the complete table of summits in the Alps separated by 590 metres of re-ascent] (2004-2005, 2008).
+*Richard Goedeke: ''Giganten der Alpen: Die 20 prominentesten Berge der Alpen.'' Bruckmann Verlag, 2006, {{ISBN|978-3-7654-4381-7}}.
+
+{{Ultras of Europe}}
+{{Lists of Ultras}}
+
+{{DEFAULTSORT:List Of Alpine Peaks By Prominence}}
+[[Category:Lists of mountains of the Alps|Prominence]]
+[[Category:Lists of mountains by prominence|Alpine peaks by prominence]]

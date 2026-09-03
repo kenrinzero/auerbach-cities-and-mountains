@@ -1,0 +1,347 @@
+{{Short description|List of high mountains in Antarctica}}
+{{More citations needed|date=January 2019}}
+This is a list of all the [[ultra prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[Antarctica]]. Some islands in the [[South Atlantic]] have also been included and can be found at the end of the list.
+
+==Antarctica==
+[[Image:Mt erebus.jpg|thumb|right|200px|[[Mount Erebus]], [[Ross Island]]]]
+[[Image:MountSidleyCaldera.jpg|thumb|right|200px|[[Mount Sidley]], [[Marie Byrd Land]]]]
+[[Image:Mount-Foster.jpg|thumb|right|200px|[[Mount Foster]], [[Smith Island (South Shetland Islands)|Smith Island]]]]
+[[Image:Presian.jpg|thumb|right|200px|[[Mount Friesland]], [[Livingston Island]]]]
+[[Image:ErebusTerror.jpg|thumb|right|200px|A view of both Mount Erebus (left) and [[Mount Terror (Antarctica)|Mount Terror]] (right), [[Ross Island]]]]
+{{Sticky header}}
+{| class="wikitable sortable sticky-header"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+![[Col]] (m)
+|-
+|1
+|[[Vinson Massif]]
+|{{ATA}}
+|4,892
+|'''4,892'''
+|0
+|-
+|2
+|[[Mount Erebus]]
+|{{ATA}} ([[Ross Island]])
+|3,794
+|'''3,794'''
+|0
+|-
+|3
+|[[Mount Siple]]
+|{{ATA}} ([[Siple Island]])
+|3,110
+|'''3,110'''
+|0
+|-
+|4
+|[[Mount Stephenson]]
+|{{ATA}} ([[Alexander Island]])
+|2,987
+|'''2,987'''
+|0
+|-
+|5
+|[[Mount Français]]
+|{{ATA}} ([[Anvers Island]])
+|2,760
+|'''2,760'''
+|0
+|-
+|6
+|[[Mount Minto (Antarctica)|Mount Minto]]
+|{{ATA}}
+|4,165
+|'''2,616'''
+|1549
+|-
+|7
+|[[Mount Kirkpatrick]]
+|{{ATA}}
+|4,528
+|'''2,601'''
+|1927
+|-
+|8
+|[[Mount Parry]]
+|{{ATA}} ([[Brabant Island]])
+|2,520
+|'''2,520'''
+|0
+|-
+|9
+|[[Mount Sidley]]
+|{{ATA}}
+|4,285
+|'''2,517'''
+|1768
+|-
+|10
+| [[Mount Miller (Ross Dependency)|Mount Miller]]
+|{{ATA}}
+|4,160
+|'''2,354'''
+|1806
+|-
+|11
+|[[Mount Lister]]
+|{{ATA}}
+|4,025
+|'''2,325'''
+|1700
+|-
+|12
+|[[Mount Gaudry]]
+|{{ATA}} ([[Adelaide Island]])
+|2,315
+|'''2,315'''
+|0
+|-
+|13
+|[[Mount Hope (Palmer Land)|Mount Hope]]
+|{{ATA}}
+|3,239
+|'''2,242'''
+|997
+|-
+|14
+|[[Mount Takahe]]
+|{{ATA}}
+|3,460
+|'''2,134'''
+|1316
+|-
+|15
+|[[Mount Foster]]
+|{{ATA}} ([[Smith Island (South Shetland Islands)|Smith Island]])
+|2,105
+|'''2,105'''
+|0
+|-
+|16
+|[[Mount Markham]]
+|{{ATA}}
+|4,350
+|'''2,103'''
+|2247
+|-
+|17
+|[[Mount Paris]]
+|{{ATA}} ([[Alexander Island]])
+|2,896
+|'''2,058'''
+|838
+|-
+|18
+|[[Mount Murphy]]
+|{{ATA}}
+|2,705
+|'''2,055'''
+|650
+|-
+|19
+|[[Hawkes Heights]]
+|{{ATA}} ([[Coulman Island]])
+|2,000
+|'''2,000'''
+|0
+|-
+|20
+|[[Mount Irving]]
+|{{ATA}} ([[Clarence Island (South Shetland Islands)|Clarence Island]])
+|1,950
+|'''1,950'''
+|0
+|-
+|21
+|[[Toney Mountain]]
+|{{ATA}}
+|3,595
+|'''1,946'''
+|1649
+|-
+|22
+|''Mount Unnamed''
+|{{ATA}} ([[Alexander Island]])
+|2,486
+|'''1,939'''
+|547
+|-
+|23
+|[[Mount Murchison (Victoria Land)|Mount Murchison]]
+|{{ATA}}
+|3,501
+|'''1,927'''
+|1574
+|-
+|24
+|[[Mount Supernal]]
+|{{ATA}}
+|3,655
+|'''1,804'''
+|1851
+|-
+|25
+|[[Mount Kaplan]]
+|{{ATA}}
+|4,230
+|'''1,783'''
+|2447
+|-
+|26
+|[[Mount Frakes]]
+|{{ATA}}
+|3,675
+|'''1,780'''
+|1895
+|-
+|27
+|[[Mount Friesland]]
+|{{ATA}} ([[Livingston Island]])
+|1,700
+|'''1,700'''
+|0
+|-
+|28
+|[[Mount Melbourne]]
+|{{ATA}}
+|2,730
+|'''1,699'''
+|1031
+|-
+|29
+|[[Mount Terror (Antarctica)|Mount Terror]]
+|{{ATA}} ([[Ross Island]])
+|3,230
+|'''1,696'''
+|1534
+|-
+|30
+|[[Mount Elizabeth (Antarctica)|Mount Elizabeth]]
+|{{ATA}}
+|4,480
+|'''1,657'''
+|2823
+|-
+|31
+|[[Lars Christensen Peak]]
+|{{ATA}} ([[Peter I Island]])
+|1,640
+|'''1,640'''
+|0
+|-
+|32
+|[[Dome A]]
+|{{ATA}}
+|4,091
+|'''1,639'''
+|2452
+|-
+|33
+|[[Mount Discovery]]
+|{{ATA}}
+|2,680
+|'''1,637'''
+|1043
+|-
+|34
+|[[Mount Verne]]
+|{{ATA}} ([[Pourquoi Pas Island]])
+|1,632
+|'''1,632'''
+|0
+|-
+|35
+|[[Mount Haddington]]
+|{{ATA}} ([[James Ross Island]])
+|1,630
+|'''1,630'''
+|0
+|-
+|36
+|[[Mount McClintock]]
+|{{ATA}}
+|3,490
+|'''1,621'''
+|1869
+|-
+|37
+|[[Mount Brewster (Antarctica)|Mount Brewster]]
+|{{ATA}}
+|2,025
+|'''1,598'''
+|427
+|-
+|38
+|[[Brown Peak (Sturge Island)|Brown Peak]]
+|{{ATA}} ([[Sturge Island]])
+|1,524
+|'''1,524'''
+|0
+|-
+|39
+|[[Mount Morning]]
+|{{ATA}}
+|2,725
+|'''1,515'''
+|1210
+|-
+|40
+|[[Mount Anderson (Antarctica)|Mount Anderson]]
+|{{ATA}}
+|4,254
+|'''1,504'''
+|2750
+|-
+|}
+
+==[[South Atlantic]]==
+[[Image:Thatcher-Peninsula.jpg|thumb|right|200px|[[Mount Paget]], [[South Georgia Island|South Georgia]]]]
+{{Sticky header}}
+{| class="wikitable sortable sticky-header"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Paget]]
+|{{SGS}}
+|2,934
+|'''2,934'''
+|0
+|-
+|2
+|[[Queen Mary's Peak]]
+|{{SHN}} ([[Tristan da Cunha]])
+|2,062
+|'''2,062'''
+|0
+|-
+|3
+|[[Mount Carse]]
+|{{SGS}}
+|2,330
+|'''1,720'''
+|610
+|-
+|}
+
+==Sources==
+*{{citation |url=http://peaklist.org/WWlists/ultras/antarctica.html |title=Antarctica Ultra-Prominences |website=peaklist.org  |publisher=Aaron Maizlish}}
+*{{citation |url=http://peaklist.org/WWlists/ultras/OceaniaP1500m.html |title=Australia, New Zealand, Oceania Ultra-Prominence Page|website=peaklist.org  |publisher=Aaron Maizlish}}
+
+{{Portal bar|Geography|Mountains}}
+{{Antarctica}}
+{{Lists of Ultras}}
+
+{{DEFAULTSORT:List Of Ultras Of Antarctica}}
+[[Category:Lists of mountains by prominence|Antarctica Ultras]]
+[[Category:Mountains of Antarctica|*]]
+[[Category:Antarctica-related lists|Ultras]]

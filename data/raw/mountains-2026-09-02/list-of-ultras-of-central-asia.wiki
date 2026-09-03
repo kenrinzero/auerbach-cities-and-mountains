@@ -1,0 +1,210 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2026}}
+
+This is a list of the [[ultra prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[Central Asia]]. The list is divided topographically rather than politically. There are 75 in total; 21 in the Pamirs, 1 in the Karakum, 5 in the Alays, 24 in the Tian Shan and 24 in the Altai and Mongolia.
+
+== Karakum Desert ==
+{| class="wikitable sortable"
+!No !!Peak !!Country !!Elevation (m) !!Prominence (m)!!Col (m)
+|-
+|1 ||  [[Mount Arlan|Arlan]] || {{TKM}} || 1,880 || '''1,748''' || 132
+|-
+|}
+
+== Pamir Mountains ==
+[[File:Karakul-kongur-d06.jpg|thumb|right|200px|[[Kongur Tagh]], [[China]]]]
+[[File:Lenin.Peak.Irkeshtam.jpg|thumb|right|200px|[[Ibn Sina Peak|Ibn Sina (Lenin) Peak]], [[Tajikistan]]]]
+{| class="wikitable sortable"
+!No !!Peak !!Country !!Elevation (m) !!Prominence (m)!!Col (m)
+|-
+|1 || [[Kongur Tagh]] || {{CHN}} || 7,649 || '''3,585''' || 4064
+|-
+|2 || [[Ismoil Somoni Peak]] || {{TJK}} || 7,495 || '''3,402''' || 4093
+|-
+|3 || [[Chakragil]] || {{CHN}} || 6,760 || '''2,934''' || 3826
+|-
+|4 || [[Ibn Sina Peak]] || {{KGZ}}&nbsp;/&nbsp;{{TJK}} || 7,134 || '''2,790''' || 4344
+|-
+|5 || [[Muztagh Ata]] || {{CHN}} || 7,509 || '''2,698''' || 4811
+|-
+|6 || [[Karl Marx Peak]] || {{TJK}} || 6,723 || '''2,693''' || 4030
+|-
+|7 || [[Independence Peak]] || {{TJK}} || 6,940 || '''2,402''' || 4538
+|-
+|8 || [[Pik Sat]] || {{TJK}} || 5,900 || '''2,302''' || 3598
+|-
+|9 || [[Gora Kurumdy]] || {{KGZ}}&nbsp;/&nbsp;{{TJK}}/&nbsp;{{CHN}} || 6,614 || '''2,278''' || 4336
+|-
+|10 || [[Kuh-i Belandtarin]] || {{AFG}} || 6,286 || '''2,008''' || 4278
+|-
+|11 || [[Soviet Officers Peak]] || {{TJK}} || 6,233 || '''1,982''' || 4251
+|-
+|12 || [[Patkhor Peak]] || {{TJK}} || 6,083 || '''1,963''' || 4120
+|-
+|13 || [[Gora Radzhi-Bek]] || {{TJK}} || 5,735 || '''1,940''' || 3795
+|-
+|14 || [[Gora Imeni Fuchika]] || {{TJK}} || 4,573 || '''1,686''' || 2887
+|-
+|15 || [[Lyavirdyr]] || {{CHN}} || 6,361 || '''1,676''' || 4685
+|-
+|16 || [[Peak Korzhenevskaya]] || {{TJK}} || 7,105 || '''1,650''' || 5455
+|-
+|17 || [[Pik Agasis]] || {{TJK}} || 5,877 || '''1,597''' || 4280
+|-
+|18 || [[HP Petra Pervogo Range]] || {{TJK}} || 4,745 || '''1,571''' || 3174
+|-
+|19 || [[Qullai Arnavad]] || {{TJK}} || 5,992 || '''1,570''' || 4422
+|-
+|20 || [[Point 5859]] || {{TJK}} || 5,859 || '''1,569''' || 4290
+|-
+|21 || [[Gora Bogchigir]] || {{TJK}} || 5,780 || '''1,508''' || 4272
+|-
+|}
+
+== Pamir-Alay ==
+{| class="wikitable sortable"
+!No !!Peak !!Country !!Elevation (m) !!Prominence (m)!!Col (m)
+|-
+|1 || [[Chimtarga]] || {{TJK}} || 5,490 || '''2,266''' || 3224
+|-
+|2 || [[Pik Skalisty (Kyrgyzstan)|Pik Skalisty]] || {{KGZ}} || 5,621 || '''2,095''' || 3526
+|-
+|3 || [[Pik MGU]] || {{TJK}} || 5,418 || '''1,825''' || 3593
+|-
+|4 || [[Pik Tandykul]] || {{TJK}}&nbsp;/&nbsp;{{KGZ}} || 5,544 || '''1,677''' || 3867
+|-
+|5 || [[Ayrybaba]] || {{TKM}}&nbsp;/&nbsp;{{UZB}} || 3,138 || '''1,639''' || 1498
+|-
+|}
+
+== Tian Shan ==
+[[File:Piktalgar.jpg|thumb|right|200px|[[Pik Talgar]], [[Kazakhstan]]]]
+[[File:Peak of Khan Tengri at sunset.jpg|thumb|right|200px|[[Khan Tengri]], [[Kyrgyzstan]]/[[Kazakhstan]]/[[China]]]]
+{| class="wikitable sortable"
+!No !!Peak !!Country !!Elevation (m) !!Prominence (m)!!Col (m)
+|-
+|1 || [[Jengish Chokusu]] || {{KGZ}}&nbsp;/&nbsp;{{CHN}} || 7,439 || '''4,148''' || 3291
+|-
+|2 || [[Bogda Feng]] || {{CHN}} || 5,445 || '''4,122''' || 1323
+|-
+|3 || [[Sauyr Zhotasy]] || {{KAZ}}&nbsp;/&nbsp;{{CHN}} || 3,840 || '''3,252''' || 588
+|-
+|4 || [[Tomort]] || {{CHN}} || 4,886 || '''3,243''' || 1643
+|-
+|5 || [[Xuelian Feng|Snow Lotus Peak]] || {{CHN}} || 6,627 || '''3,068''' || 3559
+|-
+|6 || [[Pik Talgar]] || {{KAZ}} || 4,979 || '''2,982''' || 1997
+|-
+|7 || [[Pik Dankova]] || {{KGZ}} || 5,982 || '''2,675''' || 3307
+|-
+|8 || [[Heyuan Feng]] || {{CHN}} || 5,289 || '''2,616''' || 2673
+|-
+|9 || [[Gora Alagordy]] || {{KAZ}}&nbsp;/&nbsp;{{CHN}} || 4,622 || '''2,480''' || 2142
+|-
+|10 || [[Kertau]] || {{CHN}} || 3,282 || '''2,365''' || 917
+|-
+|11 || [[Semenov-Tian-Shansky Peak]] || {{KGZ}} || 4,895 || '''2,231''' || 2664
+|-
+|12 || [[Barkol Shan]] || {{CHN}} || 4,300 || '''2,083''' || 2217
+|-
+|13 || [[Muzart]] || {{CHN}} || 6,571 || '''1,822''' || 4749
+|-
+|14 || HP [[Borohoro Shan]] || {{CHN}} || 5,248 || '''1,871''' || 3377
+|-
+|15 || [[Point 4800]] || {{CHN}} || 4,800 || '''1,796''' || 3004
+|-
+|16 || [[Koktutau]] || {{CHN}} || 5,324 || '''1,737''' || 3587
+|-
+|17 || [[Temerliktau]] || {{CHN}} || 3,730 || '''1,718''' || 2012
+|-
+|18 || [[Gora Babash-Ata]] || {{KGZ}} || 4,428 || '''1,708''' || 2720
+|-
+|19 || [[Yanamax]] || {{CHN}} || 6,357 || '''1,702''' || 4655
+|-
+|20 || [[Dahei Shan]] || {{CHN}} || 3,963 || '''1,692''' || 2271
+|-
+|21 || [[Khan Tengri]] || {{KAZ}}&nbsp;/&nbsp;{{KGZ}} || 7,010 || '''1,685''' || 5310
+|-
+|22 || [[Gora Tastau]] || {{KAZ}} || 2,993 || '''1,679''' || 1314
+|-
+|23 || [[Soviet Constitution Peak]] || {{KGZ}} || 5,281 || '''1,673''' || 3608
+|-
+|24 || [[Point 5716]] || {{CHN}} || 5,716 || '''1,646''' || 4070
+|-
+|25 || [[Point 5318]] || {{KGZ}} || 5,318 || '''1,563''' || 3755
+|-
+|25 || [[Bozbu Too]] || {{KGZ}} || 2,875 || '''1,529''' || 1346
+|-
+|26 || [[Gora Boboiob]] || {{TJK}} || 3,770 || '''1,502''' || 2268
+|-
+|}
+
+== Altai region and Mongolia ==
+[[File:Berg Belucha.jpg|thumb|right|200px|[[Belukha Mountain]], [[Kazakhstan]]/[[Russia]]]]
+{| class="wikitable sortable"
+!No !!Peak !!Country !!Elevation (m) !!Prominence (m)!!Col (m)
+|-
+|1 || [[Belukha Mountain]] || {{KAZ}}&nbsp;/&nbsp;{{RUS}} || 4,506 || '''3,343''' || 1163
+|-
+|2 || [[Jargalant Hairhan]] || {{MNG}} || 3,796 || '''2,353''' || 1443
+|-
+|3 || [[Khüiten Peak]] || {{CHN}}&nbsp;/&nbsp;{{MNG}} || 4,374 || '''2,342''' || 2023
+|-
+|4 || [[Otgontenger]] || {{MNG}} || 4,000 || '''2,259''' || 1741
+|-
+|5 || [[Aj Bogd]] || {{MNG}} || 3,802 || '''2,132''' || 1670
+|-
+|6 || [[Dunheger]] || {{CHN}}&nbsp;/&nbsp;{{MNG}} || 3,315 || '''2,075''' || 1240
+|-
+|7 || [[Ikh Bogd]] || {{MNG}} || 3,957 || '''1,979''' || 1978
+|-
+|8 || [[Mönkh Hairhan]] || {{MNG}} || 4,231 || '''1,860''' || 2371
+|-
+|9 || [[Harhiraa]] || {{MNG}} || 4,040 || '''1,808''' || 2232
+|-
+|10 || [[Maasheybash]] || {{RUS}} || 4,177 || '''1,806''' || 2371
+|-
+|11 || [[Sutai Mountain|Sutai]] || {{MNG}} || 4,220 || '''1,787''' || 2433
+|-
+|12 || [[Tsambagarav]] || {{MNG}} || 4,193 || '''1,757''' || 2436
+|-
+|13 || [[Hasagt Hairhan]] || {{MNG}} || 3,578 || '''1,749''' || 1829
+|-
+|14 || [[Baga Bogd]] || {{MNG}} || 3,600 || '''1,725''' || 1875
+|-
+|15 || [[Altan Hohiy]] || {{MNG}} || 3,350 || '''1,687''' || 1663
+|-
+|16 || [[Gora Mungun-Tayga]] || {{RUS}} || 3,970 || '''1,685''' || 2285
+|-
+|17 || [[Bumbag Khairkhan]] || {{MNG}} || 3,470 || '''1,664''' || 1806
+|-
+|18 || [[Türgen]] || {{MNG}} || 4,029 || '''1,594''' || 2435
+|-
+|19 || [[Mönkh Saridag]] || {{RUS}}&nbsp;/&nbsp;{{MNG}} || 3,491 || '''1,578''' || 1913
+|-
+|20 || [[Dzhata]] || {{CHN}} || 3,085 || '''1,560''' || 1525
+|-
+|21 || [[Baatar Khairkhan]] || {{MNG}} || 3,984 || '''1,541''' || 2443
+|-
+|22 || [[Pik Grandioznyy]] || {{RUS}} || 2,891 || '''1,529''' || 1362
+|-
+|23 || [[Dund Saihny Nuruu]] || {{MNG}} || 2,825 || '''1,526''' || 1299
+|-
+|24 || HP [[Khrebet Baldyrgannyg]] || {{MNG}} || 2,522 || '''1,509''' || 1013
+|-
+|}
+
+== References ==
+* [http://www.peaklist.org/WWlists/ultras/StansP1500m.html List - Central Asian Republics]
+* [https://web.archive.org/web/20120829125929/http://www.peaklist.org/WWlists/ultras/mongolia.html List - Mongolia]
+* [http://www.peaklist.org/WWlists/ultras/china2.html List - NW China]
+* [http://www.peaklist.org/WWlists/ultras/siberia.html List - Russia]
+* [http://www.peaklist.org/WWmaps/asia/map/ASIA_C.gif Map - Central Asia]
+* [http://www.peaklist.org/WWmaps/asia/map/ASIA_High.gif Map - High Asia]
+
+{{Lists of Ultras}}
+
+{{DEFAULTSORT:List Of Ultras Of Central Asia}}
+[[Category:Lists of mountains by prominence|Central Asian Ultras]]
+[[Category:Geography of Central Asia]]
+[[Category:Landforms of Central Asia]]

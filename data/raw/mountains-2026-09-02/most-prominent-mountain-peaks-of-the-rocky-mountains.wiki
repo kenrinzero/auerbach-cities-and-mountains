@@ -1,0 +1,1529 @@
+{{Short description|List of mountain summits of the Rocky Mountains of North America}}
+{{see also|Lists of mountains of the Rocky Mountains}}
+
+[[File:Mt. Elbert.jpg|thumb|300px|[[Mount Elbert]] in the [[Sawatch Range]] is the [[Elevation|highest]] [[summit]] of the [[Rocky Mountains]] and the U.S. state of [[Colorado]].]]
+
+This article comprises three sortable tables of [[Summit|major mountain peaks]]<ref name=major>This article defines a significant summit as a summit with at least {{convert|100|m|1|abbr=off|comma=5|sp=us}} of [[topographic prominence]], and a major summit as a summit with at least {{convert|500|m|0|abbr=off|comma=5|sp=us}} of topographic prominence.  All summits in this article have at least 500&nbsp;meters of topographic prominence.  An [[Ultra-prominent peak|ultra-prominent summit]] is a summit with at least {{convert|1500|m|0|abbr=off|comma=5|sp=us}} of topographic prominence.</ref> of the [[Rocky Mountains]] of [[North America]].
+
+The [[summit]] of a mountain or hill may be measured in three principal ways:
+#The [[Elevation|topographic elevation]] of a summit measures the height of the summit above a [[Geoid|geodetic sea level]].<ref name=NAVD_88>All elevations in the 48 [[U.S. state|states]] of the [[contiguous United States]] include an elevation adjustment from the [[National Geodetic Vertical Datum of 1929]] ([[NGVD 29]]) to the [[North American Vertical Datum of 1988]] ([[NAVD 88]]).  For further information, please see this [[United States National Geodetic Survey]] [http://www.ngs.noaa.gov/faq.shtml#WhatVD29VD88 note].</ref><ref name=range>If the elevation or prominence of a summit is calculated as a range of values, the [[arithmetic mean]] is shown.</ref>  The [[#Highest major summits|first table]] below ranks the 100 highest major summits of greater North America by elevation.
+#The [[topographic prominence]] of a summit is a measure of how high the summit rises above its surroundings.<ref name=prominence>The [[topographic prominence]] of a summit is the [[Elevation|topographic elevation]] difference between the summit and its [[Topographic prominence#Definitions|highest or key col to a higher summit]].  The summit may be near its key col or quite far away.  The key col for [[Denali]] in [[Alaska]] is the [[Isthmus of Rivas]] in [[Nicaragua]], {{convert|7642|km|0|abbr=off|comma=5|sp=us}} away.</ref><ref name=range/>  The [[#Most prominent summits|second table]] below ranks the 50 most prominent summits of greater North America.
+#The [[topographic isolation]] (or radius of dominance) of a summit measures how far the summit lies from its nearest point of equal elevation.<ref name=isolation>The [[topographic isolation]] of a summit is the [[great-circle distance]] to its nearest point of equal elevation.</ref>  The [[#Most isolated major summits|third table]] below ranks the 50 most isolated major summits of greater North America.
+
+__TOC__{{clear}}
+
+==Highest major summits==
+{{GeoGroup|section=Highest major summits}}
+{{main|List of the major 3000-meter summits of the Rocky Mountains}}
+Of the 100 highest major summits of the Rocky Mountains, [[List of the major 4000-meter summits of the Rocky Mountains|62 peaks exceed {{convert|4000|m|0|abbr=off|comma=5|sp=us}} elevation]], and all 100 peaks exceed {{convert|3746|m|0|abbr=off|comma=5|sp=us}} elevation.
+
+Of these 100 peaks, 78 (including the 30 highest) are located in Colorado, ten in Wyoming, six in New Mexico, three in Montana, and one each in Utah, British Columbia, and Idaho.
+{{clear}}
+{| class="wikitable sortable"
+|+<big>The 100 highest summits of the Rocky&nbsp;Mountains with at least 500&nbsp;meters of topographic&nbsp;prominence</big><br/><br/>
+![[Ranking|Rank]]
+![[Summit|Mountain peak]]
+![[Region]]
+![[Mountain range]]
+![[Elevation]]
+![[Topographic prominence|Prominence]]
+![[Topographic isolation|Isolation]]
+![[Geographic coordinate system|Location]]
+|-
+|align=center|1
+{{Mountain table cell|Mount Elbert|hp=the U.S. [[Colorado|State of Colorado]], the [[Rocky Mountains]] of North America, and the entire [[Mississippi River]] [[drainage basin]]|ngs=KL0637|stn=MOUNT ELBERT|pb=5736|cme=9145|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4401.2|2771.552|1079.15|e=1|m=1|date=4 May 2016}}
+|{{coord|39.1178|-106.4454|name=Mount Elbert}}
+|-
+|align=center|2
+{{Mountain table cell|Mount Massive|peak=is the second highest major summit of the [[Rocky Mountains]]|ngs=KL0640|stn=MOUNT MASSIVE CAIRN|va=2.087|pb=5729|cme=12465|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4396.3|603|8.21|e=1|m=1|date=December 11, 2025}}
+|{{coord|39.1178|-106.4454|region:US-CO_dim:250000_type:mountain|name=Mount Elbert|display=it}}
+|-
+|align=center|3
+{{Mountain table cell|Mount Harvard|hp=the [[Collegiate Peaks]]|peak=is the southernmost and easternmost summit of its elevation in the [[Rocky Mountains]]|ngs=JL0879|stn=HARVARD|pb=5754|cme=12464|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4395.6|719.329|24.01|e=1|m=1|date=4 May 2016}}
+|{{coord|38.9244|-106.3207|name=Mount Harvard}}
+|-
+|align=center|4
+{{Mountain table cell|Blanca Peak|hp=the [[Sangre de Cristo Mountains]] and the entire [[Rio Grande]] [[drainage basin]]|peak=is the southernmost [[ultra-prominent summit]] of the [[Rocky Mountains]]|va=1.755|pb=5921|cme=9499|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Mountains]]
+{{epi|4374.12|1623.368|166.36|e=|m=1|date=4 May 2016}}
+|{{coord|37.5775|-105.4856|name=Blanca Peak}}
+|-
+|align=center|5
+{{Mountain table cell|La Plata Peak|va=1.983|pb=5744|cme=12469|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4371.605|559.614|10.11|e=|m=1|date=4 May 2016}}
+|{{coord|39.0294|-106.4729|name=La Plata Peak}}
+|-
+|align=center|6
+{{Mountain table cell|Uncompahgre Peak|hp=the [[San Juan Mountains]] and the entire [[Gulf of California]] [[drainage basin]]|peak=is the westernmost summit of its elevation in the [[Rocky Mountains]]|ngs=JL0798|stn=UNCOMPAHGRE|pb=5836|cme=9502|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4365|1303.632|136.81|e=1|m=1|date=4 May 2016}}
+|{{coord|38.0717|-107.4621|name=Uncompahgre Peak}}
+|-
+|align=center|7
+{{Mountain table cell|Crestone Peak|hp=the [[Crestones]]|va=1.76|pb=5908|cme=9501|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Range]]
+{{epi|4358.572|1388.059|44.04|e=|m=1|date=4 May 2016}}
+|{{coord|37.9669|-105.5855|name=Crestone Peak}}
+|-
+|align=center|8
+{{Mountain table cell|Mount Lincoln (Colorado)|name=Mount Lincoln|hp=the [[Mosquito Range]] and the entire [[Missouri River]] [[drainage basin]]|peak=is the northernmost summit of its elevation in the [[Rocky Mountains]]|ngs=KL0627|stn=MT LINCOLN|pb=5793|cme=12152|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Mosquito Range]]
+{{epi|4356.5|1177.14|36.22|e=1|m=1|date=4 May 2016}}
+|{{coord|39.3515|-106.1116|name=Mount Lincoln}}
+|-
+|align=center|9
+{{Mountain table cell|Castle Peak (Colorado)|name=Castle Peak|hp=the [[Elk Mountains (Colorado)|Elk Mountains]]|ngs=KL0659|stn=CASTLE PK|pb=5709|cme=12463|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|4352.2|720.853|33.57|e=1|m=1|date=4 May 2016}}
+|{{coord|39.0097|-106.8614|name=Castle Peak}}
+|-
+|align=center|10
+{{Mountain table cell|Grays Peak|hp=the [[Front Range]] and the [[Continental Divide of the Americas|Continental Divide]] in North America|peak=is the northernmost summit of its elevation in the [[Rocky Mountains]]|ngs=KK2036|stn=GRAYS PEAK|pb=5664|cme=12324|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4352|844.298|40.24|e=0|m=1|date=4 May 2016}}
+|{{coord|39.6339|-105.8176|name=Grays Peak}}
+|-
+|align=center|11
+{{Mountain table cell|Mount Antero|hp=the southern [[Sawatch Range]]|ngs=JL0883|stn=MT ANTERO|pb=5759|cme=12390|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4351.4|762.916|28.44|e=1|m=1|date=4 May 2016}}
+|{{coord|38.6741|-106.2462|name=Mount Antero}}
+|-
+|align=center|12
+{{Mountain table cell|Mount Blue Sky|ngs=KK2030|stn=EVANS|vo=1.798|pb=5676|cme=12325|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4349.798|844.269|15.76|e=0|m=1|date=4 May 2016}}
+|{{coord|39.5883|-105.6438|name=Mount Blue Sky}}
+|-
+|align=center|13
+{{Mountain table cell|Longs Peak|hp=the northern [[Front Range]]|peak=is the northernmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=LL1346|stn=LONGS PEAK|pb=5642|cme=9415|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4346|896.114|70.18|e=0|m=1|date=4 May 2016}}
+|{{coord|40.2550|-105.6151|name=Longs Peak}}
+|-
+|align=center|14
+{{Mountain table cell|Mount Wilson (Colorado)|name=Mount Wilson|hp=the [[San Miguel Mountains]]|peak=is the westernmost summit of its elevation in the [[Rocky Mountains]]|va=1.899|pb=5820|cme=12143|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Miguel Mountains]]
+{{epi|4344.089|1226.518|53.13|e=|m=1|date=4 May 2016}}
+|{{coord|37.8391|-107.9916|name=Mount Wilson}}
+|-
+|align=center|15
+{{Mountain table cell|Mount Princeton|ngs=JL0886|stn=PRINCETON|pb=5757|cme=12491|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4329.3|663.551|8.36|e=1|m=1|date=4 May 2016}}
+|{{coord|38.7492|-106.2424|name=Mount Princeton}}
+|-
+|align=center|16
+{{Mountain table cell|Mount Yale|ngs=JL0889|stn=YALE|pb=5756|cme=12492|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4328.2|577.902|8.93|e=1|m=1|date=4 May 2016}}
+|{{coord|38.8442|-106.3138|name=Mount Yale}}
+|-
+|align=center|17
+{{Mountain table cell|Maroon Bells|name=Maroon Peak|ngs=KL0805|stn=MAROON PEAK|pb=5701|cme=12468|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|4317|712.014|12.97|e=1|m=1|date=4 May 2016}}
+|{{coord|39.0708|-106.9890|name=Maroon Peak}}
+|-
+|align=center|18
+{{Mountain table cell|Mount Sneffels|hp=the [[Sneffels Range]]|ngs=JL0826|stn=SNEFFLES|pb=5830|cme=12245|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sneffels Range]]
+{{epi|4315.4|929.642|25.28|e=1|m=1|date=4 May 2016}}
+|{{coord|38.0038|-107.7923|name=Mount Sneffels}}
+|-
+|align=center|19
+{{Mountain table cell|Capitol Peak (Colorado)|name=Capitol Peak|ngs=KL0688|stn=CAPITOL PK|va=1.991|pb=5695|cme=12517|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|4308.824|533.401|11.98|e=|m=1|date=4 May 2016}}
+|{{coord|39.1503|-107.0829|name=Capitol Peak}}
+|-
+|align=center|20
+{{Mountain table cell|Pikes Peak|peak=is the easternmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit and [[ultra-prominent summit]] of the [[Rocky Mountains]].  Pikes Peak was the inspiration for the lyrics of ''[[America the Beautiful]]''|ngs=JK1242|stn=PIKES PEAK|pb=5689|cme=9498|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4302.31|1685.547|97.56|e=2|m=1|date=4 May 2016}}
+|{{coord|38.8405|-105.0442|name=Pikes Peak}}
+|-
+|align=center|21
+{{Mountain table cell|Windom Peak|hp=the [[Needle Mountains]]|note=[[Mount Eolus]] may be higher than [[Windom Peak]]|va=1.785|pb=5861|cme=12527|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Needle Mountains]]
+{{epi|4295.511|666.599|42.40|e=|m=1|date=4 May 2016}}
+|{{coord|37.6212|-107.5919|name=Windom Peak}}
+|-
+|align=center|22
+{{Mountain table cell|Handies Peak|ngs=HL0635|stn=HANDIES|pb=5840|cme=12544|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4284.8|581.56|18.00|e=1|m=1|date=4 May 2016}}
+|{{coord|37.9130|-107.5044|name=Handies Peak}}
+|-
+|align=center|23
+{{Mountain table cell|Culebra Peak|hp=the [[Culebra Range]]|peak=is the southernmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|va=1.740|pb=5924|cme=9500|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Culebra Range]]
+{{epi|4283.274|1471.273|56.94|e=|m=1|date=4 May 2016}}
+|{{coord|37.1224|-105.1858|name=Culebra Peak}}
+|-
+|align=center|24
+{{Mountain table cell|San Luis Peak|ngs=HL0570|stn=SAN LUIS PEAK CAIRN|pb=5874|cme=12240|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4273.8|948.844|43.37|e=1|m=1|date=4 May 2016}}
+|{{coord|37.9868|-106.9313|name=San Luis Peak}}
+|-
+|align=center|25
+{{Mountain table cell|Mount of the Holy Cross|hp=the northern [[Sawatch Range]]|ngs=KL0649|stn=MT HOLY CROSS ET|vo=0.610|pb=5725|cme=12568|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4270.51|644.034|29.63|e=1|m=1|date=4 May 2016}}
+|{{coord|39.4668|-106.4817|name=Mount of the Holy Cross}}
+|-
+|align=center|26
+{{Mountain table cell|Grizzly Peak (Sawatch Range)|name=Grizzly Peak|ngs=KL0800|stn=GRIZZLY|pb=5741|cme=35216|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4265.6|587.656|10.89|e=1|m=1|date=4 May 2016}}
+|{{coord|39.0425|-106.5976|name=Grizzly Peak}}
+|-
+|align=center|27
+{{Mountain table cell|Mount Ouray|hp=the far southern [[Sawatch Range]]|ngs=JL0672|stn=MOUNT OURAY RESET|pb=5764|cme=12380|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4255.4|810.465|21.86|e=1|m=1|date=4 May 2016}}
+|{{coord|38.4227|-106.2247|name=Mount Ouray}}
+|-
+|align=center|28
+{{Mountain table cell|Vermilion Peak|va=1.827|pb=5828|cme=13960|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4236.727|641.605|14.60|e=|m=1|date=4 May 2016}}
+|{{coord|37.7993|-107.8285|name=Vermilion Peak}}
+|-
+|align=center|29
+{{Mountain table cell|Mount Silverheels|ngs=KL0629|stn=SILVERHEELS ET|pb=5681|cme=23489|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4215|695.86|8.82|e=1|m=1|date=4 May 2016}}
+|{{coord|39.3394|-106.0054|name=Mount Silverheels}}
+|-
+|align=center|30
+{{Mountain table cell|Rio Grande Pyramid|ngs=HL0589|stn=PYRAMID|pb=5869|cme=14071|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4214.4|573.33|17.31|e=1|m=1|date=4 May 2016}}
+|{{coord|37.6797|-107.3924|name=Rio Grande Pyramid}}
+|-
+|align=center|31
+{{Mountain table cell|Gannett Peak|hp=the [[Wind River Range]], the U.S. [[Wyoming|State of Wyoming]], and the central [[Rocky Mountains]]|peak=is the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]|ngs=OW0356|stn=GANNETT PEAK CAIRN|pb=5352|cme=9228|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|4209.1|2156.769|467.28|e=1|m=1|date=4 May 2016}}
+|{{coord|43.1842|-109.6542|name=Gannett Peak}}
+|-
+|align=center|32
+{{Mountain table cell|Grand Teton|hp=the [[Teton Range]]|peak=is the northernmost and westernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=OX0838|stn=GRAND TETON|pb=5218|cme=9230|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Teton Range]]
+{{epi|4198.7|1994.92|111.61|e=1|m=1|date=4 May 2016}}
+|{{coord|43.7412|-110.8024|name=Grand Teton}}
+|-
+|align=center|33
+{{Mountain table cell|Bald Mountain (Colorado)|name=Bald Mountain|va=1.922|pb=16675|cme=25781|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4172.814|639.776|12.09|e=|m=1|date=4 May 2016}}
+|{{coord|39.4448|-105.9705|name=Bald Mountain}}
+|-
+|align=center|34
+{{Mountain table cell|Mount Oso (Colorado)|name=Mount Oso|va=1.776|pb=7854|cme=35218|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4172.668|507.188|8.71|e=|m=1|date=4 May 2016}}
+|{{coord|37.6070|-107.4936|name=Mount Oso}}
+|-
+|align=center|35
+{{Mountain table cell|Mount Jackson (Colorado)|name=Mount Jackson|ngs=KL0650|stn=MT JACKSON ET|pb=16632|cme=35219|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4168.5|551.689|5.16|e=1|m=1|date=4 May 2016}}
+|{{coord|39.4853|-106.5367|name=Mount Jackson}}
+|-
+|align=center|36
+{{Mountain table cell|Bard Peak|va=1.707|pb=16639|cme=25770|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4159.492|518.466|8.74|e=|m=1|date=4 May 2016}}
+|{{coord|39.7204|-105.8044|name=Bard Peak}}
+|-
+|align=center|37
+{{Mountain table cell|West Spanish Peak|peak=is the easternmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]] and the [[United States]]|va=1.468|pb=5928|cme=12167|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Spanish Peaks]]
+{{epi|4154.681|1123.495|31.98|e=|m=1|date=4 May 2016}}
+|{{coord|37.3756|-104.9934|name=West Spanish Peak}}
+|-
+|align=center|38
+{{Mountain table cell|Mount Powell (Colorado)|name=Mount Powell|hp=the [[Gore Range]]|va=1.771|pb=5774|cme=12251|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Gore Range]]
+{{epi|4140.963|914.402|34.60|e=|m=1|date=4 May 2016}}
+|{{coord|39.7601|-106.3407|name=Mount Powell}}
+|-
+|align=center|39
+{{Mountain table cell|Hagues Peak|hp=the [[Mummy Range]]|ngs=LL1350|stn=HAGUE RM|pb=5590|cme=12408|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Mummy Range]]
+{{epi|4137|737.617|25.26|e=0|m=1|date=4 May 2016}}
+|{{coord|40.4845|-105.6464|name=Hagues Peak}}
+|-
+|align=center|40
+{{Mountain table cell|Tower Mountain (Colorado)|name=Tower Mountain|va=1.796|pb=16643|cme=35115|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4132.454|503.531|7.86|e=|m=1|date=4 May 2016}}
+|{{coord|37.8573|-107.6230|name=Tower Mountain}}
+|-
+|align=center|41
+{{Mountain table cell|Treasure Mountain (Colorado)|name=Treasure Mountain|va=2.008|pb=5707|cme=12322|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|4125.351|861.976|11.13|e=|m=1|date=4 May 2016}}
+|{{coord|39.0244|-107.1228|name=Treasure Mountain}}
+|-
+|align=center|42
+{{Mountain table cell|Kings Peak (Utah)|name=Kings Peak|hp=the [[Uinta Mountains]], the U.S. [[Utah|State of Utah]], and the western [[Rocky Mountains]]|va=1.807|pb=5507|cme=9234|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Uinta Mountains]]
+{{epi|4125.15|1937.922|268.04|e=|m=1|date=4 May 2016}}
+|{{coord|40.7763|-110.3729|name=Kings Peak}}
+|-
+|align=center|43
+{{Mountain table cell|North Arapaho Peak|hp=the [[Indian Peaks]]|ngs=LL1357|stn=NORTH ARAPAHOE PEAK CAIRN|va=1.763|pb=5646|cme=21215|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4117.181|507.493|24.75|e=|m=1|date=4 May 2016}}
+|{{coord|40.0265|-105.6504|name=North Arapaho Peak}}
+|-
+|align=center|44
+{{Mountain table cell|Parry Peak|va=1.763|pb=16682|cme=21202|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4083.348|524.257|15.22|e=|m=1|date=4 May 2016}}
+|{{coord|39.8381|-105.7132|name=Parry Peak}}
+|-
+|align=center|45
+{{Mountain table cell|Bill Williams Peak|hp=the [[Williams Mountains]]|va=2.044|pb=16642|cme=35223|date=December 13, 2023}}
+|{{flag|Colorado}}
+|[[Williams Mountains]]
+{{epi|4080.886|512.674|5.98|e=|m=1|date=December 13, 2023}}
+|{{coord|39.1806|-106.6102|name=Bill Williams Peak|}}
+|-
+|align=center|46
+{{Mountain table cell|Sultan Mountain|va=1.649|pb=16630|cme=14130|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4076.224|569.368|7.39|e=|m=1|date=4 May 2016}}
+|{{coord|37.7859|-107.7038|name=Sultan Mountain}}
+|-
+|align=center|47
+{{Mountain table cell|Mount Herard|va=1.640|pb=5911|cme=25471|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Mountains]]
+{{epi|4067.68|621.793|7.45|e=|m=1|date=4 May 2016}}
+|{{coord|37.8492|-105.4949|name=Mount Herard}}
+|-
+|align=center|48
+{{Mountain table cell|West Buffalo Peak|ngs=JL0653|stn=BUFFALO WEST PEAK CAIRN|va=1.834|pb=5808|cme=23765|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Mosquito Range]]
+{{epi|4063.607|605.334|15.46|e=|m=1|date=4 May 2016}}
+|{{coord|38.9917|-106.1249|name=West Buffalo Peak}}
+|-
+|align=center|49
+{{Mountain table cell|Summit Peak|hp=the southern [[San Juan Mountains]]|ngs=HL0503|stn=SUMMIT|pb=5882|cme=12326|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4056.2|841.25|63.66|e=1|m=1|date=4 May 2016}}
+|{{coord|37.3506|-106.6968|name=Summit Peak}}
+|-
+|align=center|50
+{{Mountain table cell|Middle Peak (Colorado)|name=Middle Peak|note=[[Dolores Peak]] may be higher than [[Middle Peak (Colorado)|Middle Peak]]|va=1.809|pb=14675|cme=35226|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Miguel Mountains]]
+{{epi|4055.657|597.418|7.69|e=|m=1|date=4 May 2016}}
+|{{coord|37.8536|-108.1082|name=Middle Peak}}
+|-
+|align=center|51
+{{Mountain table cell|Antora Peak|va=1.883|pb=5766|cme=12410|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4046.282|734.265|10.86|e=|m=1|date=4 May 2016}}
+|{{coord|38.3250|-106.2180|name=Antora Peak}}
+|-
+|align=center|52
+{{Mountain table cell|Henry Mountain|va=2.037|pb=5758|cme=35227|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4041.864|510.236|17.61|e=|m=1|date=4 May 2016}}
+|{{coord|38.6856|-106.6211|name=Henry Mountain}}
+|-
+|align=center|53
+{{Mountain table cell|Hesperus Mountain (Colorado)|name=Hesperus Mountain|hp=the [[La Plata Mountains]]|va=1.650|pb=5849|cme=12252|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[La Plata Mountains]]
+{{epi|4034.772|869.291|39.47|e=|m=1|date=4 May 2016}}
+|{{coord|37.4451|-108.0890|name=Hesperus Mountain}}
+|-
+|align=center|54
+{{Mountain table cell|Jacque Peak|va=1.866|pb=5781|cme=35228|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Gore Range]]
+{{epi|4026.758|629.413|7.28|e=|m=1|date=4 May 2016}}
+|{{coord|39.4549|-106.1970|name=Jacque Peak}}
+|-
+|align=center|55
+{{Mountain table cell|Bennett Peak|va=1.782|pb=5880|cme=35229|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4026.064|531.267|27.49|e=|m=1|date=4 May 2016}}
+|{{coord|37.4833|-106.4343|name=Bennett Peak}}
+|-
+|align=center|56
+{{Mountain table cell|Wind River Peak|hp=the southern [[Wind River Range]]|ngs=NS0274|stn=WIND|pb=5399|cme=18541|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|4022.4|783.947|56.56|e=1|m=1|date=4 May 2016}}
+|{{coord|42.7085|-109.1284|name=Wind River Peak}}
+|-
+|align=center|57
+{{Mountain table cell|Conejos Peak|ngs=HL0502|stn=CONEJOS|pb=5883|cme=35230|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4017|582.779|13.12|e=1|m=1|date=4 May 2016}}
+|{{coord|37.2887|-106.5709|name=Conejos Peak}}
+|-
+|align=center rowspan=2|58
+{{Mountain table cell|Cloud Peak|hp=the [[Bighorn Mountains]]|peak=is the northernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=PW0524|stn=CLOUD PEAK|pb=5323|cme=9229|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Bighorn Mountains]]
+{{epi|4013.3|2157.074|233.38|e=1|m=1|date=4 May 2016}}
+|{{coord|44.3821|-107.1739|name=Cloud Peak}}
+|-
+<!-- |align=center|58 -->
+{{Mountain table cell|Wheeler Peak (New Mexico)|name=Wheeler Peak|hp=the [[Taos Mountains]] and the U.S. [[New Mexico|State of New Mexico]]|peak=is the southernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=GM0779|stn=WHEELER|pb=5937|cme=13074|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Taos Mountains]]
+{{epi|4013.3|1039.065|59.57|e=1|m=1|date=4 May 2016}}
+|{{coord|36.5569|-105.4169|name=Wheeler Peak}}
+|-
+|align=center|60
+{{Mountain table cell|Francs Peak|hp=the [[Absaroka Range]]|ngs=OW0325|stn=FRANCS PK 2|pb=5311|cme=13772|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Absaroka Range]]
+{{epi|4012.3|1236.271|76.02|e=1|m=1|date=4 May 2016}}
+|{{coord|43.9613|-109.3392|name=Francs Peak}}
+|-
+|align=center|61
+{{Mountain table cell|Twilight Peak|hp=the [[West Needle Mountains]]|va=1.537|pb=16612|cme=12467|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Needle Mountains]]
+{{epi|4012.103|712.624|7.86|e=|m=1|date=4 May 2016}}
+|{{coord|37.6630|-107.7270|name=Twilight Peak}}
+|-
+|align=center|62
+{{Mountain table cell|South River Peak|ngs=HL0558|stn=S RIVER|pb=16516|cme=12405|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4009.4|746.152|33.99|e=1|m=1|date=4 May 2016}}
+|{{coord|37.5741|-106.9815|name=South River Peak}}
+|-
+|align=center|63
+{{Mountain table cell|Bushnell Peak|ngs=JK1305|stn=TWIN|pb=5893|cme=12412|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Mountains]]
+{{epi|3995.8|733.045|17.82|e=1|m=1|date=4 May 2016}}
+|{{coord|38.3412|-105.8892|name=Bushnell Peak}}
+|-
+|align=center|64
+{{Mountain table cell|Truchas Peak|hp=the [[Santa Fe Mountains]]|peak=is the southernmost summit of its elevation in the [[Rocky Mountains]]|ngs=FN0666|stn=TRUCHAS|pb=5944|cme=13071|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Santa Fe Mountains]]
+{{epi|3995.2|1219.507|68.15|e=1|m=1|date=4 May 2016}}
+|{{coord|35.9625|-105.6450|name=Truchas Peak}}
+|-
+|align=center|65
+{{Mountain table cell|West Elk Peak|hp=the [[West Elk Mountains]]|ngs=JL0755|stn=WEST ELK D|pb=5717|cme=12242|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[West Elk Mountains]]
+{{epi|3975.2|943.358|22.18|e=1|m=1|date=4 May 2016}}
+|{{coord|38.7179|-107.1994|name=West Elk Peak}}
+|-
+|align=center|66
+{{Mountain table cell|Mount Centennial|alt=Peak 13010|va=1.814|pb=16633|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|3967.27|545.593|4.61|e=|m=1|date=4 May 2016}}
+|{{coord|37.6062|-107.2446|name=Mount Centennial}}
+|-
+|align=center|67
+{{Mountain table cell|Mount Robson|hp=the [[Canadian Rockies]]|peak=is the easternmost summit of its elevation in [[Canada]] and the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]||pb=4368|cme=2|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3954|2829|459.54|date=4 May 2016}}
+|{{coord|53.1105|-119.1566|name=Mount Robson}}
+|-
+|align=center|68
+{{Mountain table cell|Clark Peak (Medicine Bow Mountains)|name=Clark Peak|hp=the [[Medicine Bow Mountains]]|ngs=LL1388|stn=CLARK|pb=5556|cme=12323|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Medicine Bow Mountains]]
+{{epi|3948.4|844.602|26.40|e=1|m=1|date=4 May 2016}}
+|{{coord|40.6068|-105.9300|name=Clark Peak}}
+|-
+|align=center|69
+{{Mountain table cell|Mount Richthofen|hp=the [[Never Summer Mountains]]|va=1.658|pb=5577|cme=12328|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Never Summer Mountains]]
+{{epi|3945.778|816.866|15.54|e=|m=1|date=4 May 2016}}
+|{{coord|40.4695|-105.8945|name=Mount Richthofen}}
+|-
+|align=center|70
+{{Mountain table cell|Lizard Head Peak (Wyoming)|name=Lizard Head Peak|hp=the [[Cirque of the Towers]]|va=1.572|pb=5405|cme=14001|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|3915.821|579.731|10.40|e=|m=1|date=4 May 2016}}
+|{{coord|42.7901|-109.1978|name=Lizard Head Peak}}
+|-
+|align=center|71
+{{Mountain table cell|Granite Peak (Montana)|name=Granite Peak|hp=the [[Beartooth Mountains]] and the U.S. [[Montana|State of Montana]]|ngs=QW0616|stn=GRANITE PEAK|pb=5258|cme=22390|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Beartooth Mountains]]
+{{epi|3903.5|1456.642|138.45|e=1|m=1|date=4 May 2016}}
+|{{coord|45.1634|-109.8075|name=Granite Peak}}
+|-
+|align=center|72
+{{Mountain table cell|Venado Peak|va=1.650|pb=5931|cme=13088|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Taos Mountains]]
+{{epi|3882.981|905.563|18.99|e=|m=1|date=4 May 2016}}
+|{{coord|36.7917|-105.4933|name=Venado Peak}}
+|-
+|align=center|73
+{{Mountain table cell|Chair Mountain|ngs=KL0696|stn=CHAIR D|pb=5704|cme=12398|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|3879.1|750.114|14.30|e=1|m=1|date=4 May 2016}}
+|{{coord|39.0581|-107.2822|name=Chair Mountain}}
+|-
+|align=center|74
+{{Mountain table cell|Mount Gunnison|ngs=JL0762|stn=GUNNISON D|pb=16508|cme=12238|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[West Elk Mountains]]
+{{epi|3878.7|1078.689|19.05|e=1|m=1|date=4 May 2016}}
+|{{coord|38.8121|-107.3826|name=Mount Gunnison}}
+|-
+|align=center|75
+{{Mountain table cell|East Spanish Peak|peak=is the easternmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]] and the [[United States]]||ngs=HK0488|stn=EAST SPANISH PEAK CAIRN|va=1.372|pb=16610|cme=12462|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Spanish Peaks]]
+{{epi|3867.158|726.34|6.78|e=|m=1|date=4 May 2016}}
+|{{coord|37.3934|-104.9201|name=East Spanish Peak}}
+|-
+|align=center|76
+{{Mountain table cell|Borah Peak|hp=the [[Lost River Range]] and the U.S. [[Idaho|State of Idaho]]|ngs=PZ0770|stn=BEAUTY RESET|pb=5142|cme=9314|date=4 May 2016}}
+|{{flag|Idaho}}
+|[[Lost River Range]]
+{{epi|3861.2|1829.4|242.62|e=1|m=1|date=4 May 2016}}
+|{{coord|44.1374|-113.7811|name=Borah Peak}}
+|-
+|align=center|77
+{{Mountain table cell|Mount Wood (Montana)|name=Mount Wood|hp=the [[Granite Range (Montana)|Granite Range]]|va=1.516|pb=5274|cme=28034|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Beartooth Mountains]]
+{{epi|3860.292|877.826|12.04|e=|m=1|date=4 May 2016}}
+|{{coord|45.2749|-109.8078|name=Mount Wood}}
+|-
+|align=center|78
+{{Mountain table cell|Santa Fe Baldy|peak=is the southernmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=FN0726|stn=SANTA FE BALDY|pb=5945|cme=13120|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Santa Fe Mountains]]
+{{epi|3850.1|610.211|17.69|e=1|m=1|date=4 May 2016}}
+|{{coord|35.8322|-105.7581|name=Santa Fe Baldy}}
+|-
+|align=center|79
+{{Mountain table cell|Gothic Mountain|va=1.936|pb=16644|cme=14017|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|3850.044|501.397|4.39|e=|m=1|date=4 May 2016}}
+|{{coord|38.9562|-107.0107|name=Gothic Mountain}}
+|-
+|align=center rowspan=2|80
+{{Mountain table cell|Castle Mountain (Montana)|name=Castle Mountain|ngs=QW0613|stn=PLATEAU|pb=5267|cme=28188|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Beartooth Mountains]]
+{{epi|3846.1|814.427|15.67|e=1|m=1|date=4 May 2016}}
+|{{coord|45.0989|-109.6305|name=Castle Mountain}}
+|-
+<!-- |align=center|80 -->
+{{Mountain table cell|Lone Cone (Colorado)|name=Lone Cone|ngs=HM0489|stn=LONE CONE|pb=5815|cme=35233|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Miguel Mountains]]
+{{epi|3846.1|692.812|13.52|e=1|m=1|date=4 May 2016}}
+|{{coord|37.8880|-108.2556|name=Lone Cone}}
+|-
+|align=center|82
+{{Mountain table cell|Mount Moran|ngs=OX0854|stn=MT MORAN ET|pb=5204|cme=29133|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Teton Range]]
+{{epi|3843.5|806.198|9.94|e=1|m=1|date=4 May 2016}}
+|{{coord|43.8350|-110.7765|name=Mount Moran}}
+|-
+|align=center|83
+{{Mountain table cell|Little Costilla Peak|ngs=GM0770|stn=CUERVO|pb=5927|cme=13101|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Culebra Range]]
+{{epi|3836.8|744.933|12.48|e=1|m=1|date=4 May 2016}}
+|{{coord|36.8335|-105.2229|name=Little Costilla Peak}}
+|-
+|align=center|84
+{{Mountain table cell|Graham Peak (Colorado)|name=Graham Peak|ngs=HL0620|stn=GRAHAM|pb=16513|cme=12387|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|3821.1|777.546|13.90|e=1|m=1|date=4 May 2016}}
+|{{coord|37.4972|-107.3761|name=Graham Peak}}
+|-
+|align=center|85
+{{Mountain table cell|Whetstone Mountain|ngs=JL0732|stn=WHETSTONE MTN CAIRN|pb=16515|cme=12401|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[West Elk Mountains]]
+{{epi|3818.1|748.59|15.11|e=1|m=1|date=4 May 2016}}
+|{{coord|38.8223|-106.9799|name=Whetstone Mountain}}
+|-
+|align=center|86
+{{Mountain table cell|Atlantic Peak|va=1.521|pb=5403|cme=21703|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|3808.481|655.321|14.60|e=|m=1|date=4 May 2016}}
+|{{coord|42.6165|-109.0013|name=Atlantic Peak}}
+|-
+|align=center|87
+{{Mountain table cell|Specimen Mountain|va=1.614|pb=5586|cme=14706|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|3808.269|527.61|7.56|e=|m=1|date=4 May 2016}}
+|{{coord|40.4449|-105.8081|name=Specimen Mountain}}
+|-
+|align=center|88
+{{Mountain table cell|Baldy Mountain (Colfax County, New Mexico)|name=Baldy Mountain|hp=the [[Sangre de Cristo Mountains#Cimarron Range|Cimarron Range]]|ngs=GM0775|stn=BALDY MTN|pb=16493|cme=13093|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Sangre de Cristo Mountains#Cimarron Range|Cimarron Range]]
+{{epi|3793.3|823.266|18.24|e=1|m=1|date=4 May 2016}}
+|{{coord|36.6299|-105.2134|name=Baldy Mountain}}
+|-
+|align=center|89
+{{Mountain table cell|East Beckwith Mountain|ngs=JL0741|stn=EAST BECKWITH|pb=16514|cme=12395|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[West Elk Mountains]]
+{{epi|3792.1|759.563|10.05|e=1|m=1|date=4 May 2016}}
+|{{coord|38.8464|-107.2233|name=East Beckwith Mountain}}
+|-
+|align=center|90
+{{Mountain table cell|Knobby Crest|hp=the [[Kenosha Mountains]]|va=1.595|pb=29046|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Kenosha Mountains]]
+{{epi|3789.962|536.144|13.31|e=|m=1|date=4 May 2016}}
+|{{coord|39.3681|-105.6050|name=Knobby Crest}}
+|-
+|align=center|91
+{{Mountain table cell|Bison Peak|hp=the [[Tarryall Mountains]]|ngs=KK1966|stn=BISON|pb=5683|cme=12403|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Tarryall Mountains]]
+{{epi|3789.4|747.066|29.34|e=1|m=1|date=4 May 2016}}
+|{{coord|39.2384|-105.4978|name=Bison Peak}}
+|-
+|align=center|92
+{{Mountain table cell|Anthracite Range|name=Anthracite Range High Point|ngs=JL0739|stn=ANTHRACITE|pb=16620|cme=35235|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[West Elk Mountains]]
+{{epi|3777.8|647.701|7.68|e=1|m=1|date=4 May 2016}}
+|{{coord|38.8145|-107.1445|name=Anthracite Peak}}
+|-
+|align=center|93
+{{Mountain table cell|Matchless Mountain (Colorado)|name=Matchless Mountain|va=1.941|pb=16634|cme=35241|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Elk Mountains (Colorado)|Elk Mountains]]
+{{epi|3776.287|537.363|12.67|e=|m=1|date=4 May 2016}}
+|{{coord|38.8340|-106.6451|name=Matchless Mountain}}
+|-
+|align=center|94
+{{Mountain table cell|Flat Top Mountain (Colorado)|name=Flat Top Mountain|hp=the [[Flat Tops (Colorado)|Flat Tops]]|ngs=LM0694|stn=FLATTOP|pb=5574|cme=9503|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Flat Tops (Colorado)|Flat Tops]]
+{{epi|3767.7|1235.662|65.62|e=1|m=1|date=4 May 2016}}
+|{{coord|40.0147|-107.0833|name=Flat Top Mountain}}
+|-
+|align=center|95
+{{Mountain table cell|Mount Nystrom|ngs=NS0271|stn=MT NYSTROM|pb=5401|cme=21707|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|3767.5|553.518|7.92|e=1|m=1|date=4 May 2016}}
+|{{coord|42.6418|-109.0939|name=Mount Nystrom}}
+|-
+|align=center|96
+{{Mountain table cell|Greenhorn Mountain|hp=the [[Wet Mountains]]|ngs=HK0512|stn=GREENHORN MTN|pb=5915|cme=12165|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Wet Mountains]]
+{{epi|3765|1151.232|40.62|e=1|m=1|date=4 May 2016}}
+|{{coord|37.8815|-105.0133|name=Greenhorn Mountain}}
+|-
+|align=center|97
+{{Mountain table cell|Elliott Mountain|va=1.709|pb=5822|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Miguel Mountains]]
+{{epi|3762.949|682.753|8.26|e=|m=1|date=4 May 2016}}
+|{{coord|37.7344|-108.0580|name=Elliott Mountain}}
+|-
+|align=center|98
+{{Mountain table cell|Carter Mountain|ngs=PX0432|stn=CARTER|pb=17294|cme=23832|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Absaroka Range]]
+{{epi|3756.4|517.856|26.84|e=1|m=1|date=4 May 2016}}
+|{{coord|44.1972|-109.4112|name=Carter Mountain}}
+|-
+|align=center|99
+{{Mountain table cell|Parkview Mountain|hp=the [[Rabbit Ears Range]]|ngs=LM0574|stn=PARKVIEW MOUNTAIN|pb=5770|cme=12329|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Rabbit Ears Range]]
+{{epi|3749.4|815.646|15.07|e=1|m=1|date=4 May 2016}}
+|{{coord|40.3303|-106.1363|name=Parkview Mountain}}
+|-
+|align=center|100
+{{Mountain table cell|Cornwall Mountain|va=1.715|pb=16680|cme=35249|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|3746.19|531.572|8.37|e=|m=1|date=4 May 2016}}
+|{{coord|37.3811|-106.4920|name=Cornwall Mountain}}
+|}
+
+==Most prominent summits==
+{{GeoGroup|section=Most prominent summits}}
+Of the 50 most prominent summits of the Rocky Mountains, only [[Mount Robson]] and [[Mount Elbert]] exceed {{convert|2500|m|0|abbr=off|comma=5|sp=us}} of topographic prominence, seven peaks exceed {{convert|2000|m|0|abbr=off|comma=5|sp=us}}, [[List of Ultras of the Rocky Mountains|31 peaks are ultra-prominent summits with at least {{convert|1500|m|0|abbr=off|comma=5|sp=us}}]], and all 50 peaks exceed {{convert|1189|m|0|abbr=off|comma=5|sp=us}} of topographic prominence.
+
+Of these 50 peaks, 12 are located in British Columbia, 12 in Montana, ten in Alberta, eight in Colorado, four in Wyoming, three in Utah, three in Idaho, and one in New Mexico.  Three of these peaks lie on the Alberta-British Columbia border.
+{{clear}}
+{| class="wikitable sortable"
+|+<big>The 50 most topographically&nbsp;prominent summits of the Rocky&nbsp;Mountains</big><br/><br/>
+![[Ranking|Rank]]
+![[Summit|Mountain peak]]
+![[Region]]
+![[Mountain range]]
+![[Elevation]]
+![[Topographic prominence|Prominence]]
+![[Topographic isolation|Isolation]]
+![[Geographic coordinate system|Location]]
+|-
+|align=center|1
+{{Mountain table cell|Mount Robson|hp=the [[Canadian Rockies]]|peak=is the easternmost summit of its elevation in [[Canada]] and the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]||pb=4368|cme=2|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3959|2829|459.54|date=4 May 2016}}
+|{{coord|53.1105|-119.1566|name=Mount Robson}}
+|-
+|align=center|2
+{{Mountain table cell|Mount Elbert|hp=the U.S. [[Colorado|State of Colorado]], the [[Rocky Mountains]] of North America, and the entire [[Mississippi River]] [[drainage basin]]|ngs=KL0637|stn=MOUNT ELBERT|pb=5736|cme=9145|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4401.2|2771.552|1079.15|e=1|m=1|date=4 May 2016}}
+|{{coord|39.1178|-106.4454|name=Mount Elbert}}
+|-
+|align=center|3
+{{Mountain table cell|Mount Columbia (Canada)|name=Mount Columbia|peak=on the [[Continental Divide of the Americas|Great Divide]] between [[British Columbia]] and [[Alberta]] is the highest point of the [[Columbia Icefield]], the [[Alberta|Province of Alberta]], and the entire [[Beaufort Sea]] [[Drainage basin]]|pb=4470|cme=1|date=4 May 2016}}
+|{{flag|Alberta}}<br/>{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3741|2371|158.02|date=4 May 2016}}
+|{{coord|52.1473|-117.4416|name=Mount Columbia}}
+|-
+|align=center|4
+{{Mountain table cell|Cloud Peak|hp=the [[Bighorn Mountains]]|peak=is the northernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=PW0524|stn=CLOUD PEAK|pb=5323|cme=9229|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Bighorn Mountains]]
+{{epi|4013.3|2157.074|233.38|e=1|m=1|date=4 May 2016}}
+|{{coord|44.3821|-107.1739|name=Cloud Peak}}
+|-
+|align=center|5
+{{Mountain table cell|Gannett Peak|hp=the [[Wind River Range]], the U.S. [[Wyoming|State of Wyoming]], and the central [[Rocky Mountains]]|peak=is the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]|ngs=OW0356|stn=GANNETT PEAK CAIRN|pb=5352|cme=9228|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|4209.1|2156.769|467.28|e=1|m=1|date=4 May 2016}}
+|{{coord|43.1842|-109.6542|name=Gannett Peak}}
+|-
+|align=center|6
+{{Mountain table cell|Mount Assiniboine|peak=is the southernmost and easternmost summit of its elevation in [[Canada]]|pb=4669|cme=1479|date=4 May 2016}}
+|{{flag|Alberta}}<br/>{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3616|2082|141.76|date=4 May 2016}}
+|{{coord|50.8696|-115.6509|name=Mount Assiniboine}}
+|-
+|align=center|7
+{{Mountain table cell|Mount Edith Cavell|pb=4425|cme=8|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3363|2033|47.21|date=4 May 2016}}
+|{{coord|52.6672|-118.0569|name=Mount Edith Cavell}}
+|-
+|align=center|8
+{{Mountain table cell|Grand Teton|hp=the [[Teton Range]]|peak=is the northernmost and westernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=OX0838|stn=GRAND TETON|pb=5218|cme=9230|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Teton Range]]
+{{epi|4198.7|1994.92|111.61|e=1|m=1|date=4 May 2016}}
+|{{coord|43.7412|-110.8024|name=Grand Teton}}
+|-
+|align=center|9
+{{Mountain table cell|Kings Peak (Utah)|name=Kings Peak|hp=the [[Uinta Mountains]], the U.S. [[Utah|State of Utah]], and the western [[Rocky Mountains]]|va=1.807|pb=5507|cme=9234|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Uinta Mountains]]
+{{epi|4125.15|1937.922|268.04|e=|m=1|date=4 May 2016}}
+|{{coord|40.7763|-110.3729|name=Kings Peak}}
+|-
+|align=center|10
+{{Mountain table cell|Mount Goodsir|hp=the [[Ottertail Range]]|pb=4633|cme=1630|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3567|1917|64.12|date=4 May 2016}}
+|{{coord|51.2021|-116.3975|name=Mount Goodsir}}
+|-
+|align=center|11
+{{Mountain table cell|Borah Peak|hp=the [[Lost River Range]] and the U.S. [[Idaho|State of Idaho]]|ngs=PZ0770|stn=BEAUTY RESET|pb=5142|cme=9314|date=4 May 2016}}
+|{{flag|Idaho}}
+|[[Lost River Range]]
+{{epi|3861.2|1829.4|242.62|e=1|m=1|date=4 May 2016}}
+|{{coord|44.1374|-113.7811|name=Borah Peak}}
+|-
+|align=center|12
+{{Mountain table cell|Mount Harrison (British Columbia)|name=Mount Harrison|peak=is the southernmost and easternmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of [[Canada]]|pb=4687|cme=809|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3360|1770|52.07|date=4 May 2016}}
+|{{coord|50.0604|-115.2057|name=Mount Harrison}}
+|-
+|align=center|13
+{{Mountain table cell|Mount Sir Alexander|peak=is the northernmost and westernmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit and [[ultra-prominent summit]] of the [[Rocky Mountains]]|pb=4360|cme=542|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3275|1762|87.77|date=4 May 2016}}
+|{{coord|53.9360|-120.3869|name=Mount Sir Alexander}}
+|-
+|align=center|14
+{{Mountain table cell|Mount Hector (Alberta)|name=Mount Hector|pb=4590|cme=1727|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3394|1759|21.47|date=4 May 2016}}
+|{{coord|51.5752|-116.2590|name=Mount Hector}}
+|-
+|align=center|15
+{{Mountain table cell|Whitehorn Mountain (British Columbia)|name=Whitehorn Mountain|peak=is the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]|pb=4366|cme=209|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3399|1747|7.94|date=4 May 2016}}
+|{{coord|53.1370|-119.2667|name=Whitehorn Mountain}}
+|-
+|align=center|16
+{{Mountain table cell|Mount Chown|peak=is the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]|pb=4361|cme=205|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3316|1746|30.65|date=4 May 2016}}
+|{{coord|53.3971|-119.4173|name=Mount Chown}}
+|-
+|align=center|17
+{{Mountain table cell|Crazy Peak|hp=the [[Crazy Mountains]]|va=1.421|pb=4905|cme=9321|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Crazy Mountains]]
+{{epi|3417.931|1743.155|71.77|e=|m=1|date=4 May 2016}}
+|{{coord|46.0181|-110.2768|name=Crazy Peak}}
+|-
+|align=center|18
+{{Mountain table cell|McDonald Peak|hp=the [[Mission Range]]|va=1.318|pb=4705|cme=9322|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Mission Range]]
+{{epi|2994.46|1722.123|127.79|e=|m=1|date=4 May 2016}}
+|{{coord|47.3826|-113.9191|name=McDonald Peak}}
+|-
+|align=center|19
+{{Mountain table cell|Pikes Peak|peak=is the easternmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit and [[ultra-prominent summit]] of the [[Rocky Mountains]].  Pikes Peak was the inspiration for the lyrics of ''[[America the Beautiful]]''|ngs=JK1242|stn=PIKES PEAK|pb=5689|cme=9498|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4302.31|1685.547|97.56|e=2|m=1|date=4 May 2016}}
+|{{coord|38.8405|-105.0442|name=Pikes Peak}}
+|-
+|align=center|20
+{{Mountain table cell|Mount Nebo (Utah)|name=Mount Nebo|hp=the [[Wasatch Range]]|va=1.395|pb=5475|cme=10423|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Wasatch Range]]
+{{epi|3637.057|1678.842|121.62|e=|m=1|date=4 May 2016}}
+|{{coord|39.8219|-111.7603|name=Mount Nebo}}
+|-
+|align=center|21
+{{Mountain table cell|Snowshoe Peak|hp=the [[Cabinet Mountains]]|va=1.367|pb=4694|cme=9941|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Cabinet Mountains]]
+{{epi|2664.715|1657.506|133.47|e=|m=1|date=4 May 2016}}
+|{{coord|48.2231|-115.6890|name=Snowshoe Peak}}
+|-
+|align=center|22
+{{Mountain table cell|Jeanette Peak|pb=13376|cme=9224|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3089|1657|17.54|date=4 May 2016}}
+|{{coord|52.6357|-118.6166|name=Jeanette Peak}}
+|-
+|align=center|23
+{{Mountain table cell|Mount Forbes|hp=the entire [[Hudson Bay]] [[drainage basin]]|peak=is the easternmost summit of its elevation in [[Canada]]|pb=4488|cme=5|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3617|1649|47.42|date=4 May 2016}}
+|{{coord|51.8600|-116.9316|name=Mount Forbes}}
+|-
+|align=center|24
+{{Mountain table cell|Diamond Peak (Idaho)|name=Diamond Peak|hp=the [[Lemhi Range]]|ngs=PZ0750|stn=DIAMOND RESET|pb=5164|cme=10484|date=4 May 2016}}
+|{{flag|Idaho}}
+|[[Lemhi Range]]
+{{epi|3719.3|1641.961|51.18|e=1|m=1|date=4 May 2016}}
+|{{coord|44.1414|-113.0827|name=Diamond Peak}}
+|-
+|align=center|25
+{{Mountain table cell|Blanca Peak|hp=the [[Sangre de Cristo Mountains]] and the entire [[Rio Grande]] [[drainage basin]]|peak=is the southernmost [[ultra-prominent summit]] of the [[Rocky Mountains]]|va=1.755|pb=5921|cme=9499|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Mountains]]
+{{epi|4374.12|1623.368|166.36|e=|m=1|date=4 May 2016}}
+|{{coord|37.5775|-105.4856|name=Blanca Peak}}
+|-
+|align=center|26
+{{Mountain table cell|Mount Timpanogos|hp=the central [[Wasatch Range]]|ngs=LO0769|stn=TIMPANOGOS|pb=5474|cme=10485|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Wasatch Range]]
+{{epi|3582|1609.042|63.78|e=0|m=1|date=4 May 2016}}
+|{{coord|40.3908|-111.6459|name=Mount Timpanogos}}
+|-
+|align=center|27
+{{Mountain table cell|Mount Fryatt|hp=the [[Hooker Icefield]]|pb=4432|cme=195|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3361|1608|16.37|date=4 May 2016}}
+|{{coord|52.5503|-117.9104|name=Mount Fryatt}}
+|-
+|align=center|28
+{{Mountain table cell|Mount Cleveland (Montana)|name=Mount Cleveland|hp=the [[Lewis Range]]|ngs=TM1009|stn=CLEVELAND|pb=4756|cme=10487|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Lewis Range]]
+{{epi|3194|1598.984|159.89|e=0|m=1|date=4 May 2016}}
+|{{coord|48.9249|-113.8482|name=Mount Cleveland}}
+|-
+|align=center rowspan=2|29
+{{Mountain table cell|Mount Temple (Alberta)|name=Mount Temple|hp=the [[Bow Range]]|pb=4643|cme=1584|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3540|1530|21.27|date=4 May 2016}}
+|{{coord|51.3511|-116.2063|name=Mount Temple}}
+|-
+<!-- |align=center|29 -->
+{{Mountain table cell|Mount Ida (Continental Ranges)|name=Mount Ida|peak=is the northernmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit and [[ultra-prominent summit]] of the [[Rocky Mountains]]|pb=13361|cme=547|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3200|1530|14.14|date=4 May 2016}}
+|{{coord|54.0580|-120.3268|name=Mount Ida}}
+|-
+|align=center|31
+{{Mountain table cell|Mount Joffre|peak=is the easternmost summit of its elevation in [[Canada]]|pb=4686|cme=12|date=4 May 2016}}
+|{{flag|Alberta}}<br/>{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3433|1505|49.23|date=4 May 2016}}
+|{{coord|50.5285|-115.2069|name=Mount Joffre}}
+|-
+|align=center|32
+{{Mountain table cell|Mount Clemenceau|hp=the [[Clémenceau Icefield]]|pb=4441|cme=26|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3664|1494|35.85|date=4 May 2016}}
+|{{coord|52.2475|-117.9578|name=Mount Clemenceau}}
+|-
+|align=center|33
+{{Mountain table cell|Mount Brazeau|pb=4561|cme=191|date=4 May 2016}}
+|{{flag|Alberta}}
+|[[Canadian Rockies]]
+{{epi|3525|1475|30.80|date=4 May 2016}}
+|{{coord|52.5515|-117.3549|name=Mount Brazeau}}
+|-
+|align=center|34
+{{Mountain table cell|Culebra Peak|hp=the [[Culebra Range]]|peak=is the southernmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|va=1.740|pb=5924|cme=9500|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Culebra Range]]
+{{epi|4283.274|1471.273|56.94|e=|m=1|date=4 May 2016}}
+|{{coord|37.1224|-105.1858|name=Culebra Peak}}
+|-
+|align=center|35
+{{Mountain table cell|Granite Peak (Montana)|name=Granite Peak|hp=the [[Beartooth Mountains]] and the U.S. [[Montana|State of Montana]]|ngs=QW0616|stn=GRANITE PEAK|pb=5258|cme=22390|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Beartooth Mountains]]
+{{epi|3903.5|1456.642|138.45|e=1|m=1|date=4 May 2016}}
+|{{coord|45.1634|-109.8075|name=Granite Peak}}
+|-
+|align=center|36
+{{Mountain table cell|Sentinel Peak (British Columbia)|name=Sentinel Peak|hp=the [[Murray Range]]|peak=is the northernmost and westernmost {{convert|2000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|pb=4357|cme=6801|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|2513|1452|86.58|date=4 May 2016}}
+|{{coord|54.9080|-121.9610|name=Sentinel Peak}}
+|-
+|align=center|37
+{{Mountain table cell|Crestone Peak|hp=the [[Crestones]]|va=1.76|pb=5908|cme=9501|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Range]]
+{{epi|4358.572|1388.059|44.04|e=|m=1|date=4 May 2016}}
+|{{coord|37.9669|-105.5855|name=Crestone Peak}}
+|-
+|align=center|38
+{{Mountain table cell|Table Mountain (Montana)|name=Table Mountain|hp=the [[Highland Mountains]]|ngs=QY0501|stn=TABLE MTN|va=1.467|pb=4885|cme=21298|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Highland Mountains]]
+{{epi|3117.444|1347.828|31.06|e=|m=1|date=4 May 2016}}
+|{{coord|45.7426|-112.4619|name=Table Mountain}}
+|-
+|align=center|39
+{{Mountain table cell|Mount Stimson|ngs=TM0942|stn=STIMSON|pb=4816|cme=14365|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Lewis Range]]
+{{epi|3092.6|1341.732|48.29|e=1|m=1|date=4 May 2016}}
+|{{coord|48.5142|-113.6104|name=Mount Stimson}}
+|-
+|align=center|40
+{{Mountain table cell|Kintla Peak|hp=the [[Livingston Range]]|va=1.413|pb=4725|cme=13306|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Livingston Range]]
+{{epi|3080.204|1341.427|23.78|e=|m=1|date=4 May 2016}}
+|{{coord|48.9437|-114.1714|name=Kintla Peak}}
+|-
+|align=center|41
+{{Mountain table cell|Uncompahgre Peak|hp=the [[San Juan Mountains]] and the entire [[Gulf of California]] [[drainage basin]]|peak=is the westernmost summit of its elevation in the [[Rocky Mountains]]|ngs=JL0798|stn=UNCOMPAHGRE|pb=5836|cme=9502|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4365|1303.632|136.81|e=1|m=1|date=4 May 2016}}
+|{{coord|38.0717|-107.4621|name=Uncompahgre Peak}}
+|-
+|align=center|42
+{{Mountain table cell|Mount Edith|hp=the [[Big Belt Mountains]]|va=1.249|pb=4892|cme=24947|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Big Belt Mountains]]
+{{epi|2896.855|1252.731|59.49|e=|m=1|date=4 May 2016}}
+|{{coord|46.4318|-111.1862|name=Mount Edith}}
+|-
+|align=center|43
+{{Mountain table cell|Hilgard Peak|hp=the [[Madison Range]]|va=1.490|pb=4927|cme=21636|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Madison Range]]
+{{epi|3450.614|1238.405|122.96|e=|m=1|date=4 May 2016}}
+|{{coord|44.9166|-111.4593|name=Hilgard Peak}}
+|-
+|align=center|44
+{{Mountain table cell|Francs Peak|hp=the [[Absaroka Range]]|ngs=OW0325|stn=FRANCS PK 2|pb=5311|cme=13772|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Absaroka Range]]
+{{epi|4012.3|1236.271|76.02|e=1|m=1|date=4 May 2016}}
+|{{coord|43.9613|-109.3392|name=Francs Peak}}
+|-
+|align=center|45
+{{Mountain table cell|Flat Top Mountain (Colorado)|name=Flat Top Mountain|hp=the [[Flat Tops (Colorado)|Flat Tops]]|ngs=LM0694|stn=FLATTOP|pb=5574|cme=9503|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Flat Tops (Colorado)|Flat Tops]]
+{{epi|3767.7|1235.662|65.62|e=1|m=1|date=4 May 2016}}
+|{{coord|40.0147|-107.0833|name=Flat Top Mountain}}
+|-
+|align=center|46
+{{Mountain table cell|Castle Peak (Idaho)|name=Castle Peak|hp=the [[White Cloud Mountains]]|ngs=QA0732|stn=CASTLE|pb=5093|cme=13765|date=4 May 2016}}
+|{{flag|Idaho}}
+|[[White Cloud Mountains]]
+{{epi|3600.4|1229.87|43.97|e=1|m=1|date=4 May 2016}}
+|{{coord|44.0402|-114.5887|name=Castle Peak}}
+|-
+|align=center|47
+{{Mountain table cell|Mount Wilson (Colorado)|name=Mount Wilson|hp=the [[San Miguel Mountains]]|peak=is the westernmost summit of its elevation in the [[Rocky Mountains]]|va=1.899|pb=5820|cme=12143|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Miguel Mountains]]
+{{epi|4344.089|1226.518|53.13|e=|m=1|date=4 May 2016}}
+|{{coord|37.8391|-107.9916|name=Mount Wilson}}
+|-
+|align=center|48
+{{Mountain table cell|Truchas Peak|hp=the [[Santa Fe Mountains]]|peak=is the southernmost summit of its elevation in the [[Rocky Mountains]]|ngs=FN0666|stn=TRUCHAS|pb=5944|cme=13071|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Santa Fe Mountains]]
+{{epi|3995.2|1219.507|68.15|e=1|m=1|date=4 May 2016}}
+|{{coord|35.9625|-105.6450|name=Truchas Peak}}
+|-
+|align=center|49
+{{Mountain table cell|West Goat Peak|hp=the [[Anaconda Range]]|va=1.520|pb=4880|cme=18546|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Anaconda Range]]
+{{epi|3291.233|1210.973|62.89|e=|m=1|date=4 May 2016}}
+|{{coord|45.9625|-113.3949|name=West Goat Peak}}
+|-
+|align=center|50
+{{Mountain table cell|Hollowtop Mountain|hp=the [[Tobacco Root Mountains]]|va=1.486|pb=4912|cme=24211|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Tobacco Root Mountains]]
+{{epi|3233.592|1189.942|54.79|e=|m=1|date=4 May 2016}}
+|{{coord|45.6116|-112.0083|name=Hollowtop Mountain}}
+|}
+
+==Most isolated major summits==
+{{GeoGroup|section=Most isolated major summits}}
+Of the 50 most isolated major summits of the Rocky Mountains, only Mount Elbert exceeds {{convert|1000|km|2|abbr=off|comma=5|sp=us}} of topographic isolation, six peaks exceed {{convert|200|km|2|abbr=off|comma=5|sp=us}}, [[List of the major 100-kilometer summits of the Rocky Mountains|19 peaks exceed {{convert|100|km|2|abbr=off|comma=5|sp=us}}]], and all 50 peaks exceed {{convert|52|km|2|abbr=off|comma=5|sp=us}} of topographic isolation.
+
+Of these 50 peaks, 17 are located in Montana, ten in Colorado, nine in Wyoming, six in British Columbia, five in Utah, two in Alberta, two in New Mexico, and one in Idaho.  Two of these peaks lie on the Alberta-British Columbia border.
+{{clear}}
+<!-- Please discuss any proposed changes to this table at [[Wikipedia talk:WikiProject Mountains]] several days before changes may be made. -->
+{| class="wikitable sortable"
+|+<big>The 50 most topographically&nbsp;isolated summits of the Rocky&nbsp;Mountains with at least 500&nbsp;meters of topographic&nbsp;prominence</big><br/><br/>
+![[Ranking|Rank]]
+![[Summit|Mountain peak]]
+![[Region]]
+![[Mountain range]]
+![[Elevation]]
+![[Topographic prominence|Prominence]]
+![[Topographic isolation|Isolation]]
+![[Geographic coordinate system|Location]]
+|-
+|align=center|1
+{{Mountain table cell|Mount Elbert|hp=the U.S. [[Colorado|State of Colorado]], the [[Rocky Mountains]] of North America, and the entire [[Mississippi River]] [[drainage basin]]|ngs=KL0637|stn=MOUNT ELBERT|pb=5736|cme=9145|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sawatch Range]]
+{{epi|4401.2|2771.552|1079.15|e=1|m=1|date=4 May 2016}}
+|{{coord|39.1178|-106.4454|name=Mount Elbert}}
+|-
+|align=center|2
+{{Mountain table cell|Gannett Peak|hp=the [[Wind River Range]], the U.S. [[Wyoming|State of Wyoming]], and the central [[Rocky Mountains]]|peak=is the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]|ngs=OW0356|stn=GANNETT PEAK CAIRN|pb=5352|cme=9228|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|4209.1|2156.769|467.28|e=1|m=1|date=4 May 2016}}
+|{{coord|43.1842|-109.6542|name=Gannett Peak}}
+|-
+|align=center|3
+{{Mountain table cell|Mount Robson|hp=the [[Canadian Rockies]]|peak=is the easternmost summit of its elevation in [[Canada]] and the northernmost and westernmost summit of its elevation in the [[Rocky Mountains]]||pb=4368|cme=2|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3959|2829|459.54|date=4 May 2016}}
+|{{coord|53.1105|-119.1566|name=Mount Robson}}
+|-
+|align=center|4
+{{Mountain table cell|Kings Peak (Utah)|name=Kings Peak|hp=the [[Uinta Mountains]], the U.S. [[Utah|State of Utah]], and the western [[Rocky Mountains]]|va=1.807|pb=5507|cme=9234|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Uinta Mountains]]
+{{epi|4125.15|1937.922|268.04|e=|m=1|date=4 May 2016}}
+|{{coord|40.7763|-110.3729|name=Kings Peak}}
+|-
+|align=center|5
+{{Mountain table cell|Borah Peak|hp=the [[Lost River Range]] and the U.S. [[Idaho|State of Idaho]]|ngs=PZ0770|stn=BEAUTY RESET|pb=5142|cme=9314|date=4 May 2016}}
+|{{flag|Idaho}}
+|[[Lost River Range]]
+{{epi|3861.2|1829.4|242.62|e=1|m=1|date=4 May 2016}}
+|{{coord|44.1374|-113.7811|name=Borah Peak}}
+|-
+|align=center|6
+{{Mountain table cell|Cloud Peak|hp=the [[Bighorn Mountains]]|peak=is the northernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=PW0524|stn=CLOUD PEAK|pb=5323|cme=9229|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Bighorn Mountains]]
+{{epi|4013.3|2157.074|233.38|e=1|m=1|date=4 May 2016}}
+|{{coord|44.3821|-107.1739|name=Cloud Peak}}
+|-
+|align=center|7
+{{Mountain table cell|Blanca Peak|hp=the [[Sangre de Cristo Mountains]] and the entire [[Rio Grande]] [[drainage basin]]|peak=is the southernmost [[ultra-prominent summit]] of the [[Rocky Mountains]]|va=1.755|pb=5921|cme=9499|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Sangre de Cristo Mountains]]
+{{epi|4374.12|1623.368|166.36|e=|m=1|date=4 May 2016}}
+|{{coord|37.5775|-105.4856|name=Blanca Peak}}
+|-
+|align=center|8
+{{Mountain table cell|Mount Cleveland (Montana)|name=Mount Cleveland|hp=the [[Lewis Range]]|ngs=TM1009|stn=CLEVELAND|pb=4756|cme=10487|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Lewis Range]]
+{{epi|3194|1598.984|159.89|e=0|m=1|date=4 May 2016}}
+|{{coord|48.9249|-113.8482|name=Mount Cleveland}}
+|-
+|align=center|9
+{{Mountain table cell|Mount Columbia (Canada)|name=Mount Columbia|peak=on the [[Continental Divide of the Americas|Great Divide]] between [[British Columbia]] and [[Alberta]] is the highest point of the [[Columbia Icefield]], the [[Alberta|Province of Alberta]], and the entire [[Beaufort Sea]] [[Drainage basin]]|pb=4470|cme=1|date=4 May 2016}}
+|{{flag|Alberta}}<br/>{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3741|2371|158.02|date=4 May 2016}}
+|{{coord|52.1473|-117.4416|name=Mount Columbia}}
+|-
+|align=center|10
+{{Mountain table cell|Mount Assiniboine|peak=is the southernmost and easternmost summit of its elevation in [[Canada]]|pb=4669|cme=1479|date=4 May 2016}}
+|{{flag|Alberta}}<br/>{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3616|2082|141.76|date=4 May 2016}}
+|{{coord|50.8696|-115.6509|name=Mount Assiniboine}}
+|-
+|align=center|11
+{{Mountain table cell|Granite Peak (Montana)|name=Granite Peak|hp=the [[Beartooth Mountains]] and the U.S. [[Montana|State of Montana]]|ngs=QW0616|stn=GRANITE PEAK|pb=5258|cme=22390|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Beartooth Mountains]]
+{{epi|3903.5|1456.642|138.45|e=1|m=1|date=4 May 2016}}
+|{{coord|45.1634|-109.8075|name=Granite Peak}}
+|-
+|align=center|12
+{{Mountain table cell|Uncompahgre Peak|hp=the [[San Juan Mountains]] and the entire [[Gulf of California]] [[drainage basin]]|peak=is the westernmost summit of its elevation in the [[Rocky Mountains]]|ngs=JL0798|stn=UNCOMPAHGRE|pb=5836|cme=9502|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4365|1303.632|136.81|e=1|m=1|date=4 May 2016}}
+|{{coord|38.0717|-107.4621|name=Uncompahgre Peak}}
+|-
+|align=center|13
+{{Mountain table cell|Snowshoe Peak|hp=the [[Cabinet Mountains]]|va=1.367|pb=4694|cme=9941|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Cabinet Mountains]]
+{{epi|2664.715|1657.506|133.47|e=|m=1|date=4 May 2016}}
+|{{coord|48.2231|-115.6890|name=Snowshoe Peak}}
+|-
+|align=center|14
+{{Mountain table cell|McDonald Peak|hp=the [[Mission Range]]|va=1.318|pb=4705|cme=9322|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Mission Range]]
+{{epi|2994.46|1722.123|127.79|e=|m=1|date=4 May 2016}}
+|{{coord|47.3826|-113.9191|name=McDonald Peak}}
+|-
+|align=center|15
+{{Mountain table cell|Hilgard Peak|hp=the [[Madison Range]]|va=1.490|pb=4927|cme=21636|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Madison Range]]
+{{epi|3450.614|1238.405|122.96|e=|m=1|date=4 May 2016}}
+|{{coord|44.9166|-111.4593|name=Hilgard Peak}}
+|-
+|align=center|16
+{{Mountain table cell|Mount Nebo (Utah)|name=Mount Nebo|hp=the [[Wasatch Range]]|va=1.395|pb=5475|cme=10423|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Wasatch Range]]
+{{epi|3637.057|1678.842|121.62|e=|m=1|date=4 May 2016}}
+|{{coord|39.8219|-111.7603|name=Mount Nebo}}
+|-
+|align=center|17
+{{Mountain table cell|Tweedy Mountain|hp=the [[Pioneer Mountains (Montana)|Pioneer Mountains]]|ngs=QY0549|stn=TWEEDY MTN SOUTH PEAK|va=1.598|pb=4882|cme=13836|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Pioneer Mountains (Montana)|Pioneer Mountains]]
+{{epi|3401.344|1162.51|120.74|e=|m=1|date=4 May 2016}}
+|{{coord|45.4805|-112.9655|name=Tweedy Mountain}}
+|-
+|align=center|18
+{{Mountain table cell|Grand Teton|hp=the [[Teton Range]]|peak=is the northernmost and westernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=OX0838|stn=GRAND TETON|pb=5218|cme=9230|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Teton Range]]
+{{epi|4198.7|1994.92|111.61|e=1|m=1|date=4 May 2016}}
+|{{coord|43.7412|-110.8024|name=Grand Teton}}
+|-
+|align=center|19
+{{Mountain table cell|Laramie Peak|ngs=NQ0621|stn=LARAMIE PEAK|pb=5567|cme=21696|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Laramie Mountains]]
+{{epi|3132|1011.024|108.42|e=1|m=1|date=4 May 2016}}
+|{{coord|42.2681|-105.4425|name=Laramie Peak}}
+|-
+|align=center|20
+{{Mountain table cell|Naomi Peak|hp=the [[Bear River Mountains]]|ngs=MR0721|stn=NAOMI|pb=5436|cme=13424|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Wasatch Range]]
+{{epi|3043|965.913|98.94|e=0|m=1|date=4 May 2016}}
+|{{coord|41.9114|-111.6754|name=Naomi Peak}}
+|-
+|align=center|21
+{{Mountain table cell|Pikes Peak|peak=is the easternmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit and [[ultra-prominent summit]] of the [[Rocky Mountains]].  Pikes Peak was the inspiration for the lyrics of ''[[America the Beautiful]]''|ngs=JK1242|stn=PIKES PEAK|pb=5689|cme=9498|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4302.31|1685.547|97.56|e=2|m=1|date=4 May 2016}}
+|{{coord|38.8405|-105.0442|name=Pikes Peak}}
+|-
+|align=center|22
+{{Mountain table cell|Ferris Mountain|hp=the [[Ferris Mountains]]|ngs=NR0432|stn=FERRIS|pb=5411|cme=13991|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Ferris Mountains]]
+{{epi|3069.6|1000.356|89.01|e=1|m=1|date=4 May 2016}}
+|{{coord|42.2566|-107.2394|name=Ferris Mountain}}
+|-
+|align=center|23
+{{Mountain table cell|Mount Sir Alexander|peak=is the northernmost and westernmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit and [[ultra-prominent summit]] of the [[Rocky Mountains]]|pb=4360|cme=542|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3275|1762|87.77|date=4 May 2016}}
+|{{coord|53.9360|-120.3869|name=Mount Sir Alexander}}
+|-
+|align=center|24
+{{Mountain table cell|Sentinel Peak (British Columbia)|name=Sentinel Peak|hp=the [[Murray Range]]|peak=is the northernmost and westernmost {{convert|2000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|pb=4357|cme=6801|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|2513|1452|86.58|date=4 May 2016}}
+|{{coord|54.9080|-121.9610|name=Sentinel Peak}}
+|-
+|align=center|25
+{{Mountain table cell|Red Mountain (Glacier County, Montana)|name=Red Mountain|hp=the [[Flathead Range]]|ngs=ST0521|stn=RED|pb=4859|cme=18864|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Flathead Range]]
+{{epi|2869.1|1158.547|84.31|e=1|m=1|date=4 May 2016}}
+|{{coord|47.1166|-112.7388|name=Red Mountain}}
+|-
+|align=center|26
+{{Mountain table cell|Wyoming Peak|hp=the [[Wyoming Range]]|ngs=NT0655|stn=WYOMING PEAK|pb=5431|cme=13683|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wyoming Range]]
+{{epi|3481.6|1084.481|81.83|e=1|m=1|date=4 May 2016}}
+|{{coord|42.6043|-110.6238|name=Wyoming Peak}}
+|-
+|align=center|27
+{{Mountain table cell|Rocky Mountain (Montana)|name=Rocky Mountain|hp=the [[Rocky Mountain Front]]|ngs=ST0546|stn=ROCKY|pb=4866|cme=18823|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Rocky Mountain Front]]
+{{epi|2864.4|991.212|77.43|e=1|m=1|date=4 May 2016}}
+|{{coord|47.8123|-112.8003|name=Rocky Mountain}}
+|-
+|align=center|28
+{{Mountain table cell|Francs Peak|hp=the [[Absaroka Range]]|ngs=OW0325|stn=FRANCS PK 2|pb=5311|cme=13772|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Absaroka Range]]
+{{epi|4012.3|1236.271|76.02|e=1|m=1|date=4 May 2016}}
+|{{coord|43.9613|-109.3392|name=Francs Peak}}
+|-
+|align=center|29
+{{Mountain table cell|Big Baldy Mountain (Montana)|name=Big Baldy Mountain|hp=the [[Little Belt Mountains]]|va=1.183|pb=4896|cme=23843|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Little Belt Mountains]]
+{{epi|2798.338|1087.224|73.64|e=|m=1|date=4 May 2016}}
+|{{coord|46.9685|-110.6064|name=Big Baldy Mountain}}
+|-
+|align=center|30
+{{Mountain table cell|Crazy Peak|hp=the [[Crazy Mountains]]|va=1.421|pb=4905|cme=9321|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Crazy Mountains]]
+{{epi|3417.931|1743.155|71.77|e=|m=1|date=4 May 2016}}
+|{{coord|46.0181|-110.2768|name=Crazy Peak}}
+|-
+|align=center|31
+{{Mountain table cell|Longs Peak|hp=the northern [[Front Range]]|peak=is the northernmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=LL1346|stn=LONGS PEAK|pb=5642|cme=9415|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Front Range]]
+{{epi|4346|896.114|70.18|e=0|m=1|date=4 May 2016}}
+|{{coord|40.2550|-105.6151|name=Longs Peak}}
+|-
+|align=center|32
+{{Mountain table cell|Truchas Peak|hp=the [[Santa Fe Mountains]]|peak=is the southernmost summit of its elevation in the [[Rocky Mountains]]|ngs=FN0666|stn=TRUCHAS|pb=5944|cme=13071|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Santa Fe Mountains]]
+{{epi|3995.2|1219.507|68.15|e=1|m=1|date=4 May 2016}}
+|{{coord|35.9625|-105.6450|name=Truchas Peak}}
+|-
+|align=center|33
+{{Mountain table cell|Flat Top Mountain (Colorado)|name=Flat Top Mountain|hp=the [[Flat Tops (Colorado)|Flat Tops]]|ngs=LM0694|stn=FLATTOP|pb=5574|cme=9503|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Flat Tops (Colorado)|Flat Tops]]
+{{epi|3767.7|1235.662|65.62|e=1|m=1|date=4 May 2016}}
+|{{coord|40.0147|-107.0833|name=Flat Top Mountain}}
+|-
+|align=center|34
+{{Mountain table cell|Trapper Peak (Montana)|name=Trapper Peak|hp=the central [[Bitterroot Range]]|va=1.367|pb=4983|cme=10414|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Bitterroot Range]]
+{{epi|3097.227|1088.138|65.61|e=|m=1|date=4 May 2016}}
+|{{coord|45.8898|-114.2978|name=Trapper Peak}}
+|-
+|align=center|35
+{{Mountain table cell|Medicine Bow Peak|hp=the [[Snowy Range]]|ngs=MP0546|stn=MEDICINE BOW|pb=5558|cme=21279|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Medicine Bow Mountains]]
+{{epi|3662.4|988.468|65.36|e=1|m=1|date=4 May 2016}}
+|{{coord|41.3603|-106.3176|name=Medicine Bow Peak}}
+|-
+|align=center|36
+{{Mountain table cell|Mount Goodsir|hp=the [[Ottertail Range]]|pb=4633|cme=1630|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3567|1917|64.12|date=4 May 2016}}
+|{{coord|51.2021|-116.3975|name=Mount Goodsir}}
+|-
+|align=center|37
+{{Mountain table cell|Mount Timpanogos|hp=the central [[Wasatch Range]]|ngs=LO0769|stn=TIMPANOGOS|pb=5474|cme=10485|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Wasatch Range]]
+{{epi|3582|1609.042|63.78|e=0|m=1|date=4 May 2016}}
+|{{coord|40.3908|-111.6459|name=Mount Timpanogos}}
+|-
+|align=center|38
+{{Mountain table cell|Summit Peak|hp=the southern [[San Juan Mountains]]|ngs=HL0503|stn=SUMMIT|pb=5882|cme=12326|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Juan Mountains]]
+{{epi|4056.2|841.25|63.66|e=1|m=1|date=4 May 2016}}
+|{{coord|37.3506|-106.6968|name=Summit Peak}}
+|-
+|align=center|39
+{{Mountain table cell|Willard Peak|hp=the northern [[Wasatch Range]]|ngs=MR0719|stn=WILLARD|pb=5437|cme=13418|date=4 May 2016}}
+|{{flag|Utah}}
+|[[Wasatch Range]]
+{{epi|2978.1|994.564|63.45|e=1|m=1|date=4 May 2016}}
+|{{coord|41.3828|-111.9746|name=Willard Peak}}
+|-
+|align=center|40
+{{Mountain table cell|West Goat Peak|hp=the [[Anaconda Range]]|va=1.520|pb=4880|cme=18546|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Anaconda Range]]
+{{epi|3291.233|1210.973|62.89|e=|m=1|date=4 May 2016}}
+|{{coord|45.9625|-113.3949|name=West Goat Peak}}
+|-
+|align=center|41
+{{Mountain table cell|Mount Zirkel|hp=the [[Park Range (Colorado)|Park Range]]|va=1.632|pb=5547|cme=12239|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Park Range (Colorado)|Park Range]]
+{{epi|3714.103|1057.658|60.60|e=|m=1|date=4 May 2016}}
+|{{coord|40.8313|-106.6631|name=Mount Zirkel}}
+|-
+|align=center|42
+{{Mountain table cell|Wheeler Peak (New Mexico)|name=Wheeler Peak|hp=the [[Taos Mountains]] and the U.S. [[New Mexico|State of New Mexico]]|peak=is the southernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|ngs=GM0779|stn=WHEELER|pb=5937|cme=13074|date=4 May 2016}}
+|{{flag|New Mexico}}
+|[[Taos Mountains]]
+{{epi|4013.3|1039.065|59.57|e=1|m=1|date=4 May 2016}}
+|{{coord|36.5569|-105.4169|name=Wheeler Peak}}
+|-
+|align=center|43
+{{Mountain table cell|Mount Edith|hp=the [[Big Belt Mountains]]|va=1.249|pb=4892|cme=24947|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Big Belt Mountains]]
+{{epi|2896.855|1252.731|59.49|e=|m=1|date=4 May 2016}}
+|{{coord|46.4318|-111.1862|name=Mount Edith}}
+|-
+|align=center|44
+{{Mountain table cell|Homer Youngs Peak|hp=the [[West Big Hole Mountains]]|va=1.483|pb=4991|cme=13634|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Bitterroot Range]]
+{{epi|3238.77|975.667|57.21|e=|m=1|date=4 May 2016}}
+|{{coord|45.3111|-113.6773|name=Homer Youngs Peak}}
+|-
+|align=center|45
+{{Mountain table cell|Culebra Peak|hp=the [[Culebra Range]]|peak=is the southernmost {{convert|14000|ft|0|abbr=off|adj=on|comma=5|sp=us}} summit of the [[Rocky Mountains]]|va=1.740|pb=5924|cme=9500|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[Culebra Range]]
+{{epi|4283.274|1471.273|56.94|e=|m=1|date=4 May 2016}}
+|{{coord|37.1224|-105.1858|name=Culebra Peak}}
+|-
+|align=center|46
+{{Mountain table cell|Wind River Peak|hp=the southern [[Wind River Range]]|ngs=NS0274|stn=WIND|pb=5399|cme=18541|date=4 May 2016}}
+|{{flag|Wyoming}}
+|[[Wind River Range]]
+{{epi|4022.4|783.947|56.56|e=1|m=1|date=4 May 2016}}
+|{{coord|42.7085|-109.1284|name=Wind River Peak}}
+|-
+|align=center|47
+{{Mountain table cell|Hollowtop Mountain|hp=the [[Tobacco Root Mountains]]|va=1.486|pb=4912|cme=24211|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Tobacco Root Mountains]]
+{{epi|3233.592|1189.942|54.79|e=|m=1|date=4 May 2016}}
+|{{coord|45.6116|-112.0083|name=Hollowtop Mountain}}
+|-
+|align=center|48
+{{Mountain table cell|Mount Wilson (Colorado)|name=Mount Wilson|hp=the [[San Miguel Mountains]]|peak=is the westernmost summit of its elevation in the [[Rocky Mountains]]|va=1.899|pb=5820|cme=12143|date=4 May 2016}}
+|{{flag|Colorado}}
+|[[San Miguel Mountains]]
+{{epi|4344.089|1226.518|53.13|e=|m=1|date=4 May 2016}}
+|{{coord|37.8391|-107.9916|name=Mount Wilson}}
+|-
+|align=center|49
+{{Mountain table cell|Crow Peak|hp=the [[Elkhorn Mountains]]|va=1.353|pb=4875|date=4 May 2016}}
+|{{flag|Montana}}
+|[[Elkhorn Mountains]]
+{{epi|2870.746|1159.766|52.98|e=|m=1|date=4 May 2016}}
+|{{coord|46.2940|-111.9037|name=Crow Peak}}
+|-
+|align=center|50
+{{Mountain table cell|Mount Harrison (British Columbia)|name=Mount Harrison|peak=is the southernmost and easternmost {{convert|3000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of [[Canada]]|pb=4687|cme=809|date=4 May 2016}}
+|{{flag|British Columbia}}
+|[[Canadian Rockies]]
+{{epi|3360|1770|52.07|date=4 May 2016}}
+|{{coord|50.0604|-115.2057|name=Mount Harrison}}
+|}
+
+==See also==
+{{Portal|North America|Canada|United States|Mountains}}
+*[[Rocky Mountains]]
+**{{gray|List of mountain peaks of the Rocky Mountains}}
+***[[List of extreme summits of the Rocky Mountains]]
+*[[List of mountain peaks of North America]]
+**[[List of mountain peaks of Greenland]]
+**[[Mountain peaks of Canada|List of mountain peaks of Canada]]
+**[[List of mountain peaks of the United States]]
+***[[List of mountain peaks of Colorado]]
+***[[List of mountain peaks of Idaho]]
+***[[List of mountain peaks of Montana]]
+***[[List of mountain peaks of New Mexico]]
+***[[List of mountain peaks of Utah]]
+***[[List of mountain peaks of Wyoming]]
+**[[List of mountain peaks of Mexico|List of mountain peaks of México]]
+**[[List of mountain peaks of Central America]]
+**[[List of mountain peaks of the Caribbean]]
+*[[Physical geography]]
+**[[Topography]]
+***[[Elevation|Topographic elevation]]
+***[[Topographic prominence]]
+***[[Topographic isolation]]
+
+==Notes==
+{{notelist|32em}}
+
+==References==
+{{reflist|32em}}
+
+==External links==
+{{sister project links|Rocky Mountains}}
+*[http://www.nrcan.gc.ca/home Natural Resources Canada (NRC)]
+**[http://www.nrcan.gc.ca/earth-sciences/geography/place-names/ Canadian Geographical Names @ NRC]
+*[https://www.usgs.gov/ United States Geological Survey (USGS)]
+**[https://geonames.usgs.gov/pls/gnispublic/ Geographic Names Information System @ USGS]
+*[http://www.ngs.noaa.gov/ United States National Geodetic Survey (NGS)]
+**[http://www.ngs.noaa.gov/CORS-Proxy/Glossary/xml/NGS_Glossary.xml Geodetic Glossary @ NGS]
+**[http://www.ngs.noaa.gov/cgi-bin/VERTCON/vert_con.prl NGVD 29 to NAVD 88 online elevation converter @ NGS]
+**[http://www.ngs.noaa.gov/datasheets/ Survey Marks and Datasheets @ NGS]
+*[http://bivouac.com/ Bivouac.com]
+*[http://www.peakbagger.com/ Peakbagger.com]
+*[http://www.peaklist.org/ Peaklist.org]
+*[https://web.archive.org/web/20120615014501/http://www.peakware.com/peaks.html Peakware.com]
+*[http://www.summitpost.org/ Summitpost.org]
+
+{{Rocky Mountains highest}}{{Rocky Mountains prominent}}{{Rocky Mountains isolated}}
+{{Mountain peaks of North America}}
+{{authority control}}
+
+{{DEFAULTSORT:Rocky Mountains, List of mountain peaks of the}}
+[[Category:Rocky Mountains|*]]
+[[Category:Mountains of North America]]
+[[Category:Lists of mountains of Canada]]
+[[Category:Lists of mountains of the United States]]
+[[Category:Lists of mountains by range]]
+[[Category:Lists of mountains by elevation]]
+[[Category:Lists of mountains by prominence]]
+[[Category:Lists of mountains by isolation]]

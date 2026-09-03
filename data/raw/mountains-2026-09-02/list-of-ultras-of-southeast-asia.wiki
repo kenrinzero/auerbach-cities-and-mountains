@@ -1,0 +1,355 @@
+{{Short description|none}}
+This is a list of all the [[ultra-prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[Mainland Southeast Asia]]. All values below are given in metres.{{Clarify|date=January 2020|reason=Explain "Col" column}}
+
+==[[Patkai]]-[[Chin Hills]]==
+{| class="wikitable sortable" style="text-align:right;"
+!{{Abbr|No|Prominence rank}}
+!Peak
+!Country
+!{{Abbr|Elev.|Elevation (metres)}}
+!{{Abbr|Prom.|Prominence (metres)}}
+!{{Abbr|Col.|Col. (metres)}}
+|-
+|1
+| style="text-align:left;" | [[Mount Saramati|Saramati]]
+| style="text-align:left;" | {{IND}}&nbsp;/&nbsp;{{BIR}}
+|3,826
+|'''2,885'''
+|941
+|-
+|2
+| style="text-align:left;" | [[Nat Ma Taung]]
+| style="text-align:left;" | {{BIR}}
+|3,070
+|'''2,148'''
+|922
+|-
+|3
+| style="text-align:left;" | [[Mol Len]]
+| style="text-align:left;" | {{IND}}&nbsp;/&nbsp;{{BIR}}
+|3,088
+|'''1,737'''
+|1351
+|-
+|4
+| style="text-align:left;" | [[Laikot]]
+| style="text-align:left;" | {{IND}}
+|2,832
+|'''1,659'''
+|1173
+|-
+|5
+| style="text-align:left;" | [[Sangpang Bum]]
+| style="text-align:left;" | {{BIR}}
+|2,692
+|'''1,655'''
+|1037
+|-
+|6
+| style="text-align:left;" | [[Bumhpa Bum]]
+| style="text-align:left;" | {{BIR}}
+|3,411
+|'''1,636'''
+|1775
+|-
+|7
+| style="text-align:left;" | [[Dapha Bum]]
+| style="text-align:left;" | {{IND}}
+|4,578
+|'''1,610'''
+|2968
+|-
+|8
+| style="text-align:left;" | HP [[Pakhain Range]]
+| style="text-align:left;" | {{IND}}&nbsp;/&nbsp;{{BIR}}
+|2,780
+|'''1,589'''
+|1191
+|-
+|9
+| style="text-align:left;" | [[Mawhpung Bum]]
+| style="text-align:left;" | {{BIR}}
+|1,874
+|'''1,562'''
+|312
+|-
+|10
+| style="text-align:left;" | [[Japvo]]
+| style="text-align:left;" | {{IND}}
+|3,014
+|'''1,551'''
+|1463
+|-
+|11
+| style="text-align:left;" | [[Kennedy Peak (Burma)|Kennedy Peak]]
+| style="text-align:left;" | {{BIR}}
+|2,703
+|'''1,509'''
+|1194
+|-
+|}
+
+==[[Indo-Malayan System]]==
+{{Clarify|date=January 2020|reason=Where does the term [[Indo-Malayan System]] come from? It's a redlink here. Source?}}
+[[Image:InthanonChedi1.jpg|thumb|right|200px|[[Doi Inthanon]], [[Thailand]]]]
+{| class="wikitable sortable" style="text-align:right;"
+!{{Abbr|No|Prominence rank}}
+!Peak
+!Country
+!{{Abbr|Elev.|Elevation (metres)}}
+!{{Abbr|Prom.|Prominence (metres)}}
+!{{Abbr|Col.|Col. (metres)}}
+|-
+|1
+| style="text-align:left;" | [[Daxue Mountain]]
+| style="text-align:left;" | {{CHN}}
+|3,500
+|'''2,041'''
+|1459
+|-
+|2
+| style="text-align:left;" | [[Myinmoletkat Taung]]
+| style="text-align:left;" | {{BIR}}
+|2,072
+|'''1,857'''
+|215
+|-
+|3
+| style="text-align:left;" | [[Doi Inthanon]]
+| style="text-align:left;" | {{THA}}
+|2,565<!--http://www.dnp.go.th/parkreserve/asp/style1/default.asp?npid=1&lg=2-->
+|'''1,850'''
+|730
+|-
+|4
+| style="text-align:left;" | [[Loi Leng]]
+| style="text-align:left;" | {{BIR}}
+|2,673
+|'''1,823'''
+|850
+|-
+|5
+| style="text-align:left;" | [[Phnom Aural]]
+| style="text-align:left;" | {{KHM}}
+|1,810
+|'''1,741'''
+|215
+|-
+|6
+| style="text-align:left;" | [[Nattaung]]
+| style="text-align:left;" | {{BIR}}
+|2,623
+|'''1,726'''
+|897
+|-
+|7
+| style="text-align:left;" | [[Hunhua Shan]]
+| style="text-align:left;" | {{CHN}}
+|3,420
+|'''1,718'''
+|1702
+|-
+|8
+| style="text-align:left;" | [[Mela Taung]]
+| style="text-align:left;" | {{BIR}}
+|2,080
+|'''1,707'''
+|373
+|-
+|9
+| style="text-align:left;" | [[Phu Soi Dao]]
+| style="text-align:left;" | {{THA}}&nbsp;/&nbsp;{{LAO}}
+|2,120
+|'''1,664'''
+|456
+|-
+|10
+| style="text-align:left;" | [[Phou Khe]]
+| style="text-align:left;" | {{THA}}&nbsp;/&nbsp;{{LAO}}
+|2,079
+|'''1,646'''
+|433
+|-
+|11
+| style="text-align:left;" | [[Mong Ling Shan]]
+| style="text-align:left;" | {{BIR}}
+|2,641
+|'''1,625'''
+|1016
+|-
+|12
+| style="text-align:left;" | [[Loi Pangnao]]
+| style="text-align:left;" | {{BIR}}
+|2,563
+|'''1,596'''
+|967
+|-
+|13
+| style="text-align:left;" | [[Point 2519]]
+| style="text-align:left;" | {{BIR}}
+|2,519
+|'''1,589'''
+|930
+|-
+|14
+| style="text-align:left;" | [[Phnom Samkos]]
+| style="text-align:left;" | {{KHM}}
+|1,750
+|'''1,571'''
+|179
+|-
+|15
+| style="text-align:left;" | [[Point 2995]]
+| style="text-align:left;" | {{CHN}}
+|2,995
+|'''1,544'''
+|1451
+|-
+|}
+
+==[[Malay Peninsula]]==
+[[Image:TahanJoo.GIF|thumb|right|200px|[[Mount Tahan]], [[Malaysia]]]]
+{| class="wikitable sortable" style="text-align:right;"
+!{{Abbr|No|Prominence rank}}
+!Peak
+!Country
+!{{Abbr|Elev.|Elevation (metres)}}
+!{{Abbr|Prom.|Prominence (metres)}}
+!{{Abbr|Col.|Col. (metres)}}
+|-
+|1
+| style="text-align:left;" | [[Mount Tahan]]
+| style="text-align:left;" | {{MAS}}
+|2,187
+|'''2,140'''
+|46
+|-
+|2
+| style="text-align:left;" | [[Mount Yong Belar]]
+| style="text-align:left;" | {{MAS}}
+|2,180
+|'''1,991'''
+|189
+|-
+|3
+| style="text-align:left;" | [[Mount Benum]]
+| style="text-align:left;" | {{MAS}}
+|2,107
+|'''1,950'''
+|157
+|-
+|4
+| style="text-align:left;" | [[Khao Luang]]
+| style="text-align:left;" | {{THA}}
+|1,780
+|'''1,715'''
+|65
+|-
+|5
+| style="text-align:left;" | [[Mount Bintang]]
+| style="text-align:left;" | {{MAS}}
+|1,862
+|'''1,570'''
+|292
+|-
+|}
+
+==[[Annamite Range]] and eastern mountains==
+[[File:Fansipan Summit.jpg|thumb|right|200px|[[Fansipan]], [[Vietnam]]]]
+{| class="wikitable sortable" style="text-align:right;"
+!{{Abbr|No|Prominence rank}}
+!Peak
+!Country
+!{{Abbr|Elev.|Elevation (metres)}}
+!{{Abbr|Prom.|Prominence (metres)}}
+!{{Abbr|Col.|Col. (metres)}}
+|-
+|1
+| style="text-align:left;" | [[Ngọc Linh]]
+| style="text-align:left;" | {{VIE}}
+|2,598
+|'''2,208'''
+|390
+|-
+|2
+| style="text-align:left;" | [[Phou Bia]]
+| style="text-align:left;" | {{LAO}}
+|2,830
+|'''2,079'''
+|751
+|-
+|3
+| style="text-align:left;" | [[Chư Yang Sin]]
+| style="text-align:left;" | {{VIE}}
+|2,420
+|'''2,055'''
+|365
+|-
+|4
+| style="text-align:left;" | [[Phu Luong (mountain)|Phu Luong]]
+| style="text-align:left;" | {{VIE}}
+|2,985
+|'''1,930'''
+|1055
+|-
+|5
+| style="text-align:left;" | [[Phu Si Lung]]
+| style="text-align:left;" | {{CHN}}&nbsp;/&nbsp;{{VIE}}
+|3,076
+|'''1,750'''
+|1326
+|-
+|6
+| style="text-align:left;" | [[Phu Tra]]
+| style="text-align:left;" | {{VIE}}
+|2,540
+|'''1,670'''
+|870
+|-
+|7
+| style="text-align:left;" | [[Phu Xai Lai Leng]]
+| style="text-align:left;" | {{LAO}}&nbsp;/&nbsp;{{VIE}}
+|2,720
+|'''1,623'''
+|1097
+|-
+|8
+| style="text-align:left;" | [[Fansipan]]
+| style="text-align:left;" | {{VIE}}
+|3,143
+|'''1,613'''
+|1530
+|-
+|9
+| style="text-align:left;" | [[Rào Cỏ Mountain|Rào Cỏ]]
+| style="text-align:left;" | {{LAO}}&nbsp;/&nbsp;{{VIE}}
+|2,286
+|'''1,610'''
+|676
+|-
+|10
+| style="text-align:left;" | [[Chiêu Lầu Thi]] (Kiou Leou Ti) 
+| style="text-align:left;" | {{VIE}}
+|2,402
+|'''1,570'''
+|832
+|-
+|11
+| style="text-align:left;" | [[Wenshan (mountain)|Wenshan]]
+| style="text-align:left;" | {{CHN}}
+|2,990
+|'''1,502'''
+|1055
+|-
+|}
+
+==Sources==
+*[http://peaklist.org/WWlists/ultras/burma.html List{{Snd}} Burma]
+*[http://peaklist.org/WWlists/ultras/indochina.html List{{Snd}} Southeast Asia]
+*[http://peaklist.org/WWmaps/asia/map/ASIA_High.gif Map{{Snd}} High Asia]
+*[http://peaklist.org/WWmaps/asia/map/ASIA_S.gif Map{{Snd}} Southeast Asia]
+
+{{Lists of Ultras}}
+
+[[Category:Lists of mountains by prominence|Southeast Asia]]
+[[Category:Landforms of Southeast Asia]]

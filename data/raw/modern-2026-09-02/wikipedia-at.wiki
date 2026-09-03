@@ -1,0 +1,4487 @@
+{{Short description|none}}
+{{Location map+
+|Austria
+|width = 400
+|float = right
+|caption= {{center|Main cities of Austria}}
+|relief = 1
+|places =
+ {{Location map~| Austria
+ |label = '''[[Vienna]]''' ''(Wien)''
+ |position= top
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 48 |lat_min= 12 |lat_dir=N
+ |lon_deg = 16 |lon_min= 22 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Graz]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 04 |lat_dir=N
+ |lon_deg = 15 |lon_min= 26 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Linz]]
+ |position= top
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 48 |lat_min= 15 |lat_dir=N
+ |lon_deg = 14 |lon_min= 20 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Salzburg]]
+ |position= left
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 48 |lat_dir=N
+ |lon_deg = 13 |lon_min= 02 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Innsbruck]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 16 |lat_dir=N
+ |lon_deg = 11 |lon_min= 23 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Klagenfurt am Wörthersee]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 46 |lat_min= 37 |lat_dir=N
+ |lon_deg = 14 |lon_min= 18 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Villach]]
+ |position= left
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 46 |lat_min= 37 |lat_dir=N
+ |lon_deg = 13 |lon_min= 51 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Wels]]
+ |position= left
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 48 |lat_min= 07 |lat_dir=N
+ |lon_deg = 14 |lon_min= 02 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Sankt Pölten|St. Pölten]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 48 |lat_min= 12 |lat_dir=N
+ |lon_deg = 15 |lon_min= 38 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Dornbirn]]
+ |position= right
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 25 |lat_dir=N
+ |lon_deg = 09 |lon_min= 45 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Wiener Neustadt]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 49 |lat_dir=N
+ |lon_deg = 16 |lon_min= 15 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Steyr]]
+ |position= bottom
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 48 |lat_min= 03 |lat_dir=N
+ |lon_deg = 14 |lon_min= 25 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Feldkirch, Vorarlberg|Feldkirch]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 14 |lat_dir=N
+ |lon_deg = 09 |lon_min= 36 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Bregenz]]
+ |position= top
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 30 |lat_dir=N
+ |lon_deg = 09 |lon_min= 45 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Leoben]]
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 23 |lat_dir=N
+ |lon_deg = 15 |lon_min= 06 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Krems an der Donau]]
+ |position= top
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 48 |lat_min= 25 |lat_dir=N
+ |lon_deg = 15 |lon_min= 37 |lon_dir=E
+ }}
+ {{Location map~| Austria
+ |label = [[Eisenstadt]]
+ |position= top
+ |mark = red pog.svg
+ |marksize= 10
+ |lat_deg = 47 |lat_min= 51 |lat_dir=N
+ |lon_deg = 16 |lon_min= 31 |lon_dir=E
+ }}
+}}
+
+This is a complete list of the cities and towns in Austria. There is no legal distinction between town and city in Austria; a ''Stadt'' (city) is an independent [[municipality (Austria)|municipality]] that has been given the right to use that title.
+
+Below is a list of some of the largest cities by population, as well as a full listing of all cities and municipalities of Austria.
+
+==List of largest cities by population==
+The following is a list of '''the 20 largest cities and towns in [[Austria]]''' by population:
+[[File:A-Wien-Stephansd-Turm-West.JPG|thumb|upright|[[Vienna]], capital of [[Austria]]]]
+[[File:Graz.austria.jpg|thumb|upright|[[Graz]]]]
+[[File:View over Linz.jpg|alt=|thumb|upright|[[Linz]]]]
+[[File:Fuerte-Hohensalzburg.JPG|thumb|upright|[[Salzburg]]]]
+[[File:IMG 9040-Innsbruck.JPG|thumb|upright|[[Innsbruck]]]]
+[[File:Klagenfurt 01.jpg|thumb|upright|[[Klagenfurt am Wörthersee]]]]
+[[File:Sankt Poelten.jpg|thumb|upright|[[Sankt Pölten]]]]
+[[File:Bregenz pano 1.jpg|thumb|upright|[[Bregenz]]]]
+[[File:Kismarton légifotó1.jpg|thumb|upright|[[Eisenstadt]]]]
+[[File:Villach (view towards the south).jpeg|thumb|upright|[[Villach]]]]
+The capitals of the [[Federal states of Austria|federal states]] are shown in '''bold face'''.
+
+{{Sticky header}}
+{|class="wikitable sortable sticky-header" style="text-align:right"
+|-
+! Name !! Federal state
+! Population<br />(2025)<ref>{{cite web |url=https://www.statistik.at/en/statistics/population-and-society/population/population-stock/population-at-beginning-of-year/quarter |title=Statistics |publisher=[[Statistics Austria]] |website=www.statistik.at}}</ref>
+|-
+|style="text-align:left"| [[File:Wien Wappen.svg|26x26px]] '''[[Vienna]]''' ||style="text-align:left"| [[Vienna]] ||2,028,289
+|-
+|style="text-align:left"| [[File:AUT Graz COA.svg|24x24px]] '''[[Graz]]''' ||style="text-align:left"| [[Styria]] ||305,314
+|-
+|style="text-align:left"| [[File:Wappen Linz.svg|22x22px]] '''[[Linz]]''' ||style="text-align:left"| [[Upper Austria]] ||213,557
+|-
+|style="text-align:left"| [[File:AUT Salzburg (Stadt) COA.svg|23x23px]] '''[[Salzburg]]''' ||style="text-align:left"| [[Salzburg (federal state)|Salzburg]] ||157,659
+|-
+|style="text-align:left"| [[File:AT Innsbruck COA.svg|23x23px]] '''[[Innsbruck]]''' ||style="text-align:left"| [[Tyrol (federal state)|Tyrol]] ||132,499
+|-
+|style="text-align:left"| [[File:AUT Klagenfurt COA.svg|24x24px]] '''[[Klagenfurt am Wörthersee]]''' ||style="text-align:left"| [[Carinthia]] ||105,256
+|-
+|style="text-align:left"| [[File:Villach CoA.svg|23x23px]] [[Villach]] ||style="text-align:left"| [[Carinthia]] ||65,749
+|-
+|style="text-align:left"| [[File:Wels coat of arms.svg|24x24px]] [[Wels]] ||style="text-align:left"| [[Upper Austria]] ||65,482
+|-
+|style="text-align:left"| [[File:AUT Sankt Poelten COA.svg|23x23px]] '''[[Sankt Pölten]]''' ||style="text-align:left"| [[Lower Austria]] ||59,767
+|-
+|style="text-align:left"| [[File:Wappendornbirn.svg|29x29px]] [[Dornbirn]] ||style="text-align:left"| [[Vorarlberg]] ||52,108
+|-
+|style="text-align:left"| [[File:Wappen_der_Stadt_Wiener_Neustadt.png|30x30px]] [[Wiener Neustadt]] ||style="text-align:left"| [[Lower Austria]] ||49,156
+|-
+|style="text-align:left"| [[File:AUT Steyr COA.svg|25x25px]] [[Steyr]] ||style="text-align:left"| [[Upper Austria]] ||38,036
+|-
+|style="text-align:left"| [[File:Wappen at Feldkirch.svg|27x27px]] [[Feldkirch, Vorarlberg|Feldkirch]] ||style="text-align:left"| [[Vorarlberg]] ||36,708
+|-
+|style="text-align:left"| [[File:AUT Bregenz COA.svg|23x23px]] '''[[Bregenz]]''' ||style="text-align:left"| [[Vorarlberg]] ||29,476
+|-
+|style="text-align:left"| [[File:Wappen von Leonding.svg|24x24px]] [[Leonding]] ||style="text-align:left"| [[Upper Austria]] ||29,244
+|-
+|style="text-align:left"| [[File:AUT Klosterneuburg COA.svg|25x25px]] [[Klosterneuburg]] ||style="text-align:left"| [[Lower Austria]] ||28,152
+|-
+|style="text-align:left"| [[File:AUT Baden COA.jpg|23x23px]] [[Baden bei Wien]] ||style="text-align:left"| [[Lower Austria]] ||25,931
+|-
+| style="text-align:left" | [[File:Traun coat of arms.svg|24x24px]] [[Traun]]|| style="text-align:left" | [[Upper Austria]]||25,345
+|-
+|style="text-align:left"| [[File:AUT Wolfsberg (Kaernten) COA.svg|20x20px]] [[Wolfsberg, Carinthia|Wolfsberg]] ||style="text-align:left"| [[Carinthia]] ||24,961
+|-
+| style="text-align:left" | [[File:AUT Leoben COA.svg|23x23px]] [[Leoben]]|| style="text-align:left" | [[Styria]]||24,561
+|}
+
+==Lists of cities, towns and municipalities divided by state==
+===Burgenland===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2015)
+|-
+|[[Andau]] ||Market town ||style="text-align:right"| 2,285
+|-
+|[[Antau]] ||Other municipality ||style="text-align:right"| 758
+|-
+|[[Apetlon]] ||Market town ||style="text-align:right"| 1,760
+|-
+|[[Bad Sauerbrunn]] ||Other municipality ||style="text-align:right"| 2,219
+|-
+|[[Bad Tatzmannsdorf]] ||Other municipality ||style="text-align:right"| 1,554
+|-
+|[[Badersdorf]] ||Other municipality ||style="text-align:right"| 287
+|-
+|[[Baumgarten, Burgenland|Baumgarten]] ||Other municipality ||style="text-align:right"| 894
+|-
+|[[Bernstein im Burgenland|Bernstein]] ||Market town ||style="text-align:right"| 2,123
+|-
+|[[Bildein]] ||Other municipality ||style="text-align:right"| 343
+|-
+|[[Bocksdorf]] ||Other municipality ||style="text-align:right"| 813
+|-
+|[[Breitenbrunn, Austria|Breitenbrunn am Neusiedler See]] ||Market town ||style="text-align:right"| 1,938
+|-
+|[[Bruckneudorf]] ||Other municipality ||style="text-align:right"| 3,026
+|-
+|[[Burgauberg-Neudauberg]] ||Other municipality ||style="text-align:right"| 1,360
+|-
+|[[Deutsch Jahrndorf]] ||Other municipality ||style="text-align:right"| 611
+|-
+|[[Deutsch Kaltenbrunn]] ||Market town ||style="text-align:right"| 1,721
+|-
+|[[Deutsch Schützen-Eisenberg]] ||Other municipality ||style="text-align:right"| 1,126
+|-
+|[[Deutschkreutz]] ||Market town ||style="text-align:right"| 3,088
+|-
+|[[Donnerskirchen]] ||Market town ||style="text-align:right"| 1,810
+|-
+|[[Draßburg]] ||Other municipality ||style="text-align:right"| 1,199
+|-
+|[[Draßmarkt]] ||Market town ||style="text-align:right"| 1,388
+|-
+|[[Eberau]] ||Market town ||style="text-align:right"| 911
+|-
+|[[Edelstal]] ||Other municipality ||style="text-align:right"| 747
+|-
+|[[Eisenstadt]] ||Statutory city ||style="text-align:right"| 14,476
+|-
+|[[Eltendorf]] ||Other municipality ||style="text-align:right"| 954
+|-
+|[[Forchtenstein]] ||Other municipality ||style="text-align:right"| 2,796
+|-
+|[[Frankenau-Unterpullendorf]] ||Other municipality ||style="text-align:right"| 1,109
+|-
+|[[Frauenkirchen]] ||Other city ||style="text-align:right"| 2,862
+|-
+|[[Gattendorf, Austria|Gattendorf]] ||Other municipality ||style="text-align:right"| 1,332
+|-
+|[[Gerersdorf-Sulz]] ||Other municipality ||style="text-align:right"| 1,014
+|-
+|[[Gols (town)|Gols]] ||Market town ||style="text-align:right"| 3,835
+|-
+|[[Grafenschachen]] ||Other municipality ||style="text-align:right"| 1,225
+|-
+|[[Großhöflein]] ||Market town ||style="text-align:right"| 2,048
+|-
+|[[Großmürbisch]] ||Other municipality ||style="text-align:right"| 242
+|-
+|[[Großpetersdorf]] ||Market town ||style="text-align:right"| 3,531
+|-
+|[[Großwarasdorf]] ||Other municipality ||style="text-align:right"| 1,381
+|-
+|[[Güssing]] ||Other city ||style="text-align:right"| 3,655
+|-
+|[[Güttenbach]] ||Market town ||style="text-align:right"| 898
+|-
+|[[Hackerberg]] ||Other municipality ||style="text-align:right"| 357
+|-
+|[[Halbturn]] ||Other municipality ||style="text-align:right"| 1,901
+|-
+|[[Hannersdorf]] ||Other municipality ||style="text-align:right"| 758
+|-
+|[[Heiligenbrunn]] ||Other municipality ||style="text-align:right"| 759
+|-
+|[[Heiligenkreuz im Lafnitztal]] ||Market town ||style="text-align:right"| 1,231
+|-
+|[[Heugraben]] ||Other municipality ||style="text-align:right"| 216
+|-
+|[[Hirm]] ||Other municipality ||style="text-align:right"| 1,009
+|-
+|[[Horitschon]] ||Market town ||style="text-align:right"| 1,861
+|-
+|[[Hornstein, Austria|Hornstein]] ||Market town ||style="text-align:right"| 3,012
+|-
+|[[Illmitz]] ||Market town ||style="text-align:right"| 2,385
+|-
+|[[Inzenhof]] ||Other municipality ||style="text-align:right"| 334
+|-
+|[[Jabing]] ||Other municipality ||style="text-align:right"| 734
+|-
+|[[Jennersdorf]] ||Other city ||style="text-align:right"| 4,096
+|-
+|[[Jois]] ||Market town ||style="text-align:right"| 1,612
+|-
+|[[Kaisersdorf]] ||Other municipality ||style="text-align:right"| 620
+|-
+|[[Kemeten]] ||Other municipality ||style="text-align:right"| 1,493
+|-
+|[[Kittsee]] ||Market town ||style="text-align:right"| 3,162
+|-
+|[[Kleinmürbisch]] ||Other municipality ||style="text-align:right"| 226
+|-
+|[[Klingenbach]] ||Other municipality ||style="text-align:right"| 1,172
+|-
+|[[Kobersdorf]] ||Market town ||style="text-align:right"| 1,883
+|-
+|[[Kohfidisch]] ||Market town ||style="text-align:right"| 1,462
+|-
+|[[Königsdorf, Austria|Königsdorf]] ||Other municipality ||style="text-align:right"| 720
+|-
+|[[Krensdorf]] ||Other municipality ||style="text-align:right"| 642
+|-
+|[[Kukmirn]] ||Market town ||style="text-align:right"| 2,012
+|-
+|[[Lackenbach]] ||Market town ||style="text-align:right"| 1,167
+|-
+|[[Lackendorf]] ||Other municipality ||style="text-align:right"| 604
+|-
+|[[Leithaprodersdorf]] ||Other municipality ||style="text-align:right"| 1,193
+|-
+|[[Litzelsdorf]] ||Market town ||style="text-align:right"| 1,181
+|-
+|[[Lockenhaus]] ||Market town ||style="text-align:right"| 2,066
+|-
+|[[Loipersbach im Burgenland]] ||Other municipality ||style="text-align:right"| 1,229
+|-
+|[[Loipersdorf-Kitzladen]] ||Other municipality ||style="text-align:right"| 1,319
+|-
+|[[Loretto, Austria|Loretto]] ||Market town ||style="text-align:right"| 475
+|-
+|[[Lutzmannsburg]] ||Market town ||style="text-align:right"| 861
+|-
+|[[Mannersdorf an der Rabnitz]] ||Other municipality ||style="text-align:right"| 1,795
+|-
+|[[Mariasdorf]] ||Market town ||style="text-align:right"| 1,145
+|-
+|[[Markt Allhau]] ||Market town ||style="text-align:right"| 1,845
+|-
+|[[Markt Neuhodis]] ||Market town ||style="text-align:right"| 658
+|-
+|[[Markt Sankt Martin]] ||Market town ||style="text-align:right"| 1,198
+|-
+|[[Marz, Austria|Marz]] ||Other municipality ||style="text-align:right"| 2,073
+|-
+|[[Mattersburg]] ||Other city ||style="text-align:right"| 7,349
+|-
+|[[Minihof-Liebau]] ||Market town ||style="text-align:right"| 1,054
+|-
+|[[Mischendorf]] ||Other municipality ||style="text-align:right"| 1,589
+|-
+|[[Mogersdorf]] ||Market town ||style="text-align:right"| 1,164
+|-
+|[[Mönchhof]] ||Other municipality ||style="text-align:right"| 2,236
+|-
+|[[Mörbisch am See]] ||Other municipality ||style="text-align:right"| 2,261
+|-
+|[[Moschendorf]] ||Other municipality ||style="text-align:right"| 400
+|-
+|[[Mühlgraben]] ||Other municipality ||style="text-align:right"| 396
+|-
+|[[Müllendorf]] ||Other municipality ||style="text-align:right"| 1,397
+|-
+|[[Neckenmarkt]] ||Market town ||style="text-align:right"| 1,680
+|-
+|[[Neuberg im Burgenland]] ||Other municipality ||style="text-align:right"| 978
+|-
+|Neudörf||Other municipality ||style="text-align:right"| 720
+|-
+|[[Neudörfl]] ||Market town ||style="text-align:right"| 4,564
+|-
+|[[Neufeld an der Leitha]] ||Other city ||style="text-align:right"| 3,418
+|-
+|[[Neuhaus am Klausenbach]] ||Market town ||style="text-align:right"| 921
+|-
+|[[Neusiedl am See]] ||Other city ||style="text-align:right"| 8,235
+|-
+|[[Neustift an der Lafnitz]] ||Market town ||style="text-align:right"| 793
+|-
+|[[Neustift bei Güssing]] ||Other municipality ||style="text-align:right"| 474
+|-
+|[[Neutal]] ||Other municipality ||style="text-align:right"| 1,094
+|-
+|[[Nickelsdorf]] ||Other municipality ||style="text-align:right"| 1,772
+|-
+|[[Nikitsch]] ||Other municipality ||style="text-align:right"| 1,405
+|-
+|[[Oberdorf im Burgenland]] ||Other municipality ||style="text-align:right"| 996
+|-
+|[[Oberloisdorf]] ||Other municipality ||style="text-align:right"| 806
+|-
+|[[Oberpullendorf]] ||Other city ||style="text-align:right"| 3,188
+|-
+|[[Oberschützen]] ||Other municipality ||style="text-align:right"| 2,429
+|-
+|[[Oberwart]] ||Other city ||style="text-align:right"| 7,572
+|-
+|[[Oggau am Neusiedler See]] ||Market town ||style="text-align:right"| 1,739
+|-
+|[[Olbendorf]] ||Other municipality ||style="text-align:right"| 1,449
+|-
+|[[Ollersdorf im Burgenland]] ||Market town ||style="text-align:right"| 933
+|-
+|[[Oslip]] ||Other municipality ||style="text-align:right"| 1,243
+|-
+|[[Pama, Austria|Pama]] ||Other municipality ||style="text-align:right"| 1,204
+|-
+|[[Pamhagen]] ||Other municipality ||style="text-align:right"| 1,623
+|-
+|[[Parndorf]] ||Other municipality ||style="text-align:right"| 4,689
+|-
+|[[Pilgersdorf]] ||Other municipality ||style="text-align:right"| 1,656
+|-
+|[[Pinkafeld]] ||Other city ||style="text-align:right"| 5,779
+|-
+|[[Piringsdorf]] ||Other municipality ||style="text-align:right"| 847
+|-
+|[[Podersdorf am See]] ||Market town ||style="text-align:right"| 2,135
+|-
+|[[Pöttelsdorf]] ||Other municipality ||style="text-align:right"| 735
+|-
+|[[Pöttsching]] ||Market town ||style="text-align:right"| 2,950
+|-
+|[[Potzneusiedl]] ||Other municipality ||style="text-align:right"| 602
+|-
+|[[Purbach am Neusiedlersee]] ||Other city ||style="text-align:right"| 2,901
+|-
+|[[Raiding, Austria|Raiding]] ||Market town ||style="text-align:right"| 865
+|-
+|[[Rauchwart]] ||Other municipality ||style="text-align:right"| 446
+|-
+|[[Rauhriegel]] ||Other municipality ||style="text-align:right"| 21
+|-
+|[[Rechnitz]] ||Market town ||style="text-align:right"| 3,054
+|-
+|[[Riedlingsdorf]] ||Market town ||style="text-align:right"| 1,619
+|-
+|[[Ritzing]] ||Other municipality ||style="text-align:right"| 902
+|-
+|[[Rohr im Burgenland]] ||Other municipality ||style="text-align:right"| 380
+|-
+|[[Rohrbach bei Mattersburg]] ||Market town ||style="text-align:right"| 2,707
+|-
+|[[Rotenturm an der Pinka]] ||Market town ||style="text-align:right"| 1,445
+|-
+|[[Rudersdorf]] ||Market town ||style="text-align:right"| 2,176
+|-
+|[[Rust, Burgenland|Rust]] ||Statutory city ||style="text-align:right"| 1,921
+|-
+|[[Sankt Andrä am Zicksee]] ||Market town ||style="text-align:right"| 1,371
+|-
+|[[Sankt Margarethen im Burgenland]] ||Market town ||style="text-align:right"| 2,636
+|-
+|[[Sankt Martin an der Raab]] ||Market town ||style="text-align:right"| 1,959
+|-
+|[[Sankt Michael im Burgenland]] ||Market town ||style="text-align:right"| 963
+|-
+|[[Schachendorf]] ||Other municipality ||style="text-align:right"| 765
+|-
+|[[Schandorf]] ||Other municipality ||style="text-align:right"| 276
+|-
+|[[Schattendorf]] ||Market town ||style="text-align:right"| 2,379
+|-
+|[[Schützen am Gebirge]] ||Other municipality ||style="text-align:right"| 1,392
+|-
+|[[Siegendorf]] ||Market town ||style="text-align:right"| 2,963
+|-
+|[[Sieggraben]] ||Other municipality ||style="text-align:right"| 1,248
+|-
+|[[Sigleß]] ||Other municipality ||style="text-align:right"| 1,183
+|-
+|[[Stadtschlaining]] ||Other city ||style="text-align:right"| 1,980
+|-
+|[[Stegersbach]] ||Market town ||style="text-align:right"| 2,658
+|-
+|[[Steinberg-Dörfl]] ||Market town ||style="text-align:right"| 1,291
+|-
+|[[Steinbrunn]] ||Market town ||style="text-align:right"| 2,614
+|-
+|[[Stinatz]] ||Market town ||style="text-align:right"| 1,263
+|-
+|[[Stoob]] ||Market town ||style="text-align:right"| 1,386
+|-
+|[[Stotzing]] ||Other municipality ||style="text-align:right"| 840
+|-
+|[[Strem]] ||Market town ||style="text-align:right"| 900
+|-
+|[[Tadten]] ||Other municipality ||style="text-align:right"| 1,186
+|-
+|[[Tobaj]] ||Other municipality ||style="text-align:right"| 1,372
+|-
+|[[Trausdorf an der Wulka]] ||Other municipality ||style="text-align:right"| 2,064
+|-
+|[[Tschanigraben]] ||Other municipality ||style="text-align:right"| 62
+|-
+|[[Unterfrauenhaid]] ||Market town ||style="text-align:right"| 681
+|-
+|[[Unterkohlstätten]] ||Other municipality ||style="text-align:right"| 1,029
+|-
+|[[Unterrabnitz-Schwendgraben]] ||Other municipality ||style="text-align:right"| 650
+|-
+|[[Unterwart]] ||Other municipality ||style="text-align:right"| 971
+|-
+|[[Wallern im Burgenland]] ||Market town ||style="text-align:right"| 1,702
+|-
+|[[Weichselbaum]] ||Other municipality ||style="text-align:right"| 720
+|-
+|[[Weiden am See]] ||Market town ||style="text-align:right"| 2,426
+|-
+|[[Weiden bei Rechnitz]] ||Other municipality ||style="text-align:right"| 824
+|-
+|[[Weingraben]] ||Other municipality ||style="text-align:right"| 363
+|-
+|[[Weppersdorf]] ||Market town ||style="text-align:right"| 1,826
+|-
+|[[Wiesen, Austria|Wiesen]] ||Market town ||style="text-align:right"| 2,691
+|-
+|[[Wiesfleck]] ||Other municipality ||style="text-align:right"| 1,158
+|-
+|[[Wimpassing an der Leitha]] ||Other municipality ||style="text-align:right"| 1,549
+|-
+|[[Winden am See]] ||Other municipality ||style="text-align:right"| 1,315
+|-
+|[[Wolfau]] ||Market town ||style="text-align:right"| 1,436
+|-
+|[[Wörterberg]] ||Other municipality ||style="text-align:right"| 488
+|-
+|[[Wulkaprodersdorf]] ||Market town ||style="text-align:right"| 1,944
+|-
+|[[Zagersdorf]] ||Other municipality ||style="text-align:right"| 1,027
+|-
+|[[Zemendorf-Stöttera]] ||Other municipality ||style="text-align:right"| 1,268
+|-
+|[[Zillingtal]] ||Other municipality ||style="text-align:right"| 933
+|-
+|[[Zurndorf]] ||Market town ||style="text-align:right"| 2,247
+|}
+
+===Carinthia===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2025)
+|-
+|[[Afritz am See]] ||Other municipality ||style="text-align:right"| 1,480
+|-
+|[[Albeck, Carinthia|Albeck]] ||Other municipality ||style="text-align:right"| 965
+|-
+|[[Althofen]] ||Other city ||style="text-align:right"| 4,950
+|-
+|[[Arnoldstein]] ||Market town ||style="text-align:right"| 7,157
+|-
+|[[Arriach]] ||Other municipality ||style="text-align:right"| 1,333
+|-
+|[[Bad Bleiberg]] ||Market town ||style="text-align:right"| 2,141
+|-
+|[[Bad Kleinkirchheim]] ||Other municipality ||style="text-align:right"| 1,657
+|-
+|[[Bad Sankt Leonhard im Lavanttal]] ||Other city ||style="text-align:right"| 4,244
+|-
+|[[Baldramsdorf]] ||Other municipality ||style="text-align:right"| 1,839
+|-
+|[[Berg im Drautal]] ||Other municipality ||style="text-align:right"| 1,224
+|-
+|[[Bleiburg]] ||Other city ||style="text-align:right"| 3,983
+|-
+|[[Brückl]] ||Market town ||style="text-align:right"| 2,734
+|-
+|[[Dellach]] ||Other municipality ||style="text-align:right"| 1,185
+|-
+|[[Dellach im Drautal]] ||Other municipality ||style="text-align:right"| 1,626
+|-
+|[[Deutsch-Griffen]] ||Other municipality ||style="text-align:right"| 822
+|-
+|[[Diex]] ||Other municipality ||style="text-align:right"| 788
+|-
+|[[Ebenthal in Kärnten]] ||Market town ||style="text-align:right"| 8,224
+|-
+|[[Eberndorf]] ||Market town ||style="text-align:right"| 5,989
+|-
+|[[Eberstein, Austria|Eberstein]] ||Market town ||style="text-align:right"| 1,227
+|-
+|[[Eisenkappel-Vellach]] ||Market town ||style="text-align:right"| 2,218
+|-
+|[[Feistritz an der Gail]] ||Other municipality ||style="text-align:right"| 643
+|-
+|[[Feistritz im Rosental]] ||Market town ||style="text-align:right"| 2,502
+|-
+|[[Feistritz ob Bleiburg]] ||Market town ||style="text-align:right"| 2,241
+|-
+|[[Feld am See]] ||Other municipality ||style="text-align:right"| 1,042
+|-
+|[[Feldkirchen in Kärnten]] ||Other city ||style="text-align:right"| 14,528
+|-
+|[[Ferlach]] ||Other city ||style="text-align:right"| 7,513
+|-
+|[[Ferndorf]] ||Other municipality ||style="text-align:right"| 2,013
+|-
+|[[Finkenstein am Faaker See]] ||Market town ||style="text-align:right"| 9,466
+|-
+|[[Flattach]] ||Other municipality ||style="text-align:right"| 1,121
+|-
+|[[Frantschach-Sankt Gertraud]] ||Market town ||style="text-align:right"| 2,394
+|-
+|[[Frauenstein, Austria|Frauenstein]] ||Other municipality ||style="text-align:right"| 3,580
+|-
+|[[Fresach]] ||Other municipality ||style="text-align:right"| 1,239
+|-
+|[[Friesach]] ||Other city ||style="text-align:right"| 4,852
+|-
+|[[Gallizien]] ||Other municipality ||style="text-align:right"| 1,791
+|-
+|[[Gitschtal]] ||Other municipality ||style="text-align:right"| 1,288
+|-
+|[[Glanegg]] ||Other municipality ||style="text-align:right"| 1,780
+|-
+|[[Globasnitz]] ||Other municipality ||style="text-align:right"| 1,576
+|-
+|[[Glödnitz]] ||Other municipality ||style="text-align:right"| 835
+|-
+|[[Gmünd, Carinthia|Gmünd in Kärnten]] ||Other city ||style="text-align:right"| 2,554
+|-
+|[[Gnesau]] ||Other municipality ||style="text-align:right"| 1,034
+|-
+|[[Grafenstein]] ||Market town ||style="text-align:right"| 3,088
+|-
+|[[Greifenburg]] ||Market town ||style="text-align:right"| 1,702
+|-
+|[[Griffen, Austria|Griffen]] ||Market town ||style="text-align:right"| 3,391
+|-
+|[[Großkirchheim]] ||Other municipality ||style="text-align:right"| 1,307
+|-
+|[[Gurk, Carinthia|Gurk]] ||Market town ||style="text-align:right"| 1,178
+|-
+|[[Guttaring]] ||Market town ||style="text-align:right"| 1,498
+|-
+|[[Heiligenblut am Großglockner]] ||Other municipality ||style="text-align:right"| 959
+|-
+|[[Hermagor-Pressegger See]] ||Other city ||style="text-align:right"| 6,905
+|-
+|[[Himmelberg]] ||Other municipality ||style="text-align:right"| 2,329
+|-
+|[[Hohenthurn]] ||Other municipality ||style="text-align:right"| 872
+|-
+|[[Hüttenberg, Austria|Hüttenberg]] ||Market town ||style="text-align:right"| 1,274
+|-
+|[[Irschen]] ||Other municipality ||style="text-align:right"| 1,912
+|-
+|[[Kappel am Krappfeld]] ||Other municipality ||style="text-align:right"| 1,936
+|-
+|[[Keutschach am See]] ||Other municipality ||style="text-align:right"| 2,418
+|-
+|[[Kirchbach, Carinthia|Kirchbach]] ||Market town ||style="text-align:right"| 2,478
+|-
+|[[Klagenfurt|Klagenfurt am Wörthersee]] ||Statutory city ||style="text-align:right"| 105,256
+|-
+|[[Kleblach-Lind]] ||Other municipality ||style="text-align:right"| 1,161
+|-
+|[[Klein Sankt Paul]] ||Market town ||style="text-align:right"| 1,785
+|-
+|[[Kötschach-Mauthen]] ||Market town ||style="text-align:right"| 3,320
+|-
+|[[Köttmannsdorf]] ||Other municipality ||style="text-align:right"| 3,186
+|-
+|[[Krems, Carinthia|Krems in Kärnten]] ||Other municipality ||style="text-align:right"| 1,603
+|-
+|[[Krumpendorf|Krumpendorf am Wörthersee]] ||Other municipality ||style="text-align:right"| 3,579
+|-
+|[[Lavamünd]] ||Market town ||style="text-align:right"| 2,757
+|-
+|[[Lendorf]] ||Other municipality ||style="text-align:right"| 1,779
+|-
+|[[Lesachtal]] ||Other municipality ||style="text-align:right"| 1,274
+|-
+|[[Liebenfels]] ||Market town ||style="text-align:right"| 3,416
+|-
+|[[Ludmannsdorf]] ||Other municipality ||style="text-align:right"| 1,812
+|-
+|[[Lurnfeld]] ||Market town ||style="text-align:right"| 2,676
+|-
+|[[Magdalensberg]] ||Market town ||style="text-align:right"| 3,730
+|-
+|[[Mallnitz]] ||Other municipality ||style="text-align:right"| 771
+|-
+|[[Malta, Austria|Malta]] ||Other municipality ||style="text-align:right"| 1,867
+|-
+|[[Maria Rain]] ||Other municipality ||style="text-align:right"| 2,732
+|-
+|[[Maria Saal]] ||Market town ||style="text-align:right"| 4,024
+|-
+|[[Maria Wörth]] ||Other municipality ||style="text-align:right"| 1,661
+|-
+|[[Metnitz]] ||Market town ||style="text-align:right"| 1,810
+|-
+|[[Micheldorf]] ||Other municipality ||style="text-align:right"| 959
+|-
+|[[Millstatt|Millstatt am See]] ||Market town ||style="text-align:right"| 3,464
+|-
+|[[Mölbling]] ||Other municipality ||style="text-align:right"| 1,314
+|-
+|[[Moosburg, Austria|Moosburg]] ||Market town ||style="text-align:right"| 4,667
+|-
+|[[Mörtschach]] ||Other municipality ||style="text-align:right"| 816
+|-
+|[[Mühldorf, Carinthia|Mühldorf]] ||Other municipality ||style="text-align:right"| 1,022
+|-
+|[[Neuhaus, Carinthia|Neuhaus]] ||Other municipality ||style="text-align:right"| 1,020
+|-
+|[[Nötsch im Gailtal]] ||Market town ||style="text-align:right"| 2,340
+|-
+|[[Oberdrauburg]] ||Market town ||style="text-align:right"| 1,198
+|-
+|[[Obervellach]] ||Market town ||style="text-align:right"| 2,154
+|-
+|[[Ossiach]] ||Other municipality ||style="text-align:right"| 724
+|-
+|[[Paternion]] ||Market town ||style="text-align:right"| 5,778
+|-
+|[[Poggersdorf]] ||Other municipality ||style="text-align:right"| 3,353
+|-
+|[[Pörtschach am Wörthersee]] ||Other municipality ||style="text-align:right"| 3,002
+|-
+|[[Preitenegg]] ||Other municipality ||style="text-align:right"| 891
+|-
+|[[Radenthein]] ||Other city ||style="text-align:right"| 5,742
+|-
+|[[Rangersdorf]] ||Other municipality ||style="text-align:right"| 1,700
+|-
+|[[Reichenau, Carinthia|Reichenau]] ||Other municipality ||style="text-align:right"| 1,695
+|-
+|[[Reichenfels]] ||Market town ||style="text-align:right"| 1,700
+|-
+|[[Reißeck]] ||Other municipality ||style="text-align:right"| 2,085
+|-
+|[[Rennweg am Katschberg]] ||Market town ||style="text-align:right"| 1,650
+|-
+|[[Rosegg]] ||Market town ||style="text-align:right"| 1,910
+|-
+|[[Ruden, Austria|Ruden]] ||Other municipality ||style="text-align:right"| 1,499
+|-
+|[[Sachsenburg]] || Market town || style="text-align: right;" | 1,333
+|-
+|[[Schiefling am Wörthersee]]||Other municipality || style="text-align:right" | 2,683
+|-
+|[[Seeboden|Seeboden am Millstätter See]]||Market town || style="text-align:right" | 6,706
+|-
+|[[Sittersdorf]]||Other municipality || style="text-align:right" | 1,947
+|-
+|[[Spittal an der Drau]]||Other city || style="text-align:right" | 15,341
+|-
+|[[Sankt Andrä]]||Other city || style="text-align:right" | 9,840
+|-
+|[[Sankt Georgen am Längsee]]||Other municipality || style="text-align:right" | 3,600
+|-
+|[[Sankt Georgen im Lavanttal]]||Other municipality || style="text-align:right" | 1,915
+|-
+|[[Sankt Jakob im Rosental]]||Market town || style="text-align:right" | 4,357
+|-
+|[[Sankt Kanzian am Klopeiner See]]||Other municipality || style="text-align:right" | 4,636
+|-
+|[[Sankt Margareten im Rosental]]||Other municipality || style="text-align:right" | 1,087
+|-
+|[[Sankt Paul im Lavanttal]]||Market town || style="text-align:right" | 3,144
+|-
+|[[Sankt Stefan im Gailtal]]||Other municipality || style="text-align:right" | 1,551
+|-
+|[[Sankt Urban]]||Other municipality || style="text-align:right" | 1,639
+|-
+|[[Sankt Veit an der Glan]]||Other city || style="text-align:right" | 12,234
+|-
+|[[Stall, Austria|Stall]]||Other municipality || style="text-align:right" | 1,493
+|-
+|[[Steindorf am Ossiacher See]]||Other municipality || style="text-align:right" | 3,844
+|-
+|[[Steinfeld, Austria|Steinfeld]]||Market town || style="text-align:right" | 1,996
+|-
+|[[Steuerberg]]||Other municipality || style="text-align:right" | 1,573
+|-
+|[[Stockenboi]]||Other municipality || style="text-align:right" | 1,556
+|-
+|[[Straßburg, Austria|Straßburg]]||Other city || style="text-align:right" | 1,964
+|-
+|[[Techelsberg|Techelsberg am Wörther See]]||Other municipality || style="text-align:right" | 2,212
+|-
+|[[Trebesing]]||Other municipality || style="text-align:right" | 1,143
+|-
+|[[Treffen|Treffen am Ossiacher See]]||Market town || style="text-align:right" | 4,563
+|-
+|[[Velden am Wörther See]]||Market town || style="text-align:right" | 9,183
+|-
+|[[Villach]]||Statutory city || style="text-align:right" | 65,749
+|-
+|[[Völkermarkt]] ||Other city || style="text-align:right" | 10,902
+|-
+|[[Weissensee, Austria|Weißensee]] ||Other municipality ||style="text-align:right"| 759
+|-
+|[[Weißenstein]] ||Market town ||style="text-align:right"| 2,921
+|-
+|[[Weitensfeld im Gurktal]] ||Market town ||style="text-align:right"| 1,982
+|-
+|[[Wernberg]] ||Other municipality ||style="text-align:right"| 5,662
+|-
+|[[Winklern]] ||Market town ||style="text-align:right"| 1,185
+|-
+|[[Wolfsberg, Carinthia|Wolfsberg]] ||Other city ||style="text-align:right"| 24,961
+|-
+|[[Zell, Carinthia|Zell]] ||Other municipality ||style="text-align:right"| 587
+|}
+
+===Lower Austria===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2015)
+|-
+|[[Absdorf]] ||Market town ||style="text-align:right"| 2,087
+|-
+|[[Achau]] ||Other municipality ||style="text-align:right"| 1,415
+|-
+|[[Aderklaa]] ||Other municipality ||style="text-align:right"| 207
+|-
+|[[Aggsbach]] ||Market town ||style="text-align:right"| 643
+|-
+|[[Alberndorf im Pulkautal]] ||Other municipality ||style="text-align:right"| 744
+|-
+|[[Albrechtsberg an der Großen Krems]] ||Market town ||style="text-align:right"| 1,036
+|-
+|[[Alland]] ||Market town ||style="text-align:right"| 2,622
+|-
+|[[Allentsteig]] ||Other city ||style="text-align:right"| 1,835
+|-
+|[[Allhartsberg]] ||Market town ||style="text-align:right"| 2,108
+|-
+|[[Altenburg, Lower Austria|Altenburg]] ||Other municipality ||style="text-align:right"| 828
+|-
+|[[Altendorf, Austria|Altendorf]] ||Other municipality ||style="text-align:right"| 348
+|-
+|[[Altenmarkt an der Triesting]] ||Market town ||style="text-align:right"| 2,113
+|-
+|[[Altlengbach]] ||Market town ||style="text-align:right"| 2,927
+|-
+|[[Altlichtenwarth]] ||Other municipality ||style="text-align:right"| 769
+|-
+|[[Altmelon]] ||Market town ||style="text-align:right"| 862
+|-
+|[[Amaliendorf-Aalfang]] ||Other municipality ||style="text-align:right"| 1,102
+|-
+|[[Amstetten, Lower Austria|Amstetten]] ||Other city ||style="text-align:right"| 23,656
+|-
+|[[Andlersdorf]] ||Other municipality ||style="text-align:right"| 137
+|-
+|[[Angern an der March]] ||Market town ||style="text-align:right"| 3,384
+|-
+|[[Annaberg, Lower Austria|Annaberg]] ||Other municipality ||style="text-align:right"| 533
+|-
+|[[Arbesbach]] ||Market town ||style="text-align:right"| 1,638
+|-
+|[[Ardagger]] ||Market town ||style="text-align:right"| 3,511
+|-
+|[[Artstetten-Pöbring]] ||Other municipality ||style="text-align:right"| 1,184
+|-
+|[[Aschbach-Markt]] ||Market town ||style="text-align:right"| 3,811
+|-
+|[[Aspangberg-Sankt Peter]] ||Other municipality ||style="text-align:right"| 1,888
+|-
+|[[Aspang-Markt]] ||Market town ||style="text-align:right"| 1,816
+|-
+|[[Asparn an der Zaya]] ||Market town ||style="text-align:right"| 1,865
+|-
+|[[Asperhofen]] ||Market town ||style="text-align:right"| 2,206
+|-
+|[[Atzenbrugg]] ||Market town ||style="text-align:right"| 2,948
+|-
+|[[Au am Leithaberge]] ||Market town ||style="text-align:right"| 934
+|-
+|[[Auersthal]] ||Market town ||style="text-align:right"| 1,932
+|-
+|[[Bad Deutsch-Altenburg]] ||Market town ||style="text-align:right"| 1,765
+|-
+|[[Bad Erlach]] ||Market town ||style="text-align:right"| 3,084
+|-
+|[[Bad Fischau-Brunn]] ||Market town ||style="text-align:right"| 3,440
+|-
+|[[Bad Großpertholz]] ||Market town ||style="text-align:right"| 1,359
+|-
+|[[Bad Pirawarth]] ||Market town ||style="text-align:right"| 1,671
+|-
+|[[Bad Schönau]] ||Other municipality ||style="text-align:right"| 721
+|-
+|[[Bad Traunstein]] ||Market town ||style="text-align:right"| 1,036
+|-
+|[[Bad Vöslau]] ||Other city ||style="text-align:right"| 11,961
+|-
+|[[Baden bei Wien]] ||Other city ||style="text-align:right"| 26,286
+|-
+|[[Bärnkopf]] ||Other municipality ||style="text-align:right"| 355
+|-
+|[[Behamberg]] ||Other municipality ||style="text-align:right"| 3,387
+|-
+|[[Berg, Lower Austria|Berg]] ||Other municipality ||style="text-align:right"| 861
+|-
+|[[Bergern im Dunkelsteinerwald]] ||Other municipality ||style="text-align:right"| 1,253
+|-
+|[[Bergland, Austria|Bergland]] ||Other municipality ||style="text-align:right"| 1,909
+|-
+|[[Berndorf, Lower Austria|Berndorf]] ||Other city ||style="text-align:right"| 9,064
+|-
+|[[Bernhardsthal]] ||Market town ||style="text-align:right"| 1,604
+|-
+|[[Biberbach, Austria|Biberbach]] ||Other municipality ||style="text-align:right"| 2,270
+|-
+|[[Biedermannsdorf]] ||Market town ||style="text-align:right"| 2,988
+|-
+|[[Bisamberg]] ||Other municipality ||style="text-align:right"| 4,729
+|-
+|[[Bischofstetten]] ||Other municipality ||style="text-align:right"| 1,176
+|-
+|[[Blindenmarkt]] ||Market town ||style="text-align:right"| 2,712
+|-
+|[[Blumau-Neurißhof]] ||Other municipality ||style="text-align:right"| 1,840
+|-
+|[[Bockfließ]] ||Market town ||style="text-align:right"| 1,348
+|-
+|[[Böheimkirchen]] ||Market town ||style="text-align:right"| 5,087
+|-
+|[[Brand-Laaben]] ||Other municipality ||style="text-align:right"| 1,232
+|-
+|[[Brand-Nagelberg]] ||Other municipality ||style="text-align:right"| 1,546
+|-
+|[[Breitenau, Lower Austria|Breitenau]] ||Other municipality ||style="text-align:right"| 1,576
+|-
+|[[Breitenfurt bei Wien]] ||Market town ||style="text-align:right"| 5,853
+|-
+|[[Breitenstein, Lower Austria|Breitenstein]] ||Other municipality ||style="text-align:right"| 318
+|-
+|[[Bromberg, Lower Austria|Bromberg]] ||Market town ||style="text-align:right"| 1,232
+|-
+|[[Bruck an der Leitha]] ||Other city ||style="text-align:right"| 7,988
+|-
+|[[Brunn am Gebirge]] ||Market town ||style="text-align:right"| 11,864
+|-
+|[[Brunn an der Wild]] ||Other municipality ||style="text-align:right"| 826
+|-
+|[[Buchbach, Austria|Buchbach]] ||Other municipality ||style="text-align:right"| 330
+|-
+|[[Burgschleinitz-Kühnring]] ||Market town ||style="text-align:right"| 1,360
+|-
+|[[Bürg-Vöstenhof]] ||Other municipality ||style="text-align:right"| 179
+|-
+|[[Deutsch-Wagram]] ||Other city ||style="text-align:right"| 8,651
+|-
+|[[Dietmanns]] ||Market town ||style="text-align:right"| 1,063
+|-
+|[[Dobersberg]] ||Market town ||style="text-align:right"| 1,618
+|-
+|[[Dorfstetten]] ||Other municipality ||style="text-align:right"| 584
+|-
+|[[Drasenhofen]] ||Other municipality ||style="text-align:right"| 1,109
+|-
+|[[Drosendorf-Zissersdorf]] ||Other city ||style="text-align:right"| 1,213
+|-
+|[[Drösing]] ||Market town ||style="text-align:right"| 1,132
+|-
+|[[Droß]] ||Other municipality ||style="text-align:right"| 983
+|-
+|[[Dunkelsteinerwald (municipality)|Dunkelsteinerwald]] ||Market town ||style="text-align:right"| 2,390
+|-
+|[[Dürnkrut, Austria|Dürnkrut]] ||Market town ||style="text-align:right"| 2,267
+|-
+|[[Dürnstein]] ||Other city ||style="text-align:right"| 864
+|-
+|[[Ebenfurth]] ||Other city ||style="text-align:right"| 3,170
+|-
+|[[Ebenthal, Lower Austria|Ebenthal]] ||Market town ||style="text-align:right"| 923
+|-
+|[[Ebergassing]] ||Other municipality ||style="text-align:right"| 3,904
+|-
+|[[Ebreichsdorf]] ||Other city ||style="text-align:right"| 10,942
+|-
+|[[Echsenbach]] ||Market town ||style="text-align:right"| 1,256
+|-
+|[[Eckartsau]] ||Market town ||style="text-align:right"| 1,283
+|-
+|[[Edlitz, Austria|Edlitz]] ||Market town ||style="text-align:right"| 934
+|-
+|[[Eggenburg]] ||Other city ||style="text-align:right"| 3,540
+|-
+|[[Eggendorf, Lower Austria|Eggendorf]] ||Other municipality ||style="text-align:right"| 4,794
+|-
+|[[Eggern]] ||Other municipality ||style="text-align:right"| 688
+|-
+|[[Eichgraben]] ||Market town ||style="text-align:right"| 4,614
+|-
+|[[Eisgarn]] ||Other municipality ||style="text-align:right"| 684
+|-
+|[[Emmersdorf an der Donau]] ||Market town ||style="text-align:right"| 1,778
+|-
+|[[Engelhartstetten]] ||Market town ||style="text-align:right"| 2,055
+|-
+|[[Ennsdorf]] ||Other municipality ||style="text-align:right"| 3,031
+|-
+|[[Enzenreith]] ||Other municipality ||style="text-align:right"| 1,946
+|-
+|[[Enzersdorf an der Fischa]] ||Market town ||style="text-align:right"| 3,163
+|-
+|[[Enzersfeld|Enzersfeld im Weinviertel]] ||Other municipality ||style="text-align:right"| 1,713
+|-
+|[[Enzesfeld-Lindabrunn]] ||Market town ||style="text-align:right"| 4,174
+|-
+|[[Erlauf (municipality)|Erlauf]] ||Market town ||style="text-align:right"| 1,069
+|-
+|[[Ernstbrunn]] ||Other municipality ||style="text-align:right"| 3,213
+|-
+|[[Ernsthofen]] ||Other municipality ||style="text-align:right"| 2,230
+|-
+|[[Ertl, Lower Austria|Ertl]] ||Other municipality ||style="text-align:right"| 1,252
+|-
+|[[Eschenau]] ||Other municipality ||style="text-align:right"| 1,306
+|-
+|[[Euratsfeld]] ||Market town ||style="text-align:right"| 2,639
+|-
+|[[Falkenstein, Lower Austria|Falkenstein]] ||Market town ||style="text-align:right"| 457
+|-
+|[[Fallbach, Austria|Fallbach]] ||Other municipality ||style="text-align:right"| 819
+|-
+|[[Feistritz am Wechsel]] ||Other municipality ||style="text-align:right"| 1,038
+|-
+|[[Felixdorf]] ||Market town ||style="text-align:right"| 4,292
+|-
+|[[Fels am Wagram]] ||Market town ||style="text-align:right"| 2,318
+|-
+|[[Ferschnitz]] ||Market town ||style="text-align:right"| 1,770
+|-
+|[[Fischamend]] ||Other city ||style="text-align:right"| 5,583
+|-
+|[[Frankenfels]] ||Market town ||style="text-align:right"| 1,975
+|-
+|[[Furth an der Triesting]] ||Other municipality ||style="text-align:right"| 862
+|-
+|[[Furth bei Göttweig]] ||Market town ||style="text-align:right"| 2,956
+|-
+|[[Gaaden]] ||Other municipality ||style="text-align:right"| 1,624
+|-
+|[[Gablitz]] ||Market town ||style="text-align:right"| 4,968
+|-
+|[[Gaming, Austria|Gaming]] ||Market town ||style="text-align:right"| 3,121
+|-
+|[[Gänserndorf]] ||Other city ||style="text-align:right"| 11,404
+|-
+|[[Gars am Kamp]] ||Market town ||style="text-align:right"| 3,534
+|-
+|[[Gastern]] ||Market town ||style="text-align:right"| 1,218
+|-
+|[[Gaubitsch]] ||Other municipality ||style="text-align:right"| 894
+|-
+|[[Gaweinstal]] ||Market town ||style="text-align:right"| 3,947
+|-
+|[[Gedersdorf]] ||Other municipality ||style="text-align:right"| 2,184
+|-
+|[[Geras, Austria|Geras]] ||Other city ||style="text-align:right"| 1,325
+|-
+|[[Gerasdorf bei Wien]] ||Other city ||style="text-align:right"| 11,155
+|-
+|[[Gerersdorf]] ||Other municipality ||style="text-align:right"| 974
+|-
+|[[Gföhl]] ||Other city ||style="text-align:right"| 3,783
+|-
+|[[Gießhübl]] ||Other municipality ||style="text-align:right"| 2,335
+|-
+|[[Glinzendorf]] ||Other municipality ||style="text-align:right"| 295
+|-
+|[[Gloggnitz]] ||Other city ||style="text-align:right"| 5,916
+|-
+|[[Gmünd, Lower Austria|Gmünd]] ||Other city ||style="text-align:right"| 5,375
+|-
+|[[Gnadendorf]] ||Other municipality ||style="text-align:right"| 1,127
+|-
+|[[Göllersdorf]] ||Market town ||style="text-align:right"| 2,999
+|-
+|[[Golling an der Erlauf]] ||Market town ||style="text-align:right"| 1,514
+|-
+|[[Göpfritz an der Wild]] ||Market town ||style="text-align:right"| 1,826
+|-
+|[[Göstling an der Ybbs]] ||Market town ||style="text-align:right"| 2,058
+|-
+|[[Göttlesbrunn-Arbesthal]] ||Other municipality ||style="text-align:right"| 1,411
+|-
+|[[Götzendorf an der Leitha]] ||Market town ||style="text-align:right"| 2,062
+|-
+|[[Grabern]] ||Market town ||style="text-align:right"| 1,642
+|-
+|[[Grafenbach-Sankt Valentin]] ||Market town ||style="text-align:right"| 2,264
+|-
+|[[Grafenegg]] ||Market town ||style="text-align:right"| 3,061
+|-
+|[[Grafenschlag]] ||Market town ||style="text-align:right"| 853
+|-
+|[[Grafenwörth]] ||Market town ||style="text-align:right"| 3,132
+|-
+|[[Gramatneusiedl]] ||Market town ||style="text-align:right"| 3,461
+|-
+|[[Gresten]] ||Market town ||style="text-align:right"| 1,987
+|-
+|[[Gresten-Land]] ||Other municipality ||style="text-align:right"| 1,521
+|-
+|[[Grimmenstein]] ||Market town ||style="text-align:right"| 1,348
+|-
+|[[Groß Gerungs]] ||Other city ||style="text-align:right"| 4,506
+|-
+|[[Großdietmanns]] ||Market town ||style="text-align:right"| 2,215
+|-
+|[[Großebersdorf]] ||Market town ||style="text-align:right"| 2,236
+|-
+|[[Großengersdorf]] ||Market town ||style="text-align:right"| 1,478
+|-
+|[[Groß-Enzersdorf]] ||Other city ||style="text-align:right"| 11,206
+|-
+|[[Großgöttfritz]] ||Market town ||style="text-align:right"| 1,371
+|-
+|[[Großharras]] ||Market town ||style="text-align:right"| 1,116
+|-
+|[[Großhofen]] ||Other municipality ||style="text-align:right"| 98
+|-
+|[[Großkrut]] ||Market town ||style="text-align:right"| 1,572
+|-
+|[[Großmugl]] ||Market town ||style="text-align:right"| 1,595
+|-
+|[[Großriedenthal]] ||Other municipality ||style="text-align:right"| 899
+|-
+|[[Großrußbach]] ||Market town ||style="text-align:right"| 2,194
+|-
+|[[Großschönau, Waldviertel|Großschönau]] ||Market town ||style="text-align:right"| 1,211
+|-
+|[[Groß-Schweinbarth]] ||Market town ||style="text-align:right"| 1,245
+|-
+|[[Groß-Siegharts]] ||Other city ||style="text-align:right"| 2,775
+|-
+|[[Großweikersdorf]] ||Market town ||style="text-align:right"| 3,180
+|-
+|[[Grünbach am Schneeberg]] ||Market town ||style="text-align:right"| 1,647
+|-
+|[[Gumpoldskirchen]] ||Market town ||style="text-align:right"| 3,899
+|-
+|[[Günselsdorf]] ||Market town ||style="text-align:right"| 1,707
+|-
+|[[Guntersdorf]] ||Market town ||style="text-align:right"| 1,145
+|-
+|[[Guntramsdorf]] ||Market town ||style="text-align:right"| 9,179
+|-
+|[[Gutenbrunn]] ||Market town ||style="text-align:right"| 536
+|-
+|[[Gutenstein, Austria|Gutenstein]] ||Market town ||style="text-align:right"| 1,268
+|-
+|[[Haag, Austria|Haag]] ||Other city ||style="text-align:right"| 5,548
+|-
+|[[Hadersdorf-Kammern]] ||Market town ||style="text-align:right"| 2,009
+|-
+|[[Hadres]] ||Market town ||style="text-align:right"| 1,685
+|-
+|[[Hafnerbach]] ||Market town ||style="text-align:right"| 1,672
+|-
+|[[Hagenbrunn]] ||Market town ||style="text-align:right"| 2,227
+|-
+|[[Haidershofen]] ||Other municipality ||style="text-align:right"| 3,670
+|-
+|[[Hainburg an der Donau]] ||Other city ||style="text-align:right"| 6,570
+|-
+|[[Hainfeld]] ||Other city ||style="text-align:right"| 3,726
+|-
+|[[Hardegg]] ||Other city ||style="text-align:right"| 1,309
+|-
+|[[Haringsee]] ||Other municipality ||style="text-align:right"| 1,179
+|-
+|[[Harmannsdorf]] ||Market town ||style="text-align:right"| 3,951
+|-
+|[[Haslau-Maria Ellend]] ||Other municipality ||style="text-align:right"| 2,004
+|-
+|[[Haugschlag]] ||Other municipality ||style="text-align:right"| 485
+|-
+|[[Haugsdorf]] ||Market town ||style="text-align:right"| 1,548
+|-
+|[[Haunoldstein]] ||Other municipality ||style="text-align:right"| 1,160
+|-
+|[[Hausbrunn]] ||Market town ||style="text-align:right"| 857
+|-
+|[[Hauskirchen]] ||Other municipality ||style="text-align:right"| 1,248
+|-
+|[[Hausleiten]] ||Market town ||style="text-align:right"| 3,784
+|-
+|[[Heidenreichstein]] ||Other city ||style="text-align:right"| 4,010
+|-
+|[[Heiligenkreuz, Lower Austria|Heiligenkreuz]] ||Other municipality ||style="text-align:right"| 1,525
+|-
+|[[Heldenberg]] ||Other municipality ||style="text-align:right"| 1,270
+|-
+|[[Hennersdorf bei Wien]] ||Other municipality ||style="text-align:right"| 1,541
+|-
+|[[Hernstein]] ||Market town ||style="text-align:right"| 1,542
+|-
+|[[Herrnbaumgarten]] ||Market town ||style="text-align:right"| 943
+|-
+|[[Herzogenburg]] ||Other city ||style="text-align:right"| 7,771
+|-
+|[[Himberg]] ||Market town ||style="text-align:right"| 7,375
+|-
+|[[Hinterbrühl]] ||Market town ||style="text-align:right"| 4,029
+|-
+|[[Hirschbach, Lower Austria|Hirschbach]] ||Market town ||style="text-align:right"| 581
+|-
+|[[Hirtenberg]] ||Market town ||style="text-align:right"| 2,586
+|-
+|[[Hochleithen]] ||Other municipality ||style="text-align:right"| 1,166
+|-
+|[[Hochneukirchen-Gschaidt]] ||Market town ||style="text-align:right"| 1,633
+|-
+|[[Hochwolkersdorf]] ||Other municipality ||style="text-align:right"| 1,004
+|-
+|[[Hof am Leithaberge]] ||Market town ||style="text-align:right"| 1,549
+|-
+|[[Hofamt Priel]] ||Other municipality ||style="text-align:right"| 1,675
+|-
+|[[Höflein]] ||Other municipality ||style="text-align:right"| 1,234
+|-
+|[[Höflein an der Hohen Wand]] ||Other municipality ||style="text-align:right"| 895
+|-
+|[[Hofstetten-Grünau]] ||Market town ||style="text-align:right"| 2,693
+|-
+|[[Hohe Wand]] ||Other municipality ||style="text-align:right"| 1,428
+|-
+|[[Hohenau an der March]] ||Market town ||style="text-align:right"| 2,738
+|-
+|[[Hohenberg, Lower Austria|Hohenberg]] ||Market town ||style="text-align:right"| 1,515
+|-
+|[[Hoheneich]] ||Market town ||style="text-align:right"| 1,424
+|-
+|[[Hohenruppersdorf]] ||Market town ||style="text-align:right"| 910
+|-
+|[[Hohenwarth-Mühlbach am Manhartsberg]] ||Market town ||style="text-align:right"| 1,304
+|-
+|[[Hollabrunn]] ||Other city ||style="text-align:right"| 11,681
+|-
+|[[Hollenstein an der Ybbs]] ||Other municipality ||style="text-align:right"| 1,706
+|-
+|[[Hollenthon, Austria|Hollenthon]] ||Other municipality ||style="text-align:right"| 1,018
+|-
+|[[Horn, Austria|Horn]] ||Other city ||style="text-align:right"| 6,520
+|-
+|[[Hundsheim]] ||Other municipality ||style="text-align:right"| 590
+|-
+|[[Hürm]] ||Market town ||style="text-align:right"| 1,828
+|-
+|[[Inzersdorf-Getzersdorf]] ||Other municipality ||style="text-align:right"| 1,581
+|-
+|[[Irnfritz-Messern]] ||Market town ||style="text-align:right"| 1,409
+|-
+|[[Jaidhof]] ||Other municipality ||style="text-align:right"| 1,225
+|-
+|[[Japons]] ||Market town ||style="text-align:right"| 733
+|-
+|[[Jedenspeigen]] ||Market town ||style="text-align:right"| 1,064
+|-
+|[[Judenau-Baumgarten]] ||Market town ||style="text-align:right"| 2,262
+|-
+|[[Kaltenleutgeben]] ||Market town ||style="text-align:right"| 3,276
+|-
+|[[Kapelln]] ||Market town ||style="text-align:right"| 1,381
+|-
+|[[Karlstein an der Thaya]] ||Market town ||style="text-align:right"| 1,468
+|-
+|[[Karlstetten]] ||Market town ||style="text-align:right"| 2,159
+|-
+|[[Kasten bei Böheimkirchen]] ||Other municipality ||style="text-align:right"| 1,409
+|-
+|[[Katzelsdorf]] ||Other municipality ||style="text-align:right"| 3,257
+|-
+|[[Kaumberg]] ||Market town ||style="text-align:right"| 1,016
+|-
+|[[Kautzen]] ||Market town ||style="text-align:right"| 1,119
+|-
+|[[Kematen an der Ybbs]] ||Other municipality ||style="text-align:right"| 2,625
+|-
+|[[Kilb]] ||Market town ||style="text-align:right"| 2,543
+|-
+|[[Kirchberg am Wagram]] ||Market town ||style="text-align:right"| 3,670
+|-
+|[[Kirchberg am Walde]] ||Market town ||style="text-align:right"| 1,313
+|-
+|[[Kirchberg am Wechsel]] ||Market town ||style="text-align:right"| 2,505
+|-
+|[[Kirchberg an der Pielach]] ||Market town ||style="text-align:right"| 3,225
+|-
+|[[Kirchschlag, Zwettl|Kirchschlag]] ||Market town ||style="text-align:right"| 621
+|-
+|[[Kirchschlag in der Buckligen Welt]] ||Other city ||style="text-align:right"| 2,889
+|-
+|[[Kirchstetten]] ||Market town ||style="text-align:right"| 2,189
+|-
+|[[Kirnberg an der Mank]] ||Other municipality ||style="text-align:right"| 1,070
+|-
+|[[Klausen-Leopoldsdorf]] ||Other municipality ||style="text-align:right"| 1,681
+|-
+|[[Klein-Neusiedl]] ||Other municipality ||style="text-align:right"| 907
+|-
+|[[Klein-Pöchlarn]] ||Market town ||style="text-align:right"| 991
+|-
+|[[Kleinzell]] ||Other municipality ||style="text-align:right"| 831
+|-
+|[[Klosterneuburg]] ||Other city ||style="text-align:right"| 27,058
+|-
+|[[Königsbrunn am Wagram]] ||Market town ||style="text-align:right"| 1,319
+|-
+|[[Königstetten]] ||Market town ||style="text-align:right"| 2,406
+|-
+|[[Korneuburg]] ||Other city ||style="text-align:right"| 12,986
+|-
+|[[Kottes-Purk]] ||Market town ||style="text-align:right"| 1,485
+|-
+|[[Kottingbrunn]] ||Market town ||style="text-align:right"| 7,417
+|-
+|[[Krems an der Donau]] ||Statutory city ||style="text-align:right"| 24,610
+|-
+|[[Kreuttal]] ||Other municipality ||style="text-align:right"| 1,429
+|-
+|[[Kreuzstetten]] ||Market town ||style="text-align:right"| 1,541
+|-
+|[[Krumau am Kamp]] ||Market town ||style="text-align:right"| 759
+|-
+|[[Krumbach, Lower Austria|Krumbach]] ||Market town ||style="text-align:right"| 2,316
+|-
+|[[Krummnußbaum]] ||Market town ||style="text-align:right"| 1,500
+|-
+|[[Laa an der Thaya]] ||Other city ||style="text-align:right"| 6,280
+|-
+|[[Laab im Walde]] ||Other municipality ||style="text-align:right"| 1,137
+|-
+|[[Ladendorf]] ||Market town ||style="text-align:right"| 2,298
+|-
+|[[Langau]] ||Market town ||style="text-align:right"| 673
+|-
+|[[Langenlois]] ||Other city ||style="text-align:right"| 7,609
+|-
+|[[Langenrohr]] ||Market town ||style="text-align:right"| 2,369
+|-
+|[[Langenzersdorf]] ||Market town ||style="text-align:right"| 8,137
+|-
+|[[Langschlag]] ||Market town ||style="text-align:right"| 1,782
+|-
+|[[Lanzendorf]] ||Other municipality ||style="text-align:right"| 1,886
+|-
+|[[Lanzenkirchen]] ||Other municipality ||style="text-align:right"| 3,983
+|-
+|[[Lassee]] ||Market town ||style="text-align:right"| 2,765
+|-
+|[[Laxenburg]] ||Market town ||style="text-align:right"| 2,828
+|-
+|[[Leiben]] ||Market town ||style="text-align:right"| 1,362
+|-
+|[[Leitzersdorf]] ||Other municipality ||style="text-align:right"| 1,204
+|-
+|[[Lengenfeld, Austria|Lengenfeld]] ||Market town ||style="text-align:right"| 1,412
+|-
+|[[Leobendorf]] ||Market town ||style="text-align:right"| 4,847
+|-
+|[[Leobersdorf]] ||Market town ||style="text-align:right"| 4,915
+|-
+|[[Leopoldsdorf]] ||Market town ||style="text-align:right"| 5,078
+|-
+|[[Leopoldsdorf im Marchfelde]] ||Market town ||style="text-align:right"| 2,848
+|-
+|[[Lichtenau im Waldviertel]] ||Market town ||style="text-align:right"| 2,049
+|-
+|[[Lichtenegg]] ||Other municipality ||style="text-align:right"| 1,034
+|-
+|[[Lichtenwörth]] ||Market town ||style="text-align:right"| 2,727
+|-
+|[[Lilienfeld]] ||Other city ||style="text-align:right"| 2,833
+|-
+|[[Litschau]] ||Other city ||style="text-align:right"| 2,259
+|-
+|[[Loich]] ||Other municipality ||style="text-align:right"| 603
+|-
+|[[Loosdorf]] ||Market town ||style="text-align:right"| 3,794
+|-
+|[[Ludweis-Aigen]] ||Market town ||style="text-align:right"| 914
+|-
+|[[Lunz am See]] ||Market town ||style="text-align:right"| 1,806
+|-
+|[[Mailberg]] ||Market town ||style="text-align:right"| 558
+|-
+|[[Maissau]] ||Other city ||style="text-align:right"| 1,946
+|-
+|[[Mank, Austria|Mank]] ||Other city ||style="text-align:right"| 3,219
+|-
+|[[Mannersdorf am Leithagebirge]] ||Other city ||style="text-align:right"| 4,069
+|-
+|[[Mannsdorf an der Donau]] ||Other municipality ||style="text-align:right"| 342
+|-
+|[[Marbach an der Donau]] ||Market town ||style="text-align:right"| 1,677
+|-
+|[[Marchegg]] ||Other city ||style="text-align:right"| 2,960
+|-
+|[[Maria Enzersdorf]] ||Market town ||style="text-align:right"| 8,829
+|-
+|[[Maria Laach am Jauerling]] ||Market town ||style="text-align:right"| 916
+|-
+|[[Maria Taferl]] ||Market town ||style="text-align:right"| 887
+|-
+|[[Maria Anzbach]] ||Market town ||style="text-align:right"| 3,055
+|-
+|[[Maria Lanzendorf]] ||Other municipality ||style="text-align:right"| 2,129
+|-
+|[[Markersdorf-Haindorf]] ||Market town ||style="text-align:right"| 2,083
+|-
+|[[Markgrafneusiedl]] ||Other municipality ||style="text-align:right"| 832
+|-
+|[[Markt Piesting]] ||Market town ||style="text-align:right"| 3,007
+|-
+|[[Martinsberg]] ||Market town ||style="text-align:right"| 1,096
+|-
+|[[Matzendorf-Hölles]] ||Other municipality ||style="text-align:right"| 2,040
+|-
+|[[Matzen-Raggendorf]] ||Market town ||style="text-align:right"| 2,794
+|-
+|[[Mauerbach]] ||Market town ||style="text-align:right"| 3,661
+|-
+|[[Mautern an der Donau]] ||Other city ||style="text-align:right"| 3,567
+|-
+|[[Meiseldorf]] ||Other municipality ||style="text-align:right"| 876
+|-
+|[[Melk]] ||Other city ||style="text-align:right"| 5,529
+|-
+|[[Michelbach, Lower Austria|Michelbach]] ||Market town ||style="text-align:right"| 915
+|-
+|[[Michelhausen]] ||Market town ||style="text-align:right"| 3,113
+|-
+|[[Miesenbach, Lower Austria|Miesenbach]] ||Other municipality ||style="text-align:right"| 703
+|-
+|[[Mistelbach]] ||Other city ||style="text-align:right"| 11,559
+|-
+|[[Mitterbach am Erlaufsee]] ||Other municipality ||style="text-align:right"| 499
+|-
+|[[Mitterndorf an der Fischa]] ||Other municipality ||style="text-align:right"| 2,685
+|-
+|[[Mödling]] ||Other city ||style="text-align:right"| 20,555
+|-
+|[[Mönichkirchen]] ||Market town ||style="text-align:right"| 606
+|-
+|[[Moorbad Harbach]] ||Other municipality ||style="text-align:right"| 717
+|-
+|[[Moosbrunn]] ||Other municipality ||style="text-align:right"| 1,777
+|-
+|[[Muckendorf-Wipfing]] ||Other municipality ||style="text-align:right"| 1,573
+|-
+|[[Muggendorf]] ||Other municipality ||style="text-align:right"| 528
+|-
+|[[Mühldorf, Lower Austria|Mühldorf]] ||Market town ||style="text-align:right"| 1,331
+|-
+|[[Münchendorf]] ||Other municipality ||style="text-align:right"| 2,992
+|-
+|[[Münichreith-Laimbach]] ||Other municipality ||style="text-align:right"| 1,662
+|-
+|[[Nappersdorf-Kammersdorf]] ||Market town ||style="text-align:right"| 1,233
+|-
+|[[Natschbach-Loipersbach]] ||Other municipality ||style="text-align:right"| 1,702
+|-
+|[[Neidling]] ||Market town ||style="text-align:right"| 1,461
+|-
+|[[Neudorf bei Staatz]] ||Other municipality ||style="text-align:right"| 1,430
+|-
+|[[Neuhofen an der Ybbs]] ||Other municipality ||style="text-align:right"| 2,930
+|-
+|[[Neulengbach]] ||Other city ||style="text-align:right"| 8,281
+|-
+|[[Neumarkt an der Ybbs]] ||Market town ||style="text-align:right"| 1,919
+|-
+|[[Neunkirchen, Austria|Neunkirchen]] ||Other city ||style="text-align:right"| 12,879
+|-
+|[[Neusiedl an der Zaya]] ||Market town ||style="text-align:right"| 1,252
+|-
+|[[Neustadtl an der Donau]] ||Other municipality ||style="text-align:right"| 2,143
+|-
+|[[Neustift-Innermanzing]] ||Other municipality ||style="text-align:right"| 1,543
+|-
+|[[Niederhollabrunn]] ||Market town ||style="text-align:right"| 1,534
+|-
+|[[Niederleis]] ||Other municipality ||style="text-align:right"| 861
+|-
+|[[Nöchling]] ||Market town ||style="text-align:right"| 1,077
+|-
+|[[Nußdorf ob der Traisen]] ||Market town ||style="text-align:right"| 1,758
+|-
+|[[Ober-Grafendorf]] ||Market town ||style="text-align:right"| 4,544
+|-
+|[[Oberndorf an der Melk]] ||Other municipality ||style="text-align:right"| 2,957
+|-
+|[[Obersiebenbrunn]] ||Market town ||style="text-align:right"| 1,708
+|-
+|[[Oberwaltersdorf]] ||Market town ||style="text-align:right"| 4,618
+|-
+|[[Obritzberg-Rust]] ||Market town ||style="text-align:right"| 2,342
+|-
+|[[Oed-Öhling]] ||Market town ||style="text-align:right"| 1,884
+|-
+|[[Opponitz]] ||Other municipality ||style="text-align:right"| 947
+|-
+|[[Orth an der Donau]] ||Market town ||style="text-align:right"| 2,086
+|-
+|[[Ottenschlag]] ||Market town ||style="text-align:right"| 1,002
+|-
+|[[Ottenthal]] ||Other municipality ||style="text-align:right"| 544
+|-
+|[[Otterthal]] ||Other municipality ||style="text-align:right"| 592
+|-
+|[[Palterndorf-Dobermannsdorf]] ||Market town ||style="text-align:right"| 1,333
+|-
+|[[Parbasdorf]] ||Other municipality ||style="text-align:right"| 169
+|-
+|[[Paudorf]] ||Market town ||style="text-align:right"| 2,598
+|-
+|[[Payerbach]] ||Market town ||style="text-align:right"| 2,076
+|-
+|[[Perchtoldsdorf]] ||Market town ||style="text-align:right"| 15,047
+|-
+|[[Pernegg]] ||Market town ||style="text-align:right"| 701
+|-
+|[[Pernersdorf]] ||Market town ||style="text-align:right"| 1,022
+|-
+|[[Pernitz]] ||Market town ||style="text-align:right"| 2,473
+|-
+|[[Persenbeug-Gottsdorf]] ||Market town ||style="text-align:right"| 2,201
+|-
+|[[Petronell-Carnuntum]] ||Other municipality ||style="text-align:right"| 1,245
+|-
+|[[Petzenkirchen]] ||Market town ||style="text-align:right"| 1,311
+|-
+|[[Pfaffenschlag bei Waidhofen]] ||Other municipality ||style="text-align:right"| 913
+|-
+|[[Pfaffstätten]] ||Market town ||style="text-align:right"| 3,551
+|-
+|[[Pillichsdorf]] ||Other municipality ||style="text-align:right"| 1,157
+|-
+|[[Pitten]] ||Market town ||style="text-align:right"| 2,697
+|-
+|[[Pöchlarn]] ||Other city ||style="text-align:right"| 3,912
+|-
+|[[Pöggstall]] ||Market town ||style="text-align:right"| 2,435
+|-
+|[[Pölla]] ||Market town ||style="text-align:right"| 939
+|-
+|[[Pottendorf]] ||Market town ||style="text-align:right"| 7,049
+|-
+|[[Pottenstein, Austria|Pottenstein]] ||Market town ||style="text-align:right"| 2,909
+|-
+|[[Poysdorf]] ||Other city ||style="text-align:right"| 5,527
+|-
+|[[Prellenkirchen]] ||Other municipality ||style="text-align:right"| 1,577
+|-
+|[[Pressbaum]] ||Other city ||style="text-align:right"| 7,559
+|-
+|[[Prigglitz]] ||Other municipality ||style="text-align:right"| 434
+|-
+|[[Prinzersdorf]] ||Market town ||style="text-align:right"| 1,617
+|-
+|[[Prottes]] ||Market town ||style="text-align:right"| 1,436
+|-
+|[[Pürschling]] ||Other municipality ||style="text-align:right"| 1,395
+|-
+|[[Puchberg am Schneeberg]] ||Market town ||style="text-align:right"| 2,683
+|-
+|[[Puchenstuben]] ||Other municipality ||style="text-align:right"| 311
+|-
+|[[Pulkau]] ||Other city ||style="text-align:right"| 1,560
+|-
+|[[Purgstall an der Erlauf]] ||Market town ||style="text-align:right"| 5,348
+|-
+|[[Purkersdorf]] ||Other city ||style="text-align:right"| 9,701
+|-
+|[[Pyhra]] ||Market town ||style="text-align:right"| 3,553
+|-
+|[[Raabs an der Thaya]] ||Other city ||style="text-align:right"| 2,651
+|-
+|[[Raach am Hochgebirge]] ||Other municipality ||style="text-align:right"| 281
+|-
+|[[Raasdorf]] ||Other municipality ||style="text-align:right"| 645
+|-
+|[[Rabensburg]] ||Market town ||style="text-align:right"| 1,100
+|-
+|[[Rabenstein an der Pielach]] ||Market town ||style="text-align:right"| 2,560
+|-
+|[[Ramsau, Lower Austria|Ramsau]] ||Other municipality ||style="text-align:right"| 850
+|-
+|[[Randegg]] ||Market town ||style="text-align:right"| 1,880
+|-
+|[[Rappottenstein]] ||Market town ||style="text-align:right"| 1,724
+|-
+|[[Rastenfeld]] ||Market town ||style="text-align:right"| 1,551
+|-
+|[[Rauchenwarth]] ||Other municipality ||style="text-align:right"| 742
+|-
+|[[Ravelsbach]] ||Market town ||style="text-align:right"| 1,580
+|-
+|[[Raxendorf]] ||Market town ||style="text-align:right"| 1,050
+|-
+|[[Reichenau an der Rax]] ||Market town ||style="text-align:right"| 2,571
+|-
+|[[Reingers]] ||Other municipality ||style="text-align:right"| 635
+|-
+|[[Reinsberg, Austria|Reinsberg]] ||Other municipality ||style="text-align:right"| 1,027
+|-
+|[[Reisenberg]] ||Market town ||style="text-align:right"| 1,689
+|-
+|[[Retz]] ||Other city ||style="text-align:right"| 4,249
+|-
+|[[Retzbach]] ||Other municipality ||style="text-align:right"| 1,002
+|-
+|[[Ringelsdorf-Niederabsdorf]] ||Market town ||style="text-align:right"| 1,260
+|-
+|[[Rohr im Gebirge]] ||Other municipality ||style="text-align:right"| 476
+|-
+|[[Rohrau, Austria|Rohrau]] ||Other municipality ||style="text-align:right"| 1,609
+|-
+|[[Rohrbach an der Gölsen]] ||Other municipality ||style="text-align:right"| 1,556
+|-
+|[[Röhrenbach]] ||Other municipality ||style="text-align:right"| 522
+|-
+|[[Rohrendorf bei Krems]] ||Other municipality ||style="text-align:right"| 2,091
+|-
+|[[Röschitz]] ||Market town ||style="text-align:right"| 1,052
+|-
+|[[Rosenburg-Mold]] ||Other municipality ||style="text-align:right"| 856
+|-
+|[[Rossatz-Arnsdorf]] ||Market town ||style="text-align:right"| 1,065
+|-
+|[[Ruprechtshofen]] ||Market town ||style="text-align:right"| 2,315
+|-
+|[[Rußbach]] ||Other municipality ||style="text-align:right"| 1,424
+|-
+|[[Sallingberg]] ||Market town ||style="text-align:right"| 1,291
+|-
+|[[Scharndorf]] ||Other municipality ||style="text-align:right"| 1,159
+|-
+|[[Scheibbs]] ||Other city ||style="text-align:right"| 4,196
+|-
+|[[Scheiblingkirchen-Thernberg]] ||Market town ||style="text-align:right"| 1,864
+|-
+|[[Schollach]] ||Other municipality ||style="text-align:right"| 976
+|-
+|[[Schönau an der Triesting]] ||Other municipality ||style="text-align:right"| 2,123
+|-
+|[[Schönbach, Austria|Schönbach]] ||Market town ||style="text-align:right"| 798
+|-
+|[[Schönberg am Kamp]] ||Market town ||style="text-align:right"| 1,903
+|-
+|[[Schönbühel-Aggsbach]] ||Market town ||style="text-align:right"| 981
+|-
+|[[Schönkirchen-Reyersdorf]] ||Market town ||style="text-align:right"| 1,963
+|-
+|[[Schottwien]] ||Market town ||style="text-align:right"| 660
+|-
+|[[Schrattenbach]] ||Other municipality ||style="text-align:right"| 363
+|-
+|[[Schrattenberg]] ||Other municipality ||style="text-align:right"| 810
+|-
+|[[Schrattenthal]] ||Other city ||style="text-align:right"| 868
+|-
+|[[Schrems, Lower Austria|Schrems]] ||Other city ||style="text-align:right"| 5,404
+|-
+|[[Schwadorf]] ||Market town ||style="text-align:right"| 2,180
+|-
+|[[Schwarzau am Steinfeld]] ||Other municipality ||style="text-align:right"| 1,924
+|-
+|[[Schwarzau im Gebirge]] ||Other municipality ||style="text-align:right"| 644
+|-
+|[[Schwarzenau, Lower Austria|Schwarzenau]] ||Market town ||style="text-align:right"| 1,532
+|-
+|[[Schwarzenbach, Lower Austria|Schwarzenbach]] ||Market town ||style="text-align:right"| 941
+|-
+|[[Schwarzenbach an der Pielach]] ||Other municipality ||style="text-align:right"| 369
+|-
+|[[Schwechat]] ||Other city ||style="text-align:right"| 18,026
+|-
+|[[Schweiggers]] ||Market town ||style="text-align:right"| 2,004
+|-
+|[[Seebenstein]] ||Other municipality ||style="text-align:right"| 1,401
+|-
+|[[Seefeld-Kadolz]] ||Market town ||style="text-align:right"| 935
+|-
+|[[Seibersdorf]] ||Market town ||style="text-align:right"| 1,466
+|-
+|[[Seitenstetten]] ||Market town ||style="text-align:right"| 3,394
+|-
+|[[Semmering, Austria|Semmering]] ||Other municipality ||style="text-align:right"| 544
+|-
+|[[Senftenberg, Austria|Senftenberg]] ||Market town ||style="text-align:right"| 1,977
+|-
+|[[Sieghartskirchen]] ||Market town ||style="text-align:right"| 7,528
+|-
+|[[Sierndorf]] ||Market town ||style="text-align:right"| 3,933
+|-
+|[[Sigmundsherberg]] ||Market town ||style="text-align:right"| 1,651
+|-
+|[[Sitzenberg-Reidling]] ||Other municipality ||style="text-align:right"| 2,102
+|-
+|[[Sitzendorf an der Schmida]] ||Market town ||style="text-align:right"| 2,162
+|-
+|[[Sollenau]] ||Market town ||style="text-align:right"| 5,038
+|-
+|[[Sommerein]] ||Market town ||style="text-align:right"| 1,947
+|-
+|[[Sonntagberg]] ||Market town ||style="text-align:right"| 3,829
+|-
+|[[Sooß]] ||Market town ||style="text-align:right"| 1,050
+|-
+|[[Spannberg]] ||Market town ||style="text-align:right"| 1,010
+|-
+|[[Spillern]] ||Market town ||style="text-align:right"| 2,222
+|-
+|[[Spitz, Austria|Spitz]] ||Market town ||style="text-align:right"| 1,620
+|-
+|[[Sankt Aegyd am Neuwalde]] ||Market town ||style="text-align:right"| 1,901
+|-
+|[[Sankt Andrä-Wördern]] ||Market town ||style="text-align:right"| 7,870
+|-
+|[[Sankt Anton an der Jeßnitz]] ||Other municipality ||style="text-align:right"| 1,211
+|-
+|[[Sankt Bernhard-Frauenhofen]] ||Other municipality ||style="text-align:right"| 1,299
+|-
+|[[Sankt Corona am Wechsel]] ||Other municipality ||style="text-align:right"| 390
+|-
+|[[Sankt Egyden am Steinfeld]] ||Other municipality ||style="text-align:right"| 1,924
+|-
+|[[Sankt Georgen am Reith]] ||Other municipality ||style="text-align:right"| 578
+|-
+|[[Sankt Georgen am Ybbsfelde]] ||Market town ||style="text-align:right"| 2,886
+|-
+|[[Sankt Georgen an der Leys]] ||Other municipality ||style="text-align:right"| 1,334
+|-
+|[[Sankt Leonhard am Forst]] ||Market town ||style="text-align:right"| 2,989
+|-
+|[[Sankt Leonhard am Hornerwald]] ||Market town ||style="text-align:right"| 1,119
+|-
+|[[Sankt Margarethen an der Sierning]] ||Other municipality ||style="text-align:right"| 1,013
+|-
+|[[Sankt Martin, Lower Austria|Sankt Martin]] ||Market town ||style="text-align:right"| 1,124
+|-
+|[[Sankt Martin-Karlsbach]] ||Market town ||style="text-align:right"| 1,659
+|-
+|[[Sankt Oswald, Lower Austria|Sankt Oswald]] ||Other municipality ||style="text-align:right"| 1,124
+|-
+|[[Sankt Pantaleon-Erla]] ||Other municipality ||style="text-align:right"| 2,587
+|-
+|[[Sankt Peter in der Au]] ||Market town ||style="text-align:right"| 5,119
+|-
+|[[Sankt Pölten]] ||Statutory city ||style="text-align:right"| 54,649
+|-
+|[[Sankt Valentin]] ||Other city ||style="text-align:right"| 9,340
+|-
+|[[Sankt Veit an der Gölsen]] ||Market town ||style="text-align:right"| 3,915
+|-
+|[[Staatz]] ||Market town ||style="text-align:right"| 1,933
+|-
+|[[Statzendorf]] ||Other municipality ||style="text-align:right"| 1,362
+|-
+|[[Steinakirchen am Forst]] ||Market town ||style="text-align:right"| 2,274
+|-
+|[[Stetteldorf am Wagram]] ||Market town ||style="text-align:right"| 1,041
+|-
+|[[Stetten, Austria|Stetten]] ||Other municipality ||style="text-align:right"| 1,357
+|-
+|[[Stockerau]] ||Other city ||style="text-align:right"| 16,916
+|-
+|[[Stössing]] ||Other municipality ||style="text-align:right"| 838
+|-
+|[[Straning-Grafenberg]] ||Other municipality ||style="text-align:right"| 781
+|-
+|[[Straß im Straßertale]] ||Market town ||style="text-align:right"| 1,678
+|-
+|[[Strasshof an der Nordbahn]] ||Market town ||style="text-align:right"| 10,009
+|-
+|[[Stratzing]] ||Market town ||style="text-align:right"| 827
+|-
+|[[Strengberg]] ||Market town ||style="text-align:right"| 2,055
+|-
+|[[Stronsdorf]] ||Market town ||style="text-align:right"| 1,584
+|-
+|[[Sulz im Weinviertel]] ||Market town ||style="text-align:right"| 1,189
+|-
+|[[Tattendorf]] ||Other municipality ||style="text-align:right"| 1,439
+|-
+|[[Teesdorf]] ||Market town ||style="text-align:right"| 1,822
+|-
+|[[Ternitz]] ||Other city ||style="text-align:right"| 14,632
+|-
+|[[Texingtal]] ||Other municipality ||style="text-align:right"| 1,615
+|-
+|[[Thaya, Austria|Thaya]] ||Market town ||style="text-align:right"| 1,380
+|-
+|[[Theresienfeld]] ||Market town ||style="text-align:right"| 3,485
+|-
+|[[Thomasberg]] ||Other municipality ||style="text-align:right"| 1,284
+|-
+|[[Traisen, Austria|Traisen]] ||Other municipality ||style="text-align:right"| 3,453
+|-
+|[[Traiskirchen]] ||Other city ||style="text-align:right"| 18,858
+|-
+|[[Traismauer]] ||Other city ||style="text-align:right"| 6,224
+|-
+|[[Trattenbach]] ||Other municipality ||style="text-align:right"| 545
+|-
+|[[Trautmannsdorf an der Leitha]] ||Market town ||style="text-align:right"| 2,886
+|-
+|[[Trumau]] ||Market town ||style="text-align:right"| 3,640
+|-
+|[[Tulbing]] ||Market town ||style="text-align:right"| 2,971
+|-
+|[[Tulln an der Donau]] ||Other city ||style="text-align:right"| 16,197
+|-
+|[[Tullnerbach]] ||Market town ||style="text-align:right"| 2,782
+|-
+|[[Türnitz]] ||Other municipality ||style="text-align:right"| 1,912
+|-
+|[[Ulrichskirchen-Schleinbach]] ||Market town ||style="text-align:right"| 2,630
+|-
+|[[Unserfrau-Altweitra]] ||Other municipality ||style="text-align:right"| 1,004
+|-
+|[[Untersiebenbrunn]] ||Other municipality ||style="text-align:right"| 1,736
+|-
+|[[Unterstinkenbrunn]] ||Other municipality ||style="text-align:right"| 560
+|-
+|[[Velm-Götzendorf]] ||Other municipality ||style="text-align:right"| 735
+|-
+|[[Viehdorf]] ||Other municipality ||style="text-align:right"| 1,372
+|-
+|[[Vitis, Austria|Vitis]] ||Market town ||style="text-align:right"| 2,678
+|-
+|[[Vösendorf]] ||Market town ||style="text-align:right"| 6,990
+|-
+|[[Waidhofen an der Thaya]] ||Other city ||style="text-align:right"| 5,501
+|-
+|[[Waidhofen an der Thaya-Land]] ||Other municipality ||style="text-align:right"| 1,266
+|-
+|[[Waidhofen an der Ybbs]] ||Statutory city ||style="text-align:right"| 11,333
+|-
+|[[Waidmannsfeld]] ||Other municipality ||style="text-align:right"| 1,515
+|-
+|[[Waldegg, Lower Austria|Waldegg]] ||Market town ||style="text-align:right"| 2,048
+|-
+|[[Waldenstein]] ||Other municipality ||style="text-align:right"| 1,195
+|-
+|[[Waldhausen]] ||Market town ||style="text-align:right"| 1,215
+|-
+|[[Waldkirchen an der Thaya]] ||Market town ||style="text-align:right"| 534
+|-
+|[[Wallsee-Sindelburg]] ||Market town ||style="text-align:right"| 2,178
+|-
+|[[Walpersbach]] ||Other municipality ||style="text-align:right"| 1,125
+|-
+|[[Wang, Austria|Wang]] ||Market town ||style="text-align:right"| 1,355
+|-
+|[[Warth, Lower Austria|Warth]] ||Market town ||style="text-align:right"| 1,512
+|-
+|[[Wartmannstetten]] ||Market town ||style="text-align:right"| 1,605
+|-
+|[[Weiden an der March]] ||Other municipality ||style="text-align:right"| 991
+|-
+|[[Weikendorf]] ||Market town ||style="text-align:right"| 2,029
+|-
+|[[Weikersdorf am Steinfelde]] ||Other municipality ||style="text-align:right"| 1,066
+|-
+|[[Weinburg]] ||Other municipality ||style="text-align:right"| 1,337
+|-
+|[[Weinzierl am Walde]] ||Other municipality ||style="text-align:right"| 1,240
+|-
+|[[Weissenbach an der Triesting]] ||Market town ||style="text-align:right"| 1,727
+|-
+|[[Weißenkirchen in der Wachau]] ||Market town ||style="text-align:right"| 1,429
+|-
+|[[Weistrach]] ||Other municipality ||style="text-align:right"| 2,216
+|-
+|[[Weiten]] ||Market town ||style="text-align:right"| 1,094
+|-
+|[[Weitersfeld]] ||Other municipality ||style="text-align:right"| 1,576
+|-
+|[[Weitra]] ||Other city ||style="text-align:right"| 2,693
+|-
+|[[Wiener Neudorf]] ||Market town ||style="text-align:right"| 9,405
+|-
+|[[Wiener Neustadt]] ||Statutory city ||style="text-align:right"| 44,820
+|-
+|[[Wienerwald, Austria|Wienerwald]] ||Other municipality ||style="text-align:right"| 2,858
+|-
+|[[Wieselburg]] ||Other city ||style="text-align:right"| 4,143
+|-
+|[[Wieselburg-Land]] ||Other municipality ||style="text-align:right"| 3,311
+|-
+|[[Wiesmath]] ||Market town ||style="text-align:right"| 1,509
+|-
+|[[Wildendürnbach]] ||Other municipality ||style="text-align:right"| 1,574
+|-
+|[[Wilfersdorf]] ||Market town ||style="text-align:right"| 2,175
+|-
+|[[Wilhelmsburg, Austria|Wilhelmsburg]] ||Other city ||style="text-align:right"| 6,557
+|-
+|[[Willendorf an der Schneebergbahn|Willendorf]] ||Other municipality ||style="text-align:right"| 971
+|-
+|[[Wimpassing im Schwarzatale]] ||Market town ||style="text-align:right"| 1,616
+|-
+|[[Windigsteig]] ||Market town ||style="text-align:right"| 945
+|-
+|[[Winklarn, Austria|Winklarn]] ||Other municipality ||style="text-align:right"| 1,683
+|-
+|[[Winzendorf-Muthmannsdorf]] ||Market town ||style="text-align:right"| 1,877
+|-
+|[[Wölbling]] ||Market town ||style="text-align:right"| 2,571
+|-
+|[[Wolfpassing]] ||Other municipality ||style="text-align:right"| 1,616
+|-
+|[[Wolfsbach, Lower Austria|Wolfsbach]] ||Market town ||style="text-align:right"| 2,011
+|-
+|[[Wolfsgraben]] ||Other municipality ||style="text-align:right"| 1,700
+|-
+|[[Wolfsthal]] ||Other municipality ||style="text-align:right"| 1,032
+|-
+|[[Wolkersdorf im Weinviertel]] ||Other city ||style="text-align:right"| 7,201
+|-
+|[[Wöllersdorf-Steinabrückl]] ||Market town ||style="text-align:right"| 4,473
+|-
+|[[Wullersdorf]] ||Market town ||style="text-align:right"| 2,385
+|-
+|[[Würflach]] ||Other municipality ||style="text-align:right"| 1,592
+|-
+|[[Würmla]] ||Market town ||style="text-align:right"| 1,429
+|-
+|[[Ybbs an der Donau]] ||Other city ||style="text-align:right"| 5,653
+|-
+|[[Ybbsitz]] ||Market town ||style="text-align:right"| 3,445
+|-
+|[[Yspertal]] ||Market town ||style="text-align:right"| 2,007
+|-
+|[[Zeillern]] ||Market town ||style="text-align:right"| 1,865
+|-
+|[[Zeiselmauer-Wolfpassing]] ||Other municipality ||style="text-align:right"| 2,302
+|-
+|[[Zelking-Matzleinsdorf]] ||Other municipality ||style="text-align:right"| 1,214
+|-
+|[[Zellerndorf]] ||Market town ||style="text-align:right"| 2,432
+|-
+|[[Ziersdorf]] ||Market town ||style="text-align:right"| 3,446
+|-
+|[[Zillingdorf]] ||Market town ||style="text-align:right"| 2,030
+|-
+|[[Zistersdorf]] ||Other city ||style="text-align:right"| 5,391
+|-
+|[[Zöbern]] ||Other municipality ||style="text-align:right"| 1,423
+|-
+|[[Zwentendorf|Zwentendorf an der Donau]] ||Market town ||style="text-align:right"| 3,982
+|-
+|[[Zwettl]] ||Other city ||style="text-align:right"| 10,908
+|-
+|[[Zwölfaxing]] ||Other municipality ||style="text-align:right"| 1,744
+|}
+
+===Salzburg===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2015)
+|-
+|[[Abtenau]] ||Market town ||style="text-align:right"| 5,842
+|-
+|[[Adnet]] ||Other municipality ||style="text-align:right"| 3,557
+|-
+|[[Altenmarkt im Pongau]] ||Market town ||style="text-align:right"| 4,218
+|-
+|[[Anif]] ||Other municipality ||style="text-align:right"| 4,195
+|-
+|[[Annaberg-Lungötz]] ||Other municipality ||style="text-align:right"| 2,203
+|-
+|[[Anthering]] ||Other municipality ||style="text-align:right"| 3,734
+|-
+|[[Bad Gastein]] ||Other municipality ||style="text-align:right"| 3,980
+|-
+|[[Bad Hofgastein]] ||Market town ||style="text-align:right"| 6,914
+|-
+|[[Bad Vigaun]] ||Other municipality ||style="text-align:right"| 2,091
+|-
+|[[Bergheim, Austria|Bergheim]] ||Other municipality ||style="text-align:right"| 5,388
+|-
+|[[Berndorf bei Salzburg]] ||Other municipality ||style="text-align:right"| 1,689
+|-
+|[[Bischofshofen]] ||Other city ||style="text-align:right"| 10,540
+|-
+|[[Bramberg am Wildkogel]] ||Other municipality ||style="text-align:right"| 3,936
+|-
+|[[Bruck an der Großglocknerstraße]] ||Other municipality ||style="text-align:right"| 4,699
+|-
+|[[Bürmoos]] ||Other municipality ||style="text-align:right"| 4,899
+|-
+|[[Dienten am Hochkönig]] ||Other municipality ||style="text-align:right"| 761
+|-
+|[[Dorfbeuern]] ||Other municipality ||style="text-align:right"| 1,547
+|-
+|[[Dorfgastein]] ||Other municipality ||style="text-align:right"| 1,614
+|-
+|[[Eben im Pongau]] ||Other municipality ||style="text-align:right"| 2,446
+|-
+|[[Ebenau]] ||Other municipality ||style="text-align:right"| 1,439
+|-
+|[[Elixhausen]] ||Other municipality ||style="text-align:right"| 2,963
+|-
+|[[Elsbethen]] ||Other municipality ||style="text-align:right"| 5,424
+|-
+|[[Eugendorf]] ||Market town ||style="text-align:right"| 6,937
+|-
+|[[Faistenau]] ||Other municipality ||style="text-align:right"| 3,103
+|-
+|[[Filzmoos]] ||Other municipality ||style="text-align:right"| 1,484
+|-
+|[[Flachau]] ||Other municipality ||style="text-align:right"| 2,813
+|-
+|[[Forstau]] ||Other municipality ||style="text-align:right"| 540
+|-
+|[[Fusch an der Großglocknerstraße]] ||Other municipality ||style="text-align:right"| 719
+|-
+|[[Fuschl am See]] ||Other municipality ||style="text-align:right"| 1,520
+|-
+|[[Goldegg]] ||Other municipality ||style="text-align:right"| 2,533
+|-
+|[[Golling an der Salzach]] ||Market town ||style="text-align:right"| 4,271
+|-
+|[[Göming]] ||Other municipality ||style="text-align:right"| 764
+|-
+|[[Göriach]] ||Other municipality ||style="text-align:right"| 337
+|-
+|[[Grödig]] ||Market town ||style="text-align:right"| 7,262
+|-
+|[[Grossarl|Großarl]] ||Market town ||style="text-align:right"| 3,825
+|-
+|[[Großgmain]] ||Other municipality ||style="text-align:right"| 2,615
+|-
+|[[Hallein]] ||Other city ||style="text-align:right"| 21,150
+|-
+|[[Hallwang]] ||Other municipality ||style="text-align:right"| 4,189
+|-
+|[[Henndorf am Wallersee]] ||Other municipality ||style="text-align:right"| 4,947
+|-
+|[[Hintersee, Austria|Hintersee]] ||Other municipality ||style="text-align:right"| 443
+|-
+|[[Hof bei Salzburg]] ||Other municipality ||style="text-align:right"| 3,562
+|-
+|[[Hollersbach im Pinzgau]] ||Other municipality ||style="text-align:right"| 1,220
+|-
+|[[Hüttau]] ||Other municipality ||style="text-align:right"| 1,492
+|-
+|[[Hüttschlag]] ||Other municipality ||style="text-align:right"| 911
+|-
+|[[Kaprun]] ||Other municipality ||style="text-align:right"| 3,177
+|-
+|[[Kleinarl]] ||Other municipality ||style="text-align:right"| 792
+|-
+|[[Koppl]] ||Other municipality ||style="text-align:right"| 3,472
+|-
+|[[Köstendorf]] ||Other municipality ||style="text-align:right"| 2,631
+|-
+|[[Krimml]] ||Other municipality ||style="text-align:right"| 847
+|-
+|[[Krispl]] ||Other municipality ||style="text-align:right"| 889
+|-
+|[[Kuchl]] ||Market town ||style="text-align:right"| 7,274
+|-
+|[[Lamprechtshausen]] ||Other municipality ||style="text-align:right"| 4,037
+|-
+|[[Lend, Austria|Lend]] ||Other municipality ||style="text-align:right"| 1,368
+|-
+|[[Leogang]] ||Other municipality ||style="text-align:right"| 3,263
+|-
+|[[Lessach]] ||Other municipality ||style="text-align:right"| 555
+|-
+|[[Lofer]] ||Market town ||style="text-align:right"| 2,037
+|-
+|[[Maishofen]] ||Other municipality ||style="text-align:right"| 3,601
+|-
+|[[Maria Alm]] ||Other municipality ||style="text-align:right"| 2,197
+|-
+|[[Mariapfarr]] ||Other municipality ||style="text-align:right"| 2,375
+|-
+|[[Mattsee]] ||Market town ||style="text-align:right"| 3,263
+|-
+|[[Mauterndorf]] ||Market town ||style="text-align:right"| 1,639
+|-
+|[[Mittersill]] ||Other city ||style="text-align:right"| 5,380
+|-
+|[[Mühlbach am Hochkönig]] ||Other municipality ||style="text-align:right"| 1,461
+|-
+|[[Muhr]] ||Other municipality ||style="text-align:right"| 510
+|-
+|[[Neukirchen am Großvenediger]] ||Market town ||style="text-align:right"| 2,517
+|-
+|[[Neumarkt am Wallersee]] ||Other city ||style="text-align:right"| 6,297
+|-
+|[[Niedernsill]] ||Other municipality ||style="text-align:right"| 2,694
+|-
+|[[Nußdorf am Haunsberg]] ||Other municipality ||style="text-align:right"| 2,383
+|-
+|[[Oberalm]] ||Market town ||style="text-align:right"| 4,325
+|-
+|[[Oberndorf bei Salzburg]] ||Other city ||style="text-align:right"| 5,815
+|-
+|[[Obertrum]] ||Market town ||style="text-align:right"| 4,808
+|-
+|[[Pfarrwerfen]] ||Other municipality ||style="text-align:right"| 2,292
+|-
+|[[Piesendorf]] ||Other municipality ||style="text-align:right"| 3,790
+|-
+|[[Plainfeld]] ||Other municipality ||style="text-align:right"| 1,237
+|-
+|[[Puch bei Hallein]] ||Other municipality ||style="text-align:right"| 4,675
+|-
+|[[Radstadt]] ||Other city ||style="text-align:right"| 4,823
+|-
+|[[Ramingstein]] ||Other municipality ||style="text-align:right"| 1,059
+|-
+|[[Rauris]] ||Market town ||style="text-align:right"| 3,044
+|-
+|[[Rußbach am Paß Gschütt]] ||Other municipality ||style="text-align:right"| 767
+|-
+|[[Saalbach-Hinterglemm]] ||Other municipality ||style="text-align:right"| 2,859
+|-
+|[[Saalfelden]] ||Other city ||style="text-align:right"| 16,700
+|-
+|[[Salzburg]] ||Statutory city ||style="text-align:right"| 153,377
+|-
+|[[Sankt Andrä im Lungau]] ||Other municipality ||style="text-align:right"| 761
+|-
+|[[Sankt Georgen bei Salzburg]] ||Other municipality ||style="text-align:right"| 2,954
+|-
+|[[Sankt Gilgen]] ||Other municipality ||style="text-align:right"| 3,915
+|-
+|[[Sankt Johann im Pongau]] ||Other city ||style="text-align:right"| 10,944
+|-
+|[[Sankt Koloman]] ||Other municipality ||style="text-align:right"| 1,725
+|-
+|[[Sankt Margarethen im Lungau]] ||Other municipality ||style="text-align:right"| 725
+|-
+|[[Sankt Martin am Tennengebirge]] ||Other municipality ||style="text-align:right"| 1,666
+|-
+|[[Sankt Martin bei Lofer]] ||Other municipality ||style="text-align:right"| 1,153
+|-
+|[[Sankt Michael im Lungau]] ||Market town ||style="text-align:right"| 3,520
+|-
+|[[Sankt Veit im Pongau]] ||Market town ||style="text-align:right"| 3,788
+|-
+|[[Scheffau am Tennengebirge]] ||Other municipality ||style="text-align:right"| 1,395
+|-
+|[[Schleedorf]] ||Other municipality ||style="text-align:right"| 1,069
+|-
+|[[Schwarzach im Pongau]] ||Market town ||style="text-align:right"| 3,515
+|-
+|[[Seeham]] ||Other municipality ||style="text-align:right"| 1,939
+|-
+|[[Seekirchen am Wallersee]] ||Other city ||style="text-align:right"| 10,764
+|-
+|[[Straßwalchen]] ||Market town ||style="text-align:right"| 7,420
+|-
+|[[Strobl]] ||Other municipality ||style="text-align:right"| 3,645
+|-
+|[[Stuhlfelden]] ||Other municipality ||style="text-align:right"| 1,604
+|-
+|[[Tamsweg]] ||Market town ||style="text-align:right"| 5,717
+|-
+|[[Taxenbach]] ||Market town ||style="text-align:right"| 2,747
+|-
+|[[Thalgau]] ||Market town ||style="text-align:right"| 5,931
+|-
+|[[Thomatal]] ||Other municipality ||style="text-align:right"| 333
+|-
+|[[Tweng]] ||Other municipality ||style="text-align:right"| 276
+|-
+|[[Unken]] ||Other municipality ||style="text-align:right"| 1,954
+|-
+|[[Unternberg]] ||Other municipality ||style="text-align:right"| 1,035
+|-
+|[[Untertauern]] ||Other municipality ||style="text-align:right"| 466
+|-
+|[[Uttendorf]] ||Other municipality ||style="text-align:right"| 2,982
+|-
+|[[Viehhofen]] ||Other municipality ||style="text-align:right"| 603
+|-
+|[[Wagrain]] ||Market town ||style="text-align:right"| 3,085
+|-
+|[[Wald im Pinzgau]] ||Other municipality ||style="text-align:right"| 1,124
+|-
+|[[Wals-Siezenheim]] ||Other municipality ||style="text-align:right"| 13,056
+|-
+|[[Weißbach bei Lofer]] ||Other municipality ||style="text-align:right"| 429
+|-
+|[[Weißpriach]] ||Other municipality ||style="text-align:right"| 306
+|-
+|[[Werfen]] ||Market town ||style="text-align:right"| 3,027
+|-
+|[[Werfenweng]] ||Other municipality ||style="text-align:right"| 1,012
+|-
+|[[Zederhaus]] ||Other municipality ||style="text-align:right"| 1,196
+|-
+|[[Zell am See]] ||Other city ||style="text-align:right"| 9,852
+|}
+
+===Styria===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2022)
+|-
+|[[Admont]] ||Market town ||style="text-align:right"| 4,988
+|-
+|[[Aflenz]] ||Market town ||style="text-align:right"| 2,423
+|-
+|[[Aich, Styria|Aich]] ||Other municipality ||style="text-align:right"| 1,315
+|-
+|[[Aigen im Ennstal]] ||Other municipality ||style="text-align:right"| 2,711
+|-
+|[[Albersdorf-Prebuch]] ||Other municipality ||style="text-align:right"| 2,303
+|-
+|[[Allerheiligen bei Wildon]] ||Other municipality ||style="text-align:right"| 1,598
+|-
+|[[Altaussee]] ||Other municipality ||style="text-align:right"| 1,862
+|-
+|[[Altenmarkt bei Sankt Gallen]] ||Market town ||style="text-align:right"| 785
+|-
+|[[Anger, Styria|Anger]] ||Market town ||style="text-align:right"| 4,020
+|-
+|[[Ardning]] ||Other municipality ||style="text-align:right"| 1,286
+|-
+|[[Arnfels]] ||Market town ||style="text-align:right"| 970
+|-
+|[[Bad Aussee]] ||Other city ||style="text-align:right"| 5,013
+|-
+|[[Bad Blumau]] ||Other municipality ||style="text-align:right"| 1,631
+|-
+|[[Bad Gleichenberg]] ||Other municipality ||style="text-align:right"| 5,306
+|-
+|[[Bad Loipersdorf]] ||Other municipality ||style="text-align:right"| 1,821
+|-
+|[[Bad Mitterndorf]] ||Market town ||style="text-align:right"| 4,925
+|-
+|[[Bad Radkersburg]] ||Other city ||style="text-align:right"| 3,232
+|-
+|[[Bad Schwanberg]] ||Market town ||style="text-align:right"| 4,464
+|-
+|[[Bad Waltersdorf]] ||Market town ||style="text-align:right"| 3,898
+|-
+|[[Bärnbach]] ||Other city ||style="text-align:right"| 5,775
+|-
+|[[Birkfeld]] ||Market town ||style="text-align:right"| 4,995
+|-
+|[[Breitenau am Hochlantsch]] ||Market town ||style="text-align:right"| 1,612
+|-
+|[[Bruck an der Mur]] ||Other city ||style="text-align:right"| 15,962
+|-
+|[[Buch-Sankt Magdalena]] ||Other municipality ||style="text-align:right"| 2,196
+|-
+|[[Burgau, Styria|Burgau]] ||Market town ||style="text-align:right"| 1,084
+|-
+|[[Dechantskirchen]] ||Other municipality ||style="text-align:right"| 2,005
+|-
+|[[Deutsch Goritz]] ||Other municipality ||style="text-align:right"| 1,782
+|-
+|[[Deutschfeistritz]] ||Market town ||style="text-align:right"| 4,503
+|-
+|[[Deutschlandsberg]] ||Other city ||style="text-align:right"| 11,708
+|-
+|[[Dobl-Zwaring]] ||Market town ||style="text-align:right"| 3,775
+|-
+|[[Ebersdorf, Styria|Ebersdorf]] ||Other municipality ||style="text-align:right"| 1,277
+|-
+|[[Edelsbach bei Feldbach]] ||Other municipality ||style="text-align:right"| 1,347
+|-
+|[[Edelschrott]] ||Market town ||style="text-align:right"| 1,646
+|-
+|[[Eggersdorf bei Graz]] ||Market town ||style="text-align:right"| 7,145
+|-
+|[[Ehrenhausen an der Weinstraße]] ||Market town ||style="text-align:right"| 2,455
+|-
+|[[Eibiswald]] ||Market town ||style="text-align:right"| 6,416
+|-
+|[[Eichkögl]] ||Other municipality ||style="text-align:right"| 1,375
+|-
+|[[Eisenerz]] ||Other city ||style="text-align:right"| 3,533
+|-
+|[[Empersdorf]] ||Other municipality ||style="text-align:right"| 1,413
+|-
+|[[Fehring]] ||Other city ||style="text-align:right"| 7,235
+|-
+|[[Feistritztal]] ||Other municipality ||style="text-align:right"| 2,382
+|-
+|[[Feldbach, Styria|Feldbach]] ||Other city ||style="text-align:right"| 14,430
+|-
+|[[Feldkirchen bei Graz]] ||Market town ||style="text-align:right"| 7,253
+|-
+|[[Fernitz-Mellach]] ||Other municipality ||style="text-align:right"| 4,931
+|-
+|[[Fischbach, Styria|Fischbach]] ||Other municipality ||style="text-align:right"| 1,516
+|-
+|[[Fladnitz an der Teichalm]] ||Other municipality ||style="text-align:right"| 1,811
+|-
+|[[Floing, Styria|Floing]] ||Other municipality ||style="text-align:right"| 1,218
+|-
+|[[Fohnsdorf]] ||Other municipality ||style="text-align:right"| 7,569
+|-
+|[[Frauental an der Laßnitz]] ||Market town ||style="text-align:right"| 3,134
+|-
+|[[Friedberg, Styria|Friedberg]] ||Other city ||style="text-align:right"| 2,652
+|-
+|[[Frohnleiten]] ||Other city ||style="text-align:right"| 6,632
+|-
+|[[Fürstenfeld]] ||Other city ||style="text-align:right"| 8,853
+|-
+|[[Gaal, Styria|Gaal]] ||Other municipality ||style="text-align:right"| 1,337
+|-
+|[[Gabersdorf]] ||Other municipality ||style="text-align:right"| 1,294
+|-
+|[[Gaishorn am See]] ||Market town ||style="text-align:right"| 1,351
+|-
+|[[Gamlitz]] ||Market town ||style="text-align:right"| 3,219
+|-
+|[[Gasen]] ||Other municipality ||style="text-align:right"| 856
+|-
+|[[Geistthal-Södingberg]] ||Other municipality ||style="text-align:right"| 1,464
+|-
+|[[Gersdorf an der Feistritz]] ||Other municipality ||style="text-align:right"| 1,770
+|-
+|[[Gleinstätten]] ||Market town ||style="text-align:right"| 2,801
+|-
+|[[Gleisdorf]] ||Other city ||style="text-align:right"| 11,322
+|-
+|[[Gnas, Styria|Gnas]] ||Market town ||style="text-align:right"| 5,985
+|-
+|[[Gössendorf]] ||Market town ||style="text-align:right"| 4,197
+|-
+|[[Grafendorf bei Hartberg]] ||Market town ||style="text-align:right"| 3,229
+|-
+|[[Gralla (municipality)|Gralla]] ||Market town ||style="text-align:right"| 2,852
+|-
+|[[Gratkorn]] ||Market town ||style="text-align:right"| 8,391
+|-
+|[[Gratwein-Straßengel]] ||Market town ||style="text-align:right"| 12,748
+|-
+|[[Graz]] ||Statutory city ||style="text-align:right"| 297,083
+|-
+|[[Greinbach]] ||Other municipality ||style="text-align:right"| 1,884
+|-
+|[[Gröbming]] ||Market town ||style="text-align:right"| 3,153
+|-
+|[[Groß Sankt Florian]] ||Market town ||style="text-align:right"| 4,090
+|-
+|[[Großklein]] ||Market town ||style="text-align:right"| 2,285
+|-
+|[[Großsteinbach]] ||Other municipality ||style="text-align:right"| 1,290
+|-
+|[[Großwilfersdorf]] ||Other municipality ||style="text-align:right"| 2,148
+|-
+|[[Grundlsee]] ||Other municipality ||style="text-align:right"| 1,154
+|-
+|[[Gutenberg-Stenzengreith]] ||Other municipality ||style="text-align:right"| 1,637
+|-
+|[[Halbenrain]] ||Market town ||style="text-align:right"| 1,674
+|-
+|[[Hart bei Graz]] ||Other municipality ||style="text-align:right"| 5,440
+|-
+|[[Hartberg]] ||Other city ||style="text-align:right"| 6,745
+|-
+|[[Hartberg Umgebung]] ||Other municipality ||style="text-align:right"| 2,223
+|-
+|[[Hartl]] ||Other municipality ||style="text-align:right"| 2,128
+|-
+|[[Haselsdorf-Tobelbad]] ||Other municipality ||style="text-align:right"| 1,599
+|-
+|[[Haus im Ennstal]] ||Market town ||style="text-align:right"| 2,425
+|-
+|[[Hausmannstätten]] ||Market town ||style="text-align:right"| 3,780
+|-
+|[[Heiligenkreuz am Waasen]] ||Market town ||style="text-align:right"| 2,891
+|-
+|[[Heimschuh]] ||Other municipality ||style="text-align:right"| 1,984
+|-
+|[[Hengsberg]] ||Other municipality ||style="text-align:right"| 1,495
+|-
+|[[Hirschegg-Pack]] ||Other municipality ||style="text-align:right"| 1,000
+|-
+|[[Hitzendorf]] ||Market town ||style="text-align:right"| 7,338
+|-
+|[[Hofstätten an der Raab]] ||Other municipality ||style="text-align:right"| 2,373
+|-
+|[[Hohentauern]] ||Other municipality ||style="text-align:right"| 382
+|-
+|[[Ilz, Styria|Ilz]] ||Market town ||style="text-align:right"| 3,766
+|-
+|[[Ilztal]] ||Other municipality ||style="text-align:right"| 2,191
+|-
+|[[Irdning-Donnersbachtal]] ||Market town ||style="text-align:right"| 4,149
+|-
+|[[Jagerberg]] ||Market town ||style="text-align:right"| 1,638
+|-
+|[[Judenburg]] ||Other city ||style="text-align:right"| 9,637
+|-
+|[[Kainach bei Voitsberg]] ||Other municipality ||style="text-align:right"| 1,588
+|-
+|[[Kainbach bei Graz]] ||Other municipality ||style="text-align:right"| 2,839
+|-
+|[[Kaindorf]] ||Market town ||style="text-align:right"| 3,023
+|-
+|[[Kalsdorf bei Graz]] ||Market town ||style="text-align:right"| 8,269
+|-
+|[[Kalwang]] ||Market town ||style="text-align:right"| 989
+|-
+|[[Kammern im Liesingtal]] ||Market town ||style="text-align:right"| 1,669
+|-
+|[[Kapfenberg]] ||Other city ||style="text-align:right"| 22,251
+|-
+|[[Kapfenstein]] ||Other municipality ||style="text-align:right"| 1,534
+|-
+|[[Kindberg]] ||Other city ||style="text-align:right"| 8,205
+|-
+|[[Kirchbach-Zerlach]] ||Market town ||style="text-align:right"| 3,202
+|-
+|[[Kirchberg an der Raab]] ||Other municipality ||style="text-align:right"| 4,616
+|-
+|[[Kitzeck im Sausal]] ||Other municipality ||style="text-align:right"| 1,179
+|-
+|[[Klöch]] ||Market town ||style="text-align:right"| 1,165
+|-
+|[[Knittelfeld]] ||Other city ||style="text-align:right"| 12,797
+|-
+|[[Kobenz]] ||Market town ||style="text-align:right"| 1,964
+|-
+|[[Köflach]] ||Other city ||style="text-align:right"| 9,676
+|-
+|[[Krakau]] ||Other municipality ||style="text-align:right"| 1,364
+|-
+|[[Kraubath an der Mur]] ||Market town ||style="text-align:right"| 1,347
+|-
+|[[Krieglach]] ||Market town ||style="text-align:right"| 5,390
+|-
+|[[Krottendorf-Gaisfeld]] ||Other municipality ||style="text-align:right"| 2,468
+|-
+|[[Kumberg]] ||Market town ||style="text-align:right"| 3,964
+|-
+|[[Lafnitz]] ||Other municipality ||style="text-align:right"| 1,465
+|-
+|[[Landl]] ||Other municipality ||style="text-align:right"| 2,560
+|-
+|[[Lang, Styria|Lang]] ||Other municipality ||style="text-align:right"| 1,369
+|-
+|[[Langenwang]] ||Market town ||style="text-align:right"| 3,874
+|-
+|[[Lannach]] ||Market town ||style="text-align:right"| 3,649
+|-
+|[[Lassing]] ||Other municipality ||style="text-align:right"| 1,698
+|-
+|[[Laßnitzhöhe]] ||Market town ||style="text-align:right"| 2,823
+|-
+|[[Lebring-Sankt Margarethen]] ||Market town ||style="text-align:right"| 2,240
+|-
+|[[Leibnitz]] ||Other city ||style="text-align:right"| 13,025
+|-
+|[[Leoben]] ||Other city ||style="text-align:right"| 25,057
+|-
+|[[Leutschach an der Weinstraße]] ||Market town ||style="text-align:right"| 3,551
+|-
+|[[Lieboch]] ||Market town ||style="text-align:right"| 5,514
+|-
+|[[Liezen]] ||Other city ||style="text-align:right"| 8,265
+|-
+|[[Ligist]] ||Market town ||style="text-align:right"| 3,258
+|-
+|[[Lobmingtal]] ||Other municipality ||style="text-align:right"| 1,843
+|-
+|[[Ludersdorf-Wilfersdorf]] ||Other municipality ||style="text-align:right"| 2,548
+|-
+|[[Maria Lankowitz]] ||Market town ||style="text-align:right"| 2,756
+|-
+|[[Mariazell]] ||Other city ||style="text-align:right"| 3,710
+|-
+|[[Markt Hartmannsdorf]] ||Market town ||style="text-align:right"| 2,962
+|-
+|[[Mautern in Steiermark]] ||Market town ||style="text-align:right"| 1,700
+|-
+|[[Mettersdorf am Saßbach]] ||Market town ||style="text-align:right"| 1,344
+|-
+|[[Michaelerberg-Pruggern]] ||Other municipality ||style="text-align:right"| 1,221
+|-
+|[[Miesenbach bei Birkfeld]] ||Other municipality ||style="text-align:right"| 664
+|-
+|[[Mitterberg-Sankt Martin]] ||Other municipality ||style="text-align:right"| 1,934
+|-
+|[[Mitterdorf an der Raab]] ||Other municipality ||style="text-align:right"| 2,160
+|-
+|[[Mooskirchen]] ||Market town ||style="text-align:right"| 2,197
+|-
+|[[Mortantsch]] ||Other municipality ||style="text-align:right"| 2,249
+|-
+|[[Mühlen]] ||Market town ||style="text-align:right"| 874
+|-
+|[[Murau]] ||Other city ||style="text-align:right"| 3,450
+|-
+|[[Mureck]] ||Other city ||style="text-align:right"| 3,484
+|-
+|[[Mürzzuschlag]]||Other city || style="text-align:right" | 8,102
+|-
+|[[Naas, Styria|Naas]]||Other municipality || style="text-align:right" | 1,362
+|-
+|[[Nestelbach bei Graz]]||Other municipality || style="text-align:right" | 2,753
+|-
+|[[Neuberg an der Mürz]]||Market town || style="text-align:right" | 2,326
+|-
+|[[Neudau]]||Market town || style="text-align:right" | 1,527
+|-
+|[[Neumarkt in der Steiermark]]||Market town || style="text-align:right" | 4,920
+|-
+|[[Niederwölz]]||Other municipality || style="text-align:right" | 598
+|-
+|[[Niklasdorf]]||Market town || style="text-align:right" | 2,342
+|-
+|[[Obdach]]||Market town || style="text-align:right" | 3,790
+|-
+|[[Oberhaag]]||Other municipality || style="text-align:right" | 2,083
+|-
+|[[Oberwölz]]||Other city || style="text-align:right" | 2,958
+|-
+|[[Öblarn]]||Market town || style="text-align:right" | 1,972
+|-
+|[[Ottendorf an der Rittschein]]||Other municipality || style="text-align:right" | 1,587
+|-
+|[[Paldau]]||Market town || style="text-align:right" | 3,143
+|-
+|[[Passail]]||Market town || style="text-align:right" | 4,413
+|-
+|[[Peggau]]||Market town || style="text-align:right" | 2,408
+|-
+|[[Pernegg an der Mur]]||Other municipality || style="text-align:right" | 2,544
+|-
+|[[Pinggau]]||Market town || style="text-align:right" | 3,136
+|-
+|[[Pirching am Traubenberg]]||Other municipality || style="text-align:right" | 2,557
+|-
+|[[Pischelsdorf am Kulm]]||Market town || style="text-align:right" | 3,737
+|-
+|[[Pölfing-Brunn]]||Market town || style="text-align:right" | 1,602
+|-
+|[[Pöllau]]||Market town || style="text-align:right" | 5,975
+|-
+|[[Pöllauberg]]||Other municipality || style="text-align:right" | 2,013
+|-
+|[[Pöls-Oberkurzheim]]||Market town || style="text-align:right" | 2,878
+|-
+|[[Pölstal]]||Market town || style="text-align:right" | 2,572
+|-
+|[[Preding]]||Market town || style="text-align:right" | 1,897
+|-
+|[[Premstätten]]||Market town || style="text-align:right" | 6,823
+|-
+|[[Proleb]]||Other municipality || style="text-align:right" | 1,576
+|-
+|[[Puch bei Weiz]]||Other municipality || style="text-align:right" | 2,051
+|-
+|[[Pusterwald]]||Other municipality || style="text-align:right" | 429
+|-
+|[[Raaba-Grambach]]||Market town || style="text-align:right" | 4,929
+|-
+|[[Radmer]]||Other municipality || style="text-align:right" | 501
+|-
+|[[Ragnitz]]||Other municipality || style="text-align:right" | 1,542
+|-
+|[[Ramsau am Dachstein]]||Other municipality || style="text-align:right" | 2,900
+|-
+|[[Ranten]]||Other municipality || style="text-align:right" | 1,126
+|-
+|[[Ratten]]||Other municipality || style="text-align:right" | 1,080
+|-
+|[[Rettenegg]]||Other municipality || style="text-align:right" | 691
+|-
+|[[Riegersburg]]||Market town || style="text-align:right" | 5,018
+|-
+|[[Rohr bei Hartberg]]||Other municipality || style="text-align:right" | 1,418
+|-
+|[[Rohrbach an der Lafnitz]]||Other municipality || style="text-align:right" | 2,649
+|-
+|[[Rosental an der Kainach]]||Other municipality || style="text-align:right" | 1,682
+|-
+|[[Rottenmann]]||Other city || style="text-align:right" | 5,126
+|-
+|[[Sankt Andrä-Höch]]||Other municipality || style="text-align:right" | 1,704
+|-
+|[[Sankt Anna am Aigen]]||Market town || style="text-align:right" | 2,375
+|-
+|[[Sankt Barbara im Mürztal]]||Market town || style="text-align:right" | 6,524
+|-
+|[[Sankt Bartholomä]]||Other municipality || style="text-align:right" | 1,496
+|-
+|[[Sankt Gallen, Styria|Sankt Gallen]]||Market town || style="text-align:right" | 1,795
+|-
+|[[Sankt Georgen am Kreischberg]]||Other municipality || style="text-align:right" | 1,707
+|-
+|[[Sankt Georgen an der Stiefing]]||Market town || style="text-align:right" | 1,585
+|-
+|[[Sankt Georgen ob Judenburg]]||Other municipality || style="text-align:right" | 849
+|-
+|[[Sankt Jakob im Walde]]||Other municipality || style="text-align:right" | 1,013
+|-
+|[[Sankt Johann im Saggautal]]||Other municipality || style="text-align:right" | 1,991
+|-
+|[[Sankt Johann in der Haide]]||Other municipality || style="text-align:right" | 2,260
+|-
+|[[Sankt Josef]]||Other municipality || style="text-align:right" | 1,715
+|-
+|[[Sankt Kathrein am Hauenstein]]||Other municipality || style="text-align:right" | 4,216
+|-
+|[[Sankt Kathrein am Offenegg]]||Other municipality || style="text-align:right" | 1,056
+|-
+|[[Sankt Lambrecht]]||Market town || style="text-align:right" | 1,824
+|-
+|[[Sankt Lorenzen am Wechsel]]||Other municipality || style="text-align:right" | 1,420
+|-
+|[[Sankt Lorenzen im Mürztal]]||Market town || style="text-align:right" | 3,781
+|-
+|[[Sankt Marein bei Graz]]||Market town || style="text-align:right" | 3,751
+|-
+|[[Sankt Marein im Mürztal]]||Market town || style="text-align:right" | 2,822
+|-
+|[[Sankt Marein-Feistritz]]||Other municipality || style="text-align:right" | 2,025
+|-
+|[[Sankt Margarethen an der Raab]]||Market town || style="text-align:right" | 1,996
+|-
+|[[Sankt Margarethen bei Knittelfeld]]||Other municipality || style="text-align:right" | 2,643
+|-
+|[[Sankt Martin am Wöllmißberg]]||Other municipality || style="text-align:right" | 798
+|-
+|[[Sankt Martin im Sulmtal]]||Other municipality || style="text-align:right" | 3,027
+|-
+|[[Sankt Michael in Obersteiermark]]||Market town || style="text-align:right" | 3,129
+|-
+|[[Sankt Nikolai im Sausal]]||Market town || style="text-align:right" | 2,306
+|-
+|[[Sankt Oswald bei Plankenwarth]]||Other municipality || style="text-align:right" | 1,282
+|-
+|[[Sankt Peter am Kammersberg]]||Market town || style="text-align:right" | 4,488
+|-
+|[[Sankt Peter am Ottersbach]]||Market town || style="text-align:right" | 2,907
+|-
+|[[Sankt Peter im Sulmtal]]||Other municipality || style="text-align:right" | 1,271
+|-
+|[[Sankt Peter ob Judenburg]]||Other municipality || style="text-align:right" | 1,116
+|-
+|[[Sankt Peter-Freienstein]]||Market town || style="text-align:right" | 2,323
+|-
+|[[Sankt Radegund bei Graz]]||Other municipality || style="text-align:right" | 2,176
+|-
+|[[Sankt Ruprecht an der Raab]]||Market town || style="text-align:right" | 5,670
+|-
+|[[Sankt Stefan im Rosental]]||Market town || style="text-align:right" | 3,824
+|-
+|[[Sankt Stefan ob Leoben]]||Other municipality || style="text-align:right" | 1,832
+|-
+|[[Sankt Stefan ob Stainz]]||Other municipality || style="text-align:right" | 3,630
+|-
+|[[Sankt Veit in der Südsteiermark]]||Market town || style="text-align:right" | 1,350
+|-
+|[[Schäffern]]||Other municipality || style="text-align:right" | 2,145
+|-
+|[[Scheifling]]||Market town || style="text-align:right" | 6,571
+|-
+|[[Schladming]]||Other city || style="text-align:right" | 893
+|-
+|[[Schöder]]||Other municipality || style="text-align:right" | 2,338
+|-
+|[[Schwarzautal]]||Market town || style="text-align:right" | 1,338
+|-
+|[[Seckau]]||Market town || style="text-align:right" | 12,072
+|-
+|[[Seiersberg-Pirka]]||Other municipality || style="text-align:right" | 1,501
+|-
+|[[Selzthal]]||Other municipality || style="text-align:right" | 3,232
+|-
+|[[Semriach]]||Market town || style="text-align:right" | 4,506
+|-
+|[[Sinabelkirchen]]||Market town || style="text-align:right" | 1,459
+|-
+|[[Söchau]]||Other municipality || style="text-align:right" | 4,255
+|-
+|[[Söding-Sankt Johann]]||Other municipality || style="text-align:right" | 1,477
+|-
+|[[Sölk]]||Other municipality || style="text-align:right" | 5,320
+|-
+|[[Spielberg, Styria|Spielberg]]||Other city || style="text-align:right" | 1,804
+|-
+|[[Spital am Semmering]]||Other municipality || style="text-align:right" | 628
+|-
+|[[Stadl-Predlitz]]||Other municipality || style="text-align:right" | 1,644
+|-
+|[[Stainach-Pürgg]]||Market town || style="text-align:right" | 2,773
+|-
+|[[Stainz]]||Market town || style="text-align:right" | 8,679
+|-
+|[[Stallhofen]]||Market town || style="text-align:right" | 3,190
+|-
+|[[Stanz im Mürztal]]||Other municipality || style="text-align:right" | 1,808
+|-
+|[[Stattegg]]||Other municipality || style="text-align:right" | 3,029
+|-
+|[[Stiwoll]] ||Other municipality ||style="text-align:right"| 711
+|-
+|[[Straden]] ||Market town ||style="text-align:right"| 3,495
+|-
+|[[Strallegg]] ||Other municipality ||style="text-align:right"| 1,901
+|-
+|[[Straß in Steiermark]] ||Market town ||style="text-align:right"| 6,409
+|-
+|[[Stubenberg, Styria|Stubenberg]] ||Other municipality ||style="text-align:right"| 2,239
+|-
+|[[Teufenbach-Katsch]] ||Other municipality ||style="text-align:right"| 1,831
+|-
+|[[Thal, Styria|Thal]] ||Market town ||style="text-align:right"| 2,457
+|-
+|[[Thannhausen, Styria|Thannhausen]] ||Other municipality ||style="text-align:right"| 2,501
+|-
+|[[Thörl]] ||Market town ||style="text-align:right"| 2,190
+|-
+|[[Tieschen]] ||Market town ||style="text-align:right"| 1,226
+|-
+|[[Tillmitsch]] ||Other municipality ||style="text-align:right"| 3,721
+|-
+|[[Traboch]] ||Other municipality ||style="text-align:right"| 1,414
+|-
+|[[Tragöß-Sankt Katharein]] ||Other municipality ||style="text-align:right"| 1,789
+|-
+|[[Trieben]] ||Other city ||style="text-align:right"| 3,337
+|-
+|[[Trofaiach]] ||Other city ||style="text-align:right"| 11,053
+|-
+|[[Turnau, Styria|Turnau]] ||Market town ||style="text-align:right"| 1,566
+|-
+|[[Übelbach]] ||Market town ||style="text-align:right"| 2,088
+|-
+|[[Unterlamm]] ||Other municipality ||style="text-align:right"| 1,252
+|-
+|[[Unzmarkt-Frauenburg]] ||Market town ||style="text-align:right"| 1,276
+|-
+|[[Vasoldsberg]] ||Market town ||style="text-align:right"| 4,772
+|-
+|[[Voitsberg]] ||Other city ||style="text-align:right"| 9,507
+|-
+|[[Vorau]] ||Market town ||style="text-align:right"| 4,651
+|-
+|[[Vordernberg]] ||Market town ||style="text-align:right"| 929
+|-
+|[[Wagna]] ||Market town ||style="text-align:right"| 6,479
+|-
+|[[Wald am Schoberpass|Wald am Schoberpaß]] ||Other municipality ||style="text-align:right"| 543
+|-
+|[[Waldbach-Mönichwald]] ||Other municipality ||style="text-align:right"| 1,406
+|-
+|[[Weinitzen]] ||Other municipality ||style="text-align:right"| 2,716
+|-
+|[[Weißkirchen in Steiermark]] ||Market town ||style="text-align:right"| 4,844
+|-
+|[[Weiz]] ||Other city ||style="text-align:right"| 11,940
+|-
+|[[Wenigzell]] ||Other municipality ||style="text-align:right"| 1,409
+|-
+|[[Werndorf]] ||Other municipality ||style="text-align:right"| 2,751
+|-
+|[[Wettmannstätten]] ||Market town ||style="text-align:right"| 1,659
+|-
+|[[Wies, Austria|Wies]] ||Market town ||style="text-align:right"| 4,271
+|-
+|[[Wildalpen]] ||Other municipality ||style="text-align:right"| 436
+|-
+|[[Wildon]] ||Market town ||style="text-align:right"| 5,745
+|-
+|[[Wörschach]] ||Other municipality ||style="text-align:right"| 1,165
+|-
+|[[Wundschuh]] ||Other municipality ||style="text-align:right"| 1,665
+|-
+|[[Zeltweg]] ||Other city ||style="text-align:right"| 7,081
+|}
+
+===Tyrol===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2015)
+|-
+|[[Abfaltersbach]] ||Other municipality ||style="text-align:right"| 630
+|-
+|[[Absam]] ||Other municipality ||style="text-align:right"| 7,112
+|-
+|[[Achenkirch]] ||Other municipality ||style="text-align:right"| 2,185
+|-
+|[[Ainet]] ||Other municipality ||style="text-align:right"| 936
+|-
+|[[Aldrans]] ||Other municipality ||style="text-align:right"| 2,684
+|-
+|[[Alpbach]] ||Other municipality ||style="text-align:right"| 2,561
+|-
+|[[Amlach]] ||Other municipality ||style="text-align:right"| 489
+|-
+|[[Ampass]] ||Other municipality ||style="text-align:right"| 1,827
+|-
+|[[Angath]] ||Other municipality ||style="text-align:right"| 1,008
+|-
+|[[Angerberg]] ||Other municipality ||style="text-align:right"| 1,890
+|-
+|[[Anras]] ||Other municipality ||style="text-align:right"| 1,233
+|-
+|[[Arzl im Pitztal]] ||Other municipality ||style="text-align:right"| 3,134
+|-
+|[[Aschau im Zillertal]] ||Other municipality ||style="text-align:right"| 1,866
+|-
+|[[Assling]] ||Other municipality ||style="text-align:right"| 1,769
+|-
+|[[Aurach bei Kitzbühel]] ||Other municipality ||style="text-align:right"| 1,130
+|-
+|[[Außervillgraten]] ||Other municipality ||style="text-align:right"| 760
+|-
+|[[Axams]] ||Other municipality ||style="text-align:right"| 5,996
+|-
+|[[Bach, Austria|Bach]] ||Other municipality ||style="text-align:right"| 614
+|-
+|[[Bad Häring]] ||Other municipality ||style="text-align:right"| 2,777
+|-
+|[[Baumkirchen]] ||Other municipality ||style="text-align:right"| 1,284
+|-
+|[[Berwang]] ||Other municipality ||style="text-align:right"| 565
+|-
+|[[Biberwier]] ||Other municipality ||style="text-align:right"| 628
+|-
+|[[Bichlbach]] ||Other municipality ||style="text-align:right"| 788
+|-
+|[[Birgitz]] ||Other municipality ||style="text-align:right"| 1,419
+|-
+|[[Brandberg, Tyrol|Brandberg]] ||Other municipality ||style="text-align:right"| 354
+|-
+|[[Brandenberg]] ||Other municipality ||style="text-align:right"| 1,523
+|-
+|[[Breitenbach am Inn]] ||Other municipality ||style="text-align:right"| 3,475
+|-
+|[[Breitenwang]] ||Other municipality ||style="text-align:right"| 1,423
+|-
+|[[Brixen im Thale]] ||Other municipality ||style="text-align:right"| 2,639
+|-
+|[[Brixlegg]] ||Market town ||style="text-align:right"| 2,970
+|-
+|[[Bruck am Ziller]] ||Other municipality ||style="text-align:right"| 1,098
+|-
+|[[Buch in Tirol]] ||Other municipality ||style="text-align:right"| 2,548
+|-
+|[[Dölsach]] ||Other municipality ||style="text-align:right"| 2,338
+|-
+|[[Ebbs]] ||Other municipality ||style="text-align:right"| 5,601
+|-
+|[[Eben am Achensee]] ||Other municipality ||style="text-align:right"| 3,180
+|-
+|[[Ehenbichl]] ||Other municipality ||style="text-align:right"| 824
+|-
+|[[Ehrwald]] ||Other municipality ||style="text-align:right"| 2,593
+|-
+|[[Elbigenalp]] ||Other municipality ||style="text-align:right"| 889
+|-
+|[[Ellbögen]] ||Other municipality ||style="text-align:right"| 1,109
+|-
+|[[Ellmau]] ||Other municipality ||style="text-align:right"| 2,828
+|-
+|[[Elmen]] ||Other municipality ||style="text-align:right"| 373
+|-
+|[[Erl]] ||Other municipality ||style="text-align:right"| 1,540
+|-
+|[[Faggen]] ||Other municipality ||style="text-align:right"| 383
+|-
+|[[Fendels]] ||Other municipality ||style="text-align:right"| 259
+|-
+|[[Fieberbrunn]] ||Market town ||style="text-align:right"| 4,287
+|-
+|[[Finkenberg]] ||Other municipality ||style="text-align:right"| 1,421
+|-
+|[[Fiss]] ||Other municipality ||style="text-align:right"| 1,009
+|-
+|[[Flaurling]] ||Other municipality ||style="text-align:right"| 1,285
+|-
+|[[Fließ]] ||Other municipality ||style="text-align:right"| 3,019
+|-
+|[[Flirsch]] ||Other municipality ||style="text-align:right"| 990
+|-
+|[[Forchach]] ||Other municipality ||style="text-align:right"| 259
+|-
+|[[Fritzens]] ||Other municipality ||style="text-align:right"| 2,148
+|-
+|[[Fügen]] ||Other municipality ||style="text-align:right"| 4,169
+|-
+|[[Fügenberg]] ||Other municipality ||style="text-align:right"| 1,405
+|-
+|[[Fulpmes]] ||Market town ||style="text-align:right"| 4,378
+|-
+|[[Gaimberg]] ||Other municipality ||style="text-align:right"| 822
+|-
+|[[Gallzein]] ||Other municipality ||style="text-align:right"| 668
+|-
+|[[Galtür]] ||Other municipality ||style="text-align:right"| 765
+|-
+|[[Gerlos]] ||Other municipality ||style="text-align:right"| 790
+|-
+|[[Gerlosberg]] ||Other municipality ||style="text-align:right"| 465
+|-
+|[[Gnadenwald]] ||Other municipality ||style="text-align:right"| 826
+|-
+|[[Going am Wilden Kaiser]] ||Other municipality ||style="text-align:right"| 1,849
+|-
+|[[Götzens]] ||Other municipality ||style="text-align:right"| 4,062
+|-
+|[[Gramais]] ||Other municipality ||style="text-align:right"| 45
+|-
+|[[Grän]] ||Other municipality ||style="text-align:right"| 599
+|-
+|[[Gries am Brenner]] ||Other municipality ||style="text-align:right"| 1,361
+|-
+|[[Gries im Sellrain]] ||Other municipality ||style="text-align:right"| 610
+|-
+|[[Grins, Austria|Grins]] ||Other municipality ||style="text-align:right"| 1,398
+|-
+|[[Grinzens]] ||Other municipality ||style="text-align:right"| 1,399
+|-
+|[[Gschnitz]] ||Other municipality ||style="text-align:right"| 434
+|-
+|[[Haiming, Tyrol|Haiming]] ||Other municipality ||style="text-align:right"| 4,659
+|-
+|[[Hainzenberg]] ||Other municipality ||style="text-align:right"| 731
+|-
+|[[Hall in Tirol]] ||Other city ||style="text-align:right"| 13,897
+|-
+|[[Hart im Zillertal]] ||Other municipality ||style="text-align:right"| 1,587
+|-
+|[[Häselgehr]] ||Other municipality ||style="text-align:right"| 690
+|-
+|[[Hatting, Tyrol|Hatting]] ||Other municipality ||style="text-align:right"| 1,444
+|-
+|[[Heinfels]] ||Other municipality ||style="text-align:right"| 977
+|-
+|[[Heiterwang]] ||Other municipality ||style="text-align:right"| 532
+|-
+|[[Hinterhornbach]] ||Other municipality ||style="text-align:right"| 92
+|-
+|[[Hippach]] ||Other municipality ||style="text-align:right"| 1,455
+|-
+|[[Hochfilzen]] ||Other municipality ||style="text-align:right"| 1,196
+|-
+|[[Höfen, Tyrol|Höfen]] ||Other municipality ||style="text-align:right"| 1,200
+|-
+|[[Holzgau]] ||Other municipality ||style="text-align:right"| 412
+|-
+|[[Hopfgarten im Brixental]] ||Market town ||style="text-align:right"| 5,677
+|-
+|[[Hopfgarten in Defereggen]] ||Other municipality ||style="text-align:right"| 704
+|-
+|[[Imst]] ||Other city ||style="text-align:right"| 10,504
+|-
+|[[Imsterberg]] ||Other municipality ||style="text-align:right"| 777
+|-
+|[[Innervillgraten]] ||Other municipality ||style="text-align:right"| 938
+|-
+|[[Innsbruck]] ||Statutory city ||style="text-align:right"| 132,493
+|-
+|[[Inzing]] ||Other municipality ||style="text-align:right"| 3,847
+|-
+|[[Ischgl]] ||Other municipality ||style="text-align:right"| 1,593
+|-
+|[[Iselsberg-Stronach]] ||Other municipality ||style="text-align:right"| 596
+|-
+|[[Itter]] ||Other municipality ||style="text-align:right"| 1,150
+|-
+|[[Jenbach]] ||Market town ||style="text-align:right"| 7,120
+|-
+|[[Jerzens]] ||Other municipality ||style="text-align:right"| 975
+|-
+|[[Jochberg, Tyrol|Jochberg]] ||Other municipality ||style="text-align:right"| 1,577
+|-
+|[[Jungholz]] ||Other municipality ||style="text-align:right"| 301
+|-
+|[[Kaisers]] ||Other municipality ||style="text-align:right"| 76
+|-
+|[[Kals am Großglockner]] ||Other municipality ||style="text-align:right"| 1,142
+|-
+|[[Kaltenbach, Austria|Kaltenbach]] ||Other municipality ||style="text-align:right"| 1,313
+|-
+|[[Kappl]] ||Other municipality ||style="text-align:right"| 2,617
+|-
+|[[Karres]] ||Other municipality ||style="text-align:right"| 609
+|-
+|[[Karrösten]] ||Other municipality ||style="text-align:right"| 676
+|-
+|[[Kartitsch]] ||Other municipality ||style="text-align:right"| 803
+|-
+|[[Kaunerberg]] ||Other municipality ||style="text-align:right"| 437
+|-
+|[[Kaunertal]] ||Other municipality ||style="text-align:right"| 597
+|-
+|[[Kauns]] ||Other municipality ||style="text-align:right"| 502
+|-
+|[[Kematen in Tirol]] ||Other municipality ||style="text-align:right"| 2,931
+|-
+|[[Kirchberg in Tirol]] ||Other municipality ||style="text-align:right"| 5,245
+|-
+|[[Kirchbichl]] ||Other municipality ||style="text-align:right"| 5,855
+|-
+|[[Kirchdorf in Tirol]] ||Other municipality ||style="text-align:right"| 3,936
+|-
+|[[Kitzbühel]] ||Other city ||style="text-align:right"| 8,272
+|-
+|[[Kolsass]] ||Other municipality ||style="text-align:right"| 1,626
+|-
+|[[Kolsassberg]] ||Other municipality ||style="text-align:right"| 817
+|-
+|[[Kössen]] ||Other municipality ||style="text-align:right"| 4,346
+|-
+|[[Kramsach]] ||Other municipality ||style="text-align:right"| 4,891
+|-
+|[[Kufstein]] ||Other city ||style="text-align:right"| 19,223
+|-
+|[[Kundl]] ||Market town ||style="text-align:right"| 4,464
+|-
+|[[Ladis]] ||Other municipality ||style="text-align:right"| 531
+|-
+|[[Landeck]] ||Other city ||style="text-align:right"| 7,725
+|-
+|[[Längenfeld]] ||Other municipality ||style="text-align:right"| 4,611
+|-
+|[[Langkampfen]] ||Other municipality ||style="text-align:right"| 4,108
+|-
+|[[Lang, Styria|Lans]] ||Other municipality ||style="text-align:right"| 1,096
+|-
+|[[Lavant, Tyrol|Lavant]] ||Other municipality ||style="text-align:right"| 320
+|-
+|[[Lechaschau]] ||Other municipality ||style="text-align:right"| 2,108
+|-
+|[[Leisach]] ||Other municipality ||style="text-align:right"| 729
+|-
+|[[Lermoos]] ||Other municipality ||style="text-align:right"| 1,156
+|-
+|[[Leutasch]] ||Other municipality ||style="text-align:right"| 2,380
+|-
+|[[Lienz]] ||Other city ||style="text-align:right"| 11,844
+|-
+|[[Mariastein, Tyrol|Mariastein]] ||Other municipality ||style="text-align:right"| 362
+|-
+|[[Matrei am Brenner]] ||Market town ||style="text-align:right"| 959
+|-
+|[[Matrei in Osttirol]] ||Market town ||style="text-align:right"| 4,667
+|-
+|[[Mayrhofen]] ||Market town ||style="text-align:right"| 3,858
+|-
+|[[Mieders]] ||Other municipality ||style="text-align:right"| 1,861
+|-
+|[[Mieming]] ||Other municipality ||style="text-align:right"| 3,698
+|-
+|[[Mils, Tyrol|Mils]] ||Other municipality ||style="text-align:right"| 4,377
+|-
+|[[Mils bei Imst]] ||Other municipality ||style="text-align:right"| 559
+|-
+|[[Mötz]] ||Other municipality ||style="text-align:right"| 1,219
+|-
+|[[Mühlbachl]] ||Other municipality ||style="text-align:right"| 1,393
+|-
+|[[Münster, Tyrol|Münster]] ||Other municipality ||style="text-align:right"| 3,317
+|-
+|[[Musau]] ||Other municipality ||style="text-align:right"| 391
+|-
+|[[Mutters]] ||Other municipality ||style="text-align:right"| 2,202
+|-
+|[[Namlos]] ||Other municipality ||style="text-align:right"| 72
+|-
+|[[Nassereith]] ||Other municipality ||style="text-align:right"| 2,119
+|-
+|[[Natters]] ||Other municipality ||style="text-align:right"| 2,020
+|-
+|[[Nauders]] ||Other municipality ||style="text-align:right"| 1,542
+|-
+|[[Navis]] ||Other municipality ||style="text-align:right"| 2,004
+|-
+|[[Nesselwängle]] ||Other municipality ||style="text-align:right"| 455
+|-
+|[[Neustift im Stubaital]] ||Other municipality ||style="text-align:right"| 4,747
+|-
+|[[Niederndorf (Austria)|Niederndorf]] ||Other municipality ||style="text-align:right"| 2,736
+|-
+|[[Niederndorferberg]] ||Other municipality ||style="text-align:right"| 706
+|-
+|[[Nikolsdorf]] ||Other municipality ||style="text-align:right"| 894
+|-
+|[[Nußdorf-Debant]] ||Market town ||style="text-align:right"| 3,325
+|-
+|[[Oberhofen im Inntal]] ||Other municipality ||style="text-align:right"| 1,857
+|-
+|[[Oberlienz]] ||Other municipality ||style="text-align:right"| 1,485
+|-
+|[[Obernberg am Brenner]] ||Other municipality ||style="text-align:right"| 363
+|-
+|[[Oberndorf in Tirol]] ||Other municipality ||style="text-align:right"| 2,194
+|-
+|[[Oberperfuss]] ||Other municipality ||style="text-align:right"| 3,043
+|-
+|[[Obertilliach]] ||Other municipality ||style="text-align:right"| 666
+|-
+|[[Obsteig]] ||Other municipality ||style="text-align:right"| 1,316
+|-
+|[[Oetz]] ||Other municipality ||style="text-align:right"| 2,402
+|-
+|[[Patsch]] ||Other municipality ||style="text-align:right"| 1,014
+|-
+|[[Pettnau]] ||Other municipality ||style="text-align:right"| 1,047
+|-
+|[[Pettneu am Arlberg]] ||Other municipality ||style="text-align:right"| 1,494
+|-
+|[[Pfaffenhofen, Tyrol|Pfaffenhofen]] ||Other municipality ||style="text-align:right"| 1,102
+|-
+|[[Pfafflar]] ||Other municipality ||style="text-align:right"| 112
+|-
+|[[Pflach]] ||Other municipality ||style="text-align:right"| 1,397
+|-
+|[[Pfons]] ||Other municipality ||style="text-align:right"| 1,205
+|-
+|[[Pfunds]] ||Other municipality ||style="text-align:right"| 2,602
+|-
+|[[Pians]] ||Other municipality ||style="text-align:right"| 813
+|-
+|[[Pill, Tyrol|Pill]] ||Other municipality ||style="text-align:right"| 1,174
+|-
+|[[Pinswang]] ||Other municipality ||style="text-align:right"| 412
+|-
+|[[Polling in Tirol]] ||Other municipality ||style="text-align:right"| 1,130
+|-
+|[[Prägraten am Großvenediger]] ||Other municipality ||style="text-align:right"| 1,149
+|-
+|[[Prutz]] ||Other municipality ||style="text-align:right"| 1,825
+|-
+|[[Radfeld]] ||Other municipality ||style="text-align:right"| 2,495
+|-
+|[[Ramsau im Zillertal]] ||Other municipality ||style="text-align:right"| 1,617
+|-
+|[[Ranggen]] ||Other municipality ||style="text-align:right"| 1,072
+|-
+|[[Rattenberg]] ||Other city ||style="text-align:right"| 411
+|-
+|[[Reith bei Kitzbühel]] ||Other municipality ||style="text-align:right"| 1,662
+|-
+|[[Reith bei Seefeld]] ||Other municipality ||style="text-align:right"| 1,370
+|-
+|[[Reith im Alpbachtal]] ||Other municipality ||style="text-align:right"| 2,722
+|-
+|[[Rettenschöss]] ||Other municipality ||style="text-align:right"| 513
+|-
+|[[Reutte]] ||Market town ||style="text-align:right"| 6,704
+|-
+|[[Ried im Oberinntal]] ||Other municipality ||style="text-align:right"| 1,261
+|-
+|[[Ried im Zillertal]] ||Other municipality ||style="text-align:right"| 1,280
+|-
+|[[Rietz]] ||Other municipality ||style="text-align:right"| 2,313
+|-
+|[[Rinn]] ||Other municipality ||style="text-align:right"| 1,877
+|-
+|[[Rohrberg, Austria|Rohrberg]] ||Other municipality ||style="text-align:right"| 574
+|-
+|[[Roppen]] ||Other municipality ||style="text-align:right"| 1,800
+|-
+|[[Rum, Tyrol|Rum]] ||Market town ||style="text-align:right"| 9,190
+|-
+|[[Sautens]] ||Other municipality ||style="text-align:right"| 1,601
+|-
+|[[Scharnitz]] ||Other municipality ||style="text-align:right"| 1,403
+|-
+|[[Schattwald]] ||Other municipality ||style="text-align:right"| 437
+|-
+|[[Scheffau am Wilden Kaiser]] ||Other municipality ||style="text-align:right"| 1,449
+|-
+|[[Schlaiten]] ||Other municipality ||style="text-align:right"| 474
+|-
+|[[Schlitters]] ||Other municipality ||style="text-align:right"| 1,481
+|-
+|[[Schmirn]] ||Other municipality ||style="text-align:right"| 872
+|-
+|[[Schönberg im Stubaital]] ||Other municipality ||style="text-align:right"| 1,101
+|-
+|[[Schönwies]] ||Other municipality ||style="text-align:right"| 1,697
+|-
+|[[Schwaz]] ||Other city ||style="text-align:right"| 13,728
+|-
+|[[Schwendau]] ||Other municipality ||style="text-align:right"| 1,725
+|-
+|[[Schwendt]] ||Other municipality ||style="text-align:right"| 823
+|-
+|[[Schwoich]] ||Other municipality ||style="text-align:right"| 2,515
+|-
+|[[See, Tyrol|See]] ||Other municipality ||style="text-align:right"| 1,265
+|-
+|[[Seefeld in Tirol]] ||Other municipality ||style="text-align:right"| 3,440
+|-
+|[[Sellrain]] ||Other municipality ||style="text-align:right"| 1,333
+|-
+|[[Serfaus]] ||Other municipality ||style="text-align:right"| 1,134
+|-
+|[[Sillian]] ||Market town ||style="text-align:right"| 2,051
+|-
+|[[Silz, Tyrol|Silz]] ||Other municipality ||style="text-align:right"| 2,560
+|-
+|[[Sistrans]] ||Other municipality ||style="text-align:right"| 2,255
+|-
+|[[Sölden]] ||Other municipality ||style="text-align:right"| 3,145
+|-
+|[[Söll]] ||Other municipality ||style="text-align:right"| 3,631
+|-
+|[[Spiss]] ||Other municipality ||style="text-align:right"| 114
+|-
+|[[Sankt Anton am Arlberg]] ||Other municipality ||style="text-align:right"| 2,372
+|-
+|[[Sankt Jakob in Defereggen]] ||Other municipality ||style="text-align:right"| 848
+|-
+|[[Sankt Jakob in Haus]] ||Other municipality ||style="text-align:right"| 791
+|-
+|[[Sankt Johann am Walde|Sankt Johann im Walde]] ||Other municipality ||style="text-align:right"| 285
+|-
+|[[Sankt Johann in Tirol]] ||Market town ||style="text-align:right"| 9,428
+|-
+|[[Sankt Leonhard im Pitztal]] ||Other municipality ||style="text-align:right"| 1,382
+|-
+|[[Sankt Sigmund im Sellrain]] ||Other municipality ||style="text-align:right"| 175
+|-
+|[[Sankt Ulrich am Pillersee]] ||Other municipality ||style="text-align:right"| 1,819
+|-
+|[[Sankt Veit in Defereggen]] ||Other municipality ||style="text-align:right"| 670
+|-
+|[[Stams]] ||Other municipality ||style="text-align:right"| 1,495
+|-
+|[[Stans, Tyrol|Stans]] ||Other municipality ||style="text-align:right"| 2,035
+|-
+|[[Stanz bei Landeck]] ||Other municipality ||style="text-align:right"| 577
+|-
+|[[Stanzach]] ||Other municipality ||style="text-align:right"| 455
+|-
+|[[Steeg, Tyrol|Steeg]] ||Other municipality ||style="text-align:right"| 671
+|-
+|[[Steinach am Brenner]] ||Market town ||style="text-align:right"| 3,622
+|-
+|[[Steinberg am Rofan]] ||Other municipality ||style="text-align:right"| 286
+|-
+|[[Strass im Zillertal]] ||Other municipality ||style="text-align:right"| 836
+|-
+|[[Strassen, Tyrol|Strassen]] ||Other municipality ||style="text-align:right"| 808
+|-
+|[[Strengen]] ||Other municipality ||style="text-align:right"| 1,213
+|-
+|[[Stumm]] ||Other municipality ||style="text-align:right"| 1,885
+|-
+|[[Stummerberg]] ||Other municipality ||style="text-align:right"| 844
+|-
+|[[Tannheim, Tyrol|Tannheim]] ||Other municipality ||style="text-align:right"| 1,067
+|-
+|[[Tarrenz]] ||Other municipality ||style="text-align:right"| 2,744
+|-
+|[[Telfes]] ||Other municipality ||style="text-align:right"| 1,570
+|-
+|[[Telfs]] ||Market town ||style="text-align:right"| 15,747
+|-
+|[[Terfens]] ||Other municipality ||style="text-align:right"| 2,184
+|-
+|[[Thaur]] ||Other municipality ||style="text-align:right"| 3,979
+|-
+|[[Thiersee]] ||Other municipality ||style="text-align:right"| 2,990
+|-
+|[[Thurn, Austria|Thurn]] ||Other municipality ||style="text-align:right"| 608
+|-
+|[[Tobadill]] ||Other municipality ||style="text-align:right"| 516
+|-
+|[[Tösens]] ||Other municipality ||style="text-align:right"| 728
+|-
+|[[Trins]] ||Other municipality ||style="text-align:right"| 1,277
+|-
+|[[Tristach]] ||Other municipality ||style="text-align:right"| 1,437
+|-
+|[[Tulfes]] ||Other municipality ||style="text-align:right"| 1,550
+|-
+|[[Tux, Tyrol|Tux]] ||Other municipality ||style="text-align:right"| 1,941
+|-
+|[[Uderns]] ||Other municipality ||style="text-align:right"| 1,845
+|-
+|[[Umhausen]] ||Other municipality ||style="text-align:right"| 3,220
+|-
+|[[Unterperfuss]] ||Other municipality ||style="text-align:right"| 224
+|-
+|[[Untertilliach]] ||Other municipality ||style="text-align:right"| 237
+|-
+|[[Vals, Tyrol|Vals]] ||Other municipality ||style="text-align:right"| 532
+|-
+|[[Vils, Tyrol|Vils]] ||Other city ||style="text-align:right"| 1,535
+|-
+|[[Virgen]] ||Other municipality ||style="text-align:right"| 2,199
+|-
+|[[Volders]] ||Other municipality ||style="text-align:right"| 4,464
+|-
+|[[Völs, Tyrol|Völs]] ||Market town ||style="text-align:right"| 6,738
+|-
+|[[Vomp]] ||Market town ||style="text-align:right"| 5,146
+|-
+|[[Vorderhornbach]] ||Other municipality ||style="text-align:right"| 245
+|-
+|[[Waidring]] ||Other municipality ||style="text-align:right"| 2,019
+|-
+|[[Walchsee]] ||Other municipality ||style="text-align:right"| 1,878
+|-
+|[[Wängle]] ||Other municipality ||style="text-align:right"| 931
+|-
+|[[Wattenberg, Tyrol|Wattenberg]] ||Other municipality ||style="text-align:right"| 739
+|-
+|[[Wattens]] ||Market town ||style="text-align:right"| 7,881
+|-
+|[[Weer]] ||Other municipality ||style="text-align:right"| 1,539
+|-
+|[[Weerberg]] ||Other municipality ||style="text-align:right"| 2,482
+|-
+|[[Weißenbach am Lech]] ||Other municipality ||style="text-align:right"| 1,250
+|-
+|[[Wenns]] ||Other municipality ||style="text-align:right"| 2,044
+|-
+|[[Westendorf, Tyrol|Westendorf]] ||Other municipality ||style="text-align:right"| 3,652
+|-
+|[[Wiesing]] ||Other municipality ||style="text-align:right"| 2,124
+|-
+|[[Wildermieming]] ||Other municipality ||style="text-align:right"| 935
+|-
+|[[Wildschönau]] ||Other municipality ||style="text-align:right"| 4,242
+|-
+|[[Wörgl]] ||Other city ||style="text-align:right"| 13,811
+|-
+|[[Zams]] ||Other municipality ||style="text-align:right"| 3,409
+|-
+|[[Zell am Ziller]] ||Market town ||style="text-align:right"| 1,758
+|-
+|[[Zellberg]] ||Other municipality ||style="text-align:right"| 648
+|-
+|[[Zirl, Tyrol|Zirl]] ||Market town ||style="text-align:right"| 8,162
+|-
+|[[Zöblen]] ||Other municipality ||style="text-align:right"| 231
+|}
+
+===Upper Austria===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2015)
+|-
+|[[Adlwang]] ||Other municipality ||style="text-align:right"| 1,806
+|-
+|[[Afiesl]] ||Other municipality ||style="text-align:right"| 394
+|-
+|[[Ahorn, Austria|Ahorn]] ||Other municipality ||style="text-align:right"| 505
+|-
+|[[Aichkirchen, Austria|Aichkirchen]] ||Other municipality ||style="text-align:right"| 582
+|-
+|[[Aigen-Schlägl]] ||Market town ||style="text-align:right"| 3,212
+|-
+|[[Aistersheim]] ||Other municipality ||style="text-align:right"| 892
+|-
+|[[Alberndorf in der Riedmark]] ||Other municipality ||style="text-align:right"| 4,083
+|-
+|[[Alkoven]] ||Other municipality ||style="text-align:right"| 5,961
+|-
+|[[Allerheiligen im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,261
+|-
+|[[Allhaming]] ||Other municipality ||style="text-align:right"| 1,174
+|-
+|[[Altenberg bei Linz]] ||Market town ||style="text-align:right"| 4,553
+|-
+|[[Altenfelden]] ||Market town ||style="text-align:right"| 2,219
+|-
+|[[Altheim, Austria|Altheim]] ||Other city ||style="text-align:right"| 4,839
+|-
+|[[Altmünster]] ||Market town ||style="text-align:right"| 9,793
+|-
+|[[Altschwendt]] ||Other municipality ||style="text-align:right"| 700
+|-
+|[[Ampflwang im Hausruckwald]] ||Market town ||style="text-align:right"| 3,376
+|-
+|[[Andorf]] ||Market town ||style="text-align:right"| 5,174
+|-
+|[[Andrichsfurt]] ||Other municipality ||style="text-align:right"| 770
+|-
+|[[Ansfelden]] ||Other city ||style="text-align:right"| 16,194
+|-
+|[[Antiesenhofen]] ||Other municipality ||style="text-align:right"| 1,091
+|-
+|[[Arbing]] ||Other municipality ||style="text-align:right"| 1,446
+|-
+|[[Arnreit]] ||Other municipality ||style="text-align:right"| 1,154
+|-
+|[[Aschach an der Donau]] ||Market town ||style="text-align:right"| 2,201
+|-
+|[[Aschach an der Steyr]] ||Other municipality ||style="text-align:right"| 2,266
+|-
+|[[Aspach, Upper Austria|Aspach]] ||Market town ||style="text-align:right"| 2,596
+|-
+|[[Asten, Austria|Asten]] ||Market town ||style="text-align:right"| 6,613
+|-
+|[[Attersee am Attersee]] ||Other municipality ||style="text-align:right"| 1,585
+|-
+|[[Attnang-Puchheim]] ||Other city ||style="text-align:right"| 8,944
+|-
+|[[Atzbach]] ||Other municipality ||style="text-align:right"| 1,196
+|-
+|[[Atzesberg]] ||Other municipality ||style="text-align:right"| 446
+|-
+|[[Auberg]] ||Other municipality ||style="text-align:right"| 551
+|-
+|[[Auerbach, Upper Austria|Auerbach]] ||Other municipality ||style="text-align:right"| 583
+|-
+|[[Aurach am Hongar]] ||Other municipality ||style="text-align:right"| 1,715
+|-
+|[[Aurolzmünster]] ||Market town ||style="text-align:right"| 3,000
+|-
+|[[Bachmanning]] ||Other municipality ||style="text-align:right"| 704
+|-
+|[[Bad Goisern am Hallstättersee]] ||Market town ||style="text-align:right"| 7,450
+|-
+|[[Bad Hall]] ||Other city ||style="text-align:right"| 5,296
+|-
+|[[Bad Ischl]] ||Other city ||style="text-align:right"| 14,133
+|-
+|[[Bad Kreuzen]] ||Market town ||style="text-align:right"| 2,266
+|-
+|[[Bad Leonfelden]] ||Other city ||style="text-align:right"| 4,180
+|-
+|[[Bad Schallerbach]] ||Market town ||style="text-align:right"| 4,169
+|-
+|[[Bad Wimsbach-Neydharting]] ||Market town ||style="text-align:right"| 2,533
+|-
+|[[Bad Zell]] ||Market town ||style="text-align:right"| 2,919
+|-
+|[[Baumgartenberg]] ||Market town ||style="text-align:right"| 1,734
+|-
+|[[Berg im Attergau]] ||Other municipality ||style="text-align:right"| 1,044
+|-
+|[[Braunau am Inn]] ||Other city ||style="text-align:right"| 17,095
+|-
+|[[Brunnenthal, Austria|Brunnenthal]] ||Other municipality ||style="text-align:right"| 2,032
+|-
+|[[Buchkirchen]] ||Market town ||style="text-align:right"| 4,038
+|-
+|[[Burgkirchen, Austria|Burgkirchen]] ||Other municipality ||style="text-align:right"| 2,661
+|-
+|[[Desselbrunn]] ||Other municipality ||style="text-align:right"| 1,857
+|-
+|[[Diersbach]] ||Other municipality ||style="text-align:right"| 1,583
+|-
+|[[Dietach]] ||Other municipality ||style="text-align:right"| 3,212
+|-
+|[[Dimbach, Austria|Dimbach]] ||Market town ||style="text-align:right"| 1,013
+|-
+|[[Dorf an der Pram]] ||Other municipality ||style="text-align:right"| 1,039
+|-
+|[[Ebensee|Ebensee am Traunsee]] ||Market town ||style="text-align:right"| 7,717
+|-
+|[[Eberschwang]] ||Market town ||style="text-align:right"| 3,351
+|-
+|[[Eberstalzell]] ||Other municipality ||style="text-align:right"| 2,627
+|-
+|[[Edlbach]] ||Other municipality ||style="text-align:right"| 670
+|-
+|[[Edt bei Lambach]] ||Other municipality ||style="text-align:right"| 2,197
+|-
+|[[Eferding]] ||Other city ||style="text-align:right"| 4,100
+|-
+|[[Eggelsberg]] ||Market town ||style="text-align:right"| 2,365
+|-
+|[[Eggendorf im Traunkreis]] ||Other municipality ||style="text-align:right"| 944
+|-
+|[[Eggerding]] ||Other municipality ||style="text-align:right"| 1,320
+|-
+|[[Eidenberg]] ||Other municipality ||style="text-align:right"| 2,105
+|-
+|[[Eitzing]] ||Other municipality ||style="text-align:right"| 805
+|-
+|[[Engelhartszell]] ||Market town ||style="text-align:right"| 942
+|-
+|[[Engerwitzdorf]] ||Other municipality ||style="text-align:right"| 8,790
+|-
+|[[Enns (town)|Enns]] ||Other city ||style="text-align:right"| 11,937
+|-
+|[[Enzenkirchen]] ||Other municipality ||style="text-align:right"| 1,772
+|-
+|[[Eschenau im Hausruckkreis]] ||Other municipality ||style="text-align:right"| 1,063
+|-
+|[[Esternberg]] ||Other municipality ||style="text-align:right"| 2,855
+|-
+|[[Feldkirchen an der Donau]] ||Market town ||style="text-align:right"| 5,361
+|-
+|[[Feldkirchen bei Mattighofen]] ||Other municipality ||style="text-align:right"| 1,978
+|-
+|[[Fischlham]] ||Other municipality ||style="text-align:right"| 1,328
+|-
+|[[Fornach]] ||Other municipality ||style="text-align:right"| 976
+|-
+|[[Fraham]] ||Other municipality ||style="text-align:right"| 2,395
+|-
+|[[Frankenburg am Hausruck]] ||Market town ||style="text-align:right"| 4,842
+|-
+|[[Frankenmarkt]] ||Market town ||style="text-align:right"| 3,636
+|-
+|[[Franking, Austria|Franking]] ||Other municipality ||style="text-align:right"| 953
+|-
+|[[Freinberg]] ||Other municipality ||style="text-align:right"| 1,458
+|-
+|[[Freistadt]] ||Other city ||style="text-align:right"| 7,909
+|-
+|[[Gaflenz]] ||Market town ||style="text-align:right"| 1,954
+|-
+|[[Gallneukirchen]] ||Other city ||style="text-align:right"| 6,492
+|-
+|[[Gallspach]] ||Market town ||style="text-align:right"| 2,772
+|-
+|[[Gampern]] ||Other municipality ||style="text-align:right"| 2,927
+|-
+|[[Garsten]] ||Market town ||style="text-align:right"| 6,711
+|-
+|[[Gaspoltshofen]] ||Market town ||style="text-align:right"| 3,566
+|-
+|[[Geboltskirchen]] ||Other municipality ||style="text-align:right"| 1,421
+|-
+|[[Geiersberg]] ||Other municipality ||style="text-align:right"| 519
+|-
+|[[Geinberg]] ||Other municipality ||style="text-align:right"| 1,435
+|-
+|[[Geretsberg]] ||Other municipality ||style="text-align:right"| 1,187
+|-
+|[[Gilgenberg am Weilhart]] ||Other municipality ||style="text-align:right"| 1,327
+|-
+|[[Gmunden]] ||Other city ||style="text-align:right"| 13,191
+|-
+|[[Goldwörth]] ||Other municipality ||style="text-align:right"| 840
+|-
+|[[Gosau]] ||Other municipality ||style="text-align:right"| 1,792
+|-
+|[[Gramastetten]] ||Market town ||style="text-align:right"| 5,102
+|-
+|[[Grein, Austria|Grein]] ||Other city ||style="text-align:right"| 2,926
+|-
+|[[Grieskirchen]] ||Other city ||style="text-align:right"| 5,002
+|-
+|[[Großraming]] ||Other municipality ||style="text-align:right"| 2,702
+|-
+|[[Grünau im Almtal]] ||Other municipality ||style="text-align:right"| 2,064
+|-
+|[[Grünbach, Upper Austria|Grünbach]] ||Other municipality ||style="text-align:right"| 1,946
+|-
+|[[Grünburg]] ||Other municipality ||style="text-align:right"| 3,840
+|-
+|[[Gschwandt]] ||Other municipality ||style="text-align:right"| 2,750
+|-
+|[[Gunskirchen]] ||Market town ||style="text-align:right"| 6,037
+|-
+|[[Gurten, Upper Austria|Gurten]] ||Other municipality ||style="text-align:right"| 1,187
+|-
+|[[Gutau]] ||Market town ||style="text-align:right"| 2,724
+|-
+|[[Haag am Hausruck]] ||Market town ||style="text-align:right"| 2,176
+|-
+|[[Hagenberg im Mühlkreis]] ||Market town ||style="text-align:right"| 2,737
+|-
+|[[Haibach im Mühlkreis]] ||Other municipality ||style="text-align:right"| 904
+|-
+|[[Haibach ob der Donau]] ||Other municipality ||style="text-align:right"| 1,308
+|-
+|[[Haigermoos]] ||Other municipality ||style="text-align:right"| 610
+|-
+|[[Hallstatt]] ||Market town ||style="text-align:right"| 778
+|-
+|[[Handenberg]] ||Other municipality ||style="text-align:right"| 1,290
+|-
+|[[Hargelsberg]] ||Other municipality ||style="text-align:right"| 1,371
+|-
+|[[Hartkirchen]] ||Other municipality ||style="text-align:right"| 4,099
+|-
+|[[Haslach an der Mühl]] ||Market town ||style="text-align:right"| 2,536
+|-
+|[[Heiligenberg, Austria|Heiligenberg]] ||Other municipality ||style="text-align:right"| 691
+|-
+|[[Helfenberg]] ||Other municipality ||style="text-align:right"| 1,005
+|-
+|[[Hellmonsödt]] ||Market town ||style="text-align:right"| 2,303
+|-
+|[[Helpfau-Uttendorf]] ||Market town ||style="text-align:right"| 3,573
+|-
+|[[Herzogsdorf]] ||Market town ||style="text-align:right"| 2,506
+|-
+|[[Hinterstoder]] ||Other municipality ||style="text-align:right"| 910
+|-
+|[[Hinzenbach]] ||Other municipality ||style="text-align:right"| 1,999
+|-
+|[[Hirschbach im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,194
+|-
+|[[Hochburg-Ach]] ||Other municipality ||style="text-align:right"| 3,236
+|-
+|[[Hofkirchen an der Trattnach]] ||Market town ||style="text-align:right"| 1,667
+|-
+|[[Hofkirchen im Mühlkreis]] ||Market town ||style="text-align:right"| 1,520
+|-
+|[[Hofkirchen im Traunkreis]] ||Other municipality ||style="text-align:right"| 1,899
+|-
+|[[Hohenzell]] ||Other municipality ||style="text-align:right"| 2,246
+|-
+|[[Höhnhart]] ||Other municipality ||style="text-align:right"| 1,379
+|-
+|[[Holzhausen, Austria|Holzhausen]] ||Other municipality ||style="text-align:right"| 995
+|-
+|[[Hörbich]] ||Other municipality ||style="text-align:right"| 420
+|-
+|[[Hörsching]] ||Market town ||style="text-align:right"| 6,062
+|-
+|[[Innerschwand am Mondsee]] ||Other municipality ||style="text-align:right"| 1,183
+|-
+|[[Inzersdorf im Kremstal]] ||Other municipality ||style="text-align:right"| 1,880
+|-
+|[[Jeging]] ||Other municipality ||style="text-align:right"| 691
+|-
+|[[Julbach, Austria|Julbach]] ||Other municipality ||style="text-align:right"| 1,537
+|-
+|[[Kallham]] ||Other municipality ||style="text-align:right"| 2,498
+|-
+|[[Kaltenberg]] ||Other municipality ||style="text-align:right"| 625
+|-
+|[[Katsdorf]] ||Other municipality ||style="text-align:right"| 3,086
+|-
+|[[Kefermarkt]] ||Market town ||style="text-align:right"| 2,116
+|-
+|[[Kematen am Innbach]] ||Market town ||style="text-align:right"| 1,413
+|-
+|[[Kematen an der Krems]] ||Other municipality ||style="text-align:right"| 2,790
+|-
+|[[Kirchberg bei Mattighofen]] ||Other municipality ||style="text-align:right"| 1,175
+|-
+|[[Kirchberg ob der Donau]] ||Other municipality ||style="text-align:right"| 1,055
+|-
+|[[Kirchberg-Thening]] ||Other municipality ||style="text-align:right"| 2,364
+|-
+|[[Kirchdorf am Inn, Austria|Kirchdorf am Inn]] ||Other municipality ||style="text-align:right"| 636
+|-
+|[[Kirchdorf an der Krems]] ||Other city ||style="text-align:right"| 4,502
+|-
+|[[Kirchham, Austria|Kirchham]] ||Other municipality ||style="text-align:right"| 2,139
+|-
+|[[Kirchheim im Innkreis]] ||Other municipality ||style="text-align:right"| 716
+|-
+|[[Kirchschlag bei Linz]] ||Other municipality ||style="text-align:right"| 2,138
+|-
+|[[Klaffer am Hochficht]] ||Other municipality ||style="text-align:right"| 1,311
+|-
+|[[Klam]] ||Market town ||style="text-align:right"| 918
+|-
+|[[Klaus an der Pyhrnbahn]] ||Other municipality ||style="text-align:right"| 1,063
+|-
+|[[Kleinzell im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,546
+|-
+|[[Kollerschlag]] ||Market town ||style="text-align:right"| 1,520
+|-
+|[[Königswiesen]] ||Market town ||style="text-align:right"| 3,113
+|-
+|[[Kopfing im Innkreis]] ||Market town ||style="text-align:right"| 2,008
+|-
+|[[Kremsmünster]] ||Market town ||style="text-align:right"| 6,585
+|-
+|[[Krenglbach]] ||Other municipality ||style="text-align:right"| 3,158
+|-
+|[[Kronstorf]] ||Market town ||style="text-align:right"| 3,389
+|-
+|[[Laakirchen]] ||Other city ||style="text-align:right"| 9,861
+|-
+|[[Lambach]] ||Market town ||style="text-align:right"| 3,435
+|-
+|[[Lambrechten]] ||Other municipality ||style="text-align:right"| 1,300
+|-
+|[[Langenstein, Austria|Langenstein]] ||Other municipality ||style="text-align:right"| 2,534
+|-
+|[[Lasberg]] ||Market town ||style="text-align:right"| 2,748
+|-
+|[[Laussa]] ||Other municipality ||style="text-align:right"| 1,227
+|-
+|[[Lembach im Mühlkreis]] ||Market town ||style="text-align:right"| 1,530
+|-
+|[[Lengau]] ||Other municipality ||style="text-align:right"| 4,738
+|-
+|[[Lenzing]] ||Market town ||style="text-align:right"| 5,043
+|-
+|[[Leonding]] ||Other city ||style="text-align:right"| 28,698
+|-
+|[[Leopoldschlag]] ||Market town ||style="text-align:right"| 1,023
+|-
+|[[Lichtenau im Mühlkreis]] ||Other municipality ||style="text-align:right"| 498
+|-
+|[[Lichtenberg, Austria|Lichtenberg]] ||Other municipality ||style="text-align:right"| 2,637
+|-
+|[[Liebenau, Upper Austria|Liebenau]] ||Market town ||style="text-align:right"| 1,597
+|-
+|[[Linz]] ||Statutory city ||style="text-align:right"| 204,846
+|-
+|[[Lochen am See]] ||Other municipality ||style="text-align:right"| 2,754
+|-
+|[[Lohnsburg|Lohnsburg am Kobernaußerwald]] ||Market town ||style="text-align:right"| 2,234
+|-
+|[[Losenstein]] ||Other municipality ||style="text-align:right"| 1,604
+|-
+|[[Luftenberg an der Donau]] ||Market town ||style="text-align:right"| 4,057
+|-
+|[[Manning, Upper Austria|Manning]] ||Other municipality ||style="text-align:right"| 795
+|-
+|[[Marchtrenk]] ||Other city ||style="text-align:right"| 13,603
+|-
+|[[Maria Neustift]] ||Other municipality ||style="text-align:right"| 1,592
+|-
+|[[Maria Schmolln]] ||Other municipality ||style="text-align:right"| 1,414
+|-
+|[[Mattighofen]] ||Other city ||style="text-align:right"| 6,524
+|-
+|[[Mauerkirchen]] ||Market town ||style="text-align:right"| 2,566
+|-
+|[[Mauthausen, Upper Austria|Mauthausen]] ||Market town ||style="text-align:right"| 4,936
+|-
+|[[Mayrhof]] ||Other municipality ||style="text-align:right"| 322
+|-
+|[[Meggenhofen]] ||Other municipality ||style="text-align:right"| 1,514
+|-
+|[[Mehrnbach]] ||Other municipality ||style="text-align:right"| 2,363
+|-
+|[[Mettmach]] ||Market town ||style="text-align:right"| 2,355
+|-
+|[[Michaelnbach]] ||Other municipality ||style="text-align:right"| 1,263
+|-
+|[[Micheldorf in Oberösterreich]] ||Market town ||style="text-align:right"| 5,854
+|-
+|[[Mining, Austria|Mining]] ||Other municipality ||style="text-align:right"| 1,195
+|-
+|[[Mitterkirchen im Machland]] ||Market town ||style="text-align:right"| 1,718
+|-
+|[[Molln]] ||Market town ||style="text-align:right"| 3,653
+|-
+|[[Mondsee (town)|Mondsee]] ||Market town ||style="text-align:right"| 3,734
+|-
+|[[Moosbach, Austria|Moosbach]] ||Other municipality ||style="text-align:right"| 1,042
+|-
+|[[Moosdorf]] ||Other municipality ||style="text-align:right"| 1,638
+|-
+|[[Mörschwang]] ||Other municipality ||style="text-align:right"| 328
+|-
+|[[Mühlheim am Inn]] ||Other municipality ||style="text-align:right"| 661
+|-
+|[[Munderfing]] ||Other municipality ||style="text-align:right"| 3,063
+|-
+|[[Münzbach]] ||Market town ||style="text-align:right"| 1,814
+|-
+|[[Münzkirchen]] ||Market town ||style="text-align:right"| 2,572
+|-
+|[[Naarn im Machlande]] ||Market town ||style="text-align:right"| 3,690
+|-
+|[[Natternbach]] ||Market town ||style="text-align:right"| 2,305
+|-
+|[[Nebelberg]] ||Other municipality ||style="text-align:right"| 632
+|-
+|[[Neufelden]] ||Market town ||style="text-align:right"| 1,276
+|-
+|[[Neuhofen an der Krems]] ||Market town ||style="text-align:right"| 6,269
+|-
+|[[Neuhofen im Innkreis]] ||Other municipality ||style="text-align:right"| 2,408
+|-
+|[[Neukirchen am Walde]] ||Market town ||style="text-align:right"| 1,633
+|-
+|[[Neukirchen an der Enknach]] ||Other municipality ||style="text-align:right"| 2,212
+|-
+|[[Neukirchen an der Vöckla]] ||Other municipality ||style="text-align:right"| 2,559
+|-
+|[[Neukirchen bei Lambach]] ||Other municipality ||style="text-align:right"| 917
+|-
+|[[Neumarkt im Hausruckkreis]] ||Market town ||style="text-align:right"| 1,465
+|-
+|[[Neumarkt im Mühlkreis]] ||Market town ||style="text-align:right"| 3,163
+|-
+|[[Neustift im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,461
+|-
+|[[Niederkappel]] ||Other municipality ||style="text-align:right"| 985
+|-
+|[[Niederneukirchen]] ||Other municipality ||style="text-align:right"| 2,073
+|-
+|[[Niederthalheim]] ||Other municipality ||style="text-align:right"| 1,125
+|-
+|[[Niederwaldkirchen]] ||Market town ||style="text-align:right"| 1,816
+|-
+|[[Nußbach, Austria|Nußbach]] ||Other municipality ||style="text-align:right"| 2,286
+|-
+|[[Nußdorf am Attersee]] ||Other municipality ||style="text-align:right"| 1,128
+|-
+|[[Oberhofen am Irrsee]] ||Other municipality ||style="text-align:right"| 1,646
+|-
+|[[Oberkappel]] ||Market town ||style="text-align:right"| 725
+|-
+|[[Obernberg am Inn]] ||Market town ||style="text-align:right"| 1,633
+|-
+|[[Oberndorf bei Schwanenstadt]] ||Other municipality ||style="text-align:right"| 1,416
+|-
+|[[Oberneukirchen, Austria|Oberneukirchen]] ||Market town ||style="text-align:right"| 3,202
+|-
+|[[Oberschlierbach]] ||Other municipality ||style="text-align:right"| 484
+|-
+|[[Obertraun]] ||Other municipality ||style="text-align:right"| 726
+|-
+|[[Oberwang]] ||Other municipality ||style="text-align:right"| 1,708
+|-
+|[[Oepping]] ||Other municipality ||style="text-align:right"| 1,510
+|-
+|[[Offenhausen, Austria|Offenhausen]] ||Market town ||style="text-align:right"| 1,638
+|-
+|[[Oftering]] ||Other municipality ||style="text-align:right"| 2,076
+|-
+|[[Ohlsdorf, Austria|Ohlsdorf]] ||Other municipality ||style="text-align:right"| 5,209
+|-
+|[[Ort im Innkreis]] ||Other municipality ||style="text-align:right"| 1,275
+|-
+|[[Ostermiething]] ||Market town ||style="text-align:right"| 3,296
+|-
+|[[Ottenschlag im Mühlkreis]] ||Other municipality ||style="text-align:right"| 539
+|-
+|[[Ottensheim]] ||Market town ||style="text-align:right"| 4,721
+|-
+|[[Ottnang am Hausruck]] ||Market town ||style="text-align:right"| 3,990
+|-
+|[[Pabneukirchen]] ||Market town ||style="text-align:right"| 1,706
+|-
+|[[Palting]] ||Other municipality ||style="text-align:right"| 938
+|-
+|[[Pasching]] ||Other municipality ||style="text-align:right"| 7,552
+|-
+|[[Pattigham]] ||Other municipality ||style="text-align:right"| 928
+|-
+|[[Peilstein im Mühlviertel]] ||Market town ||style="text-align:right"| 1,541
+|-
+|[[Pennewang]] ||Other municipality ||style="text-align:right"| 888
+|-
+|[[Perg]] ||Other city ||style="text-align:right"| 8,388
+|-
+|[[Perwang am Grabensee]] ||Other municipality ||style="text-align:right"| 997
+|-
+|[[Peterskirchen]] ||Other municipality ||style="text-align:right"| 700
+|-
+|[[Pettenbach]] ||Market town ||style="text-align:right"| 5,272
+|-
+|[[Peuerbach]] ||Other city ||style="text-align:right"| 4,483
+|-
+|[[Pfaffing, Austria|Pfaffing]] ||Other municipality ||style="text-align:right"| 1,482
+|-
+|[[Pfaffstätt]] ||Other municipality ||style="text-align:right"| 1,101
+|-
+|[[Pfarrkirchen bei Bad Hall]] ||Other municipality ||style="text-align:right"| 2,244
+|-
+|[[Pfarrkirchen im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,474
+|-
+|[[Piberbach]] ||Other municipality ||style="text-align:right"| 1,902
+|-
+|[[Pichl bei Wels]] ||Market town ||style="text-align:right"| 2,863
+|-
+|[[Pierbach]] ||Other municipality ||style="text-align:right"| 1,011
+|-
+|[[Pilsbach]] ||Other municipality ||style="text-align:right"| 629
+|-
+|[[Pinsdorf]] ||Other municipality ||style="text-align:right"| 3,849
+|-
+|[[Pischelsdorf am Engelbach]] ||Other municipality ||style="text-align:right"| 1,672
+|-
+|[[Pitzenberg]] ||Other municipality ||style="text-align:right"| 524
+|-
+|[[Pollham]] ||Other municipality ||style="text-align:right"| 984
+|-
+|[[Polling im Innkreis]] ||Other municipality ||style="text-align:right"| 997
+|-
+|[[Pöndorf]] ||Other municipality ||style="text-align:right"| 2,386
+|-
+|[[Pötting]] ||Other municipality ||style="text-align:right"| 541
+|-
+|[[Pram, Austria|Pram]] ||Market town ||style="text-align:right"| 1,708
+|-
+|[[Prambachkirchen]] ||Market town ||style="text-align:right"| 2,919
+|-
+|[[Pramet]] ||Other municipality ||style="text-align:right"| 1,030
+|-
+|[[Pregarten]] ||Other city ||style="text-align:right"| 5,293
+|-
+|[[Puchenau]] ||Other municipality ||style="text-align:right"| 4,445
+|-
+|[[Puchkirchen am Trattberg]] ||Other municipality ||style="text-align:right"| 1,036
+|-
+|[[Pucking]] ||Market town ||style="text-align:right"| 3,904
+|-
+|[[Pühret]] ||Other municipality ||style="text-align:right"| 613
+|-
+|[[Pupping]] ||Other municipality ||style="text-align:right"| 1,824
+|-
+|[[Putzleinsdorf]] ||Market town ||style="text-align:right"| 1,553
+|-
+|[[Raab, Austria|Raab]] ||Market town ||style="text-align:right"| 2,270
+|-
+|[[Rainbach im Innkreis]] ||Other municipality ||style="text-align:right"| 1,478
+|-
+|[[Rainbach im Mühlkreis]] ||Market town ||style="text-align:right"| 2,959
+|-
+|[[Rechberg, Austria|Rechberg]] ||Other municipality ||style="text-align:right"| 996
+|-
+|[[Redleiten]] ||Other municipality ||style="text-align:right"| 537
+|-
+|[[Redlham]] ||Other municipality ||style="text-align:right"| 1,515
+|-
+|[[Regau]] ||Market town ||style="text-align:right"| 6,780
+|-
+|[[Reichenau im Mühlkreis]] ||Market town ||style="text-align:right"| 1,329
+|-
+|[[Reichenthal]] ||Market town ||style="text-align:right"| 1,513
+|-
+|[[Reichersberg]] ||Market town ||style="text-align:right"| 1,511
+|-
+|[[Reichraming]] ||Other municipality ||style="text-align:right"| 1,742
+|-
+|[[Ried im Innkreis]] ||Other city ||style="text-align:right"| 11,903
+|-
+|[[Ried im Traunkreis]] ||Other municipality ||style="text-align:right"| 2,739
+|-
+|[[Ried in der Riedmark]] ||Market town ||style="text-align:right"| 4,210
+|-
+|[[Riedau]] ||Market town ||style="text-align:right"| 2,069
+|-
+|[[Rohr im Kremstal]] ||Other municipality ||style="text-align:right"| 1,374
+|-
+|[[Rohrbach-Berg]] ||Other city ||style="text-align:right"| 5,134
+|-
+|[[Roitham am Traunfall]] ||Other municipality ||style="text-align:right"| 2,001
+|-
+|[[Rosenau am Hengstpaß]] ||Other municipality ||style="text-align:right"| 663
+|-
+|[[Roßbach, Austria|Roßbach]] ||Other municipality ||style="text-align:right"| 935
+|-
+|[[Roßleithen]] ||Other municipality ||style="text-align:right"| 1,889
+|-
+|[[Rottenbach, Austria|Rottenbach]] ||Other municipality ||style="text-align:right"| 1,105
+|-
+|[[Rüstorf]] ||Other municipality ||style="text-align:right"| 2,104
+|-
+|[[Rutzenham]] ||Other municipality ||style="text-align:right"| 298
+|-
+|[[Sandl]] ||Other municipality ||style="text-align:right"| 1,384
+|-
+|[[Sarleinsbach]] ||Market town ||style="text-align:right"| 2,284
+|-
+|[[Sattledt]] ||Market town ||style="text-align:right"| 2,668
+|-
+|[[Saxen]] ||Market town ||style="text-align:right"| 1,820
+|-
+|[[Schalchen]] ||Other municipality ||style="text-align:right"| 3,877
+|-
+|[[Schardenberg]] ||Market town ||style="text-align:right"| 2,407
+|-
+|[[Schärding]] ||Other city ||style="text-align:right"| 5,253
+|-
+|[[Scharnstein]] ||Market town ||style="text-align:right"| 4,819
+|-
+|[[Scharten]] ||Other municipality ||style="text-align:right"| 2,252
+|-
+|[[Schenkenfelden]] ||Market town ||style="text-align:right"| 1,569
+|-
+|[[Schiedlberg]] ||Other municipality ||style="text-align:right"| 1,224
+|-
+|[[Schildorn]] ||Other municipality ||style="text-align:right"| 1,227
+|-
+|[[Schlatt, Austria|Schlatt]] ||Other municipality ||style="text-align:right"| 1,399
+|-
+|[[Schleißheim]] ||Other municipality ||style="text-align:right"| 1,389
+|-
+|[[Schlierbach, Austria|Schlierbach]] ||Other municipality ||style="text-align:right"| 2,858
+|-
+|[[Schlüßlberg]] ||Market town ||style="text-align:right"| 3,091
+|-
+|[[Schönau im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,941
+|-
+|[[Schörfling am Attersee]] ||Market town ||style="text-align:right"| 3,438
+|-
+|[[Schwand im Innkreis]] ||Other municipality ||style="text-align:right"| 972
+|-
+|[[Schwanenstadt]] ||Other city ||style="text-align:right"| 4,264
+|-
+|[[Schwarzenberg am Böhmerwald]] ||Other municipality ||style="text-align:right"| 566
+|-
+|[[Schwertberg]] ||Market town ||style="text-align:right"| 5,365
+|-
+|[[Seewalchen am Attersee]] ||Market town ||style="text-align:right"| 5,491
+|-
+|[[Senftenbach]] ||Other municipality ||style="text-align:right"| 772
+|-
+|[[Sierning]] ||Market town ||style="text-align:right"| 9,371
+|-
+|[[Sigharting]] ||Other municipality ||style="text-align:right"| 848
+|-
+|[[Sipbachzell]] ||Other municipality ||style="text-align:right"| 1,975
+|-
+|[[Sonnberg im Mühlkreis]] ||Other municipality ||style="text-align:right"| 966
+|-
+|[[Spital am Pyhrn]] ||Other municipality ||style="text-align:right"| 2,238
+|-
+|[[Sankt Aegidi]] ||Other municipality ||style="text-align:right"| 1,556
+|-
+|[[Sankt Agatha]] ||Other municipality ||style="text-align:right"| 2,116
+|-
+|[[Sankt Florian]] ||Market town ||style="text-align:right"| 6,176
+|-
+|[[Sankt Florian am Inn]] ||Market town ||style="text-align:right"| 3,150
+|-
+|[[Sankt Georgen am Fillmannsbach]] ||Other municipality ||style="text-align:right"| 404
+|-
+|[[Sankt Georgen am Walde]] ||Market town ||style="text-align:right"| 2,006
+|-
+|[[Sankt Georgen an der Gusen]] ||Market town ||style="text-align:right"| 4,119
+|-
+|[[Sankt Georgen bei Grieskirchen]] ||Other municipality ||style="text-align:right"| 1,336
+|-
+|[[Sankt Georgen bei Obernberg am Inn]] ||Other municipality ||style="text-align:right"| 569
+|-
+|[[Sankt Georgen im Attergau]] ||Market town ||style="text-align:right"| 4,375
+|-
+|[[Sankt Gotthard im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,332
+|-
+|[[Sankt Johann am Walde]] ||Other municipality ||style="text-align:right"| 2,051
+|-
+|[[Sankt Johann am Wimberg]] ||Other municipality ||style="text-align:right"| 1,029
+|-
+|[[Sankt Konrad]] ||Other municipality ||style="text-align:right"| 1,115
+|-
+|[[Sankt Leonhard bei Freistadt]] ||Market town ||style="text-align:right"| 1,394
+|-
+|[[Sankt Lorenz]] ||Other municipality ||style="text-align:right"| 2,493
+|-
+|[[Sankt Marien]] ||Other municipality ||style="text-align:right"| 4,769
+|-
+|[[Sankt Marienkirchen am Hausruck]] ||Other municipality ||style="text-align:right"| 888
+|-
+|[[Sankt Marienkirchen an der Polsenz]] ||Market town ||style="text-align:right"| 2,337
+|-
+|[[Sankt Marienkirchen bei Schärding]] ||Other municipality ||style="text-align:right"| 1,832
+|-
+|[[Sankt Martin im Innkreis]] ||Market town ||style="text-align:right"| 2,055
+|-
+|[[Sankt Martin im Mühlkreis]] ||Market town ||style="text-align:right"| 3,757
+|-
+|[[Sankt Nikola an der Donau]] ||Market town ||style="text-align:right"| 798
+|-
+|[[Sankt Oswald bei Freistadt]] ||Market town ||style="text-align:right"| 2,901
+|-
+|[[Sankt Oswald bei Haslach]] ||Other municipality ||style="text-align:right"| 501
+|-
+|[[Sankt Pankraz]] ||Other municipality ||style="text-align:right"| 362
+|-
+|[[Sankt Pantaleon]] ||Other municipality ||style="text-align:right"| 3,085
+|-
+|[[Sankt Peter am Hart]] ||Other municipality ||style="text-align:right"| 2,447
+|-
+|[[Sankt Peter am Wimberg]] ||Market town ||style="text-align:right"| 1,770
+|-
+|[[Sankt Radegund]] ||Other municipality ||style="text-align:right"| 589
+|-
+|[[Sankt Roman]] ||Other municipality ||style="text-align:right"| 1,711
+|-
+|[[Sankt Stefan am Walde]] ||Other municipality ||style="text-align:right"| 804
+|-
+|[[Sankt Thomas, Austria|Sankt Thomas]] ||Other municipality ||style="text-align:right"| 545
+|-
+|[[Sankt Thomas am Blasenstein]] ||Market town ||style="text-align:right"| 927
+|-
+|[[Sankt Ulrich bei Steyr]] ||Other municipality ||style="text-align:right"| 2,969
+|-
+|[[Sankt Ulrich im Mühlkreis]] ||Other municipality ||style="text-align:right"| 633
+|-
+|[[Sankt Veit im Innkreis]] ||Other municipality ||style="text-align:right"| 408
+|-
+|[[Sankt Veit im Mühlkreis]] ||Other municipality ||style="text-align:right"| 1,206
+|-
+|[[Sankt Willibald]] ||Other municipality ||style="text-align:right"| 1,100
+|-
+|[[Sankt Wolfgang im Salzkammergut]] ||Market town ||style="text-align:right"| 2,770
+|-
+|[[Stadl-Paura]] ||Market town ||style="text-align:right"| 5,053
+|-
+|[[Steegen]] ||Other municipality ||style="text-align:right"| 1,049
+|-
+|[[Steinbach am Attersee]] ||Other municipality ||style="text-align:right"| 866
+|-
+|[[Steinbach am Ziehberg]] ||Other municipality ||style="text-align:right"| 828
+|-
+|[[Steinbach an der Steyr]] ||Other municipality ||style="text-align:right"| 2,009
+|-
+|[[Steinerkirchen an der Traun]] ||Market town ||style="text-align:right"| 2,371
+|-
+|[[Steinhaus, Austria|Steinhaus]] ||Other municipality ||style="text-align:right"| 2,187
+|-
+|[[Steyr]] ||Statutory city ||style="text-align:right"| 38,331
+|-
+|[[Steyregg]] ||Other city ||style="text-align:right"| 4,889
+|-
+|[[Straß im Attergau]] ||Other municipality ||style="text-align:right"| 1,471
+|-
+|[[Stroheim]] ||Other municipality ||style="text-align:right"| 1,555
+|-
+|[[Suben]] ||Other municipality ||style="text-align:right"| 1,508
+|-
+|[[Taiskirchen im Innkreis]] ||Market town ||style="text-align:right"| 2,407
+|-
+|[[Tarsdorf]] ||Other municipality ||style="text-align:right"| 2,068
+|-
+|[[Taufkirchen an der Pram]] ||Market town ||style="text-align:right"| 2,925
+|-
+|[[Taufkirchen an der Trattnach]] ||Market town ||style="text-align:right"| 1,970
+|-
+|[[Ternberg]] ||Market town ||style="text-align:right"| 3,367
+|-
+|[[Thalheim bei Wels]] ||Market town ||style="text-align:right"| 5,482
+|-
+|[[Tiefgraben]] ||Other municipality ||style="text-align:right"| 3,974
+|-
+|[[Timelkam]] ||Market town ||style="text-align:right"| 5,708
+|-
+|[[Tollet]] ||Other municipality ||style="text-align:right"| 920
+|-
+|[[Tragwein]] ||Market town ||style="text-align:right"| 3,082
+|-
+|[[Traun]] ||Other city ||style="text-align:right"| 24,477
+|-
+|[[Traunkirchen]] ||Other municipality ||style="text-align:right"| 1,624
+|-
+|[[Treubach]] ||Other municipality ||style="text-align:right"| 725
+|-
+|[[Tumeltsham]] ||Other municipality ||style="text-align:right"| 1,590
+|-
+|[[Überackern]] ||Other municipality ||style="text-align:right"| 685
+|-
+|[[Ulrichsberg]] ||Market town ||style="text-align:right"| 2,843
+|-
+|[[Ungenach]] ||Other municipality ||style="text-align:right"| 1,492
+|-
+|[[Unterach am Attersee]] ||Other municipality ||style="text-align:right"| 1,448
+|-
+|[[Unterweißenbach]] ||Market town ||style="text-align:right"| 2,192
+|-
+|[[Unterweitersdorf]] ||Other municipality ||style="text-align:right"| 2,082
+|-
+|[[Utzenaich]] ||Other municipality ||style="text-align:right"| 1,536
+|-
+|[[Vichtenstein]] ||Other municipality ||style="text-align:right"| 611
+|-
+|[[Vöcklabruck]] ||Other city ||style="text-align:right"| 12,299
+|-
+|[[Vöcklamarkt]] ||Market town ||style="text-align:right"| 4,924
+|-
+|[[Vorchdorf]] ||Market town ||style="text-align:right"| 7,475
+|-
+|[[Vorderstoder]] ||Other municipality ||style="text-align:right"| 810
+|-
+|[[Vorderweißenbach]] ||Market town ||style="text-align:right"| 2,653
+|-
+|[[Waizenkirchen]] ||Market town ||style="text-align:right"| 3,729
+|-
+|[[Waldburg, Austria|Waldburg]] ||Other municipality ||style="text-align:right"| 1,375
+|-
+|[[Waldhausen im Strudengau]] ||Market town ||style="text-align:right"| 2,870
+|-
+|[[Walding]] ||Market town ||style="text-align:right"| 4,095
+|-
+|[[Waldkirchen am Wesen]] ||Other municipality ||style="text-align:right"| 1,171
+|-
+|[[Waldneukirchen]] ||Other municipality ||style="text-align:right"| 2,242
+|-
+|[[Waldzell]] ||Other municipality ||style="text-align:right"| 2,177
+|-
+|[[Wallern an der Trattnach]] ||Market town ||style="text-align:right"| 3,039
+|-
+|[[Wartberg an der Krems]] ||Market town ||style="text-align:right"| 2,993
+|-
+|[[Wartberg ob der Aist]] ||Market town ||style="text-align:right"| 4,222
+|-
+|[[Weibern, Austria|Weibern]] ||Other municipality ||style="text-align:right"| 1,717
+|-
+|[[Weilbach, Austria|Weilbach]] ||Other municipality ||style="text-align:right"| 604
+|-
+|[[Weißenkirchen im Attergau]] ||Other municipality ||style="text-align:right"| 964
+|-
+|[[Weißkirchen an der Traun]] ||Other municipality ||style="text-align:right"| 3,430
+|-
+|[[Weitersfelden]] ||Market town ||style="text-align:right"| 1,042
+|-
+|[[Wels]] ||Statutory city ||style="text-align:right"| 61,233
+|-
+|[[Wendling, Grieskirchen|Wendling]] ||Other municipality ||style="text-align:right"| 838
+|-
+|[[Weng im Innkreis]] ||Other municipality ||style="text-align:right"| 1,394
+|-
+|[[Wernstein am Inn]] ||Other municipality ||style="text-align:right"| 1,566
+|-
+|[[Weyer, Austria|Weyer]] ||Market town ||style="text-align:right"| 4,258
+|-
+|[[Weyregg am Attersee]] ||Other municipality ||style="text-align:right"| 1,588
+|-
+|[[Wilhering]] ||Market town ||style="text-align:right"| 5,911
+|-
+|[[Windhaag bei Freistadt]] ||Market town ||style="text-align:right"| 1,579
+|-
+|[[Windhaag bei Perg]] ||Other municipality ||style="text-align:right"| 1,508
+|-
+|[[Windischgarsten]] ||Market town ||style="text-align:right"| 2,392
+|-
+|[[Wippenham]] ||Other municipality ||style="text-align:right"| 578
+|-
+|[[Wolfern]] ||Market town ||style="text-align:right"| 3,173
+|-
+|[[Wolfsegg am Hausruck]] ||Market town ||style="text-align:right"| 1,982
+|-
+|[[Zell am Moos]] ||Other municipality ||style="text-align:right"| 1,575
+|-
+|[[Zell am Pettenfirst]] ||Other municipality ||style="text-align:right"| 1,236
+|-
+|[[Zell an der Pram]] ||Other municipality ||style="text-align:right"| 2,021
+|-
+|[[Zwettl an der Rodl]] ||Market town ||style="text-align:right"| 1,752
+|}
+
+===Vienna===
+{|class="wikitable"
+|-
+!Name !!Designation !!Population (2026)
+|-
+|[[Vienna]] ||Statutory city ||style="text-align:right"| 2,042,036
+|}
+
+===Vorarlberg===
+{{Sticky header}}
+{|class="wikitable sortable sticky-header"
+|-
+!Name !!Designation !!Population (2015)
+|-
+|[[Alberschwende]] ||Other municipality ||style="text-align:right"| 3,247
+|-
+|[[Altach]] ||Other municipality ||style="text-align:right"| 6,624
+|-
+|[[Andelsbuch]] ||Other municipality ||style="text-align:right"| 2,565
+|-
+|[[Au, Vorarlberg|Au]] ||Other municipality ||style="text-align:right"| 1,736
+|-
+|[[Bartholomäberg]] ||Other municipality ||style="text-align:right"| 2,352
+|-
+|[[Bezau]] ||Market town ||style="text-align:right"| 2,003
+|-
+|[[Bildstein]] ||Other municipality ||style="text-align:right"| 766
+|-
+|[[Bizau]] ||Other municipality ||style="text-align:right"| 1,107
+|-
+|[[Blons]] ||Other municipality ||style="text-align:right"| 349
+|-
+|[[Bludenz]] ||Other city ||style="text-align:right"| 14,539
+|-
+|[[Bludesch]] ||Other municipality ||style="text-align:right"| 2,386
+|-
+|[[Brand, Vorarlberg|Brand]] ||Other municipality ||style="text-align:right"| 719
+|-
+|[[Bregenz]] ||Other city ||style="text-align:right"| 29,806
+|-
+|[[Buch, Austria|Buch]] ||Other municipality ||style="text-align:right"| 596
+|-
+|[[Bürs]] ||Other municipality ||style="text-align:right"| 3,275
+|-
+|[[Bürserberg]] ||Other municipality ||style="text-align:right"| 572
+|-
+|[[Dalaas]] ||Other municipality ||style="text-align:right"| 1,597
+|-
+|[[Damüls]] ||Other municipality ||style="text-align:right"| 313
+|-
+|[[Doren]] ||Other municipality ||style="text-align:right"| 1,029
+|-
+|[[Dornbirn]] ||Other city ||style="text-align:right"| 49,278
+|-
+|[[Düns]] ||Other municipality ||style="text-align:right"| 411
+|-
+|[[Dünserberg]] ||Other municipality ||style="text-align:right"| 147
+|-
+|[[Egg, Austria|Egg]] ||Other municipality ||style="text-align:right"| 3,547
+|-
+|[[Eichenberg, Austria|Eichenberg]] ||Other municipality ||style="text-align:right"| 427
+|-
+|[[Feldkirch, Vorarlberg|Feldkirch]] ||Other city ||style="text-align:right"| 33,420
+|-
+|[[Fontanella, Austria|Fontanella]] ||Other municipality ||style="text-align:right"| 437
+|-
+|[[Frastanz]] ||Market town ||style="text-align:right"| 6,434
+|-
+|[[Fraxern]] ||Other municipality ||style="text-align:right"| 701
+|-
+|[[Fußach]] ||Other municipality ||style="text-align:right"| 3,871
+|-
+|[[Gaißau]] ||Other municipality ||style="text-align:right"| 1,827
+|-
+|[[Gemeinde Gaschurn-Partenen]] ||Other municipality ||style="text-align:right"| 1,464
+|-
+|[[Göfis]] ||Other municipality ||style="text-align:right"| 3,312
+|-
+|[[Götzis]] ||Market town ||style="text-align:right"| 11,473
+|-
+|[[Hard, Austria|Hard]] ||Market town ||style="text-align:right"| 13,495
+|-
+|[[Hittisau]] ||Other municipality ||style="text-align:right"| 2,032
+|-
+|[[Höchst, Austria|Höchst]] ||Other municipality ||style="text-align:right"| 7,995
+|-
+|[[Hohenems]] ||Other city ||style="text-align:right"| 16,317
+|-
+|[[Hohenweiler]] ||Other municipality ||style="text-align:right"| 1,271
+|-
+|[[Hörbranz]] ||Market town ||style="text-align:right"| 6,346
+|-
+|[[Innerbraz]] ||Other municipality ||style="text-align:right"| 994
+|-
+|[[Kennelbach]] ||Other municipality ||style="text-align:right"| 1,944
+|-
+|[[Klaus, Vorarlberg|Klaus]] ||Other municipality ||style="text-align:right"| 3,118
+|-
+|[[Klösterle, Austria|Klösterle]] ||Other municipality ||style="text-align:right"| 688
+|-
+|[[Koblach]] ||Other municipality ||style="text-align:right"| 4,577
+|-
+|[[Krumbach, Vorarlberg|Krumbach]] ||Other municipality ||style="text-align:right"| 1,042
+|-
+|[[Langen bei Bregenz]] ||Other municipality ||style="text-align:right"| 1,405
+|-
+|[[Langenegg]] ||Other municipality ||style="text-align:right"| 1,133
+|-
+|[[Laterns]] ||Other municipality ||style="text-align:right"| 662
+|-
+|[[Lauterach]] ||Market town ||style="text-align:right"| 10,267
+|-
+|[[Lech (Vorarlberg)|Lech]] ||Other municipality ||style="text-align:right"| 1,568
+|-
+|[[Lingenau]] ||Other municipality ||style="text-align:right"| 1,466
+|-
+|[[Lochau]] ||Other municipality ||style="text-align:right"| 5,747
+|-
+|[[Lorüns]] ||Other municipality ||style="text-align:right"| 294
+|-
+|[[Ludesch]] ||Other municipality ||style="text-align:right"| 3,437
+|-
+|[[Lustenau]] ||Market town ||style="text-align:right"| 22,821
+|-
+|[[Mäder]] ||Other municipality ||style="text-align:right"| 4,031
+|-
+|[[Meiningen, Austria|Meiningen]] ||Other municipality ||style="text-align:right"| 2,245
+|-
+|[[Mellau]] ||Other municipality ||style="text-align:right"| 1,301
+|-
+|[[Mittelberg]] ||Other municipality ||style="text-align:right"| 4,962
+|-
+|[[Möggers]] ||Other municipality ||style="text-align:right"| 534
+|-
+|[[Nenzing]] ||Market town ||style="text-align:right"| 6,239
+|-
+|[[Nüziders]] ||Other municipality ||style="text-align:right"| 4,962
+|-
+|[[Raggal]] ||Other municipality ||style="text-align:right"| 868
+|-
+|[[Rankweil]] ||Market town ||style="text-align:right"| 11,855
+|-
+|[[Reuthe]] ||Other municipality ||style="text-align:right"| 658
+|-
+|[[Riefensberg]] ||Other municipality ||style="text-align:right"| 1,086
+|-
+|[[Röns]] ||Other municipality ||style="text-align:right"| 352
+|-
+|[[Röthis]] ||Other municipality ||style="text-align:right"| 1,942
+|-
+|[[Satteins]] ||Other municipality ||style="text-align:right"| 2,703
+|-
+|[[Schlins]] ||Other municipality ||style="text-align:right"| 2,404
+|-
+|[[Schnepfau]] ||Other municipality ||style="text-align:right"| 449
+|-
+|[[Schnifis]] ||Other municipality ||style="text-align:right"| 798
+|-
+|[[Schoppernau]] ||Other municipality ||style="text-align:right"| 950
+|-
+|[[Schröcken]] ||Other municipality ||style="text-align:right"| 224
+|-
+|[[Schruns]] ||Market town ||style="text-align:right"| 3,818
+|-
+|[[Schwarzach, Vorarlberg|Schwarzach]] ||Other municipality ||style="text-align:right"| 3,949
+|-
+|[[Schwarzenberg, Austria|Schwarzenberg]] ||Other municipality ||style="text-align:right"| 1,850
+|-
+|[[Sibratsgfäll]] ||Other municipality ||style="text-align:right"| 401
+|-
+|[[Silbertal]] ||Other municipality ||style="text-align:right"| 834
+|-
+|[[Sonntag, Austria|Sonntag]] ||Other municipality ||style="text-align:right"| 671
+|-
+|[[Sankt Anton im Montafon]] ||Other municipality ||style="text-align:right"| 715
+|-
+|[[Sankt Gallenkirch]] ||Other municipality ||style="text-align:right"| 2,246
+|-
+|[[Sankt Gerold]] ||Other municipality ||style="text-align:right"| 410
+|-
+|[[Stallehr]] ||Other municipality ||style="text-align:right"| 289
+|-
+|[[Sulz, Vorarlberg|Sulz]] ||Other municipality ||style="text-align:right"| 2,527
+|-
+|[[Sulzberg, Austria|Sulzberg]] ||Other municipality ||style="text-align:right"| 1,818
+|-
+|[[Thüringen, Austria|Thüringen]] ||Other municipality ||style="text-align:right"| 2,222
+|-
+|[[Thüringerberg]] ||Other municipality ||style="text-align:right"| 714
+|-
+|[[Tschagguns]] ||Other municipality ||style="text-align:right"| 2,195
+|-
+|[[Übersaxen]] ||Other municipality ||style="text-align:right"| 629
+|-
+|[[Vandans]] ||Other municipality ||style="text-align:right"| 2,636
+|-
+|[[Viktorsberg]] ||Other municipality ||style="text-align:right"| 411
+|-
+|[[Warth, Vorarlberg|Warth]] ||Other municipality ||style="text-align:right"| 170
+|-
+|[[Weiler, Austria|Weiler]] ||Other municipality ||style="text-align:right"| 2,075
+|-
+|[[Wolfurt]] ||Market town ||style="text-align:right"| 8,446
+|-
+|[[Zwischenwasser]] ||Other municipality ||style="text-align:right"| 3,203
+|}
+
+==See also==
+*[[Geography of Austria]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Cities in Austria}}
+*{{webarchive |date=2012-12-05 |url=https://archive.today/20121205074122/http://www.world-gazetteer.com/s/p at.htm |title=Map showing Austria's cities}}
+*[http://www.innweb.at/map/index en.php Inhabited places of Austria database]{{Dead link|date=July 2023 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Austria topics}}
+{{Europe topic|List of places in|AT=List of cities and towns in Austria}}
+{{List of cities in Europe}}
+{{Europe topic|List of towns in|AT=List of cities and towns in Austria}}
+
+{{DEFAULTSORT:List Of Cities And Towns In Austria}}
+[[Category:Populated places in Austria| ]]
+[[Category:Lists of cities by country|Austria]]
+[[Category:Austria geography-related lists|Cities and towns]]
+[[Category:Lists of cities in Europe|Austria]]
+[[Category:Population statistics]]
+
+[[he:אוסטריה#ערים]]

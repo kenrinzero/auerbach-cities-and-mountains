@@ -1,0 +1,699 @@
+{{Short description|Overview of ultra-prominent peaks in Oceania}}
+
+This is a list of the 67 [[ultra-prominent peak]]s (with [[topographic prominence]] greater than {{convert|1,500|m|0}}) of [[Oceania]], plus the two Ultras of the Southern [[Indian Ocean]].
+
+==Western New Guinea==
+{{See also2|[[List of Ultras of the Malay Archipelago]] for other ultra prominent peaks elsewhere in the Indonesian archipelago}}
+
+There are 12 ultra-prominent summits in [[Papua (province)|Papua]], [[Indonesia]].
+
+{| class="wikitable sortable"
+![[ranking|Rank]]
+!Peak
+!Country
+!Island
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Puncak Jaya|Puncak Jaya (Carstensz Pyramid)]]
+|{{IDN}}
+|[[New Guinea]]
+|4,884
+|'''4,884'''
+|0
+|-
+|2
+|[[Pegunungan Arfak]]
+|{{IDN}}
+|[[New Guinea]]
+|2,955
+|'''2,775'''
+|179
+|-
+|3
+|[[Puncak Mandala]]
+|{{IDN}}
+|[[New Guinea]]
+|4,760
+|'''2,760'''
+|2000
+|-
+|4
+|[[Mount Kobowre]]
+|{{IDN}}
+|[[New Guinea]]
+|3,750
+|'''2,217'''
+|1533
+|-
+|5
+|[[Mount Gauttier]]
+|{{IDN}}
+|[[New Guinea]]
+|2,230
+|'''2,007'''
+|223
+|-
+|6
+|[[Mount Wondiwoi]]
+|{{IDN}}
+|[[New Guinea]]
+|2,180
+|'''1,985'''
+|195
+|-
+|7
+|[[Bon Irau]]
+|{{IDN}}
+|[[New Guinea]]
+|2,500
+|'''1,900'''
+|600
+|-
+|8
+|[[Mount Cycloop]]
+|{{IDN}}
+|[[New Guinea]]
+|2,000
+|'''1,876'''
+|124
+|-
+|9
+|[[Undundi-Wandandi]]
+|{{IDN}}
+|[[New Guinea]]
+|3,640
+|'''1,740'''
+|1900
+|-
+|10
+|[[Mount Kumawa]]
+|{{IDN}}
+|[[New Guinea]]
+|1,680
+|'''1,636'''
+|44
+|-
+|11
+|[[Angemuk]]
+|{{IDN}}
+|[[New Guinea]]
+|3,949
+|'''1,565'''
+|2384
+|-
+|12
+|[[Deyjay]]
+|{{IDN}}
+|[[New Guinea]]
+|3,340
+|'''1,555'''
+|1785
+|-
+|}
+
+==Papua New Guinea==
+There are 31 ultra-prominent summits in [[Papua New Guinea]].
+{| class="wikitable sortable"
+![[ranking|Rank]]
+!Peak
+!Country
+!Island
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Finisterre Range]] High Point<ref>The source used for Finesterre High Point [http://www.peaklist.org/WWlists/ultras/PNG1500m.html#Footnotes] notes that recent SRTM data suggests an elevation closer to (but at least) 4,120 m. This would support [http://www.peakbagger.com/peak.aspx?pid=13043 Peakbagger] which lists the peak at 4,125 m.</ref>
+|{{PNG}}
+|[[New Guinea]]
+|4,175
+|'''3,734'''
+|441
+|-
+|2
+|[[Mount Suckling]]
+|{{PNG}}
+|[[New Guinea]]
+|3,676
+|'''2,976'''
+|700
+|-
+|3
+|[[Mount Wilhelm]]
+|{{PNG}}
+|[[New Guinea]]
+|4,509
+|'''2,969'''
+|1540
+|-
+|4
+|[[Mount Victoria, Papua New Guinea|Mount Victoria]]
+|{{PNG}}
+|[[New Guinea]]
+|4,038
+|'''2,738'''
+|1300
+|-
+|5
+|[[Mount Balbi]]
+|{{PNG}}
+|[[Bougainville Island]]
+|2,715
+|'''2,715'''
+|0
+|-
+|6
+|[[Mount Vineuo|Mount Oiautukekea]]
+|{{PNG}}
+|[[Goodenough Island]]
+|2,536
+|'''2,536'''
+|0
+|-
+|7
+|[[Mount Giluwe]]
+|{{PNG}}
+|[[New Guinea]]
+|4,367
+|'''2,507'''
+|1860
+|-
+|8
+|[[Mount Taron]]
+|{{PNG}}
+|[[New Ireland (island)|New Ireland]]
+|2,379
+|'''2,379'''
+|0
+|-
+|9
+|[[Mount Ulawun]]
+|{{PNG}}
+|[[New Britain]]
+|2,334
+|'''2,334'''
+|0
+|-
+|10
+|[[Mount Kabangama]]
+|{{PNG}}
+|[[New Guinea]]
+|4,104
+|'''2,284'''
+|1820
+|-
+|11
+|[[Nakanai Mountains]] High Point
+|{{PNG}}
+|[[New Britain]]
+|2,316
+|'''2,056'''
+|260
+|-
+|12
+|[[Mount Kilkerran]]
+||{{PNG}}
+|[[Fergusson Island]]
+|1,947
+|'''1,947'''
+|0
+|-
+|13
+|[[Mount Piora]]
+|{{PNG}}
+|[[New Guinea]]
+|3,557
+|'''1,897'''
+|1660
+|-
+|14
+|[[Mount Bosavi]]
+|{{PNG}}
+|[[New Guinea]]
+|2,507
+|'''1,887'''
+|620
+|-
+|15
+|[[Mount Karoma]]
+|{{PNG}}
+|[[New Guinea]]
+|3,623
+|'''1,883'''
+|1740
+|-
+|16
+|[[Mount Simpson (Papua New Guinea)|Mount Simpson]]
+|{{PNG}}
+|[[New Guinea]]
+|2,883
+|'''1,863'''
+|1020
+|-
+|17
+|[[Mount Kunugui]]
+|{{PNG}}
+|[[Karkar Island]]
+|1,833
+|'''1,833'''
+|0
+|-
+|18
+|[[Mount Victory (Papua New Guinea)|Mount Victory]]
+|{{PNG}}
+|[[New Guinea]]
+|1,891
+|'''1,831'''
+|60
+|-
+|19
+|[[Manam Motu|Manam]] High Point
+|{{PNG}}
+|[[Manam Motu|Manam]]
+|1,807
+|'''1,807'''
+|0
+|-
+|20
+|[[Mount Michael (Papua New Guinea)|Mount Michael]]
+|{{PNG}}
+|[[New Guinea]]
+|3,647
+|'''1,787'''
+|1860
+|-
+|21
+|[[Mount Talawe]]
+|{{PNG}}
+|[[New Britain]]
+|1,824
+|'''1,773'''
+|51
+|-
+|22
+|[[Barurumea Ridge]]
+|{{PNG}}
+|[[New Britain]]
+|2,063
+|'''1,723'''
+|340
+|-
+|23
+|[[Mount Bangeta|Mount Sarawaget]]
+|{{PNG}}
+|[[New Guinea]]
+|4,121
+|'''1,701'''
+|2420
+|-
+|24
+|[[Bewani Mountains]] High Point
+|{{PNG}}
+|[[New Guinea]]
+|1,980
+|'''1,664'''
+|316
+|-
+|25
+|[[Mount Bel]]
+|{{PNG}}
+|[[Umboi Island]]
+|1,658
+|'''1,658'''
+|0
+|-
+|26
+|''unnamed summit''
+|{{PNG}}
+|[[New Britain]]
+|1,951
+|'''1,651'''
+|300
+|-
+|27
+|[[Mount Maybole]]
+|{{PNG}}
+|[[Fergusson Island]]
+|1,665
+|'''1,597'''
+|68
+|-
+|28
+|[[Adelbert Range]] High Point
+|{{PNG}}
+|[[New Guinea]]
+|1,716
+|'''1,576'''
+|140
+|-
+|29
+|[[Sibium Mountains]] High Point
+|{{PNG}}
+|[[New Guinea]]
+|2,295
+|'''1,555'''
+|740
+|-
+|30
+|[[Mount Shungol]]
+|{{PNG}}
+|[[New Guinea]]
+|2,752
+|'''1,518'''
+|1234
+|-
+|31
+|[[Mount Taraka]]
+|{{PNG}}
+|[[Bougainville Island]]
+|2,251
+|'''1,511'''
+|740
+|-
+|}
+
+==Hawaiian Islands==
+{{GeoGroup|section=Hawai'i}}
+{{main|List of mountain peaks of Hawaii}}
+Of the six ultra-prominent summits of the [[Hawaiian Islands]], two rise on the island of [[Hawaii (island)|Hawai{{okina}}i]], two on [[Maui]], and one each on [[Kauai|Kaua{{okina}}i]] and [[Molokai|Moloka{{okina}}i]].
+<!-- Please discuss any proposed changes to this table at [[Wikipedia talk:WikiProject Mountains]] several days before changes may be made. -->
+{| class="wikitable sortable"
+![[ranking|Rank]]
+![[summit (topography)|Summit]]
+![[Country]]
+![[Island]]
+![[topographic elevation|Elevation]]
+![[topographic prominence|Prominence]]
+![[topographic isolation|Isolation]]
+![[Col|Key Col]]
+![[geographic coordinate system|Location]]
+|-
+|align=center|1
+{{Mountain table cell|Mauna Kea|hp=the [[Hawaii (island)|Island of Hawai{{okina}}i]], the U.S. [[Hawaii|State of Hawai{{okina}}i]], and all islands of the [[Pacific Ocean]].   Mauna Kea is also the tallest mountain on Earth as measured from base to summit. The [[shield volcano]] sits on the ocean floor at a depth of {{convert|5998|m|0|abbr=off|comma=5|sp=us}} for a total height of {{convert|10205.3|m|0|abbr=off|comma=5|sp=us}}|ngs=TU2314|stn=SUMMIT|pb=11909|cme=32692|date=March 20, 2016}}
+|{{USA}}
+|[[Hawaii (island)|Island of Hawai{{okina}}i]]
+{{epi|4207.3|4207.3|3947.00|e=1|m=1|date=March 20, 2016}}
+{{epi/moft|#|date=March 20, 2016}}
+|{{coord|19.8207|-155.4681|name=Mauna Kea}}
+|-
+|align=center|2
+{{Mountain table cell|Haleakalā|hp=the [[Maui|Island of Maui]] and the westernmost 3000&nbsp;meter (9842.5-foot) summit of the United States|pb=11905|cme=33022|date=March 20, 2016}}
+|{{USA}}
+|[[Maui|Island of Maui]]
+{{epi|3055.017|3055.017|121.39|e=|m=1|date=March 20, 2016}}
+{{epi/moft|#|date=March 20, 2016}}
+|{{coord|20.7097|-156.2533|name=Haleakalā}}
+|-
+|align=center|3
+{{Mountain table cell|Mauna Loa|note=The [[shield volcano]] [[Mauna Loa]] is the most voluminous mountain on Earth with an estimated volume of {{convert|74,000|km3|mi3|abbr=on}}, or enough material to fill the [[Grand Canyon]] more than 18 times. Mauna Loa is the southernmost and westernmost {{convert|4000|m|0|abbr=off|adj=on|comma=5|sp=us}} summit of the United States|pb=11915|cme=33018|date=March 20, 2016}}
+|{{USA}}
+|[[Hawaii (island)|Island of Hawai{{okina}}i]]
+{{epi|4169.368|2163.780|40.63|e=|m=1|date=March 20, 2016}}
+{{epi/moft|2005.588|date=March 20, 2016}}
+|{{coord|19.4756|-155.6054|name=Mauna Loa}}
+|-
+|align=center|4
+{{Mountain table cell|Pu'u Kukui|name=Pu{{okina}}u Kukui|pb=11885|cme=33023|date=March 20, 2016}}
+|{{USA}}
+|[[Maui|Island of Maui]]
+{{epi|1764.186|1730.658|34.80|e=|m=1|date=March 20, 2016}}
+{{epi/moft|33.528|date=March 20, 2016}}
+|{{coord|20.8904|-156.5863|name=Pu'u Kukui}}
+|-
+|align=center|5
+{{Mountain table cell|Kawaikini|hp=the [[Kauai|Island of Kaua{{okina}}i]]|pb=11862|cme=33028|date=March 20, 2016}}
+|{{USA}}
+|[[Kauai|Island of Kaua{{okina}}i]]
+{{epi|1598.070|1598.070|327.34|e=|m=1|date=March 20, 2016}}
+{{epi/moft|#|date=March 20, 2016}}
+|{{coord|22.0586|-159.4973|name=Kawaikini}}
+|-
+|align=center|6
+{{Mountain table cell|Kamakou|hp=the [[Molokai|Island of Moloka{{okina}}i]]|pb=11881|cme=33024|date=March 20, 2016}}
+|{{USA}}
+|[[Molokai|Island of Moloka{{okina}}i]]
+{{epi|1512.116|1512.116|36.38|e=|m=1|date=March 20, 2016}}
+{{epi/moft|#|date=March 20, 2016}}
+|{{coord|21.1065|-156.8682|name=Kamakou}}
+|}
+
+==New Zealand==
+[[New Zealand]] has ten ultra-prominent summits.
+{| class="wikitable sortable"
+![[ranking|Rank]]
+!Peak
+!Country
+!Island
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Aoraki / Mount Cook]]
+|{{NZL}}
+|[[South Island]]
+|3,724
+|'''3,724'''
+|0
+|-
+|2
+|[[Mount Ruapehu]]
+|{{NZL}}
+|[[North Island]]
+|2,797
+|'''2,797'''
+|0
+|-
+|3
+|[[Mount Aspiring / Tititea]]
+|{{NZL}}
+|[[South Island]]
+|3,033
+|'''2,471'''
+|562
+|-
+|4
+|[[Mount Taranaki]]
+|{{NZL}}
+|[[North Island]]
+|2,518
+|'''2,308'''
+|210
+|-
+|5
+|[[Mount Tūtoko]]
+|{{NZL}}
+|[[South Island]]
+|2,723
+|'''2,191'''
+|532
+|-
+|6
+|[[Tapuae-o-Uenuku]]
+|{{NZL}}
+|[[South Island]]
+|2,884
+|'''2,021'''
+|863
+|-
+|7
+|[[The Remarkables|Single Cone]]
+|{{NZL}}
+|[[South Island]]
+|2,319
+|'''1,969'''
+|350
+|-
+|8
+|[[Manakau (mountain)|Manakau]]
+|{{NZL}}
+|[[South Island]]
+|2,608
+|'''1,798'''
+|810
+|-
+|9
+|[[Mount Taylor (New Zealand)|Mount Taylor]]
+|{{NZL}}
+|[[South Island]]
+|2,333
+|'''1,636'''
+|698
+|-
+|10
+|[[Skippers Range]] High Point
+|{{NZL}}
+|[[South Island]]
+|1,648
+|'''1,598'''
+|50
+|-
+|}
+
+==Pacific Islands==
+There are six ultra-prominent summits in the [[list of islands in the Pacific Ocean|Pacific Islands]], not including those of [[New Guinea]], [[New Zealand]], and the [[Hawaiian Islands]] which are listed separately.
+
+{| class="wikitable sortable"
+![[ranking|Rank]]
+!Peak
+!Country
+!Island
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Popomanaseu]]
+|{{SLB}}
+|[[Guadalcanal]]
+|2,335
+|'''2,335'''
+|0
+|-
+|2
+|[[Mont Orohena]]
+|{{PYF}}
+|[[Tahiti]]
+|2,241
+|'''2,241'''
+|0
+|-
+|3
+|[[Mount Tabwemasana]]
+|{{VUT}}
+|[[Espiritu Santo]]
+|1,879
+|'''1,879'''
+|0
+|-
+|4
+|[[Silisili]]
+|{{WSM}}
+|[[Savai'i]]
+|1,858
+|'''1,858'''
+|0
+|-
+|5
+|[[Mount Veve]]
+|{{SLB}}
+|[[Kolombangara]]
+|1,768
+|'''1,768'''
+|0
+|-
+|6
+|[[Mont Panié]]
+|{{Flag|New Caledonia|local}}
+|[[Grande Terre (New Caledonia)|Grande Terre]]
+|1,628
+|'''1,628'''
+|0
+|-
+|}
+
+==Australia==
+The [[Australia|Commonwealth of Australia]] has two ultra-prominent summits.
+
+{| class="wikitable sortable"
+![[ranking|Rank]]
+!Peak
+!Country
+!Landmass
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Kosciuszko]]
+|{{AUS}}
+|[[Australia (continent)|Australia]]
+|2,228
+|'''2,228'''
+|0
+|-
+|2
+|[[Mount Ossa (Tasmania)|Mount Ossa]]
+|{{AUS}}
+|[[Tasmania]]
+|1,617
+|'''1,617'''
+|0
+|-
+|}
+{{clear}}
+
+==Southern Indian Ocean==
+There are two ultra-prominent summits in the southern [[Indian Ocean]].
+
+{| class="wikitable sortable"
+![[Ranking|Rank]]
+!Peak
+!Country
+!Island
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Big Ben (Heard Island)|Big Ben]]
+|{{AUS}}
+|[[Heard Island and McDonald Islands#Geography|Heard Island]]
+|2,745
+|'''2,745'''
+|0
+|-
+|2
+|[[Mont Ross]]
+|{{Flag|ATF|name=French Southern Territories}}
+|[[Kerguelen Islands#Grande Terre|Kerguelen Island]]
+|1,850
+|'''1,850'''
+|0
+|-
+|}
+{{clear}}
+
+==Gallery==
+<gallery widths=180px heights=180px>
+Puncakjaya.jpg|[[Puncak Jaya]] in [[Papua (province)|Papua]], [[Indonesia]], is the highest point of [[New Guinea]] and all the [[Earth|Earth's]] [[ocean]] [[island]]s.
+KeckObservatory.jpg|[[Mauna Kea]] on the [[Island of Hawaiʻi]] is the tallest mountain on [[Earth]] as measured from base to summit.
+Aoraki-Mount Cook from Hooker Valley.jpg|[[Aoraki / Mount Cook]] is the highest point in [[New Zealand]] and the apex of the [[South Island]].
+Haleakala_crater_(1).jpg|The dormant [[shield volcano]] [[Haleakalā]] is the apex of the [[Hawaiian Islands|Hawaiian]] [[Island of Maui]].
+Mount Wilhelm.jpg|[[Mount Wilhelm]] is the highest point in [[Papua New Guinea]].
+Mount Ruapehu January2005.jpg|The active [[stratovolcano]] [[Mount Ruapehu]] is the apex of [[North Island]] of [[New Zealand]].
+Pegunungan Arfak from the Pond of Rendani.jpg|[[Mount Arfak]] is the highest point in [[West Papua (province)|West Papua]] and the [[Bird's Head Peninsula]].
+Ulawun.jpg|The active [[stratovolcano]] [[Ulawun]] is the apex of [[New Britain]] in [[Papua New Guinea]].
+Mount Kosciuszko01Oct06.JPG|[[Mount Kosciuszko]] is the highest point of the continent and the [[Commonwealth of Australia]].
+Mont.Orohena.JPG|[[Mont Orohena]] is the apex of [[Tahiti]] and the highest point in [[French Polynesia]].
+Aa channel flow from Mauna Loa.jpg|The active [[shield volcano]] [[Mauna Loa]] on the [[Island of Hawaiʻi]] is the most voluminous mountain on [[Earth]].
+Kerguelen MontRoss.JPG|[[Mont Ross]] is the apex of [[Kerguelen Island]]
+Mt Ossa.jpg|[[Mount Ossa (Tasmania)|Mount Ossa]] is the apex of the [[Australia]]n island of [[Tasmania]].
+</gallery>
+
+==See also==
+{{portal|Geography|Oceania|Mountains|Volcanoes}}
+*[[Outline of Oceania]]
+*[[Mountain peaks of Hawaii]]
+*[[Ultra-prominent summit]]
+{{clear}}
+
+==Notes==
+{{notelist|2}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+{{sister project links|Mountains of Oceania}}
+*[http://peaklist.org/WWlists/ultras/OceaniaP1500m.html Most of Oceania]
+*[http://peaklist.org/WWlists/ultras/PNG1500m.html Papua New Guinea]
+*[http://www.peaklist.org/WWlists/ultras/indonesia.html Indonesia]
+{{Lists of Ultras}}
+
+[[Category:Lists of mountains by prominence|Oceania]]
+[[Category:Lists of mountains of Oceania|Oceania]]
+[[Category:Mountains of Oceania|Mountains of Oceania]]

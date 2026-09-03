@@ -1,0 +1,81 @@
+{
+ "source": "Eurostat open dissemination API; World Bank Open Data API; en.wikipedia.org via MediaWiki action=parse",
+ "retrieved": "2026-09-02",
+ "manifest_written": "2026-09-03 (publication packaging, katflow #1008) — generated from the bytes on disk; every sha256 below reproduces the prefix+suffix pairs recorded in data/CONTRACT.md Addendum 2 and its amendment, which this file completes rather than replaces.",
+ "files": [
+  {
+   "file": "eurostat-demo_pjan.json",
+   "bytes": 3361,
+   "sha256": "b9c07c29092408e4cea8cce2aec08a4d11fc93cf725ed8aafd0aac95f48fe73d",
+   "role": "national populations, sex=T age=TOTAL, 9 geos x 2018/2022/2024/2025",
+   "source": "Eurostat open dissemination API, dataset demo_pjan",
+   "licence": "Eurostat reuse policy (free reuse with source attribution)",
+   "pointer": "https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table?lang=en"
+  },
+  {
+   "file": "eurostat-urb_cpop1.json",
+   "bytes": 10120263,
+   "sha256": "09651cfa25a12a18d001c6c8b7ea7cf03981f9ade30b708ecfbfa5f3ced7e438",
+   "role": "DC-2a / DC-2b — administrative city-core populations (Eurostat 'cities' dataset)",
+   "source": "Eurostat open dissemination API, dataset urb_cpop1",
+   "licence": "Eurostat reuse policy (free reuse with source attribution)",
+   "pointer": "https://ec.europa.eu/eurostat/databrowser/view/urb_cpop1/default/table?lang=en"
+  },
+  {
+   "file": "eurostat-urb_lpop1.json",
+   "bytes": 7630065,
+   "sha256": "85b1fcb755ea90c98455fc6b7f88f3eef551405290cd7146cc525995b6bfbdf3",
+   "role": "DC-2c — Functional Urban Area populations (the topographic-definition arm)",
+   "source": "Eurostat open dissemination API, dataset urb_lpop1",
+   "licence": "Eurostat reuse policy (free reuse with source attribution)",
+   "pointer": "https://ec.europa.eu/eurostat/databrowser/view/urb_lpop1/default/table?lang=en"
+  },
+  {
+   "file": "wikipedia-at.wiki",
+   "bytes": 167645,
+   "sha256": "4f5de2a211334ea7defbecf0e6b36d8de7401b226f00fac4d1a3ff7bdced91b4",
+   "role": "Austria cities, Statistik Austria 2024 (Eurostat's AT series is stale at 2014)",
+   "source": "English Wikipedia wikitext via the MediaWiki action=parse API",
+   "licence": "CC-BY-SA 4.0 (Wikipedia)"
+  },
+  {
+   "file": "wikipedia-in.wiki",
+   "bytes": 86849,
+   "sha256": "c6b3238ce02cc4fa0a5a66095a674aa41fd1a5d7784e49b7c8ede85af00ea6e2",
+   "role": "India cities, 2011 census",
+   "source": "English Wikipedia wikitext via the MediaWiki action=parse API",
+   "licence": "CC-BY-SA 4.0 (Wikipedia)"
+  },
+  {
+   "file": "wikipedia-ru.wiki",
+   "bytes": 56496,
+   "sha256": "05597182c8fe9726cec38e37bea8a98c6364cea9c0dc8a85db88b58fb82e617c",
+   "role": "Russian Federation cities, 2021 census",
+   "source": "English Wikipedia wikitext via the MediaWiki action=parse API",
+   "licence": "CC-BY-SA 4.0 (Wikipedia)"
+  },
+  {
+   "file": "wikipedia-us.wiki",
+   "bytes": 142945,
+   "sha256": "29819e35d231eef491ae07f3829517a659c43d5c8c1abcb7a75b528ee4e25729",
+   "role": "US cross-check source of record (350 data rows; Census Bureau estimates 2025-07-01)",
+   "source": "English Wikipedia wikitext via the MediaWiki action=parse API",
+   "article": "List of United States cities by population",
+   "licence": "CC-BY-SA 4.0 (Wikipedia)",
+   "pointer": "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population"
+  },
+  {
+   "file": "worldbank-SP.POP.TOTL.json",
+   "bytes": 12122,
+   "sha256": "f1f365a8dce47f0f65051a8eb0f3d9fb74d09cc023f060f9f5a25b216f285002",
+   "role": "national populations for US / RU / IN / AT at each city reference year, 2011-2025",
+   "source": "World Bank Open Data API, indicator SP.POP.TOTL",
+   "licence": "CC-BY 4.0 (World Bank Open Data)",
+   "pointer": "https://data.worldbank.org/indicator/SP.POP.TOTL"
+  }
+ ],
+ "custody_gaps": [
+  "The exact API query strings used at ingest were not recorded for the three Eurostat files or the World Bank file. The `pointer` URLs are the canonical dataset pages (verified reachable 2026-09-03), not the recorded request; a re-fetch will return current data, not these bytes. The bytes themselves are the custody record, which is why they are redistributed in this repository.",
+  "No MediaWiki revid was recorded for these four Wikipedia files (the Stage-3 mountain manifest does carry revids). Only wikipedia-us.wiki's article title was recorded, in data/CONTRACT.md Addendum 2; the RU / IN / AT titles were not. Their `role` fields quote the contract's source notes and each file's own [[Category:]] links identify the article."
+ ]
+}

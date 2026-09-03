@@ -1,0 +1,8 @@
+quantity,value,unit,note
+stabilization_rank_approx,30,rank,"konstant from about rank 30 (text: 'bis etwa zur Rangnummer 30')"
+population_at_rank30_thousands,520,thousands,"Einwohnerzahl 520000"
+places_ge_50000,334,places,"334 Orte mit wenigstens 50000 Einwohnern"
+ak_europe,169,hundred-thousands,"Mittelwert A.K. for the 334 places"
+population_europe_millions,432,millions,"Einwohnerzahl 432 Mill."
+divisor,4.32,hundred-millions,
+spk_europe,39,,"169 / 4.32 = 39.1, printed 39"

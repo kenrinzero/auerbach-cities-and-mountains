@@ -1,0 +1,748 @@
+{{Short description|none}}
+This is a list of all the [[ultra prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[Africa]]. Also shown is Mount Catherine in Sinai, Egypt which is not geographically part of Africa. Not listed here are the 5 Ultras of the Canary Islands and Madeira which near the African Coast but listed under [[List of European ultra prominent peaks#Atlantic islands|Europe]].
+
+==[[Atlas Mountains]]==
+[[Image:Birds and toubkal.jpg|thumb|right|200px|[[Jbel Toubkal]], [[Morocco]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Toubkal]]
+|{{MAR}}
+|4,167
+|'''3,755'''
+|412
+|-
+|2
+|[[M'Goun]]
+|{{MAR}}
+|4,071
+|'''1,904'''
+|2167
+|-
+|3
+|[[Tidirhine]] ([[Rif]])
+|{{MAR}}
+|2,456
+|'''1,901'''
+|555
+|-
+|4
+|[[Lalla Khedidja]]
+|{{ALG}}
+|2,308
+|'''1,720'''
+|588
+|-
+|5
+|[[Jbel Bou Naceur]]
+|{{MAR}}
+|3,340
+|'''1,642'''
+|1698
+|-
+|6
+|[[Djebel Chélia]]
+|{{ALG}}
+|2,328
+|'''1,612'''
+|716
+|-
+|7
+|[[Jbel Igdet]]
+|{{MAR}}
+|3,615
+|'''1,609'''
+|2006
+|-
+|}
+
+==Mountain ranges of the [[Sahara]]==
+[[Image:Le Mont Tahat.jpeg|thumb|right|200px|[[Mount Tahat]], [[Algeria]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Emi Koussi]]
+|{{CHA}}
+|3,445
+|'''2,934'''
+|511
+|-
+|2
+|[[Deriba Caldera]]
+|{{SUD}}
+|3,042
+|'''2,512'''
+|530
+|-
+|3
+|[[Mount Tahat]]
+|{{ALG}}
+|2,908
+|'''2,328'''
+|580
+|-
+|4
+|[[Toussidé]]
+|{{CHA}}
+|3,315
+|'''1,593'''
+|1722
+|-
+|}
+
+==[[Egypt]]==
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|(-){{efn|Located in the [[Sinai Peninsula]], which is geographically a part of [[Asia]]}}
+|[[Mount Catherine]]
+|{{EGY}}
+|2,629
+|'''2,404'''
+|225
+|-
+|1
+|[[Shaiyb al-Banat]]
+|{{EGY}}
+|2,187
+|'''1,787'''
+|440
+|-
+|}
+
+==[[Cape Verde]] islands==
+[[Image:Mount fogo.jpg|thumb|right|200px|[[Mount Fogo]], [[Cape Verde]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Fogo]]
+|{{CPV}} ([[Fogo, Cape Verde|Fogo]])
+|2,829
+|'''2,829'''
+|0
+|-
+|2
+|[[Tope de Coroa]]
+|{{CPV}} ([[Santo Antão, Cape Verde|Santo Antão]])
+|1,979
+|'''1,979'''
+|0
+|-
+|}
+
+==[[West Africa]]==
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Bintumani]]
+|{{SLE}}
+|1,945
+|'''1,665'''
+|280
+|-
+|}
+
+==[[Cameroon Line]]==
+[[Image:Mount Cameroon craters.jpg|thumb|right|200px|[[Mount Cameroon]], [[Cameroon]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Cameroon]]
+|{{CMR}}
+|4,070
+|'''3,931'''
+|139
+|-
+|2
+|[[Pico Basilé]]
+|{{EQG}} ([[Bioko]])
+|3,011
+|'''3,011'''
+|0
+|-
+|3
+|[[Mount Oku]]
+|{{CMR}}
+|3,011
+|'''2,491'''
+|520
+|-
+|4
+|[[Pico de São Tomé]]
+|{{STP}} ([[São Tomé Island|São Tomé]])
+|2,024
+|'''2,024'''
+|0
+|-
+|5
+|[[Gran Caldera de Luba]]
+|{{EQG}} ([[Bioko]])
+|2,261
+|'''1,539'''
+|722
+|-
+|}
+
+==[[Ethiopian Highlands]]==
+[[Image:Dejen misura da cima W.jpg|thumb|right|200px|[[Ras Dashen]], [[Ethiopia]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Ras Dashen]]
+|{{ETH}}
+|4,533
+|'''3,980'''
+|553
+|-
+|2
+|[[Mount Tullu Dimtu|Tullu Dimtu]]
+|{{ETH}}
+|4,400
+|'''2,527'''
+|1873
+|-
+|3
+|[[Mount Choqa|Ch'ok'e]]
+|{{ETH}}
+|4,100
+|'''2,225'''
+|1875
+|-
+|4
+|[[Argun (mountain)|Argun]]
+|{{ETH}}
+|3,418
+|'''2,208'''
+|1210
+|-
+|5
+|[[Amba Ferit|Amba Farit]]
+|{{ETH}}
+|4,270
+|'''2,061'''
+|2209
+|-
+|6
+|[[Guge (mountain)|Guge]]
+|{{ETH}}
+|3,568
+|'''2,013'''
+|1555
+|-
+|7
+|[[Ramlo]]
+|{{ERI}}
+|2,248
+|'''1,920'''
+|328
+|-
+|8
+|[[Mount Abuna Yosef]]
+|{{ETH}}
+|4,260
+|'''1,909'''
+|2351
+|-
+|9
+|[[Mount Maigudo|Mai Gudo]]
+|{{ETH}}
+|3,359
+|'''1,859'''
+|1770
+|-
+|10
+|[[Tulu Welel]]
+|{{ETH}}
+|3,301
+|'''1,742'''
+|1559
+|-
+|11
+|[[Mount Smith (Ethiopia)|Mount Smith]]
+|{{ETH}}
+|2,560
+|'''1,690'''
+|870
+|-
+|12
+|[[Aggio (mountain)|Aggio]]
+|{{ETH}}
+|3,358
+|'''1,630'''
+|1728
+|-
+|13
+|[[Argun North]]
+|{{ETH}}
+|3,405
+|'''1,610'''
+|1795
+|-
+|14
+|[[Mousa Ali|Moussa Ali]]
+|{{DJI}}&nbsp;/&nbsp;{{ERI}}&nbsp;/&nbsp;{{ETH}}
+|2,021
+|'''1,607'''
+|414
+|-
+|15
+|[[Bada (mountain)|Bada]]
+|{{ETH}}
+|4,195
+|'''1,605'''
+|2590
+|-
+|16
+|[[Mount Belaya|Belaya]]
+|{{ETH}}
+|2,731
+|'''1,601'''
+|1130
+|-
+|17
+|[[Mount Karkoor|Karkoor]]
+|{{SOM}}
+|2,120
+|'''1,598'''
+|522
+|-
+|18
+|Dubbi
+|{{ETH}}
+|3,950
+|'''1,550'''
+|2400
+|-
+|19
+|[[Mount Guna|Guna Terara]]
+|{{ETH}}
+|4,120
+|'''1,510'''
+|2610
+|-
+|20
+|[[Mount Delo|Delo]]
+|{{ETH}}
+|3,240
+|'''1,510'''
+|1730
+|-
+|21
+|[[Mount Gara Muleta|Gara Muleta]]
+|{{ETH}}
+|3,405
+|'''1,502'''
+|1903
+|-
+|}
+
+==Surrounding the [[Western Rift Valley]]==
+[[Image:Mount Stanley.jpg|thumb|right|200px|[[Mount Stanley]], [[Uganda]]/[[Democratic Republic of the Congo|Congo]]]]
+[[File:Karisimbi2.jpg|thumb|right|200px|[[Mount Karisimbi]], [[Rwanda]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Stanley]]
+|{{COD}}&nbsp;/&nbsp;{{UGA}}
+|5,109
+|'''3,951'''
+|1158
+|-
+|2
+|[[Mount Karisimbi]]
+|{{RWA}}&nbsp;/&nbsp;{{COD}}
+|4,507
+|'''3,312'''
+|1195
+|-
+|3
+|[[Kinyeti]]
+|{{SSD}}
+|3,187
+|'''2,120'''
+|1067
+|-
+|4
+|[[Emogadong]]
+|{{SSD}}
+|2,623
+|'''1,730'''
+|893
+|-
+|5
+|[[Kabobo]]
+|{{COD}}
+|2,725
+|'''1,604'''
+|1121
+|-
+|6
+|[[Mont Mohi]]
+|{{COD}}
+|3,480
+|'''1,592'''
+|1888
+|-
+|7
+|[[Wuhevi]]
+|{{COD}}
+|3,095
+|'''1,570'''
+|1525
+|-
+|8
+|[[Mount Muhabura]]
+|{{RWA}}&nbsp;/&nbsp;{{UGA}}
+|4,127
+|'''1,530'''
+|2597
+|-
+|}
+
+==Surrounding the [[East African Rift]]==
+[[File:Mount Kilimanjaro Dec 2009 edit1.jpg|thumb|right|200px|[[Mount Kilimanjaro]], [[Tanzania]]]]
+[[Image:Pt Thomson Batian Nelion Mt Kenya.JPG|thumb|right|200px|[[Mount Kenya]], [[Kenya]]]]
+[[File:Meru.jpg|thumb|right|200px|[[Mount Meru (Tanzania)|Mount Meru]], [[Tanzania]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Kilimanjaro]]
+|{{TAN}}
+|5,895
+|'''5,885'''
+|10
+|-
+|2
+|[[Mount Kenya]]
+|{{KEN}}
+|5,199
+|'''3,825'''
+|1374
+|-
+|3
+|[[Mount Meru (Tanzania)|Mount Meru]]
+|{{TAN}}
+|4,565
+|'''3,170'''
+|1395
+|-
+|4
+|[[Mount Elgon]]
+|{{KEN}}/{{UGA}}
+|4,321
+|'''2,458'''
+|1863
+|-
+|5
+|[[Mulanje Massif]]
+|{{MWI}}
+|3,002
+|'''2,319'''
+|683
+|-
+|6
+|[[Kimhandu Hill]]
+|{{TAN}}
+|2,653
+|'''2,121'''
+|532
+|-
+|7
+|[[Mount Satima]]
+|{{KEN}}
+|4,001
+|'''2,081'''
+|1920
+|-
+|8
+|[[Mount Hanang]]
+|{{TAN}}
+|3,420
+|'''2,050'''
+|1370
+|-
+|9
+|[[Mount Loolmalasin|Loolmalassin]]
+|{{TAN}}
+|3,682
+|'''2,040'''
+|1642
+|-
+|10
+|[[Gelai Volcano|Gelai Peak]]
+|{{TAN}}
+|2,948
+|'''1,930'''
+|1018
+|-
+|11
+|[[Mount Moroto]]
+|{{UGA}}
+|3,083
+|'''1,818'''
+|1265
+|-
+|12
+|[[Kitumbeine Volcano]]
+|{{TAN}}
+|2,858
+|'''1,770'''
+|1088
+|-
+|13
+|[[Chepunyal Hills]]
+|{{KEN}}
+|3,334
+|'''1,759'''
+|1575
+|-
+|14
+|[[Mount Namuli]]
+|{{MOZ}}
+|2,419
+|'''1,757'''
+|662
+|-
+|15
+|[[Shengena]]
+|{{TAN}}
+|2,464
+|'''1,750'''
+|714
+|-
+|16
+|[[Sungwi]]
+|{{TAN}}
+|2,300
+|'''1,730'''
+|570
+|-
+|17
+|[[Mount Kadam]]
+|{{UGA}}
+|3,063
+|'''1,690'''
+|1373
+|-
+|18
+|[[Mtorwi]]
+|{{TAN}}
+|2,980
+|'''1,688'''
+|1292
+|-
+|19
+|[[Cherang'any Hills]]
+|{{KEN}}
+|3,530
+|'''1,572'''
+|2009
+|-
+|20
+|[[Mount Kulal]]
+|{{KEN}}
+|2,285
+|'''1,542'''
+|743
+|-
+|21
+|[[Karenga (mountain)|Karenga]]
+|{{TAN}}
+|2,279
+|'''1,529'''
+|750
+|-
+|22
+|[[Mount Ng'iro]]
+|{{KEN}}
+|2,848
+|'''1,501'''
+|1347
+|-
+
+|}
+
+==[[Southern African Plateau]]==
+[[Image:Brandberg Mountain Panorama.jpg|thumb|right|200px|[[Brandberg Mountain]], [[Namibia]]]]
+[[File:Du Toitskloof Mountains.jpg|thumb|right|200px|[[Du Toits Peak]], [[South Africa]]]]
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Thabana Ntlenyana]]
+|{{LES}}
+|3,482
+|'''2,390'''
+|1092
+|-
+|2
+|[[Brandberg Mountain]]
+|{{NAM}}
+|2,606
+|'''1,802'''
+|804
+|-
+|3
+|[[Du Toits Peak]]
+|{{RSA}}
+|1,995
+|'''1,730'''
+|265
+|-
+|4
+|[[Mount Tama]]
+|{{ANG}}
+|2,489
+|'''1,610'''
+|879
+|-
+|5
+|[[Seweweekspoortpiek]]
+|{{RSA}}
+|2,325
+|'''1,543'''
+|782
+|-
+|6
+|[[Mount Nyangani]]
+|{{ZWE}}
+|2,592
+|'''1,515'''
+|1077
+|-
+|7
+|[[Mount Moco]]
+|{{ANG}}
+|2,620
+|'''1,510'''
+|1110
+|-
+|}
+
+==[[Madagascar]] and surrounding islands==
+[[Image:Piton des neiges.jpg|thumb|right|200px|[[Piton des Neiges]], [[Réunion]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Piton des Neiges]]
+|{{FRA}} ([[Réunion]])
+|3,069
+|'''3,069'''
+|0
+|-
+|2
+|[[Maromokotro]]
+|{{MAD}}
+|2,876
+|'''2,876'''
+|0
+|-
+|3
+|[[Mount Karthala]]
+|{{COM}} ([[Grande Comore]])
+|2,361
+|'''2,361'''
+|0
+|-
+|4
+|[[Andringitra Massif|Pic Boby]]
+|{{MAD}}
+|2,658
+|'''1,875'''
+|783
+|-
+|5
+|[[Ankaratra|Tsiafajavona]]
+|{{MAD}}
+|2,643
+|'''1,663'''
+|980
+|-
+|6
+|[[Mount Ntringui]]
+|{{COM}} ([[Anjouan]])
+|1,595
+|'''1,595'''
+|0
+|-
+|}
+
+==Notes==
+{{notelist}}
+
+==Sources==
+*[http://www.peaklist.org/WWlists/ultras/africa.html List]
+*[http://www.peaklist.org/WWmaps/ultra/africasummits.jpg Map]
+{{Lists of Ultras}}
+
+{{DEFAULTSORT:List Of Ultras Of Africa}}
+[[Category:Lists of mountains by prominence|African Ultras]]
+[[Category:Lists of mountains of Africa| Ultras]]
+[[Category:Mountains of Africa| ]]

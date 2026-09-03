@@ -1,0 +1,25 @@
+figure,quantity,value,note
+Abb. 1,mittelwert_numerator,4503,"Tafel 14 annotation: Mittelwert 4503/94 = 47,8"
+Abb. 1,mittelwert_denominator,94,
+Abb. 1,mittelwert_printed,47.8,"4503/94 = 47.90 arithmetically; Tafel prints 47,8. Audit 2026-09-02 (8x vision): numerator confirmed 4503; the quotient 47,8 is consistent with the printed-column sum 4500/94 = 47.872 under Auerbach's stated truncation, so the numerator is the inconsistent member of the annotation - see stage1-recompute.txt and AUDIT-2026-09-02.md F2"
+Abb. 1,spk_formula,,"Spezifische Konzentration: 100 x 47,8 / 64,5 = 74"
+Abb. 1,spk_printed,74,
+Abb. 3,ak_1910,49.5,administrative counts
+Abb. 3,spk_1910,77,
+Abb. 3,ak_1905,42.2,
+Abb. 3,spk_1905,70,
+Abb. 3,ak_1900,34.2,
+Abb. 3,spk_1900,61,
+Abb. 3,ak_1895,28.7,
+Abb. 3,spk_1895,55,
+text,ak_20000_cutoff,47.2,"236 Orte mit mindestens 20000 Einwohnern (AU-C3, stated not tabulated)"
+text,ak_10000_cutoff,48.1,"481 Orte mit mindestens 10000 Einwohnern (AU-C3, stated not tabulated)"
+text,places_ge_20000,236,
+text,places_ge_10000,481,
+text,density_1895,52.3,
+text,density_1910,64.5,
+text,density_delta_pct,23,
+text,ak_delta_pct,72,"28.7 -> 49.5"
+text,spk_delta_pct,40,"55 -> 77"
+text,germany_population_millions,64.5,
+text,spk_germany,74,"47.8 / 0.645 = 74.11, printed 'abgerundet' 74"

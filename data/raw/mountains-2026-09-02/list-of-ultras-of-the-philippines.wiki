@@ -1,0 +1,257 @@
+{{Short description|none}}
+This is a list of all the [[ultra-prominent peak]]s (with [[topographic prominence]] greater than 1,500 meters) in the [[Philippines]].
+[[Image:Ph mtpulag.jpg|thumb|right|300px|[[Mount Pulag]]]]
+{| class="wikitable sortable"
+!No.
+!Peak
+!Island
+!Province(s)
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Apo]]
+|[[Mindanao]]
+|[[Cotabato]], [[Davao del Sur]]
+|2,956
+|'''2,956'''
+|0
+|-
+|2
+|[[Mount Pulag]]
+|[[Luzon]]
+|[[Benguet]], [[Ifugao]], [[Nueva Vizcaya]]
+|2,928
+|'''2,928''' 
+|0
+|-
+|3
+|[[Mount Halcon]]
+|[[Mindoro]]
+|[[Oriental Mindoro]]
+|2,616
+|'''2,616'''
+|0
+|-
+|4
+|[[Mount Tagubud]]
+|[[Mindanao]]
+|[[Davao de Oro]]
+|2,670
+|'''2,580'''
+|90
+|-
+|5
+|[[Mayon]]
+|[[Luzon]]
+|[[Albay]]
+|2,462
+|'''2,447'''
+|15
+|-
+|6
+|[[Mount Dulang-dulang]]
+|[[Mindanao]]
+|[[Bukidnon]]
+|2,938
+|'''2,444'''
+|498
+|-
+|7
+|[[Kanlaon]]
+|[[Negros Island|Negros]]
+|[[Negros Occidental]], [[Negros Oriental]]
+|2,465
+|'''2,430'''
+|0
+|-
+|8
+|[[Mount Malindang]]
+|[[Mindanao]]
+|[[Misamis Occidental]]
+|2,404
+|'''2,290'''
+|114
+|-
+|9
+|[[Mount Madja-as]]
+|[[Panay]]
+|[[Antique (province)|Antique]]
+|2,117
+|'''2,117'''
+|0
+|-
+|10
+|[[Mount Mantalingajan]]
+|[[Palawan (island)|Palawan]]
+|[[Palawan]]
+|2,085
+|'''2,085'''
+|0
+|-
+|11
+|[[Mount Guiting-Guiting]]
+|[[Sibuyan]]
+|[[Romblon]]
+|2,050
+|'''2,050'''
+|0
+|-
+|12
+|[[Mount Tapulao]]
+|[[Luzon]]
+|[[Zambales]]
+|2,037
+|'''2,015'''
+|22
+|-
+|13
+|[[Mount Isarog]]
+|[[Luzon]]
+|[[Camarines Sur]]
+|2,000
+|'''1,951'''
+|49
+|-
+|14
+|[[Mount Matutum]]
+|[[Mindanao]]
+|[[South Cotabato]]
+|2,286
+|'''1,950'''
+|336
+|-
+|15
+|[[Mount Banahaw]]
+|[[Luzon]]
+|[[Laguna (province)|Laguna]], [[Quezon]]
+|2,170
+|'''1,919'''
+|251
+|-
+|16
+|[[Mount Hilong-Hilong]]
+|[[Mindanao]]
+|[[Agusan del Norte]]
+|2,012
+|'''1,838'''
+|82
+|-
+|17
+|[[Mount Mangabon]]
+|[[Mindanao]]
+|[[Misamis Oriental]]
+|2,510
+|'''1,803'''
+|677
+|-
+|18
+|[[Mount Busa]]
+|[[Mindanao]]
+|[[South Cotabato]], [[Sarangani]]
+|2,030
+|'''1,661'''
+|369
+|-
+|19
+|[[Kioto Mountains]]
+|[[Mindanao]]
+|[[Davao Oriental]]
+|1,816
+|'''1,639'''
+|177
+|-
+|20
+|[[Mount Mambajao]]
+|[[Camiguin]]
+|[[Camiguin]]
+|1,630
+|'''1,630'''
+|0
+|-
+|21
+|[[Mount Victoria, Palawan|Mount Victoria]]
+|[[Palawan (island)|Palawan]]
+|[[Palawan]]
+|1,709
+|'''1,619'''
+|90
+|-
+|22
+|[[Mingan Mountains]]
+|[[Luzon]]
+|[[Aurora (province)|Aurora]]
+|1,901
+|'''1,601'''
+|300
+|-
+|23
+|[[Mount Ragang]]/[[Mount Piapayungan]]
+|[[Mindanao]]
+|[[Lanao del Sur]], [[Cotabato]]
+|2,815
+|'''1,590'''
+|1225
+|-
+|24
+|Cleopatra's Needle
+|[[Palawan (island)|Palawan]]
+|[[Palawan]]
+|1,608
+|'''1,582'''
+|26
+|-
+|25
+|[[Mount Sicapoo]]
+|[[Luzon]]
+|[[Apayao]], [[Ilocos Norte]]
+|2,361
+|'''1,581'''
+|780
+|-
+|26
+|[[Mount Baco]]
+|[[Mindoro]]
+|[[Occidental Mindoro]]
+|2,364
+|'''1,574'''
+|790
+|-
+|27
+|[[Mount Bulusan]]
+|[[Luzon]]
+|[[Sorsogon]]
+|1,565
+|'''1,547'''
+|18
+|-
+|28
+|[[Mount Labo]]
+|[[Luzon]]
+|[[Camarines Norte]], [[Camarines Sur]], [[Quezon]]
+|1,544
+|'''1,524'''
+|20
+|-
+|29
+|[[Mount Kalatungan]]
+|[[Mindanao]]
+|[[Bukidnon]]
+|2,824
+|'''1,502'''
+|
+|}
+
+==See also==
+* [[List of mountains in the Philippines]]
+
+==Sources==
+* [http://peaklist.org/WWlists/ultras/philippines.html List]
+* [http://peaklist.org/WWmaps/asia/map/ASIA_SE.gif Map]
+<br>
+{{Lists of Ultras}}
+{{Geography of the Philippines|state=expanded}}
+[[Category:Mountains of the Philippines|*Ultra]]
+[[Category:Lists of mountains by prominence|Philippines]]
+[[Category:Lists of landforms of the Philippines|Ultras]]

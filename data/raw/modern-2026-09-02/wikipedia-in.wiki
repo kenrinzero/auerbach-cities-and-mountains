@@ -1,0 +1,1315 @@
+{{Short description|none}}
+{{About|cities (towns with Class-I status or population with 100,000 and above)|urban agglomerations|List of million-plus urban agglomerations in India|size of local political bodies by area|List of cities in India by area}}
+{{Use dmy dates|date=September 2019}}{{GeoGroup}}
+
+{{location map+|India3|float=right|width=425|caption=Map of Indian cities. Hover over the dot to see the city name with rank in parentheses.|places=
+{{location map~|India|position=none|mark=City locator 13.svg|label=Adoni (271)|lat=15.63|long=77.27}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Agartala (113)|lat=23.833|long=91.267}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Agra (23)|lat=27.18|long=78.02}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Amedabad (5)|lat=23.03|long=72.58}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ahmednagar (124)|lat=19.08|long=74.73}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Aizawl (151)|lat=23.43|long=92.43}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ajmer (81)|lat=26.45|long=74.64}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Akola (105)|lat=20.7|long=77.00}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Aligarh (55)|lat=27.88|long=78.08}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Prayagraj (36)|lat=25.45|long=81.85}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Alwar (139)|lat=27.34|long=76.38}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Amaravathi (335)|lat= 16.541|long=80.515}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ambattur (97)|lat=13.0983|long=80.1622}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ambernath (175)|lat=19.209|long=73.186}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Amravati (66)|lat=20.92583|long=77.76472}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Amritsar (34)|lat=31.64|long=74.86}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Anantapur (172)|lat=14.68|long=77.6}}
+{{location map~|India|position=none|mark=city locator 13.svg|label=Anantnag (326)|lat=33.73|long=75.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Arrah (171)|lat=25.55750|long=84.67}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Asansol (78)|lat=23.68|long=86.99}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Aurangabad, Bihar (342)|lat=24.75|long=84.37}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Aurangabad, Maharastra (32)|lat=19.88|long=75.32}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Avadi (127)|lat=13.12|long=80.1}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bahadurgarh (265)|lat=28.68|long=76.92}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bahraich (245)|lat=27.57|long=81.59}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bally, Howrah (152)|lat=22.65|long=88.34}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bangalore (3)|lat=12.967|long=77.567}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Baranagar (181)|lat=22.64|long=88.37}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Barasat (162)|lat=22.72|long=88.48}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bardhaman (140)|lat=23.233|long=87.867}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bareilly (51)|lat=28.167|long=78.383}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bathinda (156)|lat=30.20|long=74.95}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Begusarai (178)|lat=25.42|long=86.13}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Belgaum (92)|lat=15.850|long=74.500}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bellary (108)|lat=15.100|long=76.917}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Berhampur (122)|lat=19.32|long=84.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bettiah (303)|lat=26.80|long=84.51}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhagalpur (112)|lat=25.250|long=87.000}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bharatpur, India (177)|lat=27.22|long=77.48}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhatpara (115)|lat=22.87|long=88.41}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhavnagar (75)|lat=21.76|long=72.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhilai (70)|lat=21.21|long=81.38}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhilwara (121)|lat=25.35|long=74.63}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhimavaram (293)|lat=16.544|long=81.524}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhind (234)|lat=26.56|long=78.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhiwandi (62)|lat=19.296664|long=73.063121}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhiwani (233)|lat=28.78|long=76.13}} 
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhopal (16)|lat=23.250|long=77.417}} 
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhubaneswar (58)|lat=20.27|long=85.84}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bhusawal (243)|lat=21.05|long=75.77}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bihar Sharif (148)|lat=25.197|long=85.518}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bijapur, Karnataka (133)|lat=16.83|long=75.7}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bikaner (67)|lat=28.01667|long=73.31194}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bilaspur, Chhattisgarh (130)|lat=22.09|long=82.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bokaro Steel City (107)|lat=23.67|long=86.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Bongaigaon (298)|lat=26.49|long=90.53}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Buxar]] (336)|lat=25.56|long=83.98}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Chandigarh (47)|lat=30.75|long=76.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Chandrapur (136)|lat=19.950|long=79.297}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Chennai (6)|lat=13.08389|long=80.27000}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Chhapra (225)|lat=25.7848|long=84.7274}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Chittoor]] (242)|lat=13.2172|long=79.1003}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Coimbatore (41)|lat=11.01833|long=76.97250}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Cuttack (72)|lat=20.52306|long=85.78806}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Danapur (253)|lat=25.623962|long=85.041432}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Darbhanga (149)|lat=26.17|long=85.9}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Davanagere (102)|lat=14.4666|long=75.9242}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Dehradun (76)|lat=30.318|long=78.029}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Dehri]] (300)|lat=24.91|long=84.18}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Delhi]] (2)|lat=28.61|long=77.23}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Deoghar]] (224)|lat=24.28|long=86.41}} 
+{{location map~|India|position=none|mark=City locator 13.svg|label=Dewas (153)|lat=22.96|long=76.06}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Dhanbad (33)|lat=23.8|long=86.45}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Dhule (118)|lat=20.89972|long=74.76972}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Dibrugarh (282)|lat=27.48|long=95}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Dimapur (311)|lat=25.92|long=93.73}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Durg (167)|lat=21.19|long=81.28}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Durgapur, West Bengal (77)|lat=23.48|long=87.32}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Eluru (223)|lat=16.71|long=81.12}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Erode (279)|lat=11.21|long=77.44}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Etawah (174)|lat=26.77|long=79.03}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Faridabad (25)|lat=28.4211|long=77.3078}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Farrukhabad (164)|lat=27.37|long=79.63}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Firozabad (73)|lat=27.150|long=78.400}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gandhidham (180)|lat=23.08|long=70.13}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gaya, India (96)|lat=24.75|long=85.01}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ghaziabad, Uttar Pradesh (21)|lat=28.67|long=77.42}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Giridih (322)|lat=24.18|long=86.3}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gorakhpur (64)|lat=26.7588|long=83.3697}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gudivada (314)|lat=16.434|long=80.993}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gulbarga (82)|lat=17.3333|long=76.8333}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Guntur (65)|lat=16.20|long=80.27}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gurgaon (54)|lat=28.456|long=77.029}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Guwahati (48)|lat=26.183|long=91.733}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Gwalior (39)|lat=26.22|long=78.18}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hajipur (287)|lat=25.69|long=85.20}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hapur (170)|lat=28.72|long=77.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Haridwar (193)|lat=29.956|long=78.17}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hazaribagh (292)|lat=23.98|long=85.35}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hindupur (284)|lat=13.8223|long=77.5009}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hisar, Haryana (146)|lat=29.09|long=75.43}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hosur (319)|lat=12.7409|long=77.8253}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Howrah (37)|lat=22.5736296|long=88.3251045}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hubballi-Dharwad (50)|lat=15.36167|long=75.08500}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Hyderabad (4)|lat=17.37|long=78.48}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ichalkaranji (154)|lat=16.7|long=74.47}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Imphal (168)|lat=24.82|long=93.95}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Indore (14)|lat=22.71667|long=75.84722}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jabalpur (40)|lat=23.167|long=79.933}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jaipur (10)|lat=26.9|long=75.8}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jalandhar (56)|lat=31.326|long=75.576}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jalgaon (98)|lat=20.997984|long=75.566711}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jalna (city) (157)|lat=19.83|long=75.88}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jamalpur (331)|lat=25.31|long=86.49}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jammu (89)|lat=32.73|long=74.87}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jamnagar (93)|lat=22.47|long=70.07}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jamshedpur (69)|lat=22.783|long=86.200}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jehanabad (338)|lat=25.22|long=84.99}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jhansi (87)|lat=25.44862|long=78.56962}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jodhpur (43)|lat=26.28|long=73.02}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Jorhat (283)|lat=26.75|long=94.22}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Junagadh (137)|lat=21.520|long=70.463}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kadapa (128)|lat=14.47|long=78.82}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kakinada (142)|lat=16.93|long=82.22}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kalyan-Dombivali (28)|lat=19.233|long=73.133}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kamarhati (131)|lat=22.67|long=88.37}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kanpur (11)|lat=26.449923|long=80.331874}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Karimnagar (173)|lat=18.43694|long=79.12417}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Karnal (155)|lat=29.68|long=76.98}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Katihar (274)|lat=25.53|long=87.58}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Khammam (249)|lat=17.24|long=80.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kirari Suleman Nagar (158)|lat=28.69565|long=77.06533}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kishanganj (329)|lat=26.09|long=87.93}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kochi (74)|lat=9.967|long=76.217}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kolhapur (80)|lat=16.69167|long=74.23333}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kolkata (7)|lat=22.5726723|long=88.3638815}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kollam (126)|lat=8.88|long=76.60}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Korba, Chhattisgarh (120)|lat=22.35|long=82.68}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kota, Rajasthan (46)|lat=25.18|long=75.83}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kozhikode (103)|lat=11.25|long=75.77}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kulti (141)|lat=23.73|long=86.85}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Kurnool (104)|lat=15.8333|long=78.05}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Latur (116)|lat=18.40|long=76.56}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Loni, India (83)|lat=28.75|long=77.28}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Lucknow (12)|lat=26.8|long=80.9}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ludhiana (22)|lat=30.91|long=75.85}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Machilipatnam|lat=16.187|long=81.137}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Madurai (44)|lat=9.93|long=78.12}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Madanapalle (301)|lat=13.5560|long=78.5010}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Maheshtala (100)|lat=22.5086210|long=88.2532182}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Malegaon (95)|lat=18.42|long=77.53}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mangalore (91)|lat=12.87|long=74.88}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mathura (125)|lat=27.28|long=77.41}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mau (161)|lat=25.94167|long=83.56111}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Meerut (26)|lat=28.99|long=77.70}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mira-Bhayandar (60)|lat=19.29|long=72.85}}
+{{location map~|India|position=none|mark=city locator 13.svg|label=Miryalaguda (325)|lat=16.86|long=79.58}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mirzapur (188)|lat=25.15|long=82.58}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Moradabad (53)|lat=28.83|long=78.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Motihari (310)|lat=26.64|long=84.90}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mumbai (1)|lat=18.97500|long=72.82583}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Munger (213)|lat=25.381|long=86.465}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Muzaffarnagar (114)|lat=29.472332|long=77.708874}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Muzaffarpur (123)|lat=26.0|long=85.45}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Mysore (52)|lat=12.26|long=76.6}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Nagaon]] (285)|lat=26.3503828|long=92.6795912}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Nagpur (13)|lat=21.15|long=79.09}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Nanded (79)|lat=19.15|long=77.30}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Nandyal (229)|lat=15.47|long=78.48}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Nashik (24)|lat=20.00|long=73.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Navi Mumbai (35)|lat=19.02|long=73.02}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Nellore (90)|lat=14.43|long=79.97}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=New Delhi (179)|lat=28.61389|long=77.20889}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Nizamabad, Telangana (143)|lat=18.672|long=78.094}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Noida (68)|lat=28.57|long=77.32}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=North Dum Dum (176)|lat=22.6520800|long=88.4190700}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ongole (222)|lat=15.5057|long=80.0499}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ozhukarai (151)|lat=11.9569800|long=79.773700}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Pali, Rajasthan (190)|lat=25.77|long=73.33}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Panihati (117)|lat=22.69|long=88.37}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Panipat (150)|lat=29.39|long=76.97}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Parbhani (144)|lat=19.27|long=76.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Patiala (109)|lat=30.32|long=76.40}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Patna (19)|lat=25.6|long=85.1}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Pimpri-Chinchwad (18)|lat=18.6186222|long=73.8037306}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Pondicherry (city) (183)|lat=11.930965|long=79.785182}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Proddutur (275)|lat=14.7526|long=78.5541}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Pune (9)|lat=18.52028|long=73.85667}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Purnia (159)|lat=25.78|long=87.47}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Raichur (189)|lat=16.2|long=77.37}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Raipur (45)|lat=21.25|long=81.63}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rajahmundry (129)|lat=16.98|long=81.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rajarhat (111)|lat=22.37|long=88.31}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Rajkot]] (27)|lat=22.3|long=70.78}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rajpur Sonarpur (106)|lat=22.4382026|long=88.4320450}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ramagundam (191)|lat=18.8000|long=79.4500}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rampur, Uttar Pradesh (134)|lat=28.8|long=79.0}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ranchi (38)|lat=23.36|long=85.33}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ratlam (169)|lat=23.31667|long=75.06667}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rewa, India (186)|lat=24.53|long=81.3}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rohtak (119)|lat=28.8909|long=76.5796}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Rourkela (166)|lat=22.24917|long=84.88278}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Sagar, Madhya Pradesh (165)|lat=23.83|long=78.71}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Saharanpur (63)|lat=29.964|long=77.546}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Saharsa (280)|lat=25.88|long=86.60}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Salem, Tamil Nadu (59)|lat=11.65|long=78.16}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Sangli-Miraj & Kupwad (88)|lat=16.860446|long=74.565518}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Sasaram (288)|lat=24.95|long=84.03}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Satara (313)|lat=17.688|long=74.006}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Satna (160)|lat=24.16|long=80.83}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Shahjahanpur (132)|lat=27.88|long=79.91}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Shimoga (135)|lat=13.56|long=75.34}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Shivamogga (139)|lat=13.933|long=75.567}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Sikar (184)|lat=27.62|long=75.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Silchar]] (192)|lat=24.82|long=92.8}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Siliguri (85)|lat=26.71|long=88.43}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Siwan (302)|lat=26.22|long=84.36}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Solapur (49)|lat=17.6800|long=75.9200}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Sonipat (163)|lat=28.98|long=77.02}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=South Dum Dum (110)|lat=22.61|long=88.40}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Sri Ganganagar (197)|lat=29.92|long=73.88}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Srinagar (31)|lat=34.09000|long=74.79000}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Surat (8)|lat=21.18|long=72.83}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tadepalligudem|lat=16.808|long=81.531}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tenali (195)|lat=16.239|long=80.645}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=[[Tezpur]] (337)|lat=26.63|long=92.8}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Thane (15)|lat=19.172431|long=72.957019}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Thiruvananthapuram (61)|lat=8.48750|long=76.95250}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Thoothukudi (185)|lat=8.7625|long=78.134218}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Thrissur (138)|lat=10.52|long=76.21}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tinsukia (307)|lat=27.500|long=95.367}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tiruchirappalli (57)|lat=10.80500|long=78.68556}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tirunelveli (94)|lat=8.73|long=77.7}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tirupati (122)|lat=13.6355|long=79.4236}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tiruppur (101)|lat=11.1075|long=77.3398}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tiruvottiyur (182)|lat=13.16|long=80.3}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Tumkur (145)|lat=13.34|long=77.1}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Udaipur (99)|lat=24.525049|long=73.677116}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ujjain (84)|lat=23.167|long=75.767}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Ulhasnagar (86)|lat=19.22|long=73.15}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Vadodara (20)|lat=22.30|long=73.19}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Varanasi (30)|lat=25.28|long=82.96}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Vasai-Virar (29)|lat=19.47|long=72.8}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Veraval (248)|lat=20.915|long=70.362}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Vijayawada (42)|lat=16.5193|long=80.6305}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Visakhapatnam (17)|lat=17.68833|long=83.21861}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Vizianagaram (194)|lat=18.12|long=83.42}}
+{{location map~|India|position=none|mark=City locator 13.svg|label=Warangal (71)|lat=18.0|long=79.58}}
+}}There are 496 cities in [[India]] with a population of over 100,000, of which 46 cities have a population of over 1,000,000. [[Mumbai]] is the most populated city followed by [[Delhi]], [[Bengaluru]] and [[Hyderabad]].<ref>{{Cite web |title=List of Most Populated cities in India |url=https://www.census2011.co.in/city.php |access-date=2026-09-02 |website=www.census2011.co.in}}</ref>
+
+Cities are a type of [[Local government in India|sub-administrative unit]] and are defined by the [[Ministry of Home Affairs (India)|Ministry of Home Affairs]]. In some cases, cities are bifurcated into [[Municipal governance in India|municipalities]], which can lead to cities being included within other cities. This list is based on the [[Census of India]] using data from the [[2001 census of India]] and the [[2011 census of India]].
+
+*The list is based on population within the boundaries of the respective Municipal Corporations and not the actual urban area.<ref name="auto">{{cite web|title=Provisional Population Totals Urban Agglomerations and Cities|url=http://censusindia.gov.in/2011-prov-results/paper2/data_files/India2/1.%20Data%20Highlight.pdf|website=Census of India 2011|access-date=30 January 2016|archive-url=https://web.archive.org/web/20210418102638/https://censusindia.gov.in/2011-prov-results/paper2/data_files/India2/1.%20Data%20Highlight.pdf|archive-date=2021-04-18}}</ref><ref name=":0">{{cite web|title=City definition by census India |url=http://censusindia.gov.in/Metadata/Metada.htm#2c |publisher=censusindia.gov.in |access-date=26 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20070617234445/http://www.censusindia.gov.in/Metadata/Metada.htm |archive-date=17 June 2007 }}</ref>
+*Towns/Cities with populations of {{nowrap|1 [[lakh]]}} (100,000) are categorized as '''Class-I towns''' or '''Cities'''.
+*The 46 cities with populations of {{nowrap|1 million}} and above are known as '''Million Plus UA'''s (urban agglomerations) or '''Cities'''.
+*The 3 [[urban agglomerations|UA]]s with populations of {{nowrap|10 million}} and above are known as '''Mega Cities'''.{{efn|The census defines the three as Greater Mumbai UA (18.4 million), Delhi UA (16.3 million) and Kolkata UA (14.1&nbsp;million).}}<ref name="auto" />
+
+The cities listed in '''bold''' are the capitals of the respective [[states and territories of India|states and union territories]] and the national capital [[New Delhi]]. <!-- The cities listed in ''curved text'' are considered as Megacities by United Nations. -->
+
+== List of cities with population above 1,000,000 ==
+<onlyinclude>
+{{static-row-numbers}}
+{|class="wikitable sortable static-row-numbers static-row-header-text"
+|-
+|-
+!scope="col" rowspan=2| Name
+!scope="col" rowspan=2| State or Union territory
+! colspan="3" |Population
+!scope="col" rowspan=2| Location
+|-
+! scope="col" | [[2011 census of India|2011 Census]]
+! scope="col" | [[2001 census of India|2001 Census]]
+! scope="col" | Change
+|-
+|'''[[Mumbai]]''' || [[Maharashtra]] || 12,442,373 || 11,978,450 || {{change|12442373|11978450|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|19.0760|72.8777}}</small>
+|-
+|'''[[Delhi]]''' || [[Delhi]] || 11,034,555 || 9,879,172 || {{change|11034555|9879172|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|28.7041|77.1025}}</small>
+|-
+|'''[[Bengaluru]]''' || [[Karnataka]] || 8,443,675 || 5,682,293 ||{{change|8443675|5682293|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|12.9716|77.5946}}</small>
+|-
+|'''[[Hyderabad]]''' || [[Telangana]] || 6,993,262 || 5,496,960 ||{{change|6993262|5496960|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|17.3850|78.4867}}</small>
+|-
+| '''[[Chennai]]''' || [[Tamil Nadu]] || 6,748,026 || 4,343,645 ||{{change|6748026|4343645|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|13.0827|80.2707}}</small>
+|-
+| [[Ahmedabad]] || [[Gujarat]] || 5,577,940 || 4,470,006 || {{change|5577940|4470006|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|23.0225|72.5714}}</small>
+|-
+| '''[[Kolkata]]''' || [[West Bengal]] || 4,496,694 || 4,580,546 || {{change|4496694|4580546|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|22.5726|88.3639}}</small>
+|-
+| [[Surat]] || [[Gujarat]] || 4,467,797 || 2,788,126 || {{change|4467797|2788126|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|21.1702|72.8311}}</small>
+|-
+| [[Pune]] || [[Maharashtra]] || 3,124,458 || 2,538,473 || {{change|3124458|2538473|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|18.5204|73.8567}}</small>
+|-
+| '''[[Jaipur]]''' || [[Rajasthan]] || 3,046,163 || 2,322,575 || {{change|3046163|2322575|dec=1|align="center"|disp=out|invert=on}} ||<small>{{Coord|26.9124|75.7873}}</small>
+|-
+| '''[[Lucknow]]''' || [[Uttar Pradesh]] || 2,817,105 || 2,185,927 || {{change|2817105|2185927|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|26.8467|80.9462}}</small>
+|-
+| [[Kanpur]] || [[Uttar Pradesh]] || 2,765,348 || 2,551,337 || {{change|2765348|2551337|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|26.4499|80.3319}}</small>
+|-
+| [[Nagpur]] || [[Maharashtra]] || 2,405,665 || 2,052,066 || {{change|2405665|2052066|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|21.1458|79.0882}}</small>
+|-
+| [[Indore]] || [[Madhya Pradesh]] || 1,964,086 || 1,503,237 || {{change|1964086|1503237|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|22.7196|75.8577}}</small>
+|-
+| [[Thane]] || [[Maharashtra]] || 1,841,488 || 1,262,551 || {{change|1841488|1262551|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|19.2183|72.9781}}</small>
+|-
+| '''[[Bhopal]]''' || [[Madhya Pradesh]] || 1,798,218 || 1,458,416 || {{change|1798218|1458416|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|23.2599|77.4126}}</small>
+|-
+| [[Visakhapatnam]] || [[Andhra Pradesh]] || 1,728,128 || 1,345,938 || {{change|1728128|1345938|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|17.6868|83.2185}}</small>
+|-
+| [[Pimpri-Chinchwad]] || [[Maharashtra]] || 1,727,692 || 1,020,448 || {{change|1727692|1020448|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|18.6279|73.8009}}</small>
+|-
+| '''[[Patna]]''' || [[Bihar]] || 1,684,222 || 1,431,477 || {{change|1684222|1431477|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|25.5941|85.1376}}</small>
+|-
+| [[Vadodara]] || [[Gujarat]] || 1,670,806 || 1,338,244 || {{change|1670806|1338244|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|22.3072|73.1812}}</small>
+|-
+| [[Ghaziabad]] || [[Uttar Pradesh]] || 1,648,643 || 968,256 || {{change|1648643|968256|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|28.6692|77.4538}}</small>
+|-
+| [[Ludhiana]] || [[Punjab]] || 1,618,879 || 1,398,467 || {{change|1618879|1398467|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|30.9000|75.8573}}</small>
+|-
+| [[Agra]] || [[Uttar Pradesh]] || 1,585,704 || 1,275,134 || {{change|1585704|1275134|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|27.1767|78.0081}}</small>
+|-
+| [[Nashik]] || [[Maharashtra]] || 1,486,053 || 1,077,236 || {{change|1486053|1077236|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|20.0112|73.7909}}</small>
+|-
+| [[Faridabad]] || [[Haryana]] || 1,414,050 || 1,055,938 || {{change|1414050|1055938|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|28.4089|77.3178}}</small>
+|-
+| [[Meerut]] || [[Uttar Pradesh]] || 1,305,429 || 1,068,772 || {{change|1305429|1068772|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|28.9845|77.7064}}</small>
+|-
+| [[Rajkot]] || [[Gujarat]] || 1,286,678 || 967,476 || {{change|1286678|967476|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|22.3039|70.8022}}</small>
+|-
+| [[Kalyan-Dombivli]] || [[Maharashtra]] || 1,247,327 || 1,193,512 || {{change|1247327|1193512|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|19.2358|73.1307}}</small>
+|-
+| [[Vasai-Virar]] || [[Maharashtra]] || 1,222,390 || 518,601 || {{change|1222390|518601|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|19.3925|72.8328}}</small>
+|-
+| [[Varanasi]] || [[Uttar Pradesh]] || 1,198,491 || 1,103,952 || {{change|1198491|1103952|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|25.3176|82.9739}}</small>
+|-
+| '''[[Srinagar]]''' || [[Jammu and Kashmir (union territory)|Jammu and Kashmir]] || 1,180,570 || 935,764 || {{change|1180570|935764|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|34.0836|74.7973}}</small>
+|-
+| [[Chhatrapati Sambhajinagar]] || [[Maharashtra]] || 1,175,116 || 873,311 || {{change|1175116|873311|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|19.8762|75.3433}}</small>
+|-
+| [[Dhanbad]] || [[Jharkhand]] || 1,162,472 || 1,031,523 || {{change|1162472|1031523|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|23.7957|86.4304}}</small>
+|-
+| [[Amritsar]] || [[Punjab]] || 1,132,383 || 979,801 || {{change|1132383|979801|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|31.6340|74.8723}}</small>
+|-
+| [[Navi Mumbai]] || [[Maharashtra]] || 1,120,547 || 704,002 || {{change|1120547|704002|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|19.0330|73.0297}}</small>
+|-
+| [[Prayagraj]] || [[Uttar Pradesh]] || 1,112,544 || 975,393 || {{change|1112544|975393|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|25.4358|81.8463}}</small>
+|-
+| [[Howrah]] || [[West Bengal]] || 1,077,075 || 1,007,532 || {{change|1077075|1007532|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|22.5958|88.2636}}</small>
+|-
+| '''[[Ranchi]]''' || [[Jharkhand]] || 1,073,427 || 847,093 || {{change|1073427|847093|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|23.3441|85.3096}}</small>
+|-
+| [[Jabalpur]] || [[Madhya Pradesh]] || 1,055,525 || 951,472 || {{change|1055525|951472|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|23.1815|79.9864}}</small>
+|-
+| [[Gwalior]] || [[Madhya Pradesh]] || 1,054,420 || 827,026 || {{change|1054420|827026|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|26.2183|78.1828}}</small>
+|-
+| [[Coimbatore]] || [[Tamil Nadu]] || 1,050,721 || 930,882 || {{change|1050721|930882|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|11.0168|76.9558}}</small>
+|-
+| [[Vijayawada]] || [[Andhra Pradesh]] || 1,034,358 || 941,760 || {{change|1034358|941760|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|16.5062|80.6480}}</small>
+|-
+| [[Jodhpur]] || [[Rajasthan]] || 1,033,756 || 856,525 || {{change|1033756|856525|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|26.2389|73.0243}}</small>
+|-
+| [[Madurai]] || [[Tamil Nadu]] || 1,017,865 || 928,869 || {{change|1017865|928869|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|9.9252|78.1198}}</small>
+|-
+| '''[[Raipur]]''' || [[Chhattisgarh]] || 1,010,433 || 707,469 || {{change|1010433|707469|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|21.2514|81.6296}}</small>
+|-
+| [[Kota, Rajasthan|Kota]] || [[Rajasthan]] || 1,001,694 || 703,150 || {{change|1001694|703150|dec=1|align="center"|disp=out|invert=on}} || <small>{{Coord|25.2138|75.8648}}</small>
+|-
+| colspan="2" |Total:
+|115,982,957
+|95,058,803
+!{{Change|95058803|115982957|dec=1|invert=off|align=center|disp=out}}
+!
+|-
+| colspan="2" |'''India'''
+|1,210,854,977
+|1,028,737,436
+!{{Change|1,028,737,436|1,210,854,977|dec=1|invert=off|align=center|disp=out}}
+!
+|}
+
+
+== List of cities with population from 100,000 to 1,000,000 ==
+<onlyinclude>
+{{static-row-numbers}}
+{|class="wikitable sortable static-row-numbers static-row-header-text"
+|-
+|-
+!scope="col" rowspan=2| Name
+!scope="col" rowspan=2| State or Union territory
+! colspan="3" |Population
+!scope="col" rowspan=2| Location
+|-
+! scope="col" | [[2011 census of India|2011 Census]]
+! scope="col" | [[2001 census of India|2001 Census]]
+! scope="col" | Change
+|-
+| '''[[Chandigarh]]'''|| [[Chandigarh]]|| 961,587 || 808,515 || {{change|961,587|808515|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.75|76.78}}</small>
+|-
+| [[Guwahati]]|| [[Assam]] || 957,352 || 809,895 || {{change|957,352|809895|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.183|91.733}}</small>
+|-
+| [[Solapur]]|| [[Maharashtra]]|| 951,558 || 872,478 || {{change|951,558|872478|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.6800|75.9200}}</small>
+|-
+| [[Hubli–Dharwad]]|| [[Karnataka]]|| 943,788 || 786,195 || {{change|943,788|786195|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.36167|75.08500}}</small>
+|-
+| [[Bareilly]]|| [[Uttar Pradesh]]|| 903,668 || 344,543 || {{change|903,668|344543|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.167|78.383}}</small>
+|-
+| [[Mysore]]|| [[Karnataka]]|| 893,062 || 755,379 || {{change|893,062|755379|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|12.26|76.6}}</small>
+|-
+| [[Moradabad]]|| [[Uttar Pradesh]]|| 887,871 || 641,583 || {{change|887,871|641583|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.83|78.78}}</small>
+|-
+| [[Gurgaon]]|| [[Haryana]]|| 876,969 || 173,542 || {{change|876,969|173542|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.456|77.029}}</small>
+|-
+| [[Aligarh]]|| [[Uttar Pradesh]]|| 874,408 || 669,087 || {{change|874,408|669087|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.88|78.08}}</small>
+|-
+| [[Jalandhar]]|| [[Punjab]]|| 862,886 || 706,043 || {{change|862,886|706043|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|31.326|75.576}}</small>
+|-
+| [[Tiruchirappalli]]|| [[Tamil Nadu]]|| 847,387 || 752,066 || {{change|847,387|752066|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|10.80500|78.68556}}</small>
+|-
+| '''[[Bhubaneswar]]'''|| [[Odisha]]|| 843,402 || 648,032 || {{change|843,402|648032|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.27|85.84}}</small>
+|-
+| [[Salem, Tamil Nadu|Salem]]|| [[Tamil Nadu]]|| 829,267 || 696,760 || {{change|829,267|696760|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|11.65|78.16}}</small>
+|-
+| [[Mira-Bhayandar]]|| [[Maharashtra]]|| 809,378 || 520,388 || {{change|809,378|520388|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.29|72.85}}</small>
+|-
+| '''[[Thiruvananthapuram]]'''|| [[Kerala]]|| 743,691 || 744,983 || {{change|743,691|744983|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|8.48750|76.95250}}</small>
+|-
+| [[Bhiwandi]]|| [[Maharashtra]]|| 711,329 || 598,741 || {{change|711329|598741|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.296664|73.063121}}</small>
+|-
+| [[Saharanpur]]|| [[Uttar Pradesh]]|| 705,478 || 455,754 || {{change|705,478|455754|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.964|77.546}}</small>
+|-
+| [[Gorakhpur]]|| [[Uttar Pradesh]]|| 673,446 || 622,701 || {{change|673,446|622701|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.7588|83.3697}}</small>
+|-
+| [[Guntur]]|| [[Andhra Pradesh]]|| 647,508 || 514,461 || {{change|647,508|514461|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.20|80.27}}</small>
+|-
+| [[Amravati]]|| [[Maharashtra]]|| 647,057 || 549,510 || {{change|647,057|549510|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.92583|77.76472}}</small>
+|-
+| [[Bikaner]]|| [[Rajasthan]]|| 644,406 || 529,690 || {{change|644,406|529690|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.01667|73.31194}}</small>
+|-
+| [[Noida]] (town) || [[Uttar Pradesh]]|| 637,272 || 305,058 || {{change|637,272|305058|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.57|77.32}}</small>
+|-
+| [[Jamshedpur]]|| [[Jharkhand]]|| 631,364 || 573,096 || {{change|631,364|573096|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.783|86.200}}</small>
+|-
+| [[Bhilai]]|| [[Chhattisgarh]]|| 625,700 || 556,366 || {{change|625,700|556366|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.21|81.38}}</small>
+|-
+| [[Warangal]]|| [[Telangana]]|| 615,998 || 530,636 || {{change|615,998|530636|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.0|79.58}}</small>
+|-
+| [[Cuttack]]|| [[Odisha]]|| 610,189 || 534,654 || {{change|610,189|534654|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.52306|85.78806}}</small>
+|-
+| [[Firozabad]]|| [[Uttar Pradesh]]|| 604,214 || 279,102 || {{change|604,214|279102|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.150|78.400}}</small>
+|-
+| [[Kochi]]|| [[Kerala]]|| 602,046 || 596,473 || {{change|602,046|596473|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|9.967|76.217}}</small>
+|-
+| [[Bhavnagar]]|| [[Gujarat]]|| 593,368 || 511,085 || {{change|593,368|511085|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.76|72.15}}</small>
+|-
+| '''[[Dehradun]]'''|| [[Uttarakhand]]|| 569,578 || 426,674 || {{change|569,578|426674|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.318|78.029}}</small>
+|-
+| [[Durgapur]]|| [[West Bengal]]|| 566,517 || 493,405 || {{change|566,517|493405|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.48|87.32}}</small>
+|-
+| [[Asansol]]|| [[West Bengal]]|| 563,917 || 475,439 || {{change|563,917|475439|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.68|86.99}}</small>
+|-
+| [[Nanded Waghala]]|| [[Maharashtra]]|| 550,439 || 430,733 || {{change|550,439|430733|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.15|77.30}}</small>
+|-
+| [[Kolhapur]]|| [[Maharashtra]]|| 549,236 || 493,167 || {{change|549,236|493167|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.69167|74.23333}}</small>
+|-
+| [[Ajmer]]|| [[Rajasthan]]|| 542,321 || 485,575 || {{change|542,321|485575|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.45|74.64}}</small>
+|-
+| [[Kalaburagi]]|| [[Karnataka]]|| 533,587 || 422,569 || {{change|533,587|422569|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.3333|76.8333}}</small>
+|-
+| [[Loni, Ghaziabad|Loni]]|| [[Uttar Pradesh]]|| 516,082 || 120,945 || {{change|516,082|120945|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.75|77.28}}</small>
+|-
+| [[Ujjain]]|| [[Madhya Pradesh]]|| 515,215 || 430,427 || {{change|515,215|430427|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.167|75.767}}</small>
+|-
+| [[Siliguri]]|| [[West Bengal]]|| 513,264 || 472,374 || {{change|513,264|472374|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.71|88.43}}</small>
+|-
+| [[Ulhasnagar]]|| [[Maharashtra]]|| 506,098 || 473,731 || {{change|506,098|473731|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.22|73.15}}</small>
+|-
+| [[Jhansi]]|| [[Uttar Pradesh]]|| 505,693 || 383,644 || {{change|505,693|383644|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.44862|78.56962}}</small>
+|-
+| [[Sangli-Miraj & Kupwad]]|| [[Maharashtra]]|| 502,793 || 436,781 || {{change|502,793|436781|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.860446|74.565518}}</small>
+|-
+| '''[[Jammu]]'''|| [[Jammu and Kashmir (union territory)|Jammu and Kashmir]]|| 502,197 || 369,959 || {{change|502,197|369959|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|32.73|74.87}}</small>
+|-
+| [[Nellore]]|| [[Andhra Pradesh]]|| 499,575 || 378,428 || {{change|499,575|378428|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|14.43|79.97}}</small>
+|-
+| [[Mangalore]]|| [[Karnataka]]|| 488,968 || 399,565 || {{change|488,968|399565|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|12.87|74.88}}</small>
+|-
+| [[Belgaum]]|| [[Karnataka]]|| 488,157 || 399,653 || {{change|488,157|399653|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.850|74.500}}</small>
+|-
+| [[Jamnagar]]|| [[Gujarat]]|| 479,920 || 443,518 || {{change|479,920|443518|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.47|70.07}}</small>
+|-
+| [[Tirunelveli]]|| [[Tamil Nadu]]|| 473,637 || 411,831 || {{change|473,637|411831|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|8.73|77.7}}</small>
+|-
+| [[Malegaon]]|| [[Maharashtra]]|| 471,312 || 409,403 || {{change|471,312|409403|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.42|77.53}}</small>
+|-
+| [[Gaya, India|Gaya]]|| [[Bihar]]|| 468,614 || 385,432 || {{change|468,614|385432|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.75|85.01}}</small>
+|-
+| [[Ambattur]]|| [[Tamil Nadu]]|| 466,205 || 310,967 || {{change|466,205|310967|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.0983|80.1622}}</small>
+|-
+| [[Jalgaon]]|| [[Maharashtra]]|| 460,228 || 368,618 || {{change|460,228|368618|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.997984|75.566711}}</small>
+|-
+| [[Udaipur]]|| [[Rajasthan]]|| 451,100 || 389,438 || {{change|451,100|389438|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.525049|73.677116}}</small>
+|-
+| [[Maheshtala]]|| [[West Bengal]]|| 448,317 || 385,266 || {{change|448,317|385266|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.5086210|88.2532182}}</small>
+|-
+| [[Tiruppur]]|| [[Tamil Nadu]]|| 444,352 || 718,395 || {{change|444,352|718395|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|11.1075|77.3398}}</small>
+|-
+| [[Davanagere]]|| [[Karnataka]]|| 434,971 || 364,523 || {{change|434,971|364523|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|14.4666|75.9242}}</small>
+|-
+| [[Kozhikode]]|| [[Kerala]]|| 431,560 || 436,556 || {{change|431,560|436556|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|11.25|75.77}}</small>
+|-
+| [[Kurnool]]|| [[Andhra Pradesh]]|| 430,214 || 269,122 || {{change|430,214|269122|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.8333|78.05}}</small>
+|-
+| [[Akola]]|| [[Maharashtra]]|| 425,817 || 400,520 || {{change|425,817|400520|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.7|77.00}}</small>
+|-
+| [[Rajpur Sonarpur]]|| [[West Bengal]]|| 424,368 || 336,707 || {{change|424,368|336707|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.4382026|88.4320450}}</small>
+|-
+| [[Bokaro Steel City|Bokaro]]|| [[Jharkhand]]|| 414,820 || 393,805 || {{change|414,820|393805|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.67|86.15}}</small>
+|-
+| [[Bellary]]|| [[Karnataka]]|| 410,445 || 316,766 || {{change|410,445|316766|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.100|76.917}}</small>
+|-
+| [[Patiala]]|| [[Punjab]]|| 406,192 || 303,151 || {{change|406,192|303151|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.32|76.40}}</small>
+|-
+| [[South Dumdum]]|| [[West Bengal]]|| 403,316 || 392,444 || {{change|403,316|392444|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.61|88.40}}</small>
+|-
+| [[Gopalpur]]|| [[West Bengal]]|| 400,146 || 271,811 || {{change|400,146|271811|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.62|88.44}}</small>
+|-
+| [[Bhagalpur]]|| [[Bihar]]|| 398,138 || 340,767 || {{change|398138|340767|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.250|87.000}}</small>
+|-
+| '''[[Agartala]]'''|| [[Tripura]]|| 400,004 || 271,811 || {{change|400,004|271811|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.833|91.267}}</small>
+|-
+| [[Muzaffarnagar]]|| [[Uttar Pradesh]]|| 392,768 || 316,729 || {{change|392,768|316729|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.472332|77.708874}}</small>
+|-
+| [[Bhatpara]]|| [[West Bengal]]|| 383,762 || 442,385 || {{change|383,762|442385|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.87|88.41}}</small>
+|-
+| [[Latur]]|| [[Maharashtra]]|| 382,940 || 299,985 || {{change|382,940|299985|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.40|76.56}}</small>
+|-
+| [[Panihati]]|| [[West Bengal]]|| 377,347 || 348,438 || {{change|377,347|348438|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.69|88.37}}</small>
+|-
+| [[Dhule]]|| [[Maharashtra]]|| 375,559 || 341,755 || {{change|375,559|341755|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.89972|74.76972}}</small>
+|-
+| [[Rohtak]]|| [[Haryana]]|| 374,292 || 286,807 || {{change|374,292|286807|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.8909|76.5796}}</small>
+|-
+| [[Korba, Chhattisgarh|Korba]]|| [[Chhattisgarh]]|| 363,390 || 315,690 || {{change|363,390|315690|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.35|82.68}}</small>
+|-
+| [[Bhilwara]]|| [[Rajasthan]]|| 359,483 || 280,128 || {{change|359,483|280128|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.35|74.63}}</small>
+|-
+| [[Berhampur]]|| [[Odisha]]|| 356,598 || 307,792 || {{change|356,598|307792|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.32|84.78}}</small>
+|-
+| [[Muzaffarpur]]|| [[Bihar]]|| 354,462 || 305,525 || {{change|354,462|305525|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.0|85.45}}</small>
+|-
+| [[Ahilyanagar]]|| [[Maharashtra]]|| 350,859 || 307,615 || {{change|350,859|307615|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.08|74.73}}</small>
+|-
+| [[Mathura]]|| [[Uttar Pradesh]]|| 349,909 || 302,770 || {{change|349,909|302770|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.28|77.41}}</small>
+|-
+| [[Kollam]]|| [[Kerala]]|| 348,657 || 361,560 || {{change|348,657|361560|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|8.88|76.60}}</small>
+|-
+| [[Avadi]]|| [[Tamil Nadu]]|| 345,996 || 229,403 || {{change|344701|229403|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.12|80.1}}</small>
+|-
+| [[Kadapa]]|| [[Andhra Pradesh]]|| 343,054 || 125,725 || {{change|343,054|125725|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|14.47|78.82}}</small>
+|-
+| [[Rajahmundry]]|| [[Andhra Pradesh]]|| 341,831 || 315,251 || {{change|341,831|315251|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.98|81.78}}</small>
+|-
+| [[Bilaspur, Chhattisgarh|Bilaspur]]|| [[Chhattisgarh]]|| 331,030 || 274,917 || {{change|331,030|274917|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.09|82.15}}</small>
+|-
+| [[Kamarhati]]|| [[West Bengal]]|| 330,211 || 314,507 || {{change|330,211|314507|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.67|88.37}}</small>
+|-
+| [[Shahjahanpur]]|| [[Uttar Pradesh]]|| 329,736 || 296,662 || {{change|329,736|296662|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.88|79.91}}</small>
+|-
+| [[Bijapur]]|| [[Karnataka]]|| 327,427 || 228,175 || {{change|327,427|228175|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.83|75.7}}</small>
+|-
+| [[Rampur, Uttar Pradesh|Rampur]]|| [[Uttar Pradesh]]|| 325,313 || 281,494 || {{change|325,313|281494|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.8|79.0}}</small>
+|-
+| [[Shivamogga]]|| [[Karnataka]]|| 322,650 || 274,352 || {{change|322,650|274352|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.933|75.567}}</small>
+|-
+| [[Chandrapur]]|| [[Maharashtra]]|| 320,379 || 289,450 || {{change|320,379|289450|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.950|79.297}}</small>
+|-
+| [[Junagadh]]|| [[Gujarat]]|| 319,462 || 168,686 || {{change|319,462|168686|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.520|70.463}}</small>
+|-
+| [[Thrissur]]|| [[Kerala]]|| 315,957 || 317,526 || {{change|315,957|317526|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|10.52|76.21}}</small>
+|-
+| [[Alwar]]|| [[Rajasthan]]|| 315,379 || 260,593 || {{change|315,379|260593|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.34|76.38}}</small>
+|-
+| [[Bardhaman]]|| [[West Bengal]]|| 314,265 || 285,602 || {{change|314,265|285602|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.233|87.867}}</small>
+|-
+| [[Kulti]]|| [[West Bengal]]|| 313,809 || 289,903 || {{change|313,809|289903|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.73|86.85}}</small>
+|-
+| [[Kakinada]]|| [[Andhra Pradesh]]|| 312,538 || 296,329 || {{change|312,538|296329|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.93|82.22}}</small>
+|-
+| [[Nizamabad, Telangana|Nizamabad]]|| [[Telangana]]|| 311,152 || 288,722 || {{change|311,152|288722|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.672|78.094}}</small>
+|-
+| [[Parbhani]]|| [[Maharashtra]]|| 307,170 || 259,329 || {{change|307,170|259329|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.27|76.78}}</small>
+|-
+| [[Tumkur]]|| [[Karnataka]]|| 302,143 || 248,929 || {{change|302,143|248929|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.34|77.1}}</small>
+|-
+| [[Hisar (city)|Hisar]]|| [[Haryana]]|| 301,383 || — || —
+| <small>{{Coord|29.09|75.43}}</small>
+|-
+| [[Ozhukarai]]|| [[Puducherry (union territory)|Puducherry]]|| 300,104 || 217,707 || {{change|300,104|217707|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|11.9569800|79.773700}}</small>
+|-
+| [[Bihar Sharif]]|| [[Bihar]]|| 297,268 || 232,071 || {{change|297,268|232071|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.197|85.518}}</small>
+|-
+| [[Darbhanga]]|| [[Bihar]]|| 296,039 || 267,348 || {{change|296,039|267348|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.17|85.9}}</small>
+|-
+| [[Panipat]]|| [[Haryana]]|| 294,292 || 261,740 || {{change|294,292|261740|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.39|76.97}}</small>
+|-
+| '''[[Aizawl]]'''|| [[Mizoram]]|| 293,416 || 228,280 || {{change|293,416|228280|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.43|92.43}}</small>
+|-
+| [[Bally, Howrah|Bally]]|| [[West Bengal]]|| 293,373 || 260,906 || {{change|293,373|260906|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.65|88.34}}</small>
+|-
+| [[Dewas]]|| [[Madhya Pradesh]]|| 289,550 || 231,672 || {{change|289,550|231672|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.96|76.06}}</small>
+|-
+| [[Tirupati]]|| [[Andhra Pradesh]]|| 287,482 || 228,202 || {{change|287,482|228202|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.6355|79.4236}}</small>
+|-
+| [[Ichalkaranji]]|| [[Maharashtra]]|| 287,353 || 257,610 || {{change|287,353|257610|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.7|74.47}}</small>
+|-
+| [[Karnal]]|| [[Haryana]]|| 286,827 || 210,476 || {{change|286,827|210476|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.68|76.98}}</small>
+|-
+| [[Bathinda]]|| [[Punjab]]|| 285,788 || 217,256 || {{change|285,788|217256|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.20|74.95}}</small>
+|-
+| [[Jalna, Maharashtra|Jalna]]|| [[Maharashtra]]|| 285,577 || 235,795 || {{change|285,577|235795|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.83|75.88}}</small>
+|-
+| [[Kirari Suleman Nagar]]|| [[Delhi]]|| 283,211 || 153,874 || {{change|283,211|153874|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.69565|77.06533}}</small>
+|-
+| [[Purnia]]|| [[Bihar]]|| 282,248 || 171,687 || {{change|282,248|171687|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.78|87.47}}</small>
+|-
+| [[Satna]]|| [[Madhya Pradesh]]|| 280,222 || 225,464 || {{change|280,222|225464|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.16|80.83}}</small>
+|-
+| [[Maunath Bhanjan]]|| [[Uttar Pradesh]]|| 278,745 || 212,657 || {{change|278,745|212657|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.94167|83.56111}}</small>
+|-
+| [[Barasat]]|| [[West Bengal]]|| 278,435 || 231,515 || {{change|278,435|231515|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.72|88.48}}</small>
+|-
+| [[Sonipat]]|| [[Haryana]]|| 278,149 || 214,974 || {{change|278,149|214974|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.98|77.02}}</small>
+|-
+| [[Farrukhabad]]|| [[Uttar Pradesh]]|| 276,581 || 228,333 || {{change|276,581|228333|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.37|79.63}}</small>
+|-
+| [[Sagar, Madhya Pradesh|Sagar]]|| [[Madhya Pradesh]]|| 273,296 || 232,133 || {{change|273,296|232133|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.83|78.71}}</small>
+|-
+| [[Rourkela]]|| [[Odisha]]|| 272,721 || 224,601 || {{change|272,721|224601|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.24917|84.88278}}</small>
+|-
+| [[Durg]]|| [[Chhattisgarh]]|| 268,806 || 232,517 || {{change|268,806|232517|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.19|81.28}}</small>
+|-
+| '''[[Imphal]]'''|| [[Manipur]]|| 268,243 || 221,492 || {{change|268,243|221492|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.82|93.95}}</small>
+|-
+| [[Ratlam]]|| [[Madhya Pradesh]]|| 264,914 || 222,202 || {{change|264,914|222202|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.31667|75.06667}}</small>
+|-
+| [[Hapur]]|| [[Uttar Pradesh]]|| 262,983 || 211,983 || {{change|262,983|211983|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.72|77.78}}</small>
+|-
+| [[Arrah]]|| [[Bihar]]|| 261,430 || 203,380 || {{change|261,430|203380|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.55750|84.67}}</small>
+|-
+| [[Karimnagar]]|| [[Telangana]]|| 261,185 || 205,653 || {{change|261,185|205653|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.43694|79.12417}}</small>
+|-
+| [[Anantapur]]|| [[Andhra Pradesh]]|| 261,004 || 218,808 || {{change|261,004|218808|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|14.68|77.6}}</small>
+|-
+| '''[[New Delhi]]'''|| [[Delhi]]|| 257,803 || 302,147 || {{change|257,803|302147|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.61389|77.20889}}</small>
+|-
+| [[Etawah]]|| [[Uttar Pradesh]]|| 256,838 || 210,453 || {{change|256,838|210453|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.77|79.03}}</small>
+|-
+| [[Ambarnath]]|| [[Maharashtra]]|| 253,475 || 203,795 || {{change|253,475|203795|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.209|73.186}}</small>
+|-
+| [[Bharatpur, Rajasthan|Bharatpur]]|| [[Rajasthan]]|| 252,342 || 204,587 || {{change|252,342|204587|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.22|77.48}}</small>
+|-
+| [[Begusarai]]|| [[Bihar]]|| 252,008 || 93,378 || {{change|252,008|93378|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.42|86.13}}</small>
+|-
+| [[Tiruvottiyur]]|| [[Tamil Nadu]]|| 249,446 || 212,281 || {{change|249,446|212281|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.16|80.3}}</small>
+|-
+| [[North Dumdum]]|| [[West Bengal]]|| 249,142 || 220,042 || {{change|249,142|220042|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.6520800|88.4190700}}</small>
+|-
+| [[Gandhidham]]|| [[Gujarat]]|| 247,992 || 166,388 || {{change|247,992|166388|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.08|70.13}}</small>
+|-
+| [[Baranagar]]|| [[West Bengal]]|| 245,213|| 250,768 || {{change|245,213|250768|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.64|88.37}}</small>
+|-
+| '''[[Puducherry (union territory)|Puducherry]]'''|| [[Puducherry (union territory)|Puducherry]]|| 244,377 || 220,749 || {{change|244,377|220749|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|11.930965|79.785182}}</small>
+|-
+| [[Thoothukudi]]|| [[Tamil Nadu]]|| 237,830 || 216,058 || {{change|237,830|216058|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|8.7625|78.134218}}</small>
+|-
+| [[Sikar]]|| [[Rajasthan]]|| 237,532 || 184,904 || {{change|237,532|184904|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.62|75.15}}</small>
+|-
+| [[Rewa, Madhya Pradesh|Rewa]]|| [[Madhya Pradesh]]|| 235,654 || 183,274 || {{change|235,654|183274|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.53|81.3}}</small>
+|-
+| [[Mirzapur]]|| [[Uttar Pradesh]]|| 234,871 || 205,053 || {{change|234,871|205053|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.15|82.58}}</small>
+|-
+| [[Raichur]]|| [[Karnataka]]|| 234,073 || 207,421 || {{change|234,073|207421|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.2|77.37}}</small>
+|-
+| [[Pali, Rajasthan|Pali]]|| [[Rajasthan]]|| 230,075 || 187,641 || {{change|230,075|187641|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.77|73.33}}</small>
+|-
+| [[Ramagundam]]|| [[Telangana]]|| 229,644 || 236,600 || {{change|229,644|236600|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.8000|79.4500}}</small>
+|-
+| [[Haridwar]]|| [[Uttarakhand]]|| 228,832 || 175,010 || {{change|228,832|175010|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.956|78.17}}</small>
+|-
+| [[Vijayanagaram]]|| [[Andhra Pradesh]]|| 228,025 || 174,324 || {{change|228,025|174324|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.12|83.42}}</small>
+|-
+| [[Katihar]]|| [[Bihar]]|| 226,261 || 175,169 || {{change|226,261|175169|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.53|87.58}}</small>
+|-
+| [[Nagercoil]]|| [[Tamil Nadu]]|| 224,849 || 208,179 || {{change|224,849|208179|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|8.17899|77.43227}}</small>
+|-
+| [[Sri Ganganagar]]|| [[Rajasthan]]|| 224,532 || 210,713 || {{change|224,532|210713|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.92|73.88}}</small>
+|-
+| [[Karawal Nagar]]|| [[Delhi]]|| 224,281 || 148,549 || {{change|224,281|148549|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.727122|77.270473}}</small>
+|-
+| [[Mango, Jharkhand|Mango]]|| [[Jharkhand]]|| 223,805 || 166,125 || {{change|223,805|166125|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.82750|86.21639}}</small>
+|-
+| [[Thanjavur]]|| [[Tamil Nadu]]|| 222,943 || 215,314 || {{change|222,943|215314|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|10.7870|79.1378}}</small>
+|-
+| [[Bulandshahr]]|| [[Uttar Pradesh]]|| 222,519 || 176,425 || {{change|222,519|176425|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.406|77.8498}}</small>
+|-
+| [[Uluberia]]|| [[West Bengal]]|| 222,240 || 202,135 || {{change|222,240|202135|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.47|88.1011}}</small>
+|-
+| [[Murwara]]|| [[Madhya Pradesh]]|| 221,883 || 187,029 || {{change|221,883|187029|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.837757|80.394047}}</small>
+|-
+| [[Sambhal]]|| [[Uttar Pradesh]]|| 220,813 || 182,478 || {{change|220,813|182478|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.5852|78.5708}}</small>
+|-
+| [[Singrauli]]|| [[Madhya Pradesh]]|| 220,257 || 185,190 || {{change|220,257|185190|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.19899|82.66765}}</small>
+|-
+| [[Nadiad]]|| [[Gujarat]]|| 218,095 || 192,913 || {{change|218,095|192913|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.7|72.87}}</small>
+|-
+| [[Secunderabad]]|| [[Telangana]]|| 217,910 || 206,102 || {{change|217,910|206102|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.45|78.50}}</small>
+|-
+| [[Naihati]]|| [[West Bengal]]|| 217,900 || 215,303 || {{change|217,900|215303|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.893956|88.415205}}</small>
+|-
+| [[Yamunanagar]]|| [[Haryana]]|| 216,677 || 189,696 || {{change|216,677|189696|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.1294|77.2674}}</small>
+|-
+| [[Bidhan Nagar]]|| [[West Bengal]]|| 215,514 || 164,221 || {{change|215,514|164221|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.58|88.42}}</small>
+|-
+| [[Pallavaram]]|| [[Tamil Nadu]]|| 215,417 || 144,623 || {{change|215,417|144623|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|12.967696|80.158073}}</small>
+|-
+| [[Bidar]]|| [[Karnataka]]|| 214,373 || 172,877 || {{change|214,373|172877|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.9|77.55}}</small>
+|-
+| [[Panchkula]]|| [[Haryana]]|| 211,355 || 140,925 || {{change|211,355|140925|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.6942|76.8606}}</small>
+|-
+| [[Burhanpur]]|| [[Madhya Pradesh]]|| 210,886 || 193,725 || {{change|210,886|193725|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.30868|76.230258}}</small>
+|-
+| [[Raurkela Industrial Township]]|| [[Odisha]]|| 210,317 || 206,693 || {{change|210,317|206693|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.2322|84.8812}}</small>
+|-
+| [[Kharagpur]]|| [[West Bengal]]|| 207,604 || 188,761 || {{change|207,604|188761|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.33971|87.32501}}</small>
+|-
+| [[Dindigul]]|| [[Tamil Nadu]]|| 207,327 || 196,955 || {{change|207,327|196955|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|10.368958|77.980356}}</small>
+|-
+| '''[[Gandhinagar]]'''|| [[Gujarat]]|| 206,167 || 195,985 || {{change|206,167|195985|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.216667|72.683333}}</small>
+|-
+| [[Hospet]]|| [[Karnataka]]|| 206,167 || 164,240 || {{change|206,167|164240|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.2665|76.3872}}</small>
+|-
+| [[Nangloi Jat]]|| [[Delhi]]|| 205,596 || 150,948 || {{change|205,596|150948|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.679568|77.067994}}</small>
+|-
+| [[Malda, West Bengal|Malda]]|| [[West Bengal]]|| 205,521 || 161,456 || {{change|205,521|161456|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.004444|88.145833}}</small>
+|-
+| [[Ongole]]|| [[Andhra Pradesh]]|| 204,746 || 150,471 || {{change|204,746|150471|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.5057|80.0499}}</small>
+|-
+| [[Eluru]]|| [[Andhra Pradesh]]|| 203,780 || 190,347 || {{change|203,780|190347|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.71|81.12}}</small>
+|-
+| [[Deoghar]]|| [[Jharkhand]]|| 203,123 || 112,525 || {{change|203123|112525|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.28|86.41}}</small>
+|-
+| [[Chhapra|Chapra]]|| [[Bihar]]|| 202,352 || 79,190 || {{change|202352|79190|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.7848|84.7274}}</small>
+|-
+| [[Haldia]]|| [[West Bengal]]|| 200,827 || 170,673 || {{change|200827|170673|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.03|88.06}}</small>
+|-
+| [[Khandwa]]|| [[Madhya Pradesh]]|| 200,738 || 172,242 || {{change|200738|172242|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.82168|76.34826}}</small>
+|-
+| [[Puri (city)|Puri]]|| [[Odisha]]|| 200,564 || — || —
+| <small>{{Coord|19.798254|85.824938}}</small>
+|-
+| [[Nandyal]]|| [[Andhra Pradesh]]|| 200,516 || 152,676 || {{change|200516|152676|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|15.47|78.48}}</small>
+|-
+| [[Morena, Madhya Pradesh|Morena]]|| [[Madhya Pradesh]]|| 200,482 || 150,959 || {{change|200,482|150959|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.498918|77.995344}}</small>
+|-
+| [[Amroha]]|| [[Uttar Pradesh]]|| 198,471 || 165,129 || {{change|198,471|165129|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.9031|78.4675}}</small>
+|-
+| [[Anand, Gujarat|Anand]]|| [[Gujarat]]|| 198,282 || 130,685 || {{change|198,282|130685|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.5645|72.9289}}</small>
+|-
+| [[Bhind]]|| [[Madhya Pradesh]]|| 197,585 || 153,752 || {{change|197,585|153752|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.56|78.78}}</small>
+|-
+| [[Bhalswa Jahangir Pur]]|| [[Delhi]]|| 197,148 || 152,339 || {{change|197,148|152339|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.735556|77.163889}}</small>
+|-
+| [[Madhyamgram]]|| [[West Bengal]]|| 196,127 || 155,451 || {{change|196,127|155451|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.69243|88.46551}}</small>
+|-
+| [[Bhiwani]]|| [[Haryana]]|| 196,057 || 169,531 || {{change|196,057|169531|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.78|76.13}}</small>
+|-
+| [[Panvel]]|| [[Maharashtra]]|| 195,373 || 104,058 || {{change|195,373|104058|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.988775|73.110128}}</small>
+|-
+| [[Baharampur]]|| [[West Bengal]]|| 195,223 || 160,143 || {{change|195,223|160143|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.0988|88.2676}}</small>
+|-
+| [[Ambala]]|| [[Haryana]]|| 195,153 || 139,279 || {{change|195,153|139279|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|30.360993|76.797819}}</small>
+|-
+| [[Morvi]]|| [[Gujarat]]|| 194,947 || 145,719 || {{change|194,947|145719|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.8116|70.8230}}</small>
+|-
+| [[Fatehpur, Uttar Pradesh|Fatehpur]]|| [[Uttar Pradesh]]|| 193,193 || 151,757 || {{change|193,193|151757|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.927739|80.81266}}</small>
+|-
+| [[Raebareli]]|| [[Uttar Pradesh]]|| 191,316 || 169,333 || {{change|191,316|169333|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.230898|81.233152}}</small>
+|-
+| [[Khora]]|| [[Uttar Pradesh]]|| 190,005 || — || —
+| <small>{{Coord|28.6692|77.4279}}</small>
+|-
+| [[Bhusawal]]|| [[Maharashtra]]|| 187,421 || 172,372 || {{change|187,421|172372|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.05|75.77}}</small>
+|-
+| [[Orai]]|| [[Uttar Pradesh]]|| 187,137 || 139,318 || {{change|187,137|139318|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.990234|79.453344}}</small>
+|-
+| [[Bahraich]]|| [[Uttar Pradesh]]|| 186,223 || 168,323 || {{change|186,223|168323|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.57|81.59}}</small>
+|-
+| [[Vellore]]|| [[Tamil Nadu]]|| 185,803 || 177,230 || {{change|185,803|177230|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|12.9165|79.1325}}</small>
+|-
+| [[Mahesana]]|| [[Gujarat]]|| 184,991 || 141,453 || {{change|184,991|141453|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.6|72.4}}</small>
+|-
+| [[Khammam]]|| [[Telangana]]|| 184,210 || 218,689 || {{change|184,210|218689|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.24|80.15}}</small>
+|-
+| [[Sambalpur]]|| [[Odisha]]|| 184,000 || 153,643 || {{change|184,000|153643|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.465268|83.975731}}</small>
+|-
+| [[Raiganj]]|| [[West Bengal]]|| 183,612 || 165,212 || {{change|183,612|165212|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.6138|88.1245}}</small>
+|-
+| [[Sirsa]]|| [[Haryana]]|| 182,534 || 160,735 || {{change|182,534|160735|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|29.5349|75.0290}}</small>
+|-
+| [[Danapur]]|| [[Bihar]]|| 182,429 || 131,176 || {{change|182,429|131176|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.623962|85.041432}}</small>
+|-
+| [[Serampore]]|| [[West Bengal]]|| 181,842 || 197,857 || {{change|181,842|197857|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.75|88.34}}</small>
+|-
+| [[Sultan Pur Majra]]|| [[Delhi]]|| 181,554 || 164,426 || {{change|181,554|164426|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|28.689664|77.076484}}</small>
+|-
+| [[Guna, India|Guna]]|| [[Madhya Pradesh]]|| 180,935 || 137,175 || {{change|180,935|137175|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.6469|77.3110}}</small>
+|-
+| [[Jaunpur, Uttar Pradesh|Jaunpur]]|| [[Uttar Pradesh]]|| 180,362 || 160,055 || {{change|180,362|160055|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.7460|82.6836}}</small>
+|-
+| [[Shivpuri]]|| [[Madhya Pradesh]]|| 179,977 || 146,892 || {{change|179,977|146892|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.4358|77.7398}}</small>
+|-
+| [[Surendranagar Dudhrej]]|| [[Gujarat]]|| 177,851 || 156,161 || {{change|177,851|156161|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.731986|71.633906}}</small>
+|-
+| [[Unnao]]|| [[Uttar Pradesh]]|| 177,658 || 144,662 || {{change|177,658|144662|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.5470|80.4878}}</small>
+|-
+| [[Hugli-Chuchura]]|| [[West Bengal]]|| 177,259 || 170,201 || {{change|177,259|170201|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|22.9|88.39}}</small>
+|-
+| [[Sitapur]]|| [[Uttar Pradesh]]|| 177,234 || — || —
+| <small>{{Coord|27.57|80.67}}</small>
+|-
+| [[Hastsal]]|| [[Delhi]]|| 176,877 || — || —
+| <small>{{Coord|28.6568|77.0572}}</small>
+|-
+| [[Tambaram]]|| [[Tamil Nadu]]|| 174,787 || — || —
+| <small>{{Coord|12.9249|80.1000}}</small>
+|-
+| [[Adityapur]]|| [[Jharkhand]]|| 174,355 || — || —
+| <small>{{Coord|22.8046|86.1627}}</small>
+|-
+| [[Badlapur]]|| [[Maharashtra]]|| 174,226 || 97,948 || {{change|174,226|97948|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|19.1551|73.2654}}</small>
+|-
+| [[Alappuzha]]|| [[Kerala]]|| 174,176 || 177,029 || {{change|174,176|177029|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|9.4981|76.3388}}</small>
+|-
+| [[Cuddalore]]|| [[Tamil Nadu]]|| 173,636 || — || —
+| <small>{{Coord|11.756169|79.76693}}</small>
+|-
+| [[Silchar]]|| [[Assam]]|| 172,830 || — || —
+| <small>{{Coord|24.82|92.8}}</small>
+|-
+| [[Gadag-Betageri]]|| [[Karnataka]]|| 172,612 || — || —
+| <small>{{Coord|15.42250|75.62571}}</small>
+|-
+| [[Bahadurgarh]]|| [[Haryana]]|| 170,767 || — || —
+| <small>{{Coord|28.68|76.92}}</small>
+|-
+| [[Machilipatnam]]|| [[Andhra Pradesh]]|| 169,892 || 179,353 || {{change|169,892|179353|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.187|81.137}}</small>
+|-
+| '''[[Shimla]]'''|| [[Himachal Pradesh]]|| 169,578 || 142,555 || {{change|169,578|142555|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|31.104|77.1708}}</small>
+|-
+| [[Medinipur]]|| [[West Bengal]]|| 169,264 || — || —
+| <small>{{Coord|22.4250|87.3190}}</small>
+|-
+| [[Deoli, Delhi|Deoli]]|| [[Delhi]]|| 169,122 || — || —
+| <small>{{Coord|28.502539|77.231173}}</small>
+|-
+| [[Bharuch]]|| [[Gujarat]]|| 169,007 || — || —
+| <small>{{Coord|21.7051|72.9959}}</small>
+|-
+| [[Hoshiarpur]]|| [[Punjab]]|| 168,653 || — || —
+| <small>{{Coord|31.5320|75.9180}}</small>
+|-
+| [[Jind]]|| [[Haryana]]|| 167,592 || — || —
+| <small>{{Coord|29.30863|76.33842}}</small>
+|-
+| [[Chandannagar]]|| [[West Bengal]]|| 166,867 || — || —
+| <small>{{Coord|22.86646|88.35485}}</small>
+|-
+| [[Adoni]]|| [[Andhra Pradesh]]|| 166,344 || — || —
+| <small>{{Coord|15.63|77.27}}</small>
+|-
+| [[Tonk, India|Tonk]]|| [[Rajasthan]]|| 165,294 || — || —
+| <small>{{Coord|26.15657|75.78194}}</small>
+|-
+| [[Faizabad]]|| [[Uttar Pradesh]]|| 165,228 || — || —
+| <small>{{Coord|26.775486|82.150182}}</small>
+|-
+| [[Tenali]]|| [[Andhra Pradesh]]|| 164,937 || — || —
+| <small>{{Coord|16.239|80.645}}</small>
+|-
+| [[Alandur]]|| [[Tamil Nadu]]|| 164,430 || — || —
+| <small>{{Coord|12.997500|80.200600}}</small>
+|-
+| [[Kancheepuram]]|| [[Tamil Nadu]]|| 164,384 || — || —
+| <small>{{Coord|12.8300|79.7100}}</small>
+|-
+| [[Vapi]]|| [[Gujarat]]|| 163,630 || — || —
+| <small>{{Coord|20.36381|72.92290}}</small>
+|-
+| [[Rajnandgaon]]|| [[Chhattisgarh]]|| 163,114 || — || —
+| <small>{{Coord|21.0976|81.0337}}</small>
+|-
+| [[Proddatur]]|| [[Andhra Pradesh]]|| 162,717 || — || —
+| <small>{{Coord|14.7526|78.5541}}</small>
+|-
+| [[Navsari]]|| [[Gujarat]]|| 160,941 || — || —
+| <small>{{Coord|20.94237|72.92467}}</small>
+|-
+| [[Budaun]]|| [[Uttar Pradesh]]|| 159,285 || — || —
+| <small>{{Coord|28.038114|79.126677}}</small>
+|-
+| [[Uttarpara Kotrung]]|| [[West Bengal]]|| 159,147 || — || —
+| <small>{{Coord|22.676846|88.338509}}</small>
+|-
+| [[Mahbubnagar]]|| [[Andhra Pradesh]]|| 157,733 || — || —
+| <small>{{Coord|16.74892|77.99489}}</small>
+|-
+| [[Erode]]|| [[Tamil Nadu]]|| 157,101 || 173,600 || {{change|157,101|173600|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|11.21|77.44}}</small>
+|-
+| [[Batala]]|| [[Punjab]]|| 156,619 || — || —
+| <small>{{Coord|31.8186|75.2029}}</small>
+|-
+| [[Saharsa]]|| [[Bihar]]|| 156,540 || 125,167 || {{change|156,540|125167|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.88|86.60}}</small>
+|-
+| Haldwani—Kathgodam|| [[Uttarakhand]]|| 156,078 || — || —
+| <small>{{Coord|29.2183|79.5130}}</small>
+|-
+| [[Vidisha]]|| [[Madhya Pradesh]]|| 155,951 || 125,453 || {{change|155,951|125,453|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|23.526037|77.810925}}</small>
+|-
+| [[Thanesar]]|| [[Haryana]]|| 155,152 || — || —
+| <small>{{Coord|29.9690|76.8783}}</small>
+|-
+| [[Kishangarh]]|| [[Rajasthan]]|| 154,886 || — || —
+| <small>{{Coord|26.60250|74.85706}}</small>
+|-
+| [[Hindupur]]|| [[Andhra Pradesh]]|| 151,835 || — || —
+| <small>{{Coord|13.8223|77.5009}}</small>
+|-
+| [[Veraval]]|| [[Gujarat]]|| 185,797 || 141,250 || {{change|185797|141250|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.915|70.362}}</small>
+|-
+| [[Chittoor]]|| [[Andhra Pradesh]]|| 189,332 || 152,654 || {{change|189332|152654|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|13.2172|79.1003}}</small>
+|-
+| [[Sasaram]]|| [[Bihar]]|| 147,396 || 131,172 || {{change|147396|131172|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.95|84.03}}</small>
+|-
+| [[Hajipur]]|| [[Bihar]]|| 147,126 || 119,412 || {{change|147126|119412|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.69|85.20}}</small>
+|-
+| [[Beed]]|| [[Maharashtra]]|| 146,709 || 138,196 || {{change|146709|138196|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.9891|75.7601}}</small>
+|-
+| [[Bhimavaram]]|| [[Andhra Pradesh]]|| 142,280 || — || —
+| <small>{{Coord|16.544|81.524}}</small>
+|-
+| [[Dehri]]|| [[Bihar]]|| 137,068 || 119,057 || {{change|137068|119057|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.91|84.18}}</small>
+|-
+| [[Madanapalle]]|| [[Andhra Pradesh]]|| 135,669 || — || —
+| <small>{{Coord|13.5560|78.5010}}</small>
+|-
+| [[Siwan, Bihar|Siwan]]|| [[Bihar]]|| 134,458 || 109,919 || {{change|134458|109919|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.22|84.36}}</small>
+|-
+| [[Bettiah]]|| [[Bihar]]|| 132,896 || 116,670 || {{change|132896|116670|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.80|84.51}}</small>
+|-
+| [[Gondia]]|| [[Maharashtra]]|| 132,813 || 120,902 || {{change|132813|120902|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.4624|80.2210}}</small>
+|-
+| [[Guntakal]]|| [[Andhra Pradesh]]|| 126,270 || — || —
+| <small>{{Coord|15.1670|77.3667}}</small>
+|-
+| [[Srikakulam]]|| [[Andhra Pradesh]]|| 125,939 || — || —
+| <small>{{Coord|18.2969|83.8968}}</small>
+|-
+| [[Motihari]]|| [[Bihar]]|| 125,183 || 100,683 || {{change|125183|100683|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.64|84.90}}</small>
+|-
+| [[Dharmavaram]]|| [[Andhra Pradesh]]|| 121,874 || — || —
+| <small>{{Coord|14.4149|77.7214}}</small>
+|-
+| [[Satara (city)|Satara]]|| [[Maharashtra]]|| 120,195 || 108,048 || {{change|120195|108048|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.688|74.006}}</small>
+|-
+| [[Barshi]]|| [[Maharashtra]]|| 118,722 || 104,785 || {{change|118722|104785|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.2342|75.6950}}</small>
+|-
+| [[Gudivada]]|| [[Andhra Pradesh]]|| 118,167 || — || —
+| <small>{{Coord|16.434|80.993}}</small>
+|-
+| [[Yavatmal]]|| [[Maharashtra]]|| 116,551 || 120,676 || {{change|116551|120676|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.3888|78.1204}}</small>
+|-
+| [[Narasaraopet]]|| [[Andhra Pradesh]]|| 116,250 || — || —
+| <small>{{Coord|16.236111|80.053889}}</small>
+|-
+| [[Bagaha]]|| [[Bihar]]|| 113,012 || 91,467 || {{change|113012|91467|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|27.0990|84.0900}}</small>
+|-
+| [[Achalpur]]|| [[Maharashtra]]|| 112,311 || 107,316 || {{change|112311|107316|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.2575|77.5100}}</small>
+|-
+| [[Osmanabad]]|| [[Maharashtra]]|| 111,825 || 80,625 || {{change|111825|80625|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.181584|76.038895}}</small>
+|-
+| [[Nandurbar]]|| [[Maharashtra]]|| 111,037 || 94,368 || {{change|111037|94368|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|21.3667|74.2500}}</small>
+|-
+| [[Miryalaguda]]|| [[Telangana]]|| 109,891 || 91,395 || {{change|109891|91395|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|16.86|79.58}}</small>
+|-
+| [[Tadipatri]]|| [[Andhra Pradesh]]|| 108,171 || — || —
+| <small>{{Coord|14.908321|78.010313}}</small>
+|-
+| [[Kishanganj]]|| [[Bihar]]|| 107,076 || 85,590 || {{change|107076|85590|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|26.09|87.93}}</small>
+|-
+| [[Wardha]]|| [[Maharashtra]]|| 106,444 || 111,118 || {{change|106444|111118|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.7453|78.6022}}</small>
+|-
+| [[Karaikudi]]|| [[Tamil Nadu]]|| 106,714 || 86,596 || {{change|106714|86596|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|10.0730|78.7808}}</small>
+|-
+| [[Suryapet]]|| [[Telangana]]|| 105,250 || 94,585 || {{change|105250|94585|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|17.140537|79.620445}}</small>
+|-
+| [[Jamalpur, Bihar|Jamalpur]]|| [[Bihar]]|| 105,221 || 96,983 || {{change|105221|96983|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.31|86.49}}</small>
+|-
+| [[Kavali]]|| [[Andhra Pradesh]]|| 104,000 || — || —
+| <small>{{Coord|14.9132|79.9930}}</small>
+|-
+| [[Tadepalligudem]]|| [[Andhra Pradesh]]|| 103,906 || — || —
+| <small>{{Coord|16.808|81.531}}</small>
+|-
+| '''[[Amaravati]]'''|| [[Andhra Pradesh]]|| 103,000 || — || —
+| <small>{{Coord|16.541|80.515}}</small>
+|-
+| [[Udgir]]|| [[Maharashtra]]|| 103,550 || 91,933 || {{change|103550|91933|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|18.3920|77.1170}}</small>
+|-
+| [[Buxar]]|| [[Bihar]]|| 102,591 || 83,168 || {{change|102591|83168|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.56|83.98}}</small>
+|-
+| [[Jehanabad]]|| [[Bihar]]|| 102,456 || 81,503 || {{change|102456|81503|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|25.22|84.99}}</small>
+|-
+| [[Greater Noida]]|| [[Uttar Pradesh]]|| 102,054 || — || —
+| <small>{{Coord|28.4744|77.5040}}</small>
+|-
+| [[Hinganghat]]|| [[Maharashtra]]|| 101,805 || 92,342 || {{change|101805|92342|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|20.5480|78.8390}}</small>
+|-
+| [[Aurangabad]]|| [[Bihar]]|| 101,520 || 79,393 || {{change|101520|79393|dec=1|align="center"|disp=out|invert=on}}
+| <small>{{Coord|24.75|84.37}}</small>
+|-
+| colspan="2" |Total:
+|85,555,425
+|66,468,649
+!{{Change|66468649|85,555,425|dec=1|invert=off|align=center|disp=out}}
+!
+|-
+| colspan="2" |'''India'''
+|1,210,854,977
+|1,028,737,436
+!{{Change|1,028,737,436|1,210,854,977|dec=1|invert=off|align=center|disp=out}}
+!
+|}
+
+
+== See also ==
+* [[List of million-plus urban agglomerations in India]]
+* [[List of metropolitan areas in India]]
+* [[List of states and union territories of India by population]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+; General
+
+* [https://web.archive.org/web/20060619194905/http://www.censusindia.net/profiles/sik.html Indian Census Office of the Registrar General & Census Commissioner, India] 
+**{{Cite web |title=A-04 : Towns and urban agglomerations classified by population size class in 2011 with variation between 1901 and 2011 - Class I (population of 100,000 and above) |url=https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx |url-status=live |archive-url=https://web.archive.org/web/20230305025821/https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx |archive-date=2023-03-05 |access-date=2023-07-04 |publisher=Office of the Registrar General & Census Commissioner, India}}
+; Specific
+{{reflist}}
+
+{{Cities of India}}
+{{Geography of India}}
+
+[[Category:Lists of cities in India by population| ]]
+[[Category:Indian superlatives|Cities by population]]
+[[Category:Lists of cities in Asia|India by population]]

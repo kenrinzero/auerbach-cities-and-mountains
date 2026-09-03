@@ -1,0 +1,47 @@
+========================================================================
+STAGE 2 RECOMPUTE — modern cities (Auerbach statistics on modern data)
+inputs: data/derived/modern-*.csv (CONTRACT Addendum 2, 2026-09-02)
+========================================================================
+
+[DE admin] n = 131 (>= 50 000), year 2025, national pop 83577140 (2025)
+   band over ranks 15..n: min 57.4 max 87.2 (Auerbach 1910: 45..53)
+   band over all ranks:   min 36.9 max 87.2
+   A.K. mean all ranks 75.87 | tail(15..) 78.85 (1910 printed 47.8 all-ranks)
+   Sp.K. = 90.8 (1910 topographic 74 / administrative 77); primacy-excluded 92.7
+   zeta MLE alpha 1.9261 -> xi 1.0798, bootstrap 95% CI [0.887, 1.219]
+   OLS xi 0.8397 (SE 0.0103, HC1 0.0606, HC3 0.0157)
+
+[DE FUA] n = 89, year 2025
+   band over ranks 15..n: min 71.1 max 158.4
+   A.K. mean all ranks 130.53 | tail(15..) 132.63
+   Sp.K. = 156.2; primacy-excluded 160.3
+[AU-C9 modern] definition effect: Sp.K. FUA/admin - 1 = +72.04% ; A.K. side +72.04%
+   Auerbach 1910: 77/74 - 1 = +4.05%% (receipt D8). P4 predicts modern > 4.05%%.
+
+[12-country modern table] common threshold 100 000; A.K. = mean(r*p) over listed places
+   AT n=  6 yr=2025 A.K.    8.67  Sp.K.  94.2  (primacy-excl  63.0)
+   BE n= 10 yr=2024 A.K.   10.57  Sp.K.  89.5  (primacy-excl  76.2)
+   CH n=  7 yr=2025 A.K.    9.71  Sp.K. 107.3  (primacy-excl  89.7)
+   DE n= 84 yr=2025 A.K.   73.94  Sp.K.  88.5  (primacy-excl  89.5)
+   ES n= 61 yr=2024 A.K.   56.33  Sp.K. 115.9  (primacy-excl 121.2)
+   FR n= 48 yr=2022 A.K.   46.08  Sp.K.  67.7  (primacy-excl  72.7)
+   HU n=  8 yr=2024 A.K.    7.88  Sp.K.  82.2  (primacy-excl  65.4)
+   IN n=339 yr=2011 A.K.  428.88  Sp.K.  34.0  (primacy-excl  34.0)
+   IT n= 46 yr=2025 A.K.   40.86  Sp.K.  69.3  (primacy-excl  67.9)
+   NL n= 31 yr=2024 A.K.   26.51  Sp.K. 147.7  (primacy-excl 147.5)
+   RU n=168 yr=2021 A.K.  170.65  Sp.K. 117.9  (primacy-excl 126.9)
+   UK n=119 yr=2018 A.K.  101.52  Sp.K. 153.2  (primacy-excl 173.0)
+   US n=350 yr=2024 A.K.  263.92  Sp.K.  77.6  (primacy-excl  79.0)
+   modern Sp.K. ordering: UK > NL > RU > ES > CH > AT > BE > DE > HU > US > IT > FR > IN
+[AU-C5 modern / P3] Kendall tau(1913, modern) on 9 1:1 complexes = +0.556
+   permutation null (10 000): mean -0.004 sd 0.265; two-sided p = 0.0436
+   1913 ordering on these: NL > UK > BE > CH > DE > US > IT > FR > ES
+   modern ordering on these: UK > NL > ES > CH > BE > DE > US > IT > FR
+
+[tau sensitivity arms] pooled successor complexes, common 100 k threshold
+   AT+HU pooled (successor of Austria-Hungary, 1913 Sp.K. 32): n=14, Sp.K. 74.8
+   IN as PARTIAL successor of Britisch-Indien (1913 Sp.K. 11): PK/BD city lists not
+   landed; recorded deviation - the plan's full IN+PK+BD pool remains open.
+   RU as successor of European Russia (1913 Sp.K. 19): Sp.K. 117.9
+   tau primary (9): +0.5556 p=0.0439 | tau1 (11): +0.6364 p=0.0058 | tau2 (12): +0.4545 p=0.0423
+   permutation nulls (10 000, seed 20260903): tau1 mean -0.0003 sd 0.232; tau2 mean -0.0016 sd 0.222

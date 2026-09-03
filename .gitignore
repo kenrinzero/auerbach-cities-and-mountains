@@ -1,0 +1,37 @@
+# ---------------------------------------------------------------------------
+# Source material not redistributed (see README, "Source material")
+# ---------------------------------------------------------------------------
+
+# paper/ holds the 1913 scan (~19.5 MB, library digitisation of unstated terms)
+# and Antonio Ciccone's 2023 English translation, which is a copyrighted modern
+# scholarly work. Neither is ours to redistribute.
+# What the historical limb actually rests on is shipped instead: the double-entry
+# transcription in data/derived/auerbach-1913-*.csv and the discrepancy record in
+# results/stage1-transcription-diff.md.
+paper/
+
+# Metron 7(2) (1928) is a whole third-party journal issue mirrored from ISTAT's
+# digital library, containing other authors' articles alongside Saibante's. Only
+# the transcribed 17-country table is redistributed. Source URL, byte size and
+# SHA-256 are recorded in data/CONTRACT.md, Addendum 1.
+data/raw/saibante-1928/
+
+# ---------------------------------------------------------------------------
+# Atelier working files (see README, "Working files not in this repository")
+# ---------------------------------------------------------------------------
+
+# The control-plane stub: orients an AI agent inside the owner's private project
+# tracker and carries absolute paths into it.
+AGENTS.md
+
+# Agent-to-agent stage work orders. They task a named agent with a session-sized
+# scope and route its audit; the work they directed is shipped, the tasking is not.
+STAGE3_WORK_ORDER.md
+STAGE4_WORK_ORDER.md
+
+# ---------------------------------------------------------------------------
+# Build detritus
+# ---------------------------------------------------------------------------
+
+__pycache__/
+*.pyc

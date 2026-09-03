@@ -1,0 +1,1477 @@
+{{short description|none}}
+{{about|mountains by height above sea level|a list of mountains by topographic prominence|List of mountain peaks by prominence|other uses|List of mountains}}
+{{use dmy dates|date=August 2026}}
+[[File:Mount Everest as seen from Drukair2 PLW edit.jpg|thumb|upright=1.5|Aerial view of [[Mount Everest]] from the south. The peak rises over [[Lhotse]], while [[Nuptse]] is the ridge on the left.]]
+
+There are at least 108 [[mountain]]s on Earth with [[elevation]]s of {{cvt|7200|m|ft mi|1}} or greater above [[sea level]]. Of these, 14 are more than {{cvt|8000|m|ft mi|1}}.<ref>{{cite web |last=Launchbury|first=Eleanor |date=2024-01-15 |title=The 10 Highest Mountains in the World Nepal |publisher=World Stats and Facts |url=https://worldstatsandfacts.com/geography/highest-mountains-in-the-world |access-date=2024-02-14 |website=worldstatsandfacts.com |url-status=dead |language=en-US}}</ref> The vast majority of these mountains are part of either the [[Himalayas]] or the [[Karakoram]] mountain ranges located on the edge of the [[Indian plate]] and [[Eurasian plate]] in <!-- countries in alphabetical order of their common names -->[[China]], [[India]], [[Nepal]], and [[Pakistan]].{{efn|name=Kashmir|The sovereignty over the [[Kashmir region]], containing much of the area of Karakoram and Western Himalayas, is disputed and the region is partly administered by India, Pakistan and China.}}
+
+==Discussion==
+[[Image:relative-height.png|thumb|Figure demonstrating the concept of [[topographic prominence]]: The prominence of a peak is the height of the peak's [[summit]] above the lowest contour line encircling it and no higher summit. For example, vertical arrows show the topographic prominence of three peaks on an island. A dotted horizontal line links each peak (except the highest) to its key [[col]].]]
+
+The dividing line between a mountain with multiple  peaks and separate mountains is not always clear (see also [[Highest unclimbed mountain]]). A popular and intuitive way to distinguish mountains from subsidiary peaks is by their height above the highest saddle connecting it to a higher summit, a measure called [[topographic prominence]] or re-ascent (the higher summit is called the "parent peak"). A common definition of a mountain is a summit with {{Convert|300|m|ft|-0|abbr=on}} prominence. Alternatively, a relative prominence (prominence/height) is used (usually 7–8%) to reflect that in higher mountain ranges everything is on a larger scale. The table below lists the highest 100 summits with at least {{Convert|500|m|ft|-1|abbr=on}} prominence, approximating a 7% relative prominence. A drawback of a prominence-based list is that it may exclude well-known or spectacular mountains that are connected via a high ridge to a taller summit, such as [[Eiger]], [[Nuptse]] or [[Annapurna IV]]. A few such peaks and mountains with nearly sufficient prominence are included in this list, and given a rank of "S".
+
+It is very unlikely that all given heights are correct to the nearest metre; indeed, the sea level is often problematic to define when a mountain is remote from the sea. Different sources often differ by many metres, and the heights given below may well differ from those elsewhere in this encyclopedia. As an extreme example, [[Ulugh Muztagh]] on the north [[Tibetan Plateau]] is often listed as {{Convert|7723|m|ft|0|abbr=on}} to {{Convert|7754|m|ft|0|abbr=on}}, but appears to be only {{Convert|6973|m|ft|0|abbr=on}} to {{Convert|6987|m|ft|0|abbr=on}}. Some mountains differ by more than {{Convert|100|m|ft|-1|abbr=on}} on different maps, while even very thorough current measurements of [[Mount Everest#Surveys|Mount Everest]] range from {{Convert|8840|m|ft|0|abbr=on}} to {{Convert|8849|m|ft|0|abbr=on}}. These discrepancies serve to emphasize the uncertainties in the listed heights.
+
+Though some parts of the world, especially the most mountainous parts, have never been thoroughly mapped, it is unlikely that any mountains this high have been overlooked, because [[synthetic aperture radar]] can and [[Shuttle Radar Topography Mission|has been]] used to measure elevations of most otherwise inaccessible places. Still, heights or prominences may be revised, so that the order of the list may change and even new mountains could enter the list over time. To be safe, the list has been extended to include all {{Convert|7200|m|ft|0|abbr=on}} peaks.
+
+The highest mountains above sea level are generally not the highest mountains above the surrounding terrain, also called the highest free-standing mountains. There is no precise definition of surrounding base, but [[Denali]],<ref>{{cite news |author=<!--not stated--> |date=15 August 2022 |title=Denali, AK, Not Everest, is the Tallest Mountain on Land in the World |url=https://snowbrains.com/denali-ak-not-everest-is-the-tallest-mountain-on-land-in-the-world/ |work=SnowBrains |location= |access-date=29 December 2022}}</ref> [[Mount Kilimanjaro]]<ref>{{cite web |url=https://thejerker.com/mount-kilimanjaro-the-largest-free-standing-mountain-in-the-world-take-a-geotourism-around-the-african-wonder/ |title= Mount Kilimanjaro The largest free standing mountain in the world, Take a geotourism around the African wonder|last=sutikshan  |date=20 October 2020 |website=thejerker.com |publisher= |access-date=29 December 2022 |quote=}}</ref> and [[Nanga Parbat]]<ref>{{cite web |url= https://www.guinnessworldrecords.com/world-records/tallest-mountain-face|title=Tallest mountain face |author=<!--Not stated--> |date=2 December 2004 |website= |publisher=Guinness World Records |access-date=29 December 2022 |quote=}}</ref> are possible candidates for the tallest mountain on land by this measure.
+
+The bases of mountain islands are below sea level, and given this consideration. [[Mauna Kea]] ({{Convert|4207|m|ft|0|abbr=on}} above sea level) is the [[world]]'s tallest mountain and [[volcano]], rising about {{Convert|10203|m|ft|0|abbr=on}} from the [[Pacific Ocean]] floor. [[Mount Lamlam]] on [[Guam]] is periodically claimed to be among the world's highest mountains because it is adjacent to the [[Mariana Trench]]; the most extreme claim is that, measured from [[Challenger Deep]] {{convert|313|km|mi}} away, Mount Lamlam is {{convert|37820|feet|m|order=flip}} tall.<ref>{{cite web |last1=McMahon |first1=Mary |title=How do Scientists Determine the World's Tallest Mountain? |url=https://www.infobloom.com/how-do-scientists-determine-the-worlds-tallest-mountain.htm |website=Info Bloom |access-date=March 13, 2021 |date=January 23, 2021}}</ref><ref>{{cite web |last1=Fichtl |first1=Marcus |title=Guam's Mount Lamlam technically world's tallest mountain, though most of it is underwater |url=https://www.stripes.com/lifestyle/guam-s-mount-lamlam-technically-world-s-tallest-mountain-though-most-of-it-is-underwater-1.485437 |website=Stars and Stripes |access-date=March 13, 2021 |date=August 31, 2017}}</ref> [[Ojos del Salado]] has the greatest rise on [[Earth]]: {{Convert|13420|m|ft|0|abbr=on}} vertically to the summit{{Citation needed|date=December 2009}} from the bottom of the [[Atacama Trench]], which is about {{Convert|560|km|mi|-1|abbr=on}} away, although most of this rise is not part of the mountain.
+
+The highest mountains are also not generally the most voluminous. [[Mauna Loa]] ({{Convert|4169|m|ft|0|abbr=on|disp=or}}) is the largest mountain on Earth in terms of base area (about {{convert|2000|sqmi|km2|-2|abbr=on|disp=or|order=flip}}) and volume (about {{Convert|10000|mi3|km3|-3|abbr=on|disp=or|order=flip}}), although, due to the intergrade of [[lava]] from [[Kilauea]], [[Hualalai]] and [[Mauna Kea]], the volume can only be estimated based on surface area and height of the edifice. [[Mount Kilimanjaro]] is the largest non-shield volcano in terms of both base area ({{convert|245|sqmi|km2|0|abbr=on|disp=or|order=flip}}) and volume ({{Convert|1150|mi3|km3|0|abbr=on||disp=or|order=flip}}). [[Mount Logan]] is the largest non-volcanic mountain in base area ({{convert|120|sqmi|km2|0|abbr=on|disp=or|order=flip}}).
+
+The highest mountains above sea level are also not those with peaks farthest from the centre of the Earth, because the [[shape of the Earth]] is not spherical. Sea level closer to the equator is several kilometres farther from the centre of the Earth. The summit of [[Chimborazo (volcano)|Chimborazo]], [[Ecuador]]'s tallest mountain, is usually considered to be the farthest point from the Earth's centre, although the southern summit of [[Peru]]'s tallest mountain, [[Huascarán]], is another contender.<ref>{{cite web|last=Krulwich|first=Robert|url=https://www.npr.org/templates/story/story.php?storyId=9428163|title=The 'Highest' Spot on Earth?|website=[[NPR]] |date=April 7, 2007|access-date=21 March 2009}}</ref> Both have elevations above sea level more than {{cvt|2|km|mi}} less than that of Everest.
+
+==Geographical distribution==
+{{Bar box
+|title=Number of mountain peaks {{br}}over 7,200 metres (23,622&nbsp;ft) above sea level, including subsidiary peaks.{{efn|name=Kashmir}}
+|float=right
+|barwidth=200px
+|bars=
+{{bar pixel|China|red|200||50}}
+{{bar pixel|Pakistan|green|168||42}}
+{{bar pixel|Nepal|indigo|128||34}}
+{{bar pixel|India|orange|108||27}}
+{{bar pixel|Bhutan|#FFC133|20||5}}
+{{bar pixel|Afghanistan|#000|4||1}}
+{{bar pixel|Kyrgyzstan|#C70039|4||1}}
+{{bar pixel|Tajikistan|#0C9634|4||1}}
+}}
+{{GeoGroup}}
+Almost all mountains in the list are located in the [[Himalaya]] and [[Karakoram]] ranges to the south and west of the Tibetan Plateau. All peaks {{Convert|7000|m|ft|-0|abbr=on}} or higher are located in [[East Asia|East]], [[Central Asia|Central]] or [[South Asia]] in a rectangle edged by [[Noshaq]] ({{Convert|7492|m|ft|0|abbr=on|disp=or}}) on the [[Durand Line|Afghanistan–Pakistan border]] in the west, [[Jengish Chokusu]] (Tuōmù'ěr Fēng, {{Convert|7439|m|ft|0|abbr=on|disp=or}}) on the [[Kyrgyzstan]]–[[Xinjiang]] border to the north, [[Gongga Shan]] (Minya Konka, {{Convert|7556|m|ft|0|abbr=on|disp=or}}) in [[Sichuan]] to the east, and [[Kabru]] ({{Convert|7412|m|ft|0|abbr=on|disp=or}}) on the [[Sikkim]]–[[Nepal]] border to the south.
+
+{{As of|2025|November}}, the highest peaks on four of the mountains — [[Gangkhar Puensum]], [[Labuche Kang III/East|Labuche Kang III]], [[Tongshanjiabu]] and [[Apsarasas Kangri]],{{efn|name=Apsarasas}} all located in [[India]], [[Bhutan]] or [[China]]<!--- disputes not important, still one of these two countries ---> — have not been ascended. The most recent peak to have its first ever ascent is [[Karjiang]], in China, on 13 August 2024.
+
+The highest mountain [[Seven Summits|outside of Asia]] is [[Aconcagua]] ({{Convert|6962|m|ft|0|abbr=on|disp=or}}), the 189th highest in the world.<ref>{{cite web |title=Mount Aconcagua |date=13 July 2021 |url=https://www.worldatlas.com/mountains/mount-aconcagua.html |publisher=worldatlas.org |access-date=August 17, 2021}}</ref>
+<!--
+The locations of the highest mountains are shown on the composite satellite image of High Asia below. The numbers refer to the ranking in the list. For clarity, lower peaks with labels overlapping higher peaks are left out of the main image. The boxed regions are those with the highest density of summits and are enlarged in two separate images to show all peaks.
+
+{{multiple image
+| align     = center
+| direction = horizontal
+| header    = 
+| width     =
+
+| image1    = Highestmtns.png
+| caption1  = Composite NASA map of highest peaks
+
+| image2    = Hindu Kush and Karakoram peaks annotated (NASA satellite Terra MODIS).png
+| caption2  = Location of peaks in the Hindu Kush and Karakoram
+
+| image3    = Nepal Himalaya peaks annotated (NASA satellite Terra MODIS).png
+| caption3  = Location of peaks in the Nepal Himalaya
+}}-->
+{{clear}}
+
+==List of highest peaks==
+{{Table alignment}}
+{| class="wikitable sortable col1center col-3center"
+|+List of Earth's highest peaks with their prominence and parent mountain
+!Rank{{efn-lr|group=header|Peaks which are considered sub-prominences are given a rank of "S".}}<!-- subprominences have a sort value of the preceding peak's rank +100 -->
+!Mountain name(s)
+!Height<br />(rounded){{efn-lr|group=header|For Nepal, the heights indicated on the Nepal Topographic Maps are followed. For China and the [[Baltoro Muztagh|Baltoro]] Karakoram, the heights are those of Mi Desheng's "The Maps of Snow Mountains in China". For the [[Hispar Muztagh|Hispar Karakoram]] the heights on a Russian 1:100,000 topo map.<ref>{{cite web archived|url=http://echidna.rutgers.edu/expeditions/Hispar/Default.htm |title=Hispar area: expedition reports and maps |access-date=2008-07-15 |url-status=dead |archive-date=2008-04-27 }}</ref> Elsewhere, unless otherwise indicated, heights are those in {{sfnlink|Neate|1989}}.}}
+!Prominence<br />(rounded){{efn-lr|group=header|Prominences over {{cvt|1500|m}} are from Peaklist.org,<ref name=pklist>{{cite web|url=http://www.peaklist.org/ultras.html|title=The Ultra Project Prominence Lists|website=peaklist.org|access-date=2024-12-25}}</ref> the remainder from Jurgalski and de Ferrantin.<ref>{{cite web|url=http://www.8000ers.com/cms/en/download.html?func=startdown&id=168|first1=Eberhard|last1=Jurgalski|first2=Jonathan|last2=de Ferranti|title=High Asia - All mountains and main peaks above 6650 m|date=2009-05-01}}</ref>}}
+!Range
+!Coordinates{{efn-lr|group=header|Coordinates were established by comparing topographical maps with satellite images and [[Shuttle Radar Topography Mission|SRTM]]-derived terrain maps. The terrain maps and satellite images often do not match exactly. An asterisk (*) indicates that the map and image are shifted by more than {{cvt|100|m}} and/or that the landscapes around the summit do not match.}}
+![[Line parent|Parent mountain]]<br />{{efn-lr|group=header|The first higher mountain beyond the key saddle with at least {{cvt|500|m}} prominence itself.}}
+!First<br>ascent{{efn-lr|group=header|The number of ascents and failed attempts up to 2004 is extracted from Alpine Club Himalayan Index.<ref>{{cite web|url=http://www.alpine-club.org.uk/hi/|title=Alpine Club Himalayan Index}}</ref> These are the number of expeditions (not individuals) that announced their ascent or attempt in a journal. They are probably quite accurate for the rarely climbed peaks (though omissions were noted), but greatly underestimate the number of ascending parties on the easier and/or more popular mountains, like most [[eight-thousander]]s. For instance, up to 2004 Mount Everest was scaled 2,251 times by individuals.<ref>{{cite web|url=http://www.everesthistory.com/everestsummits/summitsbyyear.htm|title=Summits and Deaths by year|website=Everesthistory.com}}</ref>}}
+! Country/<br>Region administered by{{efn|name=Kashmir}}
+! class=unsortable|Image
+|-
+|1
+| data-sort-value="Everest, Mount" |{{cslist|[[Mount Everest]]|Sagarmatha|Chomolungma}}
+|{{convert|8848.86|m|ft|0|adj=ri0}}<br />{{efn|group=data|Given the large differences between multiple "definitive" measurements of [[Mount Everest]], the height agreed by China and Nepal on 8 December 2020 {{cvt|8848.86|m}} is used for the rounded values. For more information, see [[Mount Everest#Surveys]].}}
+|data-sort-value=8848.86|{{convert|8848.86|m|ft|0|adj=ri0}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|qid=Q513|format=dms|name= 1. Mount Everest / Sagarmatha / Chomolungma / Zhumulangma (8848 m)}}}}
+| {{n/a}}
+|[[1953 British Mount Everest expedition|1953]]
+|{{cslist|[[Nepal]]|[[China]]}}
+|[[File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg|frameless|upright=0.7]]
+|-
+|2
+|[[K2]]
+|{{convert|8611|m|ft}}
+|data-sort-value=4020|{{convert|4020|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|52|53|N|76|30|48|E|name= 2. K2 / Qogir / Godwin Austen (8611 m)}}}}
+|[[Mount Everest]]<!-- Everest is parent to K2 by the definition of [[topographic prominence]]. See also, the discussion page. -->
+|[[1954 Italian Karakoram expedition to K2|1954]]
+|{{cslist|[[Pakistan]]|[[China]]{{efn|Partially in Pakistani-administered [[Gilgit-Baltistan]] region and partially in Chinese-administered [[Trans-Karakoram Tract]] of the disputed [[Kashmir]]}}<ref>{{cite EBO |encyclopedia=Britannica|url=https://www.britannica.com/place/K2|title=K2}}</ref>}}
+|[[File:Chogori.jpg|frameless|upright=0.7]]
+|-
+|3
+|[[Kangchenjunga]]
+|{{convert|8586|m|ft}}
+|data-sort-value=3922|{{convert|3922|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|42|12|N|88|08|51|E|name= 3. Kangchenjunga (8586 m)}} *}}
+|[[Mount Everest]]
+|[[1955 British Kangchenjunga expedition|1955]]
+|{{cslist|[[Nepal]]|[[India]]}}
+|[[File:Kangch-Goechala.jpg|frameless|upright=0.7]]
+|-
+|4
+|[[Lhotse]]
+|{{convert|8516|m|ft}}
+|data-sort-value=610|{{convert|610|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|27|57|42|N|86|55|59|E|name= 4. Lhotse (8516 m)}}}}
+|[[Mount Everest]]
+|1956
+|{{cslist|[[China]]|[[Nepal]]}}
+|[[File:Lhotse-fromChukhungRi.jpg|frameless|upright=0.7]]
+|-
+|5
+|[[Makalu]]
+|{{convert|8485|m|ft}}
+|data-sort-value=2378|{{convert|2378|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|27|53|23|N|87|05|20|E|name= 5. Makalu (8485 m)}}}}
+|[[Mount Everest]]
+|[[1955 French Makalu expedition|1955]]
+|{{cslist|[[Nepal]]|[[China]]}}
+|[[File:Makalu.jpg|frameless|upright=0.7]]
+|-
+|6
+|[[Cho Oyu]]
+|{{convert|8188|m|ft}}<br />{{efn|group=data|Cho Oyu's height is {{cvt|8,188|m}} according to the Nepal Survey's 1996 topographical map,<ref>{{cite map|url=http://pahar.in/pahar/Maps--Primary/Nepal/Nepal%20Topo%20Maps/2886%2015%20Pasan%20Lhamu%20Chuli.jpg|title=H8615|publisher=Nepal Survey}}</ref> which represents the best known measurement to date. Previous estimates have been {{cvt|8,153|m}} and {{cvt|8,201|m}}.}}
+|data-sort-value=2340|{{convert|2340|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|28|05|39|N|86|39|39|E|name= 6. Cho Oyu (8188 m)}}}}
+|[[Mount Everest]]
+|1954
+|{{cslist|[[China]]|[[Nepal]]}}
+|[[File:ChoOyu-fromGokyo.jpg|frameless|upright=0.7]]
+|-
+|7
+|[[Dhaulagiri|Dhaulagiri I]]
+|{{convert|8167|m|ft}}
+|data-sort-value=3357|{{convert|3357|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|41|48|N|83|29|35|E|name= 7. Dhaulagiri I (8167 m)}}}}
+|[[K2]]
+|1960
+|[[Nepal]]
+|[[File:Dhaulagiri_mountain.jpg|frameless|upright=0.7]]
+|-
+|8
+|[[Manaslu]]
+|{{convert|8163|m|ft}}
+|data-sort-value=3092|{{convert|3092|m|ft}}
+|[[Manaslu]] [[Himalaya]]
+|{{small|{{Coord|28|33|00|N|84|33|35|E|name= 8. Manaslu (8163 m)}}}}
+|[[Cho Oyu]]
+|1956
+|[[Nepal]]
+|[[File:Sunrise,_Manaslu.jpg|frameless|upright=0.7]]
+|-
+|9
+|[[Nanga Parbat]]
+|{{convert|8126|m|ft}}
+|data-sort-value=4608|{{convert|4608|m|ft}}
+|[[Nanga Parbat]] [[Himalaya]]
+|{{small|{{Coord|35|14|14|N|74|35|21|E|name= 9. Nanga Parbat (8126 m)}}}}
+|[[Dhaulagiri]]
+|[[1953 German–Austrian Nanga Parbat expedition|1953]]
+|[[Pakistan]]{{efn|group=country|name=pk-gb|In Pakistani-administered [[Gilgit-Baltistan]]}}
+|[[File:Fairy_Meadows_and_the_view_of_Nanga_Parbat.jpg|frameless|upright=0.7]]
+|-
+|10
+|[[Annapurna|Annapurna I]]
+|{{convert|8091|m|ft}}
+|data-sort-value=2984|{{convert|2984|m|ft}}
+|[[Annapurna]] [[Himalaya]]
+|{{small|{{Coord|28|35|44|N|83|49|13|E|name= 10. Annapurna I (8091 m)}}}}
+|[[Cho Oyu]]
+|[[1950 French Annapurna expedition|1950]]
+|[[Nepal]]
+|[[File:South_Face_of_Annapurna_I_(Main).jpg|frameless|upright=0.7]]
+|-
+|11
+|data-sort-value="Gasherbrum I" |{{cslist|[[Gasherbrum I]]|Hidden Peak|K5}}
+|{{convert|8080|m|ft}}
+|data-sort-value=2155|{{convert|2155|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|43|28|N|76|41|47|E|name= 11. Gasherbrum I / Hidden Peak / K5 (8080 m)}}}}
+|[[K2]]
+|1958
+|{{cslist|[[Pakistan]]{{efn|group=country|name=pk-gb}}|[[China]]}}
+|[[File:HiddenPeak.jpg|frameless|upright=0.7]]
+|-
+|12
+|[[Broad Peak]]
+|{{convert|8051|m|ft}}
+|{{convert|1701|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|48|38|N|76|34|06|E|name= 12. Broad Peak / K3 (8051 m)}}}}
+|[[Gasherbrum I]]
+|1957
+|{{cslist |[[Pakistan]], [[China]]}}
+|[[File:7_15_BroadPeak.jpg|frameless|upright=0.7]]
+|-
+|13
+| data-sort-value="Gasherbrum II" |{{cslist|[[Gasherbrum II]]|K4}}
+|{{convert|8035|m|ft}}
+|{{convert|1524|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|45|28|N|76|39|12|E|name= 13. Gasherbrum II / K4 (8035 m)}}}}
+|[[Gasherbrum I]]
+|1956
+|{{cslist |[[Pakistan]], [[China]]}}
+|[[File:Gasherbrum2.jpg|frameless|upright=0.7]]
+|-
+|14
+| data-sort-value="Shishapangma" |{{cslist|[[Shishapangma]]|Gosainthan}}
+|{{convert|8027|m|ft}}
+|{{convert|2897|m|ft}}
+|[[Jugal Himal|Jugal]] [[Himalaya]]
+|{{small|{{Coord|28|21|12|N|85|46|43|E|name= 14. Shishapangma (8027 m)}}}}
+|[[Cho Oyu]]
+|1964
+|[[China]]
+|[[File:Shishapangma.jpg|frameless|upright=0.7]]
+|-
+|15
+|[[Gyachung Kang]]
+|{{convert|7952|m|ft}}
+|{{convert|672|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|28|05|53|N|86|44|42|E|name= 15. Gyachung Kang (7952 m)}}}}
+|[[Cho Oyu]]
+|1964
+|{{cslist|[[Nepal]]|[[China]]}}
+|[[File:Gyachung_Kang.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10015" |S
+| data-sort-value="Gasherbrum III" |{{cslist|[[Gasherbrum III]]|K3a}}
+|{{convert|7946|m|ft}}
+|{{convert|355|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|45|33|N|76|38|30|E|name= Gasherbrum III (7946 m)}}}}
+|[[Gasherbrum II]]
+|1975
+|{{cslist |[[Pakistan]], [[China]]}}
+|[[File:Gasherbrum_III.jpg|frameless|upright=0.7]]
+|-
+|16
+|[[Annapurna II]]
+|{{convert|7937|m|ft}}
+|{{convert|2437|m|ft}}
+|[[Annapurna]] [[Himalaya]]
+|{{small|{{Coord|28|32|05|N|84|07|19|E|name= 16. Annapurna II (7937 m)}}}}
+|[[Annapurna I]]
+|1960
+|[[Nepal]]
+|[[File:Annapurna_II_north.jpg|frameless|upright=0.7]]
+|-
+|17
+| data-sort-value="Gasherbrum IV" |{{cslist|[[Gasherbrum IV]]|K3}}
+|{{convert|7932|m|ft}}
+|{{convert|712|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|45|38|N|76|36|58|E|name= 17. Gasherbrum IV (7932 m)}}}}
+|[[Gasherbrum III]]
+|1958
+|[[Pakistan]]<!-- The North Peak ("Bei Tip", 7912 m)  is on the border -->
+|[[File:Gasherbrum_IV.JPG|frameless|upright=0.7]]
+|-
+|18
+|[[Himalchuli]]
+|{{convert|7893|m|ft}}
+|{{convert|1633|m|ft}}
+|[[Manaslu]] [[Himalaya]]
+|{{small|{{Coord|28|26|12|N|84|38|23|E|name= 18. Himalchuli (7893 m)}} *}}
+|[[Manaslu]]
+|1960
+|[[Nepal]]
+|[[File:Himalchuli_from_south.jpg|frameless|upright=0.7]]
+|-
+|19
+|[[Distaghil Sar]]
+|{{convert|7884|m|ft}}
+|{{convert|2525|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|19|33|N|75|11|16|E|name= 19. Distaghil Sar (7884 m)}}}}
+|[[K2]]
+|1960
+|[[Pakistan]]
+|
+|-
+|20
+|[[Ngadi Chuli]]
+|{{convert|7871|m|ft}}
+|{{convert|1011|m|ft}}
+|[[Manaslu]] [[Himalaya]]
+|{{small|{{Coord|28|30|12|N|84|34|00|E|name= 20. Ngadi Chuli (7871 m)}}}}
+|[[Manaslu]]
+|1979
+|[[Nepal]]
+|[[File:Manaslu_Himal_air_view.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10020" |S
+|[[Nuptse]]
+|{{convert|7864|m|ft}}
+|{{convert|305|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|27|58|03|N|86|53|13|E|name= Nuptse (7864 m)}}}}
+|[[Lhotse]]
+|1961
+|[[Nepal]]
+|[[File:Nuptse,_Nepal,_Himalayas.jpg|frameless|upright=0.7]]
+|-
+|21
+|[[Khunyang Chhish]]
+|{{convert|7823|m|ft}}
+|{{convert|1765|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|12|19|N|75|12|28|E|name= 21. Khunyang Chhish (7823 m)}} *}}
+|[[Distaghil Sar]]
+|1971
+|[[Pakistan]]
+|[[File:Se9_C2A_(2).jpg|frameless|upright=0.7]]
+|-
+|22
+| data-sort-value="Masherbrum" |{{cslist|[[Masherbrum]]|K1}}
+|{{convert|7821|m|ft}}
+|{{convert|2457|m|ft}}
+|[[Masherbrum Mountains|Masherbrum]] [[Karakoram]]
+|{{small|{{Coord|35|38|28|N|76|18|21|E|name= 22. Masherbrum / K1 (7821 m)}}}}
+|[[Gasherbrum I]]
+|1960
+|[[Pakistan]]
+|[[File:Masherbrum.jpg|frameless|upright=0.7]]
+|-
+|23
+|[[Nanda Devi]]
+|{{convert|7817|m|ft}}
+|{{convert|3139|m|ft}}
+|[[Garhwal Himalaya|Garhwal]] [[Himalaya]]
+|{{small|{{Coord|30|22|33|N|79|58|15|E|name= 23. Nanda Devi (7816 m)}}}}
+|[[Dhaulagiri]]
+|[[Shipton–Tilman Nanda Devi expeditions#British–American Himalayan Expedition, 1936|1936]]
+|[[India]]
+|[[File:Mt._Nanda_Devi.jpg|frameless|upright=0.7]]
+|- i
+|24
+|[[Chomo Lonzo]]
+|{{convert|7804|m|ft}}
+|{{convert|590|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|27|55|50|N|87|06|28|E|name= 24. Chomo Lonzo (7804 m)}}}}
+|[[Makalu]]
+|1954
+|[[China]]
+|[[File:Everest Region in Tibet.jpg|frameless|upright=0.7]]
+|-
+|25
+|[[Batura Sar]]
+|{{convert|7795|m|ft}}
+|{{convert|3118|m|ft}}
+|[[Batura Muztagh|Batura]] [[Karakoram]]
+|{{small|{{Coord|36|30|37|N|74|31|21|E|name= 25. Batura Sar (7795 m)}}}}
+|[[Distaghil Sar]]
+|1976
+|[[Pakistan]]
+| [[File:Batura_Sar.jpg|frameless|upright=0.7]]
+|-
+|26
+|[[Rakaposhi]]
+|{{convert|7788|m|ft}}
+|{{convert|2818|m|ft}}
+|[[Rakaposhi-Haramosh Mountains|Rakaposhi-Haramosh]] [[Karakoram]]
+|{{small|{{Coord|36|08|33|N|74|29|22|E|name= 26. Rakaposhi (7788 m)}}}}
+|[[Khunyang Chhish]]
+|1958
+|[[Pakistan]]
+|[[File:Rakaposhi & Autumn.jpg|frameless|upright=0.7]]
+|-
+|27
+|[[Namcha Barwa]]
+|{{convert|7782|m|ft}}
+|{{convert|4106|m|ft}}
+|[[Assam Himalaya|Assam]] [[Himalaya]]
+|{{small|{{Coord|29|37|52|N|95|03|19|E|name= 27. Namcha Barwa (7782 m)}}}}
+|[[Kangchenjunga]]
+|1992
+|[[China]]
+|[[File:Namcha_Barwa_from_the_west.jpg|frameless|upright=0.7]]
+|-
+|28
+|[[Kanjut Sar]]
+|{{convert|7760|m|ft}}
+|{{convert|1660|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|12|20|N|75|25|01|E|name= 28. Kanjut Sar (7760 m)}}}}
+|[[Khunyang Chhish]]
+|1959
+|[[Pakistan]]
+| [[File:Kanjut_Sar.jpg|frameless|upright=0.7]]
+|-
+|29
+|[[Kamet]]
+|{{convert|7756|m|ft}}
+|{{convert|2825|m|ft}}
+|[[Garhwal Himalaya|Garhwal]] [[Himalaya]]
+|{{small|{{Coord|30|55|12|N|79|35|30|E|name= 29. Kamet (7756 m)}} *}}
+|[[Nanda Devi]]
+|1931
+|[[India]]
+|[[File:Kamet_Closeup.jpg|frameless|upright=0.7]]
+|-
+|30
+|[[Dhaulagiri|Dhaulagiri II]]
+|{{convert|7751|m|ft}}
+|{{convert|2397|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|45|46|N|83|23|18|E|name= 30. Dhaulagiri II (7751 m)}}}}
+|[[Dhaulagiri]]
+|1971
+|[[Nepal]]
+|
+|-
+|31
+| data-sort-value="Saltoro Kangri" |{{cslist|[[Saltoro Kangri]]|K10}}
+|{{convert|7742|m|ft}}
+|{{convert|2160|m|ft}}
+|[[Saltoro Mountains|Saltoro]] [[Karakoram]]
+|{{small|{{Coord|35|23|57|N|76|50|53|E|name= 31. Saltoro Kangri / K10 (7742 m)}} *}}
+|[[Gasherbrum I]]
+|1962
+| {{cslist |[[Pakistan]], [[India]]}}
+|[[File:Saltoro_Kangri.jpg|frameless|upright=0.7]]
+|- .
+|32
+| data-sort-value="Jannu" |{{cslist|[[Kumbhakarna Mountain|Kumbhakarna]]|Jannu}}
+|{{convert|7711|m|ft}}
+|{{convert|1036|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|40|56|N|88|02|40|E|name= 32. Jannu (7711 m)}} *}}
+|[[Kangchenjunga]]
+|1962
+|[[Nepal]]
+|[[File:Jannu North Face.jpg|frameless|upright=0.7]]
+|-
+|33
+|[[Tirich Mir]]
+|{{convert|7708|m|ft}}
+|{{convert|3910|m|ft}}
+|[[Hindu Kush]]
+|{{small|{{Coord|36|15|19|N|71|50|30|E|name= 33. Tirich Mir (7708 m)}} *}}
+|[[Batura Sar]]
+|1950
+|[[Pakistan]]
+|[[File:Tirich_Mir_(The_Kingdom_Of_Djinns_And_Fairies).jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10033" |S
+|[[Molamenqing]]
+|{{convert|7703|m|ft}}
+|{{convert|433|m|ft}}
+|[[Langtang]] [[Himalaya]]
+|{{small|{{Coord|28|21|18|N|85|48|35|E|name= Molamenqing (7703 m)}}}}
+|[[Shishapangma]]
+|1981
+|[[China]]
+|
+|-
+|34
+|[[Gurla Mandhata]]
+|{{convert|7694|m|ft}}
+|{{convert|2788|m|ft}}
+|[[Nalakankar Himal|Nalakankar]] [[Himalaya]]
+|{{small|{{Coord|30|26|19|N|81|17|48|E|name= 34. Gurla Mandhata (7694 m)}}}}
+|[[Dhaulagiri]]
+|1985
+|[[China]]
+|[[File:Mt_Gurla_Mandhata_and_wild_Donkeys.jpg|frameless|upright=0.7]]
+|-
+|35
+| data-sort-value="Saser Kangri" |{{cslist|[[Saser Kangri]] I|K22}}
+|{{convert|7672|m|ft}}
+|{{convert|2304|m|ft}}
+|[[Saser Muztagh|Saser]] [[Karakoram]]
+|{{small|{{Coord|34|52|00|N|77|45|09|E|name= 35. Saser Kangri I / K22 (7672 m)}}}}
+|[[Gasherbrum I]]
+|1973
+|[[India]]
+|[[File:Saser_Kangri_III_and_II.jpg|frameless|upright=0.7]]
+|-
+|36
+|[[Chogolisa]]
+|{{convert|7665|m|ft}}
+|{{convert|1624|m|ft}}
+|[[Masherbrum Mountains|Masherbrum]] [[Karakoram]]
+|{{small|{{Coord|35|36|47|N|76|34|29|E|name= 36. Chogolisa (7665 m)}}}}
+|[[Gasherbrum I]]<!--via the Conway Saddle-->
+|1975
+|[[Pakistan]]
+|[[File:Chogolisa.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10036" |S
+|[[Dhaulagiri|Dhaulagiri IV]]
+|{{convert|7661|m|ft}}
+|{{convert|469|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|44|09|N|83|18|55|E|name= Dhaulagiri IV (7661 m)}}}}
+|[[Dhaulagiri II]]
+|1975
+|[[Nepal]]
+|
+|-
+|37
+|[[Kongur Tagh]]
+|{{convert|7649|m|ft}}
+|{{convert|3585|m|ft}}
+|[[Kongur Shan]] (Eastern [[Pamirs]])
+|{{small|{{Coord|38|35|36|N|75|18|48|E|name= 37. Kongur Tagh (7649 m)}}}}
+|[[Distaghil Sar]]
+|1981
+|[[China]]
+|[[File:Kongur_south.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10037" |S
+|[[Dhaulagiri|Dhaulagiri V]]
+|{{convert|7618|m|ft}}
+|{{convert|340|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|44|02|N|83|21|41|E|name= Dhaulagiri V (7618 m)}} *}}
+|[[Dhaulagiri IV]]
+|1975
+|[[Nepal]]
+|
+|-
+|38
+|[[Shispare]]
+|{{convert|7611|m|ft}}
+|{{convert|1240|m|ft}}
+|[[Batura Muztagh|Batura]] [[Karakoram]]
+|{{small|{{Coord|36|26|26|N|74|40|51|E|name= 38. Shispare (7611 m)}}}}
+|[[Batura Sar]]
+|1974
+|[[Pakistan]]
+|[[File:Shispare_above_Passu_glacier.jpg|frameless|upright=0.7]]
+|-
+|39
+|[[Trivor]]
+|{{convert|7577|m|ft}}
+|data-sort-value=997|{{convert|997|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|17|15|N|75|05|06|E|name= 39. Trivor (7577 m)}} *}}
+|[[Distaghil Sar]]
+|1960
+|[[Pakistan]]
+|[[File:Trivor_(7577m)_(25571147500)_(3to4).jpg|frameless|upright=0.7]]
+|-
+|40
+|[[Gangkhar Puensum]]
+|{{convert|7570|m|ft}}
+|data-sort-value=2995|{{convert|2995|m|ft}}
+|[[Kula Kangri]] [[Himalaya]]
+|{{small|{{Coord|28|02|50|N|90|27|19|E|name= 40. Gangkhar Puensum (7570 m)}} *}}
+|[[Kangchenjunga]]
+|none
+|{{cslist|[[Bhutan]]|[[China]]}}
+|[[File:Gangkhar_puensum_summit.JPG|frameless|upright=0.7]]
+|-
+|41
+| data-sort-value="Gongga Shan" |{{cslist|[[Mount Gongga|Gongga Shan]]|Minya Konka}}
+|{{convert|7556|m|ft}}
+|{{convert|3642|m|ft}}
+|[[Daxue Mountains]] ([[Hengduan Shan]])
+|{{small|{{Coord|29|35|43|N|101|52|47|E|name= 41. Gongga Shan / Minya Konka (7556 m)}}}}
+|[[Mount Everest]]
+|1932
+|[[China]]
+|[[File:%E8%B4%A1%E5%98%8E.jpg|frameless|upright=0.7]]
+|-
+|42
+|[[Annapurna III]]
+|{{convert|7555|m|ft}}
+|{{convert|703|m|ft}}
+|[[Annapurna]] [[Himalaya]]
+|{{small|{{Coord|28|35|06|N|83|59|24|E|name= 42. Annapurna III (7555 m)}}}}
+|[[Annapurna I]]
+|1961
+|[[Nepal]]
+|
+|-
+|43
+|[[Skyang Kangri]]
+|{{convert|7545|m|ft}}
+|{{convert|1085|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|55|35|N|76|34|03|E|name= 43. Skyang Kangri (7545 m)}}}}
+|[[K2]]
+|1976
+| {{cslist |[[Pakistan]], [[China]]}}
+|[[File:Skyang_Kangri.jpg|frameless|upright=0.7]]
+|-
+|44
+|[[Changtse]]
+|{{convert|7543|m|ft}}<br /><ref>The 1998 1:50,000 National Geographic map of Mount Everest has a height of {{cvt|7,583|m}} for "Bei Peak" and {{cvt|7,066|m}} for Bei'ao (North Col), giving a {{cvt|517|m}} prominence. Mi Desheng's 1997 1:100,000 map of the Everest region has a {{cvt|7,543|m}} summit and a {{cvt|7,042|m}} indication near the col, not quite corresponding to the lowest pass. His 1975 1:50,000 version (in Chinese only) has Changtse at {{cvt|7,580|m}} and North Col at {{cvt|7,028|m}}. All maps agree that the eastern summit is the highest.</ref>
+|{{convert|514|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|28|01|29|N|86|54|51|E|name= 44. Changtse (7543 m)}}}}
+|[[Mount Everest]]
+|1982
+|[[China]]
+|[[File:Changtse-from-KalaPattar.jpg|frameless|upright=0.7]]
+|-
+|45
+|[[Kula Kangri]]
+|{{convert|7538|m|ft}}
+|{{convert|1654|m|ft}}
+|[[Kula Kangri]] [[Himalaya]]
+|{{small|{{Coord|28|13|37|N|90|36|59|E|name= 45. Kula Kangri (7538 m)}}}}
+|[[Gangkhar Puensum]]
+|1986
+|{{cslist|[[China]]|[[Bhutan]]}}{{efn|group=country|name=cn-tibet-bt|Wholly claimed by China as a part of its [[Tibet Autonomous Region]]; on the border with Bhutan according to Bhutan}}
+|[[File:Kula_Kangri_from_Moenla_Karchung_1933%C2%B7.jpg|frameless|upright=0.7]]
+|-
+|46
+|[[Kongur Tiube]]
+|{{convert|7530|m|ft}}
+|{{convert|840|m|ft}}
+|[[Kongur Shan]] (Eastern [[Pamirs]])
+|{{small|{{Coord|38|36|57|N|75|11|45|E|name= 46. Kongur Tiube (7530 m)}}}}
+|[[Kongur Tagh]]
+|1956
+|[[China]]
+|
+|-
+| data-sort-value="IV, Annapurna" |S
+|[[Annapurna IV]]
+|{{convert|7,525|m|ft}}
+|{{convert|255|m|ft}}
+|[[Annapurna]] [[Himalaya]]
+|{{small|{{coord|28|32|15|N|84|4|58|E|name= Annapurna IV (7,525 m)}}}}
+|[[Annapurna]]
+|1955
+|[[Nepal]]
+|
+|-
+|47
+|[[Mamostong Kangri]]
+|{{convert|7516|m|ft}}
+|{{convert|1803|m|ft}}
+|[[Rimo Muztagh|Rimo]] [[Karakoram]]
+|{{small|{{Coord|35|08|31|N|77|34|39|E|name= 47. Mamostong Kangri (7516 m)}}}}
+|[[Gasherbrum I]]
+|1984
+|[[India]]
+|
+|-
+|48
+|[[Saser Kangri]] II E
+|{{convert|7513|m|ft}}
+|{{convert|1458|m|ft}}
+|[[Saser Muztagh|Saser]] [[Karakoram]]
+|{{small|{{Coord|34|48|17|N|77|48|24|E|name= 48. Saser Kangri II E (7513 m)}}}}
+|[[Saser Kangri]] I
+|2011<br /><ref>{{cite web archived|archive-date=2011-09-30|url=http://www.americanalpineclub.org/p/steve-swenson-status|url-status=dead|publisher=American Alpine Club|title=First Ascent of Saser Kangri II}}</ref>{{efn|group=data|The lower West peak, {{cvt|2.5|km}} away, was climbed in 1984 and twice since.}}
+|[[India]]
+|
+|-
+|49
+|[[Muztagh Ata]]
+|{{convert|7546|m|ft}}
+|{{convert|2698|m|ft}}
+|[[Muztagata]] (Eastern [[Pamirs]])
+|{{small|{{Coord|38|16|33|N|75|06|58|E|name= 49. Muztagh Ata (7546 m)}}}}
+|[[Kongur Tagh]]
+|1956
+|[[China]]
+|[[File:Muztagh_Ata_Xinjiang_China.jpg|frameless|upright=0.7]]
+|-
+|50
+|[[Ismoil Somoni Peak]]
+|{{convert|7495|m|ft}}
+|{{convert|3402|m|ft}}
+|[[Pamir Mountains|Pamir]] ([[Academy of Sciences Range]])
+|{{small|{{Coord|38|56|35|N|72|00|57|E|name= 50. Ismoil Somoni Peak (7495 m)}}}}
+|[[Muztagh Ata]]
+|1933
+|[[Tajikistan]]
+|[[File:Pik Kommunizma.jpg|frameless|153x153px]]
+|-
+|51
+|[[Saser Kangri]] III
+|{{convert|7495|m|ft}}
+|{{convert|835|m|ft}}
+|[[Saser Muztagh|Saser]] [[Karakoram]]
+|{{small|{{Coord|34|50|44|N|77|47|06|E|name= 51. Saser Kangri III (7495 m)}}}}
+|[[Saser Kangri]] I
+|1986
+|[[India]]{{efn|group=country|name=in-ladakh|In Indian-administered [[Ladakh]] of the disputed [[Kashmir]] region}}
+|
+|-
+|52
+|[[Noshaq]]
+|{{convert|7492|m|ft}}
+|{{convert|2024|m|ft}}
+|[[Hindu Kush]]
+|{{small|{{Coord|36|25|56|N|71|49|43|E|name= 52. Noshaq (7492 m)}}}}
+|[[Tirich Mir]]
+|1960
+|{{cslist|[[Afghanistan]]|[[Pakistan]]}}
+|[[File:Noszak.jpg|frameless|upright=0.7]]
+|-
+|53
+|[[Pumari Chhish]]
+|{{convert|7492|m|ft}}
+|{{convert|884|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|12|41|N|75|15|01|E|name= 53. Pumari Chhish (7492 m)}}}}
+|[[Khunyang Chhish]]
+|1979
+|[[Pakistan]]
+|
+|-
+|54
+|[[Passu Sar]]
+|{{convert|7476|m|ft}}
+|{{convert|647|m|ft}}
+|[[Batura Muztagh|Batura]] [[Karakoram]]
+|{{small|{{Coord|36|29|16|N|74|35|16|E|name= 54. Passu Sar (7476 m)}}}}
+|[[Batura Sar]]
+|1994
+|[[Pakistan]]
+|[[File:Batura_valley_Passu.jpg|frameless|upright=0.7]]
+|-
+|55
+|[[Yukshin Gardan Sar]]
+|{{convert|7469|m|ft}}
+|{{convert|1374|m|ft}}<!--could be closer to 1300m -->
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|15|04|N|75|22|29|E|name= 55. Yukshin Gardan Sar (7469 m)}}}}
+|[[Pumari Chhish]]
+|1984
+|[[Pakistan]]
+|[[File:Kanjut_Sar.jpg|frameless|upright=0.7]]
+|-
+|56
+|[[Teram Kangri]] I
+|{{convert|7462|m|ft}}
+|{{convert|1703|m|ft}}
+|[[Siachen Muztagh|Siachen]] [[Karakoram]]
+|{{small|{{Coord|35|34|48|N|77|04|42|E|name= 56. Teram Kangri I (7462 m)}}}}
+|[[Gasherbrum I]]
+|1975
+|{{cslist|[[China]]|[[India]]}}{{efn|group=country|name=cn-tkt|In Chinese-administered [[Trans-Karakoram Tract]] in the disputed [[Kashmir]] region}}{{efn|group=country|name=in-siachen-pk|On the border of Indian-controlled [[Siachen Glacier]] in the disputed [[Kashmir]] region}}{{efn|group=country|name=in-ladakh}}
+|
+|-
+|57
+|[[Jongsong Peak]]
+|{{convert|7462|m|ft}}
+|{{convert|1298|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|52|54|N|88|08|09|E|name= 57. Jongsong Peak (7462 m)}}}}
+|[[Kangchenjunga]]
+|1930
+|{{cslist|[[India]]|[[China]]|[[Nepal]]}}
+|
+|-
+|58
+|[[Malubiting]]
+|{{convert|7458|m|ft}}
+|{{convert|2193|m|ft}}
+|[[Rakaposhi-Haramosh Mountains|Rakaposhi-Haramosh]] [[Karakoram]]
+|{{small|{{Coord|36|00|12|N|74|52|31|E|name= 58. Malubiting (7458 m)}}}}
+|[[Rakaposhi]]
+|1971
+|[[Pakistan]]
+|[[File:Malubiting_from_Skardu-Gilgit_road_at_sunset.jpg|frameless|upright=0.7]]
+|-
+|59
+|[[Gangapurna]]
+|{{convert|7455|m|ft}}
+|{{convert|563|m|ft}}
+|[[Annapurna]] [[Himalaya]]
+|{{small|{{Coord|28|36|18|N|83|57|49|E|name= 59. Gangapurna (7455 m)}}}}
+|[[Annapurna III]]
+|1965
+|[[Nepal]]
+|
+|-
+|60
+| data-sort-value="Jengish Chokusu" |{{cslist|[[Jengish Chokusu]]|Tömür|Pik Pobedy}}
+|{{convert|7439|m|ft}}
+|{{convert|4148|m|ft}}
+|[[Tian Shan]]
+|{{small|{{Coord|42|02|05|N|80|07|47|E|name= 60. Jengish Chokusu / Tömür / Pk Pobeda (7439 m)}}}}
+|[[Ismail Samani Peak]]
+|1956
+|{{cslist|[[Kyrgyzstan]]|[[China]]}}
+|[[File:PobiedaFrmCB.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10060" |S
+| data-sort-value="Sunanda Devi" |{{cslist|[[Sunanda Devi]]|Nanda Devi East}}
+|{{convert|7434|m|ft}}
+|{{convert|229|m|ft}}
+|[[Garhwal Himalaya|Garhwal]] [[Himalaya]]
+|{{small|{{Coord|30|22|00|N|79|59|40|E|name= Sunanda Devi (7434 m)}}}}
+|[[Nanda Devi]]
+|1939
+|[[India]]
+|[[File:Nanda_Devi_from_Kausani.JPG|frameless|upright=0.7]]
+|-
+|61
+|[[K12 (mountain)|K12]]
+|{{convert|7428|m|ft}}
+|{{convert|1978|m|ft}}
+|[[Saltoro Mountains|Saltoro]] [[Karakoram]]
+|{{small|{{Coord|35|17|45|N|77|01|20|E|name= 61. K12 (7428 m)}}}}
+|[[Saltoro Kangri]]
+|1974
+|{{cslist|[[Pakistan]], [[India]]}}
+|
+|-
+|62
+| data-sort-value="Yangra" |{{cslist|[[Yangra]]|Ganesh I}}
+|{{convert|7422|m|ft}}
+|{{convert|2352|m|ft}}
+|[[Ganesh Himal|Ganesh]] [[Himalaya]]
+|{{small|{{Coord|28|23|29|N|85|07|38|E|name= 62. Yangra / Ganesh I (7422 m)}}}}
+|[[Shishapangma]]
+|1955
+|{{cslist|[[China]]|[[Nepal]]}}
+|[[File:Langtang_range_(25).JPG|frameless|upright=0.7]]
+|-
+|63
+|[[Sia Kangri]]
+|{{convert|7422|m|ft}}
+|{{convert|642|m|ft}}
+|[[Siachen Muztagh|Siachen]] [[Karakoram]]
+|{{small|{{Coord|35|39|48|N|76|45|42|E|name= 63. Sia Kangri (7422 m)}}}}
+|[[Gasherbrum I]]
+|1934
+|{{cslist|[[Pakistan]]|[[China]]}}
+|[[File:Siachin20.JPG|frameless|upright=0.7]]
+|-
+|64
+|[[Momhil Sar]]
+|{{convert|7414|m|ft}}
+|{{convert|907|m|ft}}<!-- could be closer to 1000m -->
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|19|04|N|75|02|11|E|name= 64. Momhil Sar (7414 m)}} *}}
+|[[Trivor]]
+|1964
+|[[Pakistan]]
+|[[File:Momhil_Sar_(7343m)_(25871754125).jpg|frameless|upright=0.7]]
+|-
+|65
+|[[Kabru]] North
+|{{convert|7412|m|ft}}
+|{{convert|720|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|38|02|N|88|07|00|E|name= 65. Kabru N (7412 m)}}}}
+|[[Kangchenjunga]]
+|1994
+|{{cslist|[[India]]|[[Nepal]]}}
+|[[File:Mount_Kabru.jpg|frameless|upright=0.7]]
+|-
+|66
+|[[Skil Brum]]
+|{{convert|7410|m|ft}}
+|{{convert|1152|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|51|03|N|76|25|43|E|name= 66. Skil Brum (7410 m)}}}}
+|[[K2]]
+|1957
+|[[Pakistan]]
+|[[File:Muztagh_tower_-_skil_brum_1909_sella.jpg|frameless|upright=0.7]]
+|-
+|67
+|[[Haramosh Peak]]
+|{{convert|7409|m|ft}}
+|{{convert|2277|m|ft}}
+|[[Rakaposhi-Haramosh Mountains|Rakaposhi-Haramosh]] [[Karakoram]]
+|{{small|{{Coord|35|50|24|N|74|53|51|E|name= 67. Haramosh Peak (7409 m)}}}}
+|[[Malubiting]]
+|1958
+|[[Pakistan]]
+|[[File:Haramosh_from_Nanga_Parbat.jpg|frameless|upright=0.7]]
+|-
+|68
+|[[Istor-o-Nal]]
+|{{convert|7403|m|ft}}
+|{{convert|1043|m|ft}}
+|[[Hindu Kush]]
+|{{small|{{Coord|36|22|32|N|71|53|54|E|name= 68. Istor-o-Nal (7403 m)}}}}
+|[[Noshaq]]
+|1969
+|[[Pakistan]]
+|
+|-
+|69
+|[[Ghent Kangri]]
+|{{convert|7401|m|ft}}
+|{{convert|1493|m|ft}}
+|[[Saltoro Mountains|Saltoro]] [[Karakoram]]
+|{{small|{{Coord|35|31|04|N|76|48|02|E|name= 69. Ghent Kangri (7401 m)}}}}
+|[[Saltoro Kangri]]
+|1961
+|{{cslist|[[Pakistan]], [[India]]}}
+|
+|-
+|70
+|[[Ultar]]
+|{{convert|7388|m|ft}}
+|{{convert|688|m|ft}}
+|[[Batura Muztagh|Batura]] [[Karakoram]]
+|{{small|{{Coord|36|23|27|N|74|43|00|E|name= 70. Ultar (7388 m)}}}}
+|[[Shispare]]
+|1996
+|[[Pakistan]]
+|[[File:Ultar_sar.jpg|frameless|upright=0.7]]
+|-
+|71
+|[[Rimo I]]
+|{{convert|7385|m|ft}}
+|{{convert|1428|m|ft}}
+|[[Rimo Muztagh|Rimo]] [[Karakoram]]
+|{{small|{{Coord|35|21|18|N|77|22|08|E|name= 71. Rimo I (7385 m)}}}}
+|[[Teram Kangri]] I
+|1988
+|[[India]]
+|
+|-
+|72
+|[[Churen Himal]]
+|{{convert|7385|m|ft}}
+|{{convert|650|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|44|05|N|83|13|03|E|name= 72. Churen Himal (7385 m)}}}}
+|[[Dhaulagiri IV]]
+|1970
+|[[Nepal]]
+|
+|-
+|73
+|[[Teram Kangri|Teram Kangri III]]
+|{{convert|7382|m|ft}}
+|{{convert|520|m|ft}}
+|[[Siachen Muztagh|Siachen]] [[Karakoram]]
+|{{small|{{Coord|35|35|59|N|77|02|53|E|name= 73. Teram Kangri III (7382 m)}}}}
+|[[Teram Kangri]] I
+|1979
+|{{cslist|[[India]]|[[China]]}}{{efn|group=country|name=cn-tkt}}{{efn|group=country|name=in-siachen-pk}}{{efn|group=country|name=in-ladakh}}
+|
+|-
+|74
+|[[Sherpi Kangri]]
+|{{convert|7380|m|ft}}
+|{{convert|1320|m|ft}}
+|[[Saltoro Mountains|Saltoro]] [[Karakoram]]
+|{{small|{{Coord|35|27|58|N|76|46|53|E|name= 74. Sherpi Kangri  (7380 m)}} *}}
+|[[Ghent Kangri]]
+|1976
+|{{cslist|[[Pakistan]]}}
+|[[File:Saltoro_Kangri.jpg|frameless|upright=0.7]]
+|-
+|75
+|[[Labuche Kang]]
+|{{convert|7367|m|ft}}
+|{{convert|1957|m|ft}}
+|Labuche [[Himalaya]]
+|{{small|{{Coord|28|18|15|N|86|21|03|E|name= 75. Labuche Kang (7367 m)}}}}
+|[[Cho Oyu]]
+|1987
+|[[China]]
+|[[File:Labuche_Kang_and_Shishapangma_from_Cho_Oyu.jpg|frameless|upright=0.7]]
+|-
+|76
+|[[Kirat Chuli]]
+|{{convert|7362|m|ft}}
+|{{convert|1168|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|47|16|N|88|11|43|E|name= 76. Kirat Chuli (7362 m)}}}}
+|[[Kangchenjunga]]
+|1939
+|{{cslist|[[Nepal]]|[[India]]}}
+|[[File:NepalPeak_TentPeak.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10076.1" |S
+|[[Abi Gamin]]
+|{{convert|7355|m|ft}}
+|{{convert|217|m|ft}}
+|[[Garhwal Himalaya|Garhwal]] [[Himalaya]]
+|{{small|{{Coord|30|55|57|N|79|36|09|E|name= Abi Gamin (7355 m)}}}}
+|[[Kamet]]
+|1950
+|{{cslist|[[India]]|[[China]]}}
+|
+|-
+| data-sort-value="10076.2" |S
+| data-sort-value="Gimmigela Chuli" |{{cslist|[[Gimmigela Chuli]]|The Twins}}
+|{{convert|7350|m|ft}}
+|{{convert|432|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|44|27|N|88|09|31|E|name= Gimmigela / The Twins (7350 m)}}}}
+|[[Kangchenjunga]]
+|1994
+|{{cslist|[[India]]|[[Nepal]]}}
+|[[File:Gimmigela_Chuli.jpg|frameless|upright=0.7]]
+|-
+| data-sort-value="10076.3" |S
+|[[Nangpai Gosum]]
+|{{convert|7350|m|ft}}
+|{{convert|427|m|ft}}<!-- According to Nepalese survey map; Chinese "snow map" gives an ~500 m prominence -->
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|28|04|24|N|86|36|51|E|name= Nangpai Gosum (7350 m)}}}}
+|[[Cho Oyu]]
+|1986
+|{{cslist|[[Nepal]]|[[China]]}}
+|[[File:Cho_Oyu,_Nepal.jpg|frameless|upright=0.7]]
+|-
+|77
+|[[Saraghrar]]
+|{{convert|7349|m|ft}}
+|{{convert|1979|m|ft}}
+|[[Hindu Kush]]
+|{{small|{{Coord|36|32|51|N|72|06|54|E|name= 77. Saraghrar (7349 m)}}}}
+|[[Noshaq]]
+|1959
+|[[Pakistan]]
+|[[File:Saraghrar.JPG|frameless|upright=0.7]]
+|-
+| data-sort-value="10077" |S
+|[[Talung]]
+|{{convert|7349|m|ft}}
+|{{convert|366|m|ft}}
+|[[Kangchenjunga]] [[Himalaya]]
+|{{small|{{Coord|27|39|18|N|88|07|51|E|name=Talung (7349 m)}} *}}
+|[[Kabru]]
+|1964
+|{{cslist|[[Nepal]]|[[India]]}}
+|
+|-
+|78
+| data-sort-value="Jomolhari" |{{cslist|[[Jomolhari]]|Chomo Lhari}}
+|{{convert|7326|m|ft}}
+|{{convert|2341|m|ft}}<!-- The Ultra Project Prominence Lists source assumes a 7050 m height of Jomolhari and therefore has a smaller prominence, but the 7326m from the latest Chinese maps appears correct-->
+|[[Jomolhari]] [[Himalaya]]
+|{{small|{{Coord|27|49|36|N|89|16|04|E|name= 78. Jomolhari (7326 m)}} *}}
+|[[Gangkhar Puensum]]
+|1937
+|{{cslist|[[Bhutan]]|[[China]]}}
+|[[File:Bundesarchiv_Bild_135-KA-06-039,_Tibetexpedition,_Landschaftsaufnahme.jpg|frameless|upright=0.7]]
+|-
+|79
+|[[Chamlang]]
+|{{convert|7321|m|ft}}
+|{{convert|1241|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|27|46|30|N|86|58|47|E|name= 79. Chamlang (7321 m)}}}}
+|[[Lhotse]]
+|1961
+|[[Nepal]]
+|[[File:Everest_Lhotse_Makalung_Chamlang.jpg|frameless|upright=0.7]]
+|-
+|80
+|[[Chongtar]]
+|{{convert|7315|m|ft}}
+|{{convert|1295|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|54|55|N|76|25|45|E|name= 80. Chongtar (7315 m)}}}}
+|[[Skil Brum]]
+|1994
+|[[China]]{{efn|group=country|name=cn-tkt}}
+|
+|-
+|81
+|[[Baltoro Kangri]]
+|{{convert|7312|m|ft}}
+|{{convert|1140|m|ft}}
+|[[Masherbrum Mountains|Masherbrum]] [[Karakoram]]
+|{{small|{{Coord|35|38|21|N|76|40|24|E|name= 81. Baltoro Kangri (7312 m)}}}}
+|[[Chogolisa]]
+|1963
+|[[Pakistan]]
+|[[File:Gasherbrum_IV,_VII,_VI_and_Baltoro_Kangri.jpg|frameless|upright=0.7]]
+|-
+|82
+|[[Siguang Ri]]
+|{{convert|7309|m|ft}}
+|{{convert|669|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|28|08|50|N|86|41|06|E|name= 82. Siguang Ri (7309 m)}}}}
+|[[Cho Oyu]]
+|1989
+|[[China]]
+|
+|-
+|83
+| data-sort-value="Crown, The" |{{cslist|[[The Crown (mountain)|The Crown]]|Huang Guan Shan}}
+|{{convert|7295|m|ft}}
+|{{convert|1919|m|ft}}
+|[[Yengisogat]] [[Karakoram]]
+|{{small|{{Coord|36|06|24|N|76|12|21|E|name= 83. The Crown / Huang Guan (7295 m)}}}}
+|[[Skil Brum]] ([[K2]])
+|1993
+|[[China]]{{efn|group=country|name=cn-tkt}}
+|[[File:Huang_Guan_Shan.jpg|frameless|upright=0.7]]
+|-
+|84
+|[[Gyala Peri]]
+|{{convert|7294|m|ft}}
+|{{convert|2942|m|ft}}
+|[[Assam]] [[Himalaya]]
+|{{small|{{Coord|29|48|52|N|94|58|07|E|name= 84. Gyala Peri (7294 m)}}}}
+|[[Mount Everest]]
+|1986
+|[[China]]
+|
+|-
+|85
+|[[Porong Ri]]
+|{{convert|7292|m|ft}}
+|{{convert|512|m|ft}}
+|[[Langtang]] [[Himalaya]]
+|{{small|{{Coord|28|23|22|N|85|43|12|E|name= 85. Porong Ri (7292 m)}}}}
+|[[Shishapangma]]
+|1982
+|[[China]]
+|
+|-
+|86
+| data-sort-value="Baintha Brakk" |{{cslist|[[Baintha Brakk]]|The Ogre}}
+|{{convert|7285|m|ft}}
+|{{convert|1891|m|ft}}
+|[[Panmah Muztagh|Panmah]] [[Karakoram]]
+|{{small|{{Coord|35|56|51|N|75|45|12|E|name= 86. Baintha Brakk / The Ogre (7285 m)}} *}}
+|[[Kanjut Sar]]
+|1977
+|[[Pakistan]]
+|[[File:The_Ogre_I_and_II_and_the_Ogres_thumb_(225912483).jpg|frameless|upright=0.7]]
+|-
+|87
+|[[Yutmaru Sar]]
+|{{convert|7283|m|ft}}
+|{{convert|680|m|ft}}<!--probably closer to 620-->
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|13|35|N|75|22|02|E|name= 87. Yutmaru Sar (7283 m)}}}}
+|[[Yukshin Gardan Sar]]
+|1980
+|[[Pakistan]]
+|[[File:Yukshin_Gardan_Sar_-_Yutmaru_Sar.jpg|frameless|upright=0.7]]
+|-
+|88
+| data-sort-value="K6" |{{cslist|[[K6 (mountain)|K6]]|Baltistan Peak}}
+|{{convert|7282|m|ft}}
+|{{convert|1962|m|ft}}
+|[[Masherbrum Mountains|Masherbrum]] [[Karakoram]]
+|{{small|{{Coord|35|25|06|N|76|33|06|E|name= 88. Baltistan Peak / K6 (7282 m)}}}}
+|[[Chogolisa]]
+|1970
+|[[Pakistan]]
+|[[File:Saltoro_Kangri.jpg|frameless|upright=0.7]]
+|-
+|89
+| data-sort-value="Kangpenqing" |{{cslist|[[Kangpenqing]]|Gang Benchhen}}
+|{{convert|7281|m|ft}}
+|{{convert|1345|m|ft}}
+|[[Himalaya]]
+|{{small|{{Coord|28|33|03|N|85|32|44|E|name= 89. Kangpenqing / Gang Benchhen (7281 m)}}}}
+|[[Shishapangma]]
+|1982
+|[[China]]
+|[[File:Gang_Benchhen.jpg|frameless|upright=0.7]]
+|-
+|90
+|[[Muztagh Tower]]
+|{{convert|7276|m|ft}}
+|{{convert|1710|m|ft}}
+|[[Baltoro Muztagh|Baltoro]] [[Karakoram]]
+|{{small|{{Coord|35|49|40|N|76|21|40|E|name= 90. Muztagh Tower (7276 m)}}}}
+|[[Skil Brum]]
+|1956
+|{{cslist|[[Pakistan]], [[China]]}}
+|[[File:MuztaghTower.jpg|frameless|upright=0.7]]
+|-
+|91
+|[[Mana Peak]]
+|{{convert|7272|m|ft}}
+|{{convert|732|m|ft}}
+|[[Garhwal Himalaya|Garhwal]] [[Himalaya]]
+|{{small|{{Coord|30|52|50|N|79|36|55|E|name= 91. Mana Peak (7272 m)}}}}
+|[[Kamet]]
+|1937
+|[[India]]
+|
+|-
+| data-sort-value="10091" |S
+|[[Dhaulagiri|Dhaulagiri VI]]
+|{{convert|7268|m|ft}}
+|{{convert|488|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|42|31|N|83|16|27|E|name= Dhaulagiri VI (7268 m)}}}}
+|[[Dhaulagiri IV]]
+|1970
+|[[Nepal]]
+|
+|-
+|92
+|[[Diran]]
+|{{convert|7266|m|ft}}
+|{{convert|1329|m|ft}}
+|[[Rakaposhi-Haramosh Mountains|Rakaposhi-Haramosh]] [[Karakoram]]
+|{{small|{{Coord|36|07|13|N|74|39|42|E|name= 92. Diran (7266 m)}}}}
+|[[Malubiting]]
+|1968
+|[[Pakistan]]
+|[[File:Diran_P8050944.jpg|frameless|upright=0.7]]
+|-
+|93
+| data-sort-value="Labuche Kang III" |{{cslist|[[Labuche Kang III/East|Labuche Kang III]]|Labuche Kang East}}
+|{{convert|7250|m|ft}}<br />{{efn|group=data|The height is unknown, but over {{cvt|7,200|m}} on both Chinese and Russian maps of the area.}}
+|{{convert|570|m|ft}}
+|Labuche [[Himalaya]]
+|{{small|{{Coord|28|18|05|N|86|23|02|E|name= 93. Labuche Kang III / East (7250 m)}}}}
+|Labuche [[Himalaya]]
+|none
+|[[China]]
+|
+|-
+|94
+|[[Putha Hiunchuli]]
+|{{convert|7246|m|ft}}
+|{{convert|1151|m|ft}}
+|[[Dhaulagiri]] [[Himalaya]]
+|{{small|{{Coord|28|44|52|N|83|08|46|E|name= 94. Putha Hiunchuli (7246 m)}}}}
+|[[Dhaulagiri#Other peaks in the Dhaulagiri Himalaya|Churen Himal]]
+|1954
+|[[Nepal]]
+|
+|-
+|95
+|[[Apsarasas Kangri]]
+|{{convert|7245|m|ft}}
+|{{convert|607|m|ft}}
+|[[Siachen Muztagh|Siachen]] [[Karakoram]]
+|{{small|{{Coord|35|32|19|N|77|08|55|E|name= 95. Apsarasas Kangri (7245 m)}}}}
+|[[Teram Kangri]] I
+|none<br />{{efn|name=Apsarasas|Only the lower Apsarasis I (7241 m) has been climbed, the higher Apsarasis II and Apsarasis III have not been climbed.<ref>{{cite journal|first=Hideo|last=Misawa|url=http://c498469.r69.cf2.rackcdn.com/1977/asia1977_236-284.pdf|title=Apsaras|journal=[[American Alpine Journal]]|volume=21|year=1977|page=271}}</ref>}}
+|{{cslist|[[India]]|[[China]]}}{{efn|group=country|name=cn-tkt}}{{efn|group=country|name=in-siachen-pk}}{{efn|group=country|name=in-ladakh}}
+|
+|-
+|96
+|[[Mukut Parbat]]
+|{{convert|7242|m|ft}}
+|{{convert|683|m|ft}}<!-- could be as much as 830 m -->
+|[[Garhwal Himalaya|Garhwal]] [[Himalaya]]
+|{{small|{{Coord|30|56|57|N|79|34|12|E|name= 96. Mukut Parbat (7242 m)}}}}
+|[[Kamet]]
+|1951
+|{{cslist|[[India]]|[[China]]}}
+|
+|-
+|97
+|[[Rimo I|Rimo III]]
+|{{convert|7233|m|ft}}
+|{{convert|613|m|ft}}
+|[[Rimo Muztagh|Rimo]] [[Karakoram]]
+|{{small|{{Coord|35|22|31|N|77|21|42|E|name= 97. Rimo III (7233 m)}}}}
+|[[Rimo I]]
+|1985
+|[[India]]{{efn|group=country|name=in-siachen|In the Siachen Glacier region controlled by India.}}{{efn|group=country|name=in-ladakh}}
+|
+|-
+|98
+|[[Langtang Lirung]]
+|{{convert|7227|m|ft}}
+|{{convert|1534|m|ft}}
+|[[Langtang]] [[Himalaya]]
+|{{small|{{Coord|28|15|22|N|85|31|01|E|name= 98. Langtang Lirung (7227 m)}}}}
+|[[Shishapangma]]
+|1978
+|[[Nepal]]
+|[[File:Lirung.jpg|frameless|upright=0.7]]
+|-
+|99
+|[[Karjiang]]
+|{{convert|7221|m|ft}}
+|{{convert|895|m|ft}}
+|[[Kula Kangri]] [[Himalaya]]
+|{{small|{{Coord|28|15|27|N|90|38|49|E|name= 99. Karjiang (7221 m)}}}}
+|[[Kula Kangri]]
+|2024
+|[[China]]
+|
+|-
+|100
+|[[Annapurna South|Annapurna Dakshin (Annapurna South)]]
+|{{convert|7219|m|ft}}
+|{{convert|769|m|ft}}
+|[[Annapurna]] [[Himalaya]]
+|{{small|{{Coord|28|31|06|N|83|48|22|E|name= 100. Annapurna Dakshin (7219 m)}}}}
+|[[Annapurna]]
+|1964
+|[[Nepal]]
+|[[File:Annapurna_South-4588.jpg|frameless|upright=0.7]]
+|-
+|101
+|[[Khartaphu]]
+|{{convert|7213|m|ft}}
+|{{convert|712|m|ft}}
+|[[Mahalangur Himal|Mahalangur]] [[Himalaya]]
+|{{small|{{Coord|28|03|49|N|86|58|39|E|name= 101. Khartaphu (7213 m)}}}}
+|[[Mount Everest]]
+|1935
+|[[China]]
+|
+|-
+|102
+|[[Tongshanjiabu]]<ref>The name and information about this summit was extracted from the May 2003 edition of Japanese Alpine News.</ref>
+|{{convert|7207|m|ft}}
+|{{convert|1757|m|ft}}
+|[[Lunana]] [[Himalaya]]
+|{{small|{{Coord|28|11|12|N|89|57|27|E|name= 102. Tongshanjiabu (7207 m)}}}}
+|[[Gangkhar Puensum]]
+|none
+|{{cslist|[[Bhutan]]|[[China]]}}{{efn|group=country|name=bt-cn-tibet|Wholly claimed by Bhutan, but on the border of the [[Tibet Autonomous Region]] according to China}}
+|
+|-
+|103
+|[[Malangutti Sar]]
+|{{convert|7207|m|ft}}
+|{{convert|507|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|21|47|N|75|08|57|E|name= 103. Malangutti Sar (7207 m)}}}}
+|[[Distaghil Sar]]
+|1985
+|[[Pakistan]]{{efn|group=country|name=pk-gb}}
+|
+|-
+|104
+| data-sort-value="Noijin Kangsang" |{{cslist|[[Noijin Kangsang]]|Norin Kang}}
+|{{convert|7206|m|ft}}
+|{{convert|2160|m|ft}}
+|[[Nagarzê County|Nagarze]] [[Himalaya]]
+|{{small|{{Coord|28|56|48|N|90|10|42|E|name= 104. Noijin Kangsang / Norin Kang   (7206 m)}}}}
+|[[Gangkhar Puensum]]
+|1986
+|[[China]]
+|[[File:KMD1.jpg|frameless|upright=0.7]]
+|-
+|105
+|[[Langtang Ri]]
+|{{convert|7205|m|ft}}
+|{{convert|665|m|ft}}
+|[[Langtang]] [[Himalaya]]
+|{{small|{{Coord|28|22|53|N|85|41|01|E|name= 105. Langtang Ri (7205 m)}}}}
+|[[Shishapangma]]
+|1981
+|{{cslist|[[Nepal]]|[[China]]}}
+|[[File:ShishapangmaandGangBenchen.jpg|frameless|upright=0.7]]
+|-
+|106
+| data-sort-value="Kangphu Kang" |{{cslist|[[Kangphu Kang]]|Shimokangri}}
+|{{convert|7204|m|ft}}
+|{{convert|1244|m|ft}}
+|[[Lunana]] [[Himalaya]]
+|{{small|{{Coord|28|09|24|N|90|04|15|E|name= 106. Kangphu Kang (7204 m)}}}}
+|[[Tongshanjiabu]]
+|2002
+|{{cslist|[[Bhutan]]|[[China]]{{efn|group=country|name=bt-cn-tibet}}}}
+|
+|-
+|107
+|[[Singhi Kangri]]
+|{{convert|7202|m|ft}}
+|{{convert|730|m|ft}}<!-- could be as much as 790m -->
+|[[Siachen Muztagh|Siachen]] [[Karakoram]]
+|{{small|{{Coord|35|35|59|N|76|59|01|E|name= 107. Singhi Kangri (7202 m)}}}}
+|[[Teram Kangri]] III
+|1976
+|{{cslist|[[India]]|[[China]]}}{{efn|group=country|name=cn-tkt}}{{efn|group=country|name=in-siachen-pk}}{{efn|group=country|name=in-ladakh}}
+|
+|-
+|108
+|[[Lupghar Sar]]
+|{{convert|7200|m|ft}}
+|{{convert|730|m|ft}}
+|[[Hispar Muztagh|Hispar]] [[Karakoram]]
+|{{small|{{Coord|36|21|01|N|75|02|13|E|name= 108. Lupghar Sar (7200 m)}} *}}
+|[[Momhil Sar]]
+|1979
+|[[Pakistan]]{{efn|group=country|name=pk-gb}}
+|[[File:Autumn_color_in_Hunza_Valley_crop.jpg|frameless|upright=0.7]]
+|}
+
+==Gallery==
+{{Gallery
+|title=The fourteen [[eight-thousanders]]
+|File:Everest kalapatthar crop.jpg
+ |The summit of [[Mount Everest]], the highest point on Earth
+|File:K2 2006b.jpg
+ |[[K2]], the highest summit of the [[Karakoram]]
+|File:Kangch-Goechala.jpg
+ |[[Kangchenjunga]], the second-highest mountain of the [[Himalaya]]
+|File:LhotseMountain.jos.500pix.jpg
+ |[[Lhotse]], the third-highest mountain of the Himalaya
+|File:Makalu.jpg
+ |[[Makalu]] in the Himalaya
+|File:ChoOyu-fromGokyo.jpg
+ |[[Cho Oyu]] in the Himalaya
+|File:Dhaulagiri from ramrekha.jpg
+ |[[Dhaulagiri]] in the Himalaya
+|File:Sunrise, Manaslu.jpg
+ |[[Manaslu]] in the Himalaya
+|File:Nanga Parbat 029.jpg 
+ |[[Nanga Parbat]] in the Himalaya
+|File:Annapurna South Face.jpg
+ |[[Annapurna I]] in the Himalaya
+|File:HiddenPeak.jpg
+ |[[Gasherbrum I]], the second-highest mountain of the Karakoram
+|File:7 15 BroadPeak.jpg
+ |[[Broad Peak]], the third-highest mountain of the Karakoram
+|File:Gasherbrum2.jpg
+ |[[Gasherbrum II]] in the Karakoram
+|File:Shishapangma.jpg
+ |[[Shishapangma]] in the Himalaya
+}}
+
+==See also==
+{{portal|Geography|Mountains}}
+*[[List of mountain ranges]] of the world
+*[[Summits farthest from the Earth's center]]
+* [[List of tallest mountains in the Solar System]]
+**[[Olympus Mons]], the tallest mountain on any planet in the Solar System
+**[[Rheasilvia]] crater's central peak, the tallest mountain in the Solar System
+*[[Highest unclimbed mountain]]
+*[[List of elevation extremes by country]]
+
+==Notes==
+{{notelist-lr|group=header}}
+{{notelist|group=data}}
+{{notelist|group=country}}
+{{reflist|group=dp}}
+
+==References==
+{{reflist}}
+
+==Sources==
+{{refbegin}}
+* {{cite book|title=The Maps of Snow Mountains in China|author=Desheng, Mi |publisher=Chinese Academy of Sciences|date= 1990s}}
+* {{cite book|title=Nepal Topographic Maps|author= Finnish Meteorological Inst. |publisher=Nepalese Survey Dept.|date= 1990s}}
+* {{cite news|title=High Mountain Info|magazine=High Mountain Sports Magazine (now Climb Magazine)}} (1990–2005).
+* {{Neate-High Asia}}
+* Soviet military 1:100,000 topographic maps (most from 1980 to 1981){{citation needed|date=July 2018}}
+{{refend}}
+
+==External links==
+* [http://www.summitpost.org/ SummitPost.org] (currently with detailed description of 30 of the top 100 peaks)
+* [https://web.archive.org/web/20181105084530/http://peaklist.org/lists.html Prominence lists] (including all mountains in the world with >1,450m prominence)
+* [http://www.alpine-club.org.uk/hi/ Alpine Club Himalayan index] (Especially informative for history of ascents and location of obscure peaks)
+* [http://blankonthemap.free.fr/7_indexg/indexg.htm BlankontheMap site on mountains of Northern Kashmir] (in French)
+* [https://web.archive.org/web/20080427142155/http://echidna.rutgers.edu/expeditions/Hispar/Default.htm Hispar area: expedition reports and maps]
+* [http://www.8000ers.com/cms/download.html?func=fileinfo&id=168 List of highest mountains down to 6750 metres]
+
+{{Portal bar|Mountains|Lists}}
+
+{{DEFAULTSORT:List Of Highest Mountains}}
+[[Category:Lists of highest points|Mountains, Highest]]
+[[Category:Lists of mountains by elevation| ]]
+[[Category:Lists of coordinates|Mountains, Highest]]
+[[Category:Highest things]]

@@ -1,0 +1,1278 @@
+country,place,pop,year,source
+BE,Bruxelles/Brussel (greater city),1264371,2024,eurostat-urb_cpop1
+BE,Antwerpen (greater city),547794,2024,eurostat-urb_cpop1
+BE,Liège (greater city),410032,2024,eurostat-urb_cpop1
+BE,Gent,270133,2024,eurostat-urb_cpop1
+BE,Charleroi (greater city),241219,2024,eurostat-urb_cpop1
+BE,Mons (greater city),157957,2024,eurostat-urb_cpop1
+BE,Brugge,120142,2024,eurostat-urb_cpop1
+BE,Namur,115607,2024,eurostat-urb_cpop1
+BE,La Louvière (greater city),105519,2024,eurostat-urb_cpop1
+BE,Leuven,103358,2024,eurostat-urb_cpop1
+CH,Zurich (greater city),725893,2025,eurostat-urb_cpop1
+CH,Geneva (greater city),437406,2025,eurostat-urb_cpop1
+CH,Basel (greater city),355946,2025,eurostat-urb_cpop1
+CH,Lausanne (greater city),268135,2025,eurostat-urb_cpop1
+CH,Bern (greater city),235885,2025,eurostat-urb_cpop1
+CH,Lucerne (greater city),172541,2025,eurostat-urb_cpop1
+CH,Winterthur,120376,2025,eurostat-urb_cpop1
+DE,Berlin,3685265,2025,eurostat-urb_cpop1
+DE,Hamburg,1862565,2025,eurostat-urb_cpop1
+DE,München,1505005,2025,eurostat-urb_cpop1
+DE,Köln,1024621,2025,eurostat-urb_cpop1
+DE,Frankfurt am Main,756021,2025,eurostat-urb_cpop1
+DE,Düsseldorf,618685,2025,eurostat-urb_cpop1
+DE,Stuttgart,612663,2025,eurostat-urb_cpop1
+DE,Leipzig,611850,2025,eurostat-urb_cpop1
+DE,Dortmund,603462,2025,eurostat-urb_cpop1
+DE,Bremen,586271,2025,eurostat-urb_cpop1
+DE,Essen,574682,2025,eurostat-urb_cpop1
+DE,Dresden,564904,2025,eurostat-urb_cpop1
+DE,Nürnberg,529508,2025,eurostat-urb_cpop1
+DE,Hannover,522131,2025,eurostat-urb_cpop1
+DE,Duisburg,502270,2025,eurostat-urb_cpop1
+DE,Bochum,358676,2025,eurostat-urb_cpop1
+DE,Wuppertal,358193,2025,eurostat-urb_cpop1
+DE,Bielefeld,331605,2025,eurostat-urb_cpop1
+DE,Bonn,323336,2025,eurostat-urb_cpop1
+DE,Mannheim,318035,2025,eurostat-urb_cpop1
+DE,Karlsruhe,309050,2025,eurostat-urb_cpop1
+DE,Münster,308258,2025,eurostat-urb_cpop1
+DE,Augsburg,301105,2025,eurostat-urb_cpop1
+DE,Wiesbaden,288850,2025,eurostat-urb_cpop1
+DE,Gelsenkirchen,267930,2025,eurostat-urb_cpop1
+DE,Mönchengladbach,267213,2025,eurostat-urb_cpop1
+DE,Aachen,262670,2025,eurostat-urb_cpop1
+DE,Braunschweig,252962,2025,eurostat-urb_cpop1
+DE,Kiel,252668,2025,eurostat-urb_cpop1
+DE,Chemnitz,245618,2025,eurostat-urb_cpop1
+DE,Magdeburg,244329,2025,eurostat-urb_cpop1
+DE,Freiburg im Breisgau,237460,2025,eurostat-urb_cpop1
+DE,Krefeld,231406,2025,eurostat-urb_cpop1
+DE,Halle an der Saale,226767,2025,eurostat-urb_cpop1
+DE,Mainz,224684,2025,eurostat-urb_cpop1
+DE,Erfurt,218793,2025,eurostat-urb_cpop1
+DE,Lübeck,216889,2025,eurostat-urb_cpop1
+DE,Oberhausen,213646,2025,eurostat-urb_cpop1
+DE,Rostock,205307,2025,eurostat-urb_cpop1
+DE,Kassel,197230,2025,eurostat-urb_cpop1
+DE,Hagen,190384,2025,eurostat-urb_cpop1
+DE,Potsdam,184754,2025,eurostat-urb_cpop1
+DE,Saarbrücken,182971,2025,eurostat-urb_cpop1
+DE,Hamm,179968,2025,eurostat-urb_cpop1
+DE,Ludwigshafen am Rhein,177222,2025,eurostat-urb_cpop1
+DE,Oldenburg (Oldenburg),176614,2025,eurostat-urb_cpop1
+DE,Mülheim a.d.Ruhr,173050,2025,eurostat-urb_cpop1
+DE,Leverkusen,168581,2025,eurostat-urb_cpop1
+DE,Darmstadt,167029,2025,eurostat-urb_cpop1
+DE,Osnabrück,166057,2025,eurostat-urb_cpop1
+DE,Solingen,165626,2025,eurostat-urb_cpop1
+DE,Paderborn,156378,2025,eurostat-urb_cpop1
+DE,Herne,155851,2025,eurostat-urb_cpop1
+DE,Heidelberg,155756,2025,eurostat-urb_cpop1
+DE,Neuss,154317,2025,eurostat-urb_cpop1
+DE,Regensburg,151389,2025,eurostat-urb_cpop1
+DE,Esslingen am Neckar (greater city),147052,2025,eurostat-urb_cpop1
+DE,Ingolstadt,141185,2025,eurostat-urb_cpop1
+DE,Pforzheim,134912,2025,eurostat-urb_cpop1
+DE,Würzburg,133258,2025,eurostat-urb_cpop1
+DE,Offenbach am Main,132746,2025,eurostat-urb_cpop1
+DE,Fürth,132036,2025,eurostat-urb_cpop1
+DE,Heilbronn,131986,2025,eurostat-urb_cpop1
+DE,Waiblingen (greater city),131946,2025,eurostat-urb_cpop1
+DE,Ulm,129882,2025,eurostat-urb_cpop1
+DE,Wolfsburg,129560,2025,eurostat-urb_cpop1
+DE,Göttingen,127259,2025,eurostat-urb_cpop1
+DE,Reutlingen,118852,2025,eurostat-urb_cpop1
+DE,Bremerhaven,118610,2025,eurostat-urb_cpop1
+DE,Bottrop,118535,2025,eurostat-urb_cpop1
+DE,Troisdorf (greater city),118346,2025,eurostat-urb_cpop1
+DE,Ludwigsburg (greater city),117292,2025,eurostat-urb_cpop1
+DE,Erlangen,115928,2025,eurostat-urb_cpop1
+DE,Recklinghausen,115344,2025,eurostat-urb_cpop1
+DE,Remscheid,113828,2025,eurostat-urb_cpop1
+DE,Koblenz,113378,2025,eurostat-urb_cpop1
+DE,Bergisch Gladbach,111361,2025,eurostat-urb_cpop1
+DE,Jena,109725,2025,eurostat-urb_cpop1
+DE,Trier,104342,2025,eurostat-urb_cpop1
+DE,Siegen,102685,2025,eurostat-urb_cpop1
+DE,Rüsselsheim am Main (greater city),102268,2025,eurostat-urb_cpop1
+DE,Moers,101503,2025,eurostat-urb_cpop1
+DE,Gütersloh,100479,2025,eurostat-urb_cpop1
+DE,Kaiserslautern,100426,2025,eurostat-urb_cpop1
+ES,Madrid (greater city),4501429,2024,eurostat-urb_cpop1
+ES,Barcelona (greater city),2658830,2024,eurostat-urb_cpop1
+ES,Valencia (greater city),1474632,2024,eurostat-urb_cpop1
+ES,Bilbao (greater city),782473,2024,eurostat-urb_cpop1
+ES,Zaragoza,691037,2024,eurostat-urb_cpop1
+ES,Sevilla,686741,2024,eurostat-urb_cpop1
+ES,Málaga,592346,2024,eurostat-urb_cpop1
+ES,Alicante/Alacant (greater city),503432,2024,eurostat-urb_cpop1
+ES,Murcia,471982,2024,eurostat-urb_cpop1
+ES,Palma de Mallorca,438234,2024,eurostat-urb_cpop1
+ES,Sabadell (greater city),422784,2024,eurostat-urb_cpop1
+ES,"Palmas de Gran Canaria, Las",383516,2024,eurostat-urb_cpop1
+ES,Santa Cruz de Tenerife (greater city),371341,2024,eurostat-urb_cpop1
+ES,Pamplona/Iruña (greater city),343690,2024,eurostat-urb_cpop1
+ES,Granada (greater city),333545,2024,eurostat-urb_cpop1
+ES,Córdoba,324902,2024,eurostat-urb_cpop1
+ES,Valladolid (greater city),322066,2024,eurostat-urb_cpop1
+ES,A Coruña (greater city),305086,2024,eurostat-urb_cpop1
+ES,Vigo,295523,2024,eurostat-urb_cpop1
+ES,Gijón,270219,2024,eurostat-urb_cpop1
+ES,Vitoria-Gasteiz,257407,2024,eurostat-urb_cpop1
+ES,San Sebastián/Donostia (greater city),250056,2024,eurostat-urb_cpop1
+ES,Elche/Elx,242317,2024,eurostat-urb_cpop1
+ES,Terrassa,228294,2024,eurostat-urb_cpop1
+ES,Almería (greater city),226978,2024,eurostat-urb_cpop1
+ES,Oviedo,220027,2024,eurostat-urb_cpop1
+ES,Cartagena,219235,2024,eurostat-urb_cpop1
+ES,Jerez de la Frontera,214844,2024,eurostat-urb_cpop1
+ES,Alcalá de Henares,199804,2024,eurostat-urb_cpop1
+ES,Mairena del Aljarafe (greater city),198834,2024,eurostat-urb_cpop1
+ES,Fuenlabrada,190496,2024,eurostat-urb_cpop1
+ES,Sant Cugat del Vallès (greater city),180172,2024,eurostat-urb_cpop1
+ES,Castellón de la Plana/Castelló de la Plana,179861,2024,eurostat-urb_cpop1
+ES,Burgos,176551,2024,eurostat-urb_cpop1
+ES,Albacete,174073,2024,eurostat-urb_cpop1
+ES,Santander,173635,2024,eurostat-urb_cpop1
+ES,Las Rozas de Madrid (greater city),172740,2024,eurostat-urb_cpop1
+ES,Salamanca (greater city),166803,2024,eurostat-urb_cpop1
+ES,León (greater city),152789,2024,eurostat-urb_cpop1
+ES,Badajoz,151146,2024,eurostat-urb_cpop1
+ES,Logroño,150845,2024,eurostat-urb_cpop1
+ES,Girona (greater city),149572,2024,eurostat-urb_cpop1
+ES,Torremolinos (greater city),148931,2024,eurostat-urb_cpop1
+ES,Tarragona (greater city),146954,2024,eurostat-urb_cpop1
+ES,Lleida,144878,2024,eurostat-urb_cpop1
+ES,Huelva,143526,2024,eurostat-urb_cpop1
+ES,Torrejón de Ardoz,141047,2024,eurostat-urb_cpop1
+ES,Dos Hermanas,140463,2024,eurostat-urb_cpop1
+ES,Parla,134876,2024,eurostat-urb_cpop1
+ES,Mataró,130887,2024,eurostat-urb_cpop1
+ES,Algeciras,125047,2024,eurostat-urb_cpop1
+ES,Coslada (greater city),119657,2024,eurostat-urb_cpop1
+ES,Ourense (greater city),115888,2024,eurostat-urb_cpop1
+ES,Viladecans (greater city),115140,2024,eurostat-urb_cpop1
+ES,Jaén,111945,2024,eurostat-urb_cpop1
+ES,Cádiz,111180,2024,eurostat-urb_cpop1
+ES,Reus,109961,2024,eurostat-urb_cpop1
+ES,Ferrol (greater city),103678,2024,eurostat-urb_cpop1
+ES,Telde,103587,2024,eurostat-urb_cpop1
+ES,Granollers (greater city),101828,2024,eurostat-urb_cpop1
+ES,Rivas-Vaciamadrid,101637,2024,eurostat-urb_cpop1
+FR,Paris (greater city),10353710,2022,eurostat-urb_cpop1
+FR,Lyon (greater city),1296104,2022,eurostat-urb_cpop1
+FR,Marseille (greater city),976483,2022,eurostat-urb_cpop1
+FR,Lille (greater city),966750,2022,eurostat-urb_cpop1
+FR,Toulouse (greater city),774656,2022,eurostat-urb_cpop1
+FR,Bordeaux (greater city),773626,2022,eurostat-urb_cpop1
+FR,Nantes (greater city),501084,2022,eurostat-urb_cpop1
+FR,Nice (greater city),476301,2022,eurostat-urb_cpop1
+FR,Strasbourg (greater city),436462,2022,eurostat-urb_cpop1
+FR,Montpellier (greater city),381724,2022,eurostat-urb_cpop1
+FR,Grenoble (greater city),366905,2022,eurostat-urb_cpop1
+FR,Rouen (greater city),335389,2022,eurostat-urb_cpop1
+FR,Rennes (greater city),279869,2022,eurostat-urb_cpop1
+FR,Tours (greater city),246865,2022,eurostat-urb_cpop1
+FR,Orléans (greater city),246728,2022,eurostat-urb_cpop1
+FR,Toulon (greater city),241392,2022,eurostat-urb_cpop1
+FR,Cannes-Antibes (greater city),240630,2022,eurostat-urb_cpop1
+FR,Nancy (greater city),224257,2022,eurostat-urb_cpop1
+FR,Angers (greater city),210759,2022,eurostat-urb_cpop1
+FR,Saint-Étienne (greater city),207427,2022,eurostat-urb_cpop1
+FR,Reims (greater city),206170,2022,eurostat-urb_cpop1
+FR,Mulhouse (greater city),204066,2022,eurostat-urb_cpop1
+FR,Dijon (greater city),202775,2022,eurostat-urb_cpop1
+FR,Lens (greater city),201849,2022,eurostat-urb_cpop1
+FR,Clermont-Ferrand (greater city),190822,2022,eurostat-urb_cpop1
+FR,Le Havre (greater city),190712,2022,eurostat-urb_cpop1
+FR,Caen (greater city),183808,2022,eurostat-urb_cpop1
+FR,Metz (greater city),170174,2022,eurostat-urb_cpop1
+FR,Saint-Denis,156149,2022,eurostat-urb_cpop1
+FR,Le Mans (greater city),153231,2022,eurostat-urb_cpop1
+FR,Nîmes,150444,2022,eurostat-urb_cpop1
+FR,Amiens (greater city),148502,2022,eurostat-urb_cpop1
+FR,Aix-en-Provence,147933,2022,eurostat-urb_cpop1
+FR,Perpignan (greater city),143083,2022,eurostat-urb_cpop1
+FR,Brest,140993,2022,eurostat-urb_cpop1
+FR,Limoges (greater city),140961,2022,eurostat-urb_cpop1
+FR,Avignon (greater city),140385,2022,eurostat-urb_cpop1
+FR,Dunkerque (greater city),140159,2022,eurostat-urb_cpop1
+FR,Fort-de-France (greater city),133853,2022,eurostat-urb_cpop1
+FR,Annecy (greater city),131272,2022,eurostat-urb_cpop1
+FR,Bayonne (greater city),130344,2022,eurostat-urb_cpop1
+FR,Valenciennes (greater city),127050,2022,eurostat-urb_cpop1
+FR,Besançon,120057,2022,eurostat-urb_cpop1
+FR,Chambéry (greater city),118765,2022,eurostat-urb_cpop1
+FR,La Seyne-sur-Mer (greater city),117686,2022,eurostat-urb_cpop1
+FR,Pau (greater city),113428,2022,eurostat-urb_cpop1
+FR,Troyes (greater city),113412,2022,eurostat-urb_cpop1
+FR,Melun (greater city),101292,2022,eurostat-urb_cpop1
+HU,Budapest (greater city),1686222,2024,eurostat-urb_cpop1
+HU,Debrecen,201704,2024,eurostat-urb_cpop1
+HU,Szeged,157930,2024,eurostat-urb_cpop1
+HU,Miskolc,143502,2024,eurostat-urb_cpop1
+HU,Pécs,140330,2024,eurostat-urb_cpop1
+HU,Gyõr,130191,2024,eurostat-urb_cpop1
+HU,Nyíregyháza,115359,2024,eurostat-urb_cpop1
+HU,Kecskemét,109450,2024,eurostat-urb_cpop1
+IT,Milano (greater city),3565055,2025,eurostat-urb_cpop1
+IT,Napoli (greater city),2977204,2025,eurostat-urb_cpop1
+IT,Roma,2747290,2025,eurostat-urb_cpop1
+IT,Torino,853196,2025,eurostat-urb_cpop1
+IT,Palermo,628693,2025,eurostat-urb_cpop1
+IT,Genova,564080,2025,eurostat-urb_cpop1
+IT,Catania (greater city),441026,2025,eurostat-urb_cpop1
+IT,Bologna,390151,2025,eurostat-urb_cpop1
+IT,Firenze,361705,2025,eurostat-urb_cpop1
+IT,Bari,315831,2025,eurostat-urb_cpop1
+IT,Verona,255039,2025,eurostat-urb_cpop1
+IT,Bergamo (greater city),253256,2025,eurostat-urb_cpop1
+IT,Venezia,249490,2025,eurostat-urb_cpop1
+IT,Messina,217033,2025,eurostat-urb_cpop1
+IT,Cagliari (greater city),214929,2025,eurostat-urb_cpop1
+IT,Padova,207412,2025,eurostat-urb_cpop1
+IT,Brescia,199853,2025,eurostat-urb_cpop1
+IT,Parma,198693,2025,eurostat-urb_cpop1
+IT,Trieste,198388,2025,eurostat-urb_cpop1
+IT,Pescara (greater city),197483,2025,eurostat-urb_cpop1
+IT,Prato,197057,2025,eurostat-urb_cpop1
+IT,Caserta  (greater city),194394,2025,eurostat-urb_cpop1
+IT,Taranto,186011,2025,eurostat-urb_cpop1
+IT,Modena,184074,2025,eurostat-urb_cpop1
+IT,Reggio nell'Emilia,172284,2025,eurostat-urb_cpop1
+IT,Reggio di Calabria,168779,2025,eurostat-urb_cpop1
+IT,Perugia,162050,2025,eurostat-urb_cpop1
+IT,Ravenna,156340,2025,eurostat-urb_cpop1
+IT,Livorno,153154,2025,eurostat-urb_cpop1
+IT,Rimini,150333,2025,eurostat-urb_cpop1
+IT,Foggia,145198,2025,eurostat-urb_cpop1
+IT,Ferrara,129081,2025,eurostat-urb_cpop1
+IT,Latina,127796,2025,eurostat-urb_cpop1
+IT,Salerno,126000,2025,eurostat-urb_cpop1
+IT,Guidonia Montecelio (greater city),121673,2025,eurostat-urb_cpop1
+IT,Sassari,120510,2025,eurostat-urb_cpop1
+IT,Trento,118640,2025,eurostat-urb_cpop1
+IT,Forlì,117535,2025,eurostat-urb_cpop1
+IT,Siracusa,115776,2025,eurostat-urb_cpop1
+IT,Vicenza,110468,2025,eurostat-urb_cpop1
+IT,Anzio (greater city),107934,2025,eurostat-urb_cpop1
+IT,Bolzano,106568,2025,eurostat-urb_cpop1
+IT,Terni,106310,2025,eurostat-urb_cpop1
+IT,Piacenza,103406,2025,eurostat-urb_cpop1
+IT,Novara,102231,2025,eurostat-urb_cpop1
+IT,Cosenza (greater city),100021,2025,eurostat-urb_cpop1
+NL,Rotterdam (greater city),1274944,2024,eurostat-urb_cpop1
+NL,Amsterdam (greater city),1073736,2024,eurostat-urb_cpop1
+NL,'s-Gravenhage (greater city),813669,2024,eurostat-urb_cpop1
+NL,Utrecht (greater city),473630,2024,eurostat-urb_cpop1
+NL,Eindhoven (greater city),293244,2024,eurostat-urb_cpop1
+NL,Haarlem (greater city),288256,2024,eurostat-urb_cpop1
+NL,Leiden (greater city),276383,2024,eurostat-urb_cpop1
+NL,Groningen,243768,2024,eurostat-urb_cpop1
+NL,Tilburg (greater city),229836,2024,eurostat-urb_cpop1
+NL,Alkmaar (greater city),226692,2024,eurostat-urb_cpop1
+NL,Almere,226500,2024,eurostat-urb_cpop1
+NL,Heerlen (greater city),197654,2024,eurostat-urb_cpop1
+NL,Breda,188078,2024,eurostat-urb_cpop1
+NL,Nijmegen,187049,2024,eurostat-urb_cpop1
+NL,Arnhem,182783,2024,eurostat-urb_cpop1
+NL,Apeldoorn,168211,2024,eurostat-urb_cpop1
+NL,Ede,166111,2024,eurostat-urb_cpop1
+NL,Haarlemmermeer,163128,2024,eurostat-urb_cpop1
+NL,Amersfoort,161852,2024,eurostat-urb_cpop1
+NL,Enschede,161738,2024,eurostat-urb_cpop1
+NL,Zaanstad (greater city),161389,2024,eurostat-urb_cpop1
+NL,'s-Hertogenbosch,160757,2024,eurostat-urb_cpop1
+NL,Zwolle,133141,2024,eurostat-urb_cpop1
+NL,Leeuwarden,128810,2024,eurostat-urb_cpop1
+NL,Zoetermeer,128434,2024,eurostat-urb_cpop1
+NL,Maastricht,125285,2024,eurostat-urb_cpop1
+NL,Sittard-Geleen (greater city),117394,2024,eurostat-urb_cpop1
+NL,Alphen aan den Rijn,114966,2024,eurostat-urb_cpop1
+NL,Nissewaard (greater city),114067,2024,eurostat-urb_cpop1
+NL,Venlo,103789,2024,eurostat-urb_cpop1
+NL,Deventer,103405,2024,eurostat-urb_cpop1
+UK,London,8866541,2018,eurostat-urb_cpop1
+UK,Birmingham,1139249,2018,eurostat-urb_cpop1
+UK,Leeds,787020,2018,eurostat-urb_cpop1
+UK,Glasgow,623715,2018,eurostat-urb_cpop1
+UK,Sheffield,580148,2018,eurostat-urb_cpop1
+UK,Manchester,546564,2018,eurostat-urb_cpop1
+UK,Bradford,535987,2018,eurostat-urb_cpop1
+UK,Edinburgh,515855,2018,eurostat-urb_cpop1
+UK,Liverpool,493182,2018,eurostat-urb_cpop1
+UK,Bristol,461329,2018,eurostat-urb_cpop1
+UK,Kirklees,437936,2018,eurostat-urb_cpop1
+UK,Cardiff,363502,2018,eurostat-urb_cpop1
+UK,Coventry,363467,2018,eurostat-urb_cpop1
+UK,Leicester,354379,2018,eurostat-urb_cpop1
+UK,Wakefield,342914,2018,eurostat-urb_cpop1
+UK,Belfast,341049,2018,eurostat-urb_cpop1
+UK,North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell),340070,2018,eurostat-urb_cpop1
+UK,Cheshire West and Chester,339244,2018,eurostat-urb_cpop1
+UK,Nottingham,330139,2018,eurostat-urb_cpop1
+UK,Sandwell,326419,2018,eurostat-urb_cpop1
+UK,Wigan,325369,2018,eurostat-urb_cpop1
+UK,Wirral,323016,2018,eurostat-urb_cpop1
+UK,Dudley,320023,2018,eurostat-urb_cpop1
+UK,Doncaster,309741,2018,eurostat-urb_cpop1
+UK,Newcastle upon Tyne,298019,2018,eurostat-urb_cpop1
+UK,Stockport,291410,2018,eurostat-urb_cpop1
+UK,Brighton and Hove,289275,2018,eurostat-urb_cpop1
+UK,Bolton,285093,2018,eurostat-urb_cpop1
+UK,Walsall,282336,2018,eurostat-urb_cpop1
+UK,Medway,277736,2018,eurostat-urb_cpop1
+UK,Sunderland,277333,2018,eurostat-urb_cpop1
+UK,Sefton,274993,2018,eurostat-urb_cpop1
+UK,Milton Keynes,268064,2018,eurostat-urb_cpop1
+UK,Rotherham,264023,2018,eurostat-urb_cpop1
+UK,Plymouth,263085,2018,eurostat-urb_cpop1
+UK,Wolverhampton,260967,2018,eurostat-urb_cpop1
+UK,Kingston-upon-Hull,260659,2018,eurostat-urb_cpop1
+UK,Derby,257104,2018,eurostat-urb_cpop1
+UK,Stoke-on-Trent,255606,2018,eurostat-urb_cpop1
+UK,Salford,252870,2018,eurostat-urb_cpop1
+UK,Southampton,252578,2018,eurostat-urb_cpop1
+UK,Swansea,245973,2018,eurostat-urb_cpop1
+UK,Barnsley,244270,2018,eurostat-urb_cpop1
+UK,Trafford,235932,2018,eurostat-urb_cpop1
+UK,Oldham,234691,2018,eurostat-urb_cpop1
+UK,Aberdeen,228180,2018,eurostat-urb_cpop1
+UK,Northampton,225401,2018,eurostat-urb_cpop1
+UK,Tameside,224658,2018,eurostat-urb_cpop1
+UK,Swindon,221180,2018,eurostat-urb_cpop1
+UK,Rochdale,219230,2018,eurostat-urb_cpop1
+UK,Portsmouth,214926,2018,eurostat-urb_cpop1
+UK,Solihull,214421,2018,eurostat-urb_cpop1
+UK,Luton,214384,2018,eurostat-urb_cpop1
+UK,Warrington,209626,2018,eurostat-urb_cpop1
+UK,York,209028,2018,eurostat-urb_cpop1
+UK,North Tyneside,205229,2018,eurostat-urb_cpop1
+UK,Gateshead,202464,2018,eurostat-urb_cpop1
+UK,Peterborough,199978,2018,eurostat-urb_cpop1
+UK,Stockton-on-Tees,196850,2018,eurostat-urb_cpop1
+UK,Bournemouth,194554,2018,eurostat-urb_cpop1
+UK,Colchester,191311,2018,eurostat-urb_cpop1
+UK,Bath and North East Somerset,190392,2018,eurostat-urb_cpop1
+UK,Bury,189868,2018,eurostat-urb_cpop1
+UK,Basildon,185171,2018,eurostat-urb_cpop1
+UK,Southend-on-Sea,182136,2018,eurostat-urb_cpop1
+UK,St. Helens,179690,2018,eurostat-urb_cpop1
+UK,Renfrewshire (Paisley),177310,2018,eurostat-urb_cpop1
+UK,Telford and Wrekin,176784,2018,eurostat-urb_cpop1
+UK,Chelmsford,176637,2018,eurostat-urb_cpop1
+UK,Basingstoke and Deane,175533,2018,eurostat-urb_cpop1
+UK,Thurrock,171460,2018,eurostat-urb_cpop1
+UK,Bedford,170768,2018,eurostat-urb_cpop1
+UK,Maidstone,168843,2018,eurostat-urb_cpop1
+UK,Reading,163139,2018,eurostat-urb_cpop1
+UK,Falkirk,160235,2018,eurostat-urb_cpop1
+UK,North East Lincolnshire,159824,2018,eurostat-urb_cpop1
+UK,Oxford,154455,2018,eurostat-urb_cpop1
+UK,Dacorum,153798,2018,eurostat-urb_cpop1
+UK,Newport,152394,2018,eurostat-urb_cpop1
+UK,Derry & Strabane Local Government District,150588,2018,eurostat-urb_cpop1
+UK,South Tyneside,149910,2018,eurostat-urb_cpop1
+UK,Slough,148940,2018,eurostat-urb_cpop1
+UK,Blackburn with Darwen,148857,2018,eurostat-urb_cpop1
+UK,Dundee City,148730,2018,eurostat-urb_cpop1
+UK,Guildford,147833,2018,eurostat-urb_cpop1
+UK,St Albans,147234,2018,eurostat-urb_cpop1
+UK,Preston,141582,2018,eurostat-urb_cpop1
+UK,Thanet,141578,2018,eurostat-urb_cpop1
+UK,Warwick,141383,2018,eurostat-urb_cpop1
+UK,Norwich,140745,2018,eurostat-urb_cpop1
+UK,Middlesbrough,140592,2018,eurostat-urb_cpop1
+UK,Blackpool,139588,2018,eurostat-urb_cpop1
+UK,Ipswich,138006,2018,eurostat-urb_cpop1
+UK,Wrexham,135849,2018,eurostat-urb_cpop1
+UK,Torbay,135514,2018,eurostat-urb_cpop1
+UK,Eastleigh,131159,2018,eurostat-urb_cpop1
+UK,Exeter,129672,2018,eurostat-urb_cpop1
+UK,Newcastle-under-Lyme,129227,2018,eurostat-urb_cpop1
+UK,Gloucester,129184,2018,eurostat-urb_cpop1
+UK,Nuneaton and Bedworth,128781,2018,eurostat-urb_cpop1
+UK,Ashford,128404,2018,eurostat-urb_cpop1
+UK,Halton,128014,2018,eurostat-urb_cpop1
+UK,Cambridge,125339,2018,eurostat-urb_cpop1
+UK,Bracknell Forest,121027,2018,eurostat-urb_cpop1
+UK,East Staffordshire,118063,2018,eurostat-urb_cpop1
+UK,Tunbridge Wells,118058,2018,eurostat-urb_cpop1
+UK,Cheltenham,117109,2018,eurostat-urb_cpop1
+UK,Crawley,112056,2018,eurostat-urb_cpop1
+UK,Worthing,109829,2018,eurostat-urb_cpop1
+UK,Mansfield,108709,2018,eurostat-urb_cpop1
+UK,Carlisle,108331,2018,eurostat-urb_cpop1
+UK,Rugby,106772,2018,eurostat-urb_cpop1
+UK,Darlington,106457,2018,eurostat-urb_cpop1
+UK,Gravesham,106253,2018,eurostat-urb_cpop1
+UK,Chesterfield,104604,2018,eurostat-urb_cpop1
+UK,Eastbourne,103206,2018,eurostat-urb_cpop1
+UK,Worcester,102103,2018,eurostat-urb_cpop1
+UK,Woking,101148,2018,eurostat-urb_cpop1
+UK,Kettering,100759,2018,eurostat-urb_cpop1
+AT,Vienna,2028289,2025,"wikipedia(List_of_cities_and_towns_in_Austria, Statistik Austria 2025)"
+AT,Graz,305314,2025,"wikipedia(List_of_cities_and_towns_in_Austria, Statistik Austria 2025)"
+AT,Linz,213557,2025,"wikipedia(List_of_cities_and_towns_in_Austria, Statistik Austria 2025)"
+AT,Salzburg,157659,2025,"wikipedia(List_of_cities_and_towns_in_Austria, Statistik Austria 2025)"
+AT,Innsbruck,132499,2025,"wikipedia(List_of_cities_and_towns_in_Austria, Statistik Austria 2025)"
+AT,Klagenfurt am Wörthersee,105256,2025,"wikipedia(List_of_cities_and_towns_in_Austria, Statistik Austria 2025)"
+US,New York City,8584629,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Los Angeles,3869089,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Chicago,2731585,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Houston,2397315,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Phoenix, Arizona",1665481,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Philadelphia,1574281,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,San Antonio,1548422,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,San Diego,1406106,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Dallas,1329491,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fort Worth, Texas",1028117,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Jacksonville, Florida",1017689,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Austin, Texas",1002632,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"San Jose, California",989814,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Charlotte, North Carolina",964784,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Columbus, Ohio",938396,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Indianapolis,901116,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,San Francisco,826079,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Seattle,784777,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Denver,740613,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Nashville, Tennessee",721074,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Oklahoma City,719849,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Washington, D.C.",693645,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"El Paso, Texas",683012,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Las Vegas,679817,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Boston,672973,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Detroit,649095,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Louisville, Kentucky",641962,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Portland, Oregon",635109,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Memphis, Tennessee",609647,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Baltimore,569997,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Milwaukee,562407,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Albuquerque, New Mexico",556588,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fresno, California",555549,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tucson, Arizona",548371,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sacramento, California",536449,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Atlanta,529110,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Kansas City, Missouri",521220,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Mesa, Arizona",513656,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Raleigh, North Carolina",506306,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Colorado Springs, Colorado",494743,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Miami,489812,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Omaha, Nebraska",488797,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Virginia Beach, Virginia",453737,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Long Beach, California",450469,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Oakland, California",440838,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Minneapolis,430324,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Bakersfield, California",422165,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tulsa, Oklahoma",416209,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tampa, Florida",413554,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Aurora, Colorado",410053,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Arlington, Texas",402134,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Wichita, Kansas",400987,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Cleveland,363608,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,New Orleans,362154,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Henderson, Nevada",353289,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Honolulu,341868,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Anaheim, California",341008,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Orlando, Florida",333888,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lexington, Kentucky",329751,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Stockton, California",324597,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Newark, New Jersey",323808,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Riverside, California",323057,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Irvine, California",318764,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Corpus Christi, Texas",317247,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Santa Ana, California",315586,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Cincinnati,314367,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Greensboro, North Carolina",308667,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Pittsburgh,307632,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Saint Paul, Minnesota",306684,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Durham, North Carolina",305561,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Jersey City, New Jersey",302013,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lincoln, Nebraska",301522,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"North Las Vegas, Nevada",296653,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Plano, Texas",293028,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Gilbert, Arizona",287285,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Anchorage, Alaska",287155,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Madison, Wisconsin",286233,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Reno, Nevada",283621,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Chandler, Arizona",278748,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,St. Louis,278144,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Chula Vista, California",275533,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fort Wayne, Indiana",275203,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Buffalo, New York",274613,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lubbock, Texas",273071,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Laredo, Texas",269515,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Port St. Lucie, Florida",268062,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"St. Petersburg, Florida",264033,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Toledo, Ohio",263423,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Glendale, Arizona",260572,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Winston-Salem, North Carolina",257271,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Irving, Texas",257076,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Chesapeake, Virginia",255332,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Garland, Texas",249625,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Scottsdale, Arizona",243006,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Boise, Idaho",238429,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Richmond, Virginia",237257,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Frisco, Texas",236955,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Cape Coral, Florida",236264,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"McKinney, Texas",236001,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Huntsville, Alabama",233627,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Norfolk, Virginia",231013,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hialeah, Florida",230968,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Spokane, Washington",230783,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tacoma, Washington",229816,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Santa Clarita, California",228430,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fremont, California",226442,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Baton Rouge, Louisiana",222795,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"San Bernardino, California",222044,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fontana, California",221223,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Modesto, California",219652,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,Salt Lake City,218428,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Moreno Valley, California",214263,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Worcester, Massachusetts",213862,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sioux Falls, South Dakota",213748,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Yonkers, New York",212603,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Des Moines, Iowa",212086,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Grand Prairie, Texas",209434,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fayetteville, North Carolina",209120,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Little Rock, Arkansas",206427,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Rochester, New York",206108,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Amarillo, Texas",205130,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tallahassee, Florida",204902,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Overland Park, Kansas",203677,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Columbus, Georgia",202171,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Knoxville, Tennessee",202021,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Augusta, Georgia",201999,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Grand Rapids, Michigan",201183,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Peoria, Arizona",200881,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Mobile, Alabama",200824,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Vancouver, Washington",199698,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Oxnard, California",199651,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Birmingham, Alabama",195893,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Providence, Rhode Island",195310,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Montgomery, Alabama",195300,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Chattanooga, Tennessee",194144,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Brownsville, Texas",192957,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Huntington Beach, California",191451,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tempe, Arizona",190571,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Akron, Ohio",189691,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Clarksville, Tennessee",188829,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fort Lauderdale, Florida",188677,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Glendale, California",187160,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Ontario, California",187013,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Elk Grove, California",185007,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Cary, North Carolina",183582,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Newport News, Virginia",183230,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Salem, Oregon",181779,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Aurora, Illinois",181505,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Santa Rosa, California",179437,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Eugene, Oregon",178618,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Rancho Cucamonga, California",177856,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pembroke Pines, Florida",176714,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Shreveport, Louisiana",175902,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Surprise, Arizona",175304,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fort Collins, Colorado",171500,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Murfreesboro, Tennessee",171178,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Oceanside, California",170483,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Garden Grove, California",170455,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lancaster, California",170084,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Springfield, Missouri",169847,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Denton, Texas",169431,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Roseville, California",167302,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Killeen, Texas",161883,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Palmdale, California",161845,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Paterson, New Jersey",161793,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Corona, California",161734,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Alexandria, Virginia",160662,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Charleston, South Carolina",159423,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Salinas, California",159134,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Kansas City, Kansas",157805,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Macon, Georgia",157556,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hayward, California",157113,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hollywood, Florida",157019,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lakewood, Colorado",156927,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sunnyvale, California",156577,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Springfield, Massachusetts",154702,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Bellevue, Washington",154193,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Naperville, Illinois",153114,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Bridgeport, Connecticut",152273,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Joliet, Illinois",152241,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Mesquite, Texas",150693,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"McAllen, Texas",150640,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Olathe, Kansas",150025,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Savannah, Georgia",149440,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Gainesville, Florida",148671,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pasadena, Texas",148539,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Palm Bay, Florida",148092,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pomona, California",147807,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Waco, Texas",147788,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Thornton, Colorado",147766,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Midland, Texas",147615,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Rockford, Illinois",147384,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Columbia, South Carolina",147035,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Visalia, California",146541,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Escondido, California",146030,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Syracuse, New York",144896,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lakewood Township, New Jersey",143765,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Meridian, Idaho",142988,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Miramar, Florida",142570,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Elizabeth, New Jersey",141675,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Victorville, California",141395,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Round Rock, Texas",141282,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Jackson, Mississippi",141196,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Stamford, Connecticut",139535,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lewisville, Texas",139006,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Coral Springs, Florida",138783,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"New Haven, Connecticut",138774,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fullerton, California",138675,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Torrance, California",138391,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Orange, California",138365,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Cedar Rapids, Iowa",137935,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"West Valley City, Utah",137491,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hampton, Virginia",137315,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Warren, Michigan",137138,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Dayton, Ohio",136688,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fargo, North Dakota",136275,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pasadena, California",135804,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Kent, Washington",134871,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Carrollton, Texas",134562,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sterling Heights, Michigan",133931,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Santa Clara, California",133446,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Abilene, Texas",131588,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Norman, Oklahoma",130943,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Columbia, Missouri",130851,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pearland, Texas",129930,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Clovis, California",129347,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"North Charleston, South Carolina",129245,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Athens, Georgia",128612,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"College Station, Texas",127472,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"West Palm Beach, Florida",127189,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Wilmington, North Carolina",126809,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Allentown, Pennsylvania",126044,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Topeka, Kansas",125795,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lakeland, Florida",125520,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Buckeye, Arizona",125445,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Goodyear, Arizona",125359,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Broken Arrow, Oklahoma",124991,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Simi Valley, California",124861,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Rochester, Minnesota",124292,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lafayette, Louisiana",123311,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Vallejo, California",123287,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Concord, California",123261,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Arvada, Colorado",122901,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Odessa, Texas",122707,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Cambridge, Massachusetts",122588,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"New Braunfels, Texas",122492,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fairfield, California",122489,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Ann Arbor, Michigan",122233,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Thousand Oaks, California",122230,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hartford, Connecticut",121981,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Berkeley, California",121911,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Independence, Missouri",121675,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Billings, Montana",121239,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"High Point, North Carolina",120571,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Nampa, Idaho",120384,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lowell, Massachusetts",119971,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"League City, Texas",119905,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Conroe, Texas",119564,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Antioch, California",118958,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Menifee, California",118592,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Richardson, Texas",118542,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pompano Beach, Florida",117211,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Las Cruces, New Mexico",116978,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Manchester, New Hampshire",116818,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"West Jordan, Utah",116812,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Westminster, Colorado",116182,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Evansville, Indiana",116176,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Waterbury, Connecticut",115771,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Elgin, Illinois",115476,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Greeley, Colorado",115073,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Temecula, California",114865,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Richmond, California",114861,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Concord, North Carolina",114598,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Provo, Utah",114527,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Rio Rancho, New Mexico",114419,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Clearwater, Florida",114364,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tuscaloosa, Alabama",114316,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Murrieta, California",114124,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lansing, Michigan",113884,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tyler, Texas",113723,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Miami Gardens, Florida",113579,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Everett, Washington",113567,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Allen, Texas",113447,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Springfield, Illinois",112989,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Beaumont, Texas",112967,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"South Fulton, Georgia",112820,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Carlsbad, California",112260,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sparks, Nevada",111902,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Gresham, Oregon",111513,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Santa Maria, California",111390,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hillsboro, Oregon",111126,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Peoria, Illinois",110920,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Davie, Florida",110851,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Edinburg, Texas",110700,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Pueblo, Colorado",110404,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Ventura, California",109914,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Palm Coast, Florida",109886,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Edison, New Jersey",109077,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Costa Mesa, California",108881,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"St. George, Utah",108713,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Centennial, Colorado",108658,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Downey, California",108468,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Spokane Valley, Washington",108405,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sugar Land, Texas",107726,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lee's Summit, Missouri",107514,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Bend, Oregon",107342,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Jurupa Valley, California",107311,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Georgetown, Texas",106907,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Green Bay, Wisconsin",106675,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fayetteville, Arkansas",106623,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Rialto, California",106554,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Brockton, Massachusetts",106134,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Boulder, Colorado",105689,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Carmel, Indiana",105634,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Dearborn, Michigan",105611,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"West Covina, California",105301,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Yuma, Arizona",105227,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Chico, California",105081,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"El Monte, California",105075,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sandy Springs, Georgia",105013,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Renton, Washington",104975,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fishers, Indiana",104812,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Woodbridge Township, New Jersey",104802,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Suffolk, Virginia",104699,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Lynn, Massachusetts",104236,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Vacaville, California",103850,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"San Mateo, California",103337,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"South Bend, Indiana",103201,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Quincy, Massachusetts",103173,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Burbank, California",102988,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Hesperia, California",102605,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Wichita Falls, Texas",101951,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Tracy, California",101901,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"New Bedford, Massachusetts",101834,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"El Cajon, California",101755,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Albany, New York",101698,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Inglewood, California",101662,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Boca Raton, Florida",101582,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Fort Myers, Florida",101581,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Clinton Township, Macomb County, Michigan",101374,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Daly City, California",101261,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Avondale, Arizona",100983,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Toms River, New Jersey",100899,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"San Angelo, Texas",100640,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Edmond, Oklahoma",100479,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Davenport, Iowa",100358,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Deltona, Florida",100267,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Federal Way, Washington",100252,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Sunrise, Florida",100128,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+US,"Longmont, Colorado",100109,2025,"wikipedia(List_of_United_States_cities_by_population, Census Bureau est. 2025-07-01)"
+IN,Mumbai,12442373,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Delhi,11034555,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bengaluru,8443675,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hyderabad,6993262,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chennai,6748026,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ahmedabad,5577940,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kolkata,4496694,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Surat,4467797,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Pune,3124458,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jaipur,3046163,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Lucknow,2817105,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kanpur,2765348,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nagpur,2405665,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Indore,1964086,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Thane,1841488,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhopal,1798218,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Visakhapatnam,1728128,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Pimpri-Chinchwad,1727692,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Patna,1684222,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vadodara,1670806,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ghaziabad,1648643,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ludhiana,1618879,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Agra,1585704,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nashik,1486053,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Faridabad,1414050,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Meerut,1305429,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Rajkot,1286678,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kalyan-Dombivli,1247327,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vasai-Virar,1222390,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Varanasi,1198491,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Srinagar,1180570,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chhatrapati Sambhajinagar,1175116,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dhanbad,1162472,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Amritsar,1132383,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Navi Mumbai,1120547,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Prayagraj,1112544,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Howrah,1077075,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ranchi,1073427,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jabalpur,1055525,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gwalior,1054420,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Coimbatore,1050721,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vijayawada,1034358,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jodhpur,1033756,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Madurai,1017865,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Raipur,1010433,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Kota, Rajasthan",1001694,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chandigarh,961587,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Guwahati,957352,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Solapur,951558,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hubli–Dharwad,943788,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bareilly,903668,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mysore,893062,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Moradabad,887871,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gurgaon,876969,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Aligarh,874408,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jalandhar,862886,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tiruchirappalli,847387,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhubaneswar,843402,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Salem, Tamil Nadu",829267,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mira-Bhayandar,809378,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Thiruvananthapuram,743691,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhiwandi,711329,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Saharanpur,705478,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gorakhpur,673446,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Guntur,647508,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Amravati,647057,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bikaner,644406,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Noida,637272,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jamshedpur,631364,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhilai,625700,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Warangal,615998,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Cuttack,610189,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Firozabad,604214,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kochi,602046,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhavnagar,593368,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dehradun,569578,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Durgapur,566517,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Asansol,563917,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nanded Waghala,550439,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kolhapur,549236,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ajmer,542321,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kalaburagi,533587,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Loni, Ghaziabad",516082,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ujjain,515215,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Siliguri,513264,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ulhasnagar,506098,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jhansi,505693,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sangli-Miraj & Kupwad,502793,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jammu,502197,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nellore,499575,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mangalore,488968,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Belgaum,488157,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jamnagar,479920,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tirunelveli,473637,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Malegaon,471312,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Gaya, India",468614,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ambattur,466205,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jalgaon,460228,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Udaipur,451100,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Maheshtala,448317,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tiruppur,444352,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Davanagere,434971,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kozhikode,431560,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kurnool,430214,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Akola,425817,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Rajpur Sonarpur,424368,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bokaro Steel City,414820,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bellary,410445,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Patiala,406192,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,South Dumdum,403316,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gopalpur,400146,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Agartala,400004,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhagalpur,398138,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Muzaffarnagar,392768,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhatpara,383762,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Latur,382940,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Panihati,377347,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dhule,375559,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Rohtak,374292,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Korba, Chhattisgarh",363390,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhilwara,359483,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Berhampur,356598,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Muzaffarpur,354462,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ahilyanagar,350859,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mathura,349909,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kollam,348657,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Avadi,345996,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kadapa,343054,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Rajahmundry,341831,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Bilaspur, Chhattisgarh",331030,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kamarhati,330211,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Shahjahanpur,329736,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bijapur,327427,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Rampur, Uttar Pradesh",325313,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Shivamogga,322650,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chandrapur,320379,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Junagadh,319462,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Thrissur,315957,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Alwar,315379,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bardhaman,314265,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kulti,313809,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kakinada,312538,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Nizamabad, Telangana",311152,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Parbhani,307170,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tumkur,302143,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hisar (city),301383,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ozhukarai,300104,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bihar Sharif,297268,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Darbhanga,296039,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Panipat,294292,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Aizawl,293416,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Bally, Howrah",293373,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dewas,289550,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tirupati,287482,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ichalkaranji,287353,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Karnal,286827,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bathinda,285788,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Jalna, Maharashtra",285577,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kirari Suleman Nagar,283211,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Purnia,282248,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Satna,280222,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Maunath Bhanjan,278745,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Barasat,278435,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sonipat,278149,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Farrukhabad,276581,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Sagar, Madhya Pradesh",273296,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Rourkela,272721,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Durg,268806,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Imphal,268243,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ratlam,264914,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hapur,262983,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Arrah,261430,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Karimnagar,261185,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Anantapur,261004,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,New Delhi,257803,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Etawah,256838,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ambarnath,253475,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Bharatpur, Rajasthan",252342,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Begusarai,252008,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tiruvottiyur,249446,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,North Dumdum,249142,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gandhidham,247992,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Baranagar,245213,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Puducherry (union territory),244377,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Thoothukudi,237830,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sikar,237532,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Rewa, Madhya Pradesh",235654,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mirzapur,234871,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Raichur,234073,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Pali, Rajasthan",230075,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ramagundam,229644,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Haridwar,228832,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vijayanagaram,228025,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Katihar,226261,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nagercoil,224849,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sri Ganganagar,224532,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Karawal Nagar,224281,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Mango, Jharkhand",223805,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Thanjavur,222943,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bulandshahr,222519,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Uluberia,222240,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Murwara,221883,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sambhal,220813,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Singrauli,220257,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nadiad,218095,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Secunderabad,217910,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Naihati,217900,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Yamunanagar,216677,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bidhan Nagar,215514,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Pallavaram,215417,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bidar,214373,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Panchkula,211355,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Burhanpur,210886,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Raurkela Industrial Township,210317,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kharagpur,207604,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dindigul,207327,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gandhinagar,206167,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hospet,206167,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nangloi Jat,205596,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Malda, West Bengal",205521,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ongole,204746,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Eluru,203780,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Deoghar,203123,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chhapra,202352,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Haldia,200827,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Khandwa,200738,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Puri (city),200564,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nandyal,200516,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Morena, Madhya Pradesh",200482,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Amroha,198471,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Anand, Gujarat",198282,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhind,197585,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhalswa Jahangir Pur,197148,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Madhyamgram,196127,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhiwani,196057,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Panvel,195373,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Baharampur,195223,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Ambala,195153,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Morvi,194947,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Fatehpur, Uttar Pradesh",193193,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Raebareli,191316,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Khora,190005,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chittoor,189332,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhusawal,187421,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Orai,187137,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bahraich,186223,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vellore,185803,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Veraval,185797,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mahesana,184991,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Khammam,184210,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sambalpur,184000,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Raiganj,183612,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sirsa,182534,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Danapur,182429,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Serampore,181842,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sultan Pur Majra,181554,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Guna, India",180935,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Jaunpur, Uttar Pradesh",180362,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Shivpuri,179977,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Surendranagar Dudhrej,177851,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Unnao,177658,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hugli-Chuchura,177259,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sitapur,177234,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hastsal,176877,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tambaram,174787,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Adityapur,174355,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Badlapur,174226,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Alappuzha,174176,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Cuddalore,173636,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Silchar,172830,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gadag-Betageri,172612,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bahadurgarh,170767,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Machilipatnam,169892,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Shimla,169578,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Medinipur,169264,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Deoli, Delhi",169122,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bharuch,169007,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hoshiarpur,168653,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jind,167592,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Chandannagar,166867,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Adoni,166344,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Tonk, India",165294,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Faizabad,165228,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tenali,164937,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Alandur,164430,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kancheepuram,164384,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vapi,163630,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Rajnandgaon,163114,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Proddatur,162717,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Navsari,160941,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Budaun,159285,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Uttarpara Kotrung,159147,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Mahbubnagar,157733,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Erode,157101,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Batala,156619,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Saharsa,156540,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Haldwani—Kathgodam,156078,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Vidisha,155951,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Thanesar,155152,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kishangarh,154886,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hindupur,151835,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Sasaram,147396,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hajipur,147126,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Beed,146709,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bhimavaram,142280,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dehri,137068,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Madanapalle,135669,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Siwan, Bihar",134458,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bettiah,132896,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gondia,132813,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Guntakal,126270,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Srikakulam,125939,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Motihari,125183,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Dharmavaram,121874,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Satara (city),120195,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Barshi,118722,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Gudivada,118167,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Yavatmal,116551,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Narasaraopet,116250,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Bagaha,113012,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Achalpur,112311,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Osmanabad,111825,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Nandurbar,111037,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Miryalaguda,109891,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tadipatri,108171,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kishanganj,107076,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Karaikudi,106714,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Wardha,106444,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Suryapet,105250,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,"Jamalpur, Bihar",105221,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Kavali,104000,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Tadepalligudem,103906,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Udgir,103550,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Amaravati,103000,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Buxar,102591,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Jehanabad,102456,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Greater Noida,102054,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Hinganghat,101805,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+IN,Aurangabad,101520,2011,"wikipedia(List_of_cities_in_India_by_population, 2011 census)"
+RU,Moscow,13010112,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Saint Petersburg,5601911,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novosibirsk,1633595,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Yekaterinburg,1544376,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kazan,1308660,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nizhny Novgorod,1228199,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Chelyabinsk,1189525,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Krasnoyarsk,1187771,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Samara,1173299,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Ufa,1144809,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Rostov-on-Don,1142162,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Omsk,1125695,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Krasnodar,1099344,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Voronezh,1057681,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Perm, Russia",1034002,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Volgograd,1028036,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Saratov,901361,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Tyumen,847488,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Tolyatti,684709,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Barnaul,630877,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Izhevsk,623472,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Makhachkala,623254,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Khabarovsk,617441,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Ulyanovsk,617352,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Irkutsk,617264,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Vladivostok,603519,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Yaroslavl,577279,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kemerovo,557119,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Tomsk,556478,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Naberezhnye Chelny,548434,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Stavropol,547443,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Orenburg,543654,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novokuznetsk,537480,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Ryazan,528599,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Balashikha,520962,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Penza,501109,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Cheboksary,497807,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Lipetsk,496403,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kaliningrad,490449,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Astrakhan,475629,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Tula, Russia",473622,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Kirov, Kirov Oblast",468212,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Sochi,466078,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kursk,440052,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Ulan-Ude,437565,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Tver,416219,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Magnitogorsk,410594,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Surgut,396443,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Bryansk,379152,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Ivanovo,361644,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Yakutsk,355443,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Vladimir, Russia",349951,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Belgorod,339978,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nizhny Tagil,338966,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kaluga,337058,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Chita, Zabaykalsky Krai",334427,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Grozny,328533,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Volzhsky, Volgograd Oblast",321479,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Smolensk,316570,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Podolsk,314934,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Saransk,314871,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Vologda,313944,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Kurgan, Kurgan Oblast",310911,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Cherepovets,305185,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Oryol,303169,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Arkhangelsk,301199,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Vladikavkaz,295830,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nizhnevartovsk,283256,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Yoshkar-Ola,281248,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Sterlitamak,277410,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Murmansk,270384,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kostroma,267481,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novorossiysk,262293,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Tambov,261803,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Khimki,257128,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Mytishchi,255429,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nalchik,247054,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Taganrog,245120,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nizhnekamsk,241479,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Blagoveshchensk,241437,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Komsomolsk-on-Amur,238505,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Petrozavodsk,234897,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Korolyov, Moscow Oblast",228095,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Shakhty,226452,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Engels, Saratov Oblast",225428,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Veliky Novgorod,224286,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Lyubertsy,224195,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Bratsk,224071,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Stary Oskol,221676,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Angarsk,221296,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Syktyvkar,220580,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Dzerzhinsk, Russia",218630,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Pskov,193082,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Orsk,189195,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Krasnogorsk, Moscow Oblast",187634,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Armavir, Russia",187177,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Abakan,184769,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Balakovo,184466,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Biysk,183852,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Yuzhno-Sakhalinsk,181587,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Odintsovo,180530,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Ussuriysk,180393,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Prokopyevsk,177819,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Rybinsk,177295,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Norilsk,174453,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Volgodonsk,168048,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Syzran,165725,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Petropavlovsk-Kamchatsky,164900,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kamensk-Uralsky,164192,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novocherkassk,163674,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Almetyevsk,163512,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Zlatoust,161774,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Severodvinsk,157213,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Khasavyurt,155144,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Domodedovo (town),152404,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Salavat, Russia",148575,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Miass,147995,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kopeysk,147806,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Pyatigorsk,146473,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Elektrostal,146403,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Maykop,143385,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nakhodka,139931,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Berezniki,138069,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kolomna,134850,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Shchyolkovo,134211,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Serpukhov,133793,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kovrov,132417,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Neftekamsk,131942,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kislovodsk,127521,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Bataysk,126988,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Rubtsovsk,126834,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Obninsk,125376,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kyzyl,125241,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Derbent,124953,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nefteyugansk,124732,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nazran,122350,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kaspiysk,121140,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Dolgoprudny,120907,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novocheboksarsk,120375,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Novomoskovsk, Russia",119697,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Yessentuki,119658,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Nevinnomyssk,117562,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Oktyabrsky, Republic of Bashkortostan",115557,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Ramenskoye, Moscow Oblast",114537,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Pervouralsk,114450,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Mikhaylovsk, Stavropol Krai",114133,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Reutov,113871,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Cherkessk,113226,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Zhukovsky, Moscow Oblast",111222,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Dimitrovgrad, Russia",110968,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Pushkino, Pushkinsky District, Moscow Oblast",110868,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Artyom, Russia",109556,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Kamyshin,107927,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Murom,107497,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Khanty-Mansiysk,107473,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novy Urengoy,107251,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Seversk,106648,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Orekhovo-Zuyevo,105745,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Arzamas,104908,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Noginsk,103891,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Novoshakhtinsk,103480,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Berdsk,102850,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Elista,102583,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Sergiyev Posad,101756,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,"Vidnoye, Moscow Oblast",101490,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Achinsk,100621,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Tobolsk,100352,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"
+RU,Noyabrsk,100188,2021,"wikipedia(List_of_cities_and_towns_in_Russia_by_population, 2021 census)"

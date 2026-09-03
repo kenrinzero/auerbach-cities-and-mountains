@@ -1,0 +1,492 @@
+{{Short description|none}}
+This is a list of all the [[ultra-prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in the [[Karakoram]], [[Hindu Kush]] and neighbouring ranges. The list includes 4 of the 14 8000m summits, all in the Karakoram, including the second highest mountain in the world, [[K2]]. There are a further 19 Ultras in the Karakoram and 5 in the Hindu Kush over 7,000m. The [[List of Ultras of the Himalayas|ultras of the Himalayas]] lie to the south east and are listed separately. To the north are the [[List of Ultras of Central Asia|Pamirs]], and to the east the mountains of [[List of Ultras of Tibet, East Asia and neighbouring areas|Tibet]].
+
+Despite their height, only 3 mountains are among the 100 most prominent mountains, K2, in 22nd place, Tirich Mir (30) and Batura Sar (77). Two more are on the [[List_of_peaks_by_prominence|list of 120 most prominent mountains]]: Buni Zom (117) and Kuh-e Bandaka (118).
+
+==[[Karakoram]]==
+[[File:K2-big.jpg|thumb|200px|[[K2]], [[Pakistan]]]]
+[[File:Masherbrum.jpg|thumb|200px|[[Masherbrum|Masherbrum (K1)]], [[Pakistan]]]][[File:MuztaghTower.jpg|thumb|200px|[[Muztagh Tower]], [[Pakistan]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[K2]]
+|{{PAK}}&nbsp;/&nbsp;{{CHN}},
+|8,614
+|'''4,020'''
+|4594
+|-
+|2
+|[[Batura Sar]]
+|{{PAK}},
+|7,795
+|'''3,118'''
+|4677
+|-
+|3
+|[[Rakaposhi]]
+|{{PAK}},
+|7,788
+|'''2,818'''
+|4970
+|-
+|4
+|[[Distaghil Sar]]
+|{{PAK}},
+|7,885
+|'''2,525'''
+|5360
+|-
+|5
+|[[Masherbrum]]
+|Control by {{PAK}},
+|7,821
+|'''2,457'''
+|5364
+|-
+|6
+|[[Saser Kangri]]
+|Ladakh,{{IND}}
+|7,672
+|'''2,304'''
+|5368
+|-
+|7
+|[[Haramosh Peak]]
+|{{PAK}},
+|7,397
+|'''2,277'''
+|5120
+|-
+|8
+|[[Karun Kuh]]
+|{{PAK}},
+|6,977
+|'''2,240'''
+|4737
+|-
+|9
+|[[Malubiting]]
+|{{PAK}},
+|7,453
+|'''2,193'''
+|5260
+|-
+|10
+|[[Saltoro Kangri]]
+|{{IND}}
+|7,742
+|'''2,160'''
+|5582
+|-
+|11
+|[[Gasherbrum I]]
+|{{PAK}}&nbsp;/&nbsp;{{CHN}};
+|8,080
+|'''2,155'''
+|5925
+|-
+|12
+|[[Surukwat Kangri]]
+|{{CHN}}
+|6,792
+|'''1,995'''
+|4797
+|-
+|13
+|[[K12 (mountain)|K12]]
+|{{IND}}
+|7,428
+|'''1,978'''
+|5450
+|-
+|14
+|[[K6 (mountain)|K6]]
+|{{PAK}},
+|7,282
+|'''1,962'''
+|5320
+|-
+|15
+|[[The Crown (mountain)|The Crown]]
+|{{CHN}}
+|7,295
+|'''1,919'''
+|5376
+|-
+|16
+|[[Baintha Brakk]]
+|{{PAK}}
+|7,285,
+|'''1,891'''
+|5394
+|-
+|17
+|[[Mamostong Kangri]]
+|{{IND}},
+|7,516
+|'''1,803'''
+|5713
+|-
+|18
+|[[Khunyang Chhish]]
+|{{PAK}},
+|7,852
+|'''1,765'''
+|6087
+|-
+|19
+|[[Kharchanai]]
+|{{CHN}}
+|6,436
+|'''1,743'''
+|4693
+|-
+|20
+|[[Muztagh Tower]]
+|{{PAK}}&nbsp;/&nbsp;{{CHN}}
+|7,276
+|'''1,710'''
+|5566
+|-
+|21
+|[[Teram Kangri]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|7,464
+|'''1,703'''
+|5761
+|-
+|22
+|[[Broad Peak]]
+|{{PAK}}&nbsp;/&nbsp;{{CHN}}
+|8,051
+|'''1,701'''
+|6350
+|-
+|23
+|[[Mazar Shan]]
+|{{CHN}}
+|6,542
+|'''1,674'''
+|4868
+|-
+|24
+|[[Kanjut Sar]]
+|{{PAK}},
+|7,760
+|'''1,660'''
+|6100
+|-
+|25
+|[[Chogolisa]]
+|{{PAK}},
+|7,668
+|'''1,624'''
+|6044
+|-
+|26
+|[[Bilchhar Dobani]]
+|{{PAK}},
+|6,143
+|'''1,601'''
+|4542
+|-
+|27
+|[[Kalmuk Kangri]]
+|{{CHN}}
+|6,952
+|'''1,600'''
+|5352
+|-
+|28
+|[[Durbin Kangri]]
+|{{CHN}}
+|6,824
+|'''1,579'''
+|5245
+|-
+|29
+|[[Kezhen Peak]]
+|{{CHN}}
+|7,038
+|'''1,578'''
+|5460
+|-
+|30
+|HP [[Marshakala Range]]
+|{{PAK}},
+|5,828
+|'''1,564'''
+|4264
+|-
+|31
+|[[Burnag Kangri]]
+|{{CHN}}
+|6,821
+|'''1,529'''
+|5292
+|-
+|32
+|[[Gasherbrum II]]
+|{{PAK}}&nbsp;/&nbsp;{{CHN}}
+|8,034
+|'''1,523'''
+|6511
+|-
+|}
+
+==[[Hindu Kush]]==
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Tirich Mir]]
+|{{PAK}}
+|7,706
+|'''3,908'''
+|3798
+|-
+|2
+|[[Kuh-e Bandaka]]
+|{{AFG}}
+|6,812
+|'''2,834'''
+|3978
+|-
+|3
+|HP [[Kuh-e Safad Khers]]
+|{{AFG}}
+|5,325
+|'''2,470'''
+|2855
+|-
+|4
+|[[Kuh-e Chuk Shakh]]
+|{{AFG}}
+|5,467
+|'''2,444'''
+|3023
+|-
+|5
+|[[Noshaq]]
+|{{AFG}}&nbsp;/&nbsp;{{PAK}}
+|7,492
+|'''2,024'''
+|5468
+|-
+|6
+|[[Saraghrar]]
+|{{PAK}}
+|7,340
+|'''1,979'''
+|5370
+|-
+|7
+|[[Kuh-e Fergardi]]
+|{{AFG}}
+|5,096
+|'''1,850'''
+|3246
+|-
+|8
+|[[Shayaz]]
+|{{PAK}}
+|6,026
+|'''1,797'''
+|4229
+|-
+|9
+|[[Point 5120]]
+|{{AFG}}
+|5,120
+|'''1,775'''
+|3345
+|-
+|10
+|[[Kuh-e Shashgal]]
+|{{AFG}}
+|6,290
+|'''1,758'''
+|4532
+|-
+|11
+|[[Udren Zom]]
+|{{PAK}}
+|7,140
+|'''1,620'''
+|5520
+|-
+|12
+|[[Shah Dhar]]
+|{{AFG}}&nbsp;/&nbsp;{{PAK}}
+|7,038
+|'''1,562'''
+|5476
+|-
+|13
+|[[Lunkho e Dosare]]
+|{{AFG}}&nbsp;/&nbsp;{{PAK}}
+|6,901
+|'''1,561'''
+|5340
+|-
+|}
+
+==South of the [[Khyber Pass]]==
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Sikaram Sar]]
+|{{AFG}}&nbsp;/&nbsp;{{PAK}}
+|4,755
+|'''2,295'''
+|2460
+|-
+|2
+|HP [[Koh-i-Baba]]
+|{{AFG}}
+|5,048
+|'''2,111'''
+|2937
+|-
+|3
+|[[Obasta Tsukai]]
+|{{PAK}}
+|3,452
+|'''1,813'''
+|1628
+|-
+|4
+|[[Ras Koh]]
+|{{PAK}}
+|3,003
+|'''1,797'''
+|1206
+|-
+|5
+|[[Shah Tus Aqa Ghar]]
+|{{AFG}}
+|4,803
+|'''1,734'''
+|3069
+|-
+|6
+|[[Mizri Ghar]]
+|{{PAK}}
+|3,111
+|'''1,618'''
+|1493
+|-
+|7
+|[[Loe Nekan]]
+|{{PAK}}
+|3,575
+|'''1,597'''
+|1985
+|-
+|8
+|[[Kuh-e Soltan Saheb]]
+|{{AFG}}
+|4,270
+|'''1,513'''
+|2757
+|-
+|9
+|Kuh-e Sefid
+|{{AFG}}
+|4,750
+|'''1,510'''
+|3240
+|-
+|}
+
+==[[Hindu Raj]]==
+[[File:Buni Zom (2002).jpg|thumb|200px|[[Buni Zom]], [[Pakistan]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Buni Zom]]
+|{{PAK}}
+|6,542
+|'''2,845'''
+|3697
+|-
+|2
+|[[Koyo Zom]]
+|{{PAK}}
+|6,872
+|'''2,562'''
+|4310
+|-
+|3
+|[[Ghamubar Zom]]
+|{{PAK}}
+|6,518
+|'''2,133'''
+|4385
+|-
+|4
+|[[Chiantar Sar]]
+|{{PAK}}
+|6,416
+|'''1,841'''
+|4575
+|-
+|5
+|[[Shah Dok]]
+|{{PAK}}
+|6,320
+|'''1,815'''
+|4505
+|-
+|6
+|[[Thalo Zom]]
+|{{PAK}}
+|6,050
+|'''1,799'''
+|4251
+|-
+|7
+|[[Falak Sher (Pakistan)|Falak Sher]]
+|{{PAK}}
+|5,918
+|'''1,558'''
+|4360
+|-
+|}
+
+
+==Sources==
+* [http://www.peaklist.org/WWlists/ultras/afghan.html Afghanistan & Pakistan]
+* [http://peaklist.org/WWlists/ultras/karakoram.html Karakoram etc]
+* [http://www.peaklist.org/WWmaps/asia/map/ASIA_High.gif Map]
+
+{{Lists of Ultras}}
+
+[[Category:Lists of mountains by prominence|Western Himalayan Ultras]]
+[[Category:Himalayas]]
+[[Category:Lists of mountains of Asia|Karakoram and Hindu Kush]]

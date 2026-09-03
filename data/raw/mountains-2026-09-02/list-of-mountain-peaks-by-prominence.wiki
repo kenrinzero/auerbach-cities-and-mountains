@@ -1,0 +1,1764 @@
+{{Short description|None}}
+{{redirect|List of tallest mountains on Earth|mountains listed by height from sea level|List of highest mountains on Earth}}
+[[File:world_top_peak_prominence.svg|thumb|400px|Chart showing the relationship between the 100 peaks with highest prominence in the world. (In the [http://upload.wikimedia.org/wikipedia/commons/3/35/World_top_peak_prominence.svg SVG version], hover over a peak to highlight its parent(s) and click it to view its article.)]]
+This is a list of [[mountain]] peaks ordered by their [[topographic prominence]].
+
+==Terminology==
+The prominence of a peak is the minimum height of climb to the summit on any route from a higher peak, or from sea level if there is no higher peak. The lowest point on that route is the [[col]].
+
+For full definitions and explanations of ''topographic prominence'', ''key col'', and ''parent'', see [[topographic prominence]]. In particular, the different definitions of the parent of a peak are addressed at length in that article. ''Height'' on the other hand simply means elevation of the summit above sea level.
+
+Regarding parents, the ''prominence parent'' of peak A can be found by dividing the island or region in question into territories, by tracing the runoff from the key col ([[mountain pass]]) of every peak that is more prominent than peak A. The parent is the peak whose territory peak A resides in.
+
+The ''encirclement parent'' is found by tracing the contour below peak A's key col and picking the highest mountain in that region. This is easier to determine than the prominence parent; however, it tends to give non-intuitive results for peaks with very low cols such as Jabal Shams which is #110 in the list.
+
+Either sort of parent of a typical very high-prominence peak such as [[Denali]] will lie far away from the peak itself, reflecting the independence of the peak.
+
+Most sources (and the table below) define no parent for island and landmass highpoints; others treat Mount Everest as the parent of every such peak with the [[world ocean]] as the "key col".
+
+==Prominence table==
+{{KML}}
+The following table lists the Earth's 125 most topographically prominent summits. Of these, [[Indonesia]] has the most, with 13.  Close behind it are  [[China]]  and the [[United States]] with 12 each.
+{{clear}}
+{{sticky header}}
+{| class="wikitable sticky-header sortable"
+|+ <big>The 125 most topographically prominent summits on Earth</big>
+!No.
+![[Summit (topography)|Peak]]
+![[Mountain range|Range]] (or [[Topographic prominence#Encirclement or island parentage|island]])
+!Location
+!Coordinates<br /><ref>Fetched from Wikidata</ref>
+![[Topographic prominence|Prominence]] (m)
+![[Elevation|Height]] (m)
+![[Col]] (m)
+![[Topographic prominence#Encirclement or island parentage|Encirclement parent]]
+![[Topographic prominence#Prominence parentage|Prominence parent]]
+|-
+|1.
+|[[Mount Everest]]
+|[[Himalayas]]
+|{{Flag|China}} <br />{{NPL}}
+| {{mountain coord prom|qid=Q513|rank=1}}
+| align="right" |8,848.86
+|align=right|8,848.86
+|align=right|0
+|None
+|None
+|-
+|2.
+|[[Aconcagua]]
+|[[Andes]]
+|{{ARG}}
+| {{mountain coord prom|qid=Q39739|rank=2}}
+| align="right" |6,960.8
+|align=right|6,960.8
+|align=right|0
+|None
+|None
+|-
+|3.
+|[[Denali|Denali / Mount McKinley]]{{ref|b|*}}
+|[[Alaska Range]]
+|{{USA}}
+| {{mountain coord prom|qid=Q130018|rank=3}}
+| align="right" |6,155
+|align=right|6,190
+|align=right|35
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|4.
+|[[Mount Kilimanjaro]]{{ref|b|*}}
+|[[Eastern Rift mountains]]
+|{{TAN}}
+| {{mountain coord prom|qid=Q7296|rank=4}}
+| align="right" |5,885
+|align=right|5,895
+|align=right|10
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|5.
+|[[Pico Simón Bolívar]]
+|[[Sierra Nevada de Santa Marta]]
+|{{COL}}
+| {{mountain coord prom|qid=Q578862|rank=5}}
+| align="right" |5,529
+|align=right|5,720
+|align=right|191
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|6.
+|[[Mount Logan]]
+|[[Saint Elias Mountains]]
+|{{CAN}}
+| {{mountain coord prom|qid=Q120306|rank=6}}
+| align="right" |5,250
+|align=right|5,959
+|align=right|709
+|[[Denali]]
+|[[Denali]]
+|-
+|7.
+|[[Pico de Orizaba]]
+|[[Trans-Mexican Volcanic Belt]]
+|{{MEX}}
+| {{mountain coord prom|qid=Q238147|rank=7}}
+| align="right" |4,922
+|align=right|5,636
+|align=right|714
+|[[Mount Logan]]
+|[[Mount Logan]]
+|-
+|8.
+|[[Vinson Massif]]
+|[[Sentinel Range]]
+|{{flag|Antarctica}}
+| {{mountain coord prom|qid=Q163758|rank=8}}
+| align="right" |4,892
+|align=right|4,892
+|align=right|0
+|None
+|None
+|-
+|9.
+|[[Puncak Jaya]]
+|[[Sudirman Range]], [[New Guinea]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q1045888|rank=9}}
+| align="right" |4,884
+|align=right|4,884
+|align=right|0
+|None
+|None
+|-
+|10.
+|[[Mount Elbrus]]
+|[[Caucasus Mountains]]
+|{{RUS}}
+| {{mountain coord prom|qid=Q43105|rank=10}}
+| align="right" |4,741
+|align=right|5,642
+|align=right|901
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|11.
+|[[Mont Blanc|Monte Bianco]]/[[Mont Blanc]]
+|[[Alps]]
+|{{ITA}}<br>{{FRA}}
+| {{mountain coord prom|qid=Q583|rank=11}}
+| align="right" |4,695
+|align=right|4,808
+|align=right|113
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|12.
+|[[Mount Damavand]]
+|[[Alborz]]
+|{{IRN}}
+| {{mountain coord prom|qid=Q40758|rank=12}}
+| align="right" |4,667
+|align=right|5,610
+|align=right|943
+|[[Mount Elbrus]]
+|[[Mount Elbrus]]
+|-
+|13.
+|[[Klyuchevskaya Sopka]]
+|[[Kamchatka]]
+|{{RUS}}
+| {{mountain coord prom|qid=Q210252|rank=13}}
+| align="right" |4,649
+|align=right|4,750
+|align=right|101
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|14.
+|[[Nanga Parbat]]
+|[[Himalayas]]
+|{{PAK}}
+| {{mountain coord prom|qid=Q130736|rank=14}}
+| align="right" |4,608
+|align=right|8,125
+|align=right|3,517
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|15.
+|[[Mauna Kea]]
+|[[Hawaii (island)|Hawaii]], [[Hawaiian Islands]]
+|{{USA}}
+| {{mountain coord prom|qid=Q131230|rank=15}}
+| align="right" |4,205
+|align=right|4,205
+|align=right|0
+|None
+|None
+|-
+|16.
+|[[Jengish Chokusu]]
+|[[Tian Shan]]
+|{{Flag|China}}<br/>{{KGZ}}
+| {{mountain coord prom|qid=Q332762|rank=16}}
+| align="right" |4,148
+|align=right|7,439
+|align=right|3,291
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|17.
+|[[Bogda Peak]]
+|[[Bogda Shan]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q1037396|rank=17}}
+| align="right" |4,122
+|align=right|5,445
+|align=right|1,323
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|18.
+|[[Chimborazo (volcano)|Chimborazo]]
+|[[Cordillera Occidental (Ecuador)|Cordillera Occidental]]
+|{{ECU}}
+| {{mountain coord prom|qid=Q14081|rank=18}}
+| align="right" |4,118
+|align=right|6,263
+|align=right|2,145
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|19.
+|[[Namcha Barwa]]
+|[[Himalayas]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q1050238|rank=19}}
+| align="right" |4,106
+|align=right|7,782
+|align=right|3,676
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|20.
+|[[Mount Kinabalu]]
+|[[Crocker Range]], [[Borneo]]
+|{{MAS}}
+| {{mountain coord prom|qid=Q60967|rank=20}}
+| align="right" |4,095
+|align=right|4,095
+|align=right|0
+|None
+|None
+|-
+|21.
+|[[Mount Rainier]]
+|[[Cascade Range]]
+|{{USA}}
+| {{mountain coord prom|qid=Q194057|rank=21}}
+| align="right" |4,029
+|align=right|4,393
+|align=right|370
+|[[Denali]]
+|[[Pico de Orizaba|Orizaba]]
+|-
+|22.
+|[[K2]]
+|[[Karakoram]]
+|{{Flag|China}}<br />{{PAK}}
+| {{mountain coord prom|qid=Q43512|rank=22}}
+| align="right" |4,020
+|align=right|8,611
+|align=right|4,594
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|23.
+|[[Ras Dashen]]
+|[[Simien Mountains]]
+|{{ETH}}
+| {{mountain coord prom|qid=Q275435|rank=23}}
+| align="right" |3,997
+|align=right|4,550
+|align=right|553
+|[[Kilimanjaro]]
+|[[Kilimanjaro]]
+|-
+|24.
+|[[Volcán Tajumulco]]
+|[[Sierra Madre de Chiapas]]
+|{{GUA}}
+| {{mountain coord prom|qid=Q818467|rank=24}}
+| align="right" |3,980
+|align=right|4,220
+|align=right|240
+|[[Denali]]
+|[[Pico de Orizaba|Orizaba]]
+|-
+|25.
+|[[Pico Bolívar]]
+|[[Sierra Nevada de Mérida]]
+|{{VEN}}
+| {{mountain coord prom|qid=Q213704|rank=25}}
+| align="right" |3,957
+|align=right|4,981
+|align=right|1,024
+|[[Aconcagua]]
+|[[Chimborazo (volcano)|Chimborazo]]
+|-
+|26.
+|[[Mount Fairweather]]
+|[[Saint Elias Mountains]]
+|{{CAN}}<br/>{{USA}}
+| {{mountain coord prom|qid=Q1544340|rank=26}}
+| align="right" |3,946
+|align=right|4,671
+|align=right|722
+|[[Mount Logan]]
+|[[Mount Logan]]
+|-
+|27.
+|[[Yushan (mountain)|Yushan]]
+|[[Yushan Range]]
+|{{Flag|Taiwan}}
+| {{mountain coord prom|qid=Q500275|rank=27}}
+| align="right" |3,952
+|align=right|3,952
+|align=right|0
+|None
+|None
+|-
+|28.
+|[[Mount Stanley]]
+|[[Rwenzori Mountains]]
+|{{Flag|DR Congo}}<br/>{{UGA}}
+| {{mountain coord prom|qid=Q221666|rank=28}}
+| align="right" |3,951
+|align=right|5,109
+|align=right|1,158
+|[[Kilimanjaro]]
+|[[Kilimanjaro]]
+|-
+|29.
+|[[Kanchenjunga]]
+|[[Himalayas]]
+|{{IND}}<br/>{{NPL}}
+| {{mountain coord prom|qid=Q82019|rank=29}}
+| align="right" |3,922
+|align=right|8,586
+|align=right|4,664
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|30.
+|[[Tirich Mir]]
+|[[Hindu Kush]]
+|{{PAK}}
+| {{mountain coord prom|qid=Q207132|rank=30}}
+| align="right" |3,908
+|align=right|7,708
+|align=right|3,800
+|[[Everest]]
+|[[K2]]
+|-
+|31.
+|[[Mount Cameroon]]
+|[[Cameroon line]]
+|{{CMR}}
+| {{mountain coord prom|qid=Q190562|rank=31}}
+| align="right" |3,901
+|align=right|4,040
+|align=right|139
+|[[Kilimanjaro]]
+|[[Mount Stanley|Stanley]]
+|-
+|32.
+|[[Mount Kenya]]
+|[[Eastern Rift mountains]]
+|{{KEN}}
+| {{mountain coord prom|qid=Q172070|rank=32}}
+| align="right" |3,825
+|align=right|5,199
+|align=right|1,374
+|[[Kilimanjaro]]
+|[[Kilimanjaro]]
+|-
+|33.
+|[[Mount Kerinci]]
+|[[Barisan Mountains]], [[Sumatra]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q827728|rank=33}}
+| align="right" |3,805
+|align=right|3,805
+|align=right|0
+|None
+|None
+|-
+|34.
+|[[Mount Erebus]]
+|[[Ross Island]]
+|{{flagcountry|Antarctica}}
+| {{mountain coord prom|qid=Q188982|rank=34}}
+| align="right" |3,794
+|align=right|3,794
+|align=right|0
+|None
+|None
+|-
+|35.
+|[[Mount Fuji]]
+|[[Honshu]]
+|{{JPN}}
+| {{mountain coord prom|qid=Q39231|rank=35}}
+| align="right" |3,776
+|align=right|3,776
+|align=right|0
+|None
+|None
+|-
+|36.
+|[[Toubkal]]
+|[[Atlas Mountains]]
+|{{MAR}}
+| {{mountain coord prom|qid=Q503433|rank=36}}
+| align="right" |3,757
+|align=right|4,167
+|align=right|410
+|[[Kilimanjaro]]
+|[[Mount Stanley|Stanley]]
+|-
+|37.
+|[[Cerro Chirripó]]
+|[[Cordillera de Talamanca]]
+|{{CRC}}
+| {{mountain coord prom|qid=Q252362|rank=37}}
+| align="right" |3,727
+|align=right|3,820
+|align=right|93
+|[[Aconcagua]]
+|[[Chimborazo (volcano)|Chimborazo]]
+|-
+|38.
+|[[Mount Rinjani]]
+|[[Lombok]], [[Lesser Sunda Islands]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q847323|rank=38}}
+| align="right" |3,726
+|align=right|3,726
+|align=right|0
+|None
+|None
+|-
+|39.
+|[[Aoraki/Mount Cook]]
+|[[Southern Alps]]
+|{{NZL}}
+| {{mountain coord prom|qid=Q5059|rank=39}}
+| align="right" |3,724
+|align=right|3,724
+|align=right|0
+|None
+|None
+|-
+|40.
+|[[Teide]]
+|[[Tenerife]]
+|{{ESP}}
+| {{mountain coord prom|qid=Q38954|rank=40}}
+| align="right" |3,715
+|align=right|3,715
+|align=right|0
+|None
+|None
+|-
+|41.
+|[[Finisterre Range|Mount Boising]]
+|[[Finisterre Range]]
+|{{PNG}}
+| {{mountain coord prom|qid=Q59585|rank=41}}
+| align="right" |3,709
+|align=right|4,150
+|align=right|441
+|[[Puncak Jaya]]
+|[[Puncak Jaya]]
+|-
+|42.
+|[[Monte San Valentin]] 
+|[[Andes]]
+|{{CHI}}
+| {{mountain coord prom|qid=Q2092228|rank=42}}
+| align="right" |3,696
+|align=right|4,058
+|align=right|362
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|43.
+|[[Gunnbjørn Fjeld]]
+|[[Watkins Range]]
+|{{GRL}}
+| {{mountain coord prom|qid=Q825709|rank=43}}
+| align="right" |3,694
+|align=right|3,694
+|align=right|0
+|None
+|None
+|-
+|44.
+|[[Ojos del Salado]]
+|[[Andes]]
+|{{ARG}}<br/>{{CHI}}
+| {{mountain coord prom|qid=Q233836|rank=44}}
+| align="right" |3,688
+|align=right|6,893
+|align=right|3,205
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|45.
+|[[Semeru]] 
+|[[Java]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q270158|rank=45}}
+| align="right" |3,676
+|align=right|3,676
+|align=right|0
+|None
+|None
+|-
+|46.
+|[[Ritacuba Blanco]]
+|[[Cordillera Oriental (Colombia)|Cordillera Oriental]]
+|{{COL}}
+| {{mountain coord prom|qid=Q2648857|rank=46}}
+| align="right" |3,645
+|align=right|5,410
+|align=right|1,765
+|[[Aconcagua]]
+|[[Chimborazo (volcano)|Chimborazo]]
+|-
+|47.
+|[[Mount Gongga]]
+|[[Daxue Mountains]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q1537157|rank=47}}
+| align="right" |3,642
+|align=right|7,556
+|align=right|3,914
+|[[Mount Everest|Everest]]
+|[[K2]]
+|-
+|48.
+| [[Mount Ararat]] 
+| [[Armenian Highlands]]
+| {{TUR}}
+| {{mountain coord prom|qid=Q72303|rank=48}}
+| align="right" |3,611
+| align=right|5,137
+| align=right|1,526
+| [[Mount Damavand|Damavand]]
+| [[Mount Damavand|Damavand]]
+|-
+|49.
+|[[Kongur Tagh]] 
+|[[Kongur Shan]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q646398|rank=49}}
+| align="right" |3,585
+|align=right|7,649
+|align=right|4,064
+|[[Mount Everest|Everest]]
+|[[K2]]
+|-
+|50.
+|[[Mount Blackburn]] 
+|[[Wrangell Mountains]]
+|{{USA}}
+| {{mountain coord prom|qid=Q1520855|rank=50}}
+| align="right" |3,535
+|align=right|4,996
+|align=right|1,461
+|[[Mount Logan]]
+|[[Mount Logan]]
+|-
+|51.
+|[[Mount Hayes]]
+|[[Alaska Range]]
+|{{USA}}
+| {{mountain coord prom|qid=Q913898|rank=51}}
+| align="right" |3,501
+|align=right|4,216
+|align=right|715
+|[[Denali]]
+|[[Denali]]
+|-
+|52.
+|[[Mount Latimojong]]
+|[[Sulawesi]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q1568730|rank=52}}
+| align="right" |3,478
+|align=right|3,478
+|align=right|0
+|None
+|None
+|-
+|53.
+|[[Mount Saint Elias]]
+|[[Saint Elias Mountains]]
+|{{CAN}}<br/>{{USA}}
+| {{mountain coord prom|qid=Q770496|rank=53}}
+| align="right" |3,448
+|align=right|5,489
+|align=right|2,041
+|[[Mount Logan]]
+|[[Mount Logan]]
+|-
+|54.
+|[[Mount Etna]]
+|[[Sicily]]
+|{{ITA}}
+| {{mountain coord prom|qid=Q16990|rank=59}}
+| align="right" |3,403
+| align="right" |3,403
+| align="right" |0
+|None
+|None
+|-
+|55.
+|[[Ismoil Somoni Peak]]
+|[[Pamir Mountains]]
+|{{TJK}}
+| {{mountain coord prom|qid=Q41413|rank=54}}
+| align="right" |3,402
+| align="right" |7,495
+| align="right" |4,093
+|[[Mount Everest|Everest]]
+|[[K2]]
+|-
+|56.
+|[[Dhaulagiri]]
+|[[Himalayas]]
+|{{NPL}}
+| {{mountain coord prom|qid=Q165440|rank=55}}
+| align="right" |3,357
+| align="right" |8,167
+| align="right" |4,810
+|[[K2]]
+|[[K2]]
+|-
+|57.
+|[[Mercedario]]
+|[[Cordillera de la Ramada]]
+|{{ARG}}
+| {{mountain coord prom|qid=Q906336|rank=56}}
+| align="right" |3,353
+|align=right|6,720
+|align=right|3,367
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|58.
+|[[Lautaro (volcano)|Lautaro]]
+|[[Andes]]
+|{{CHI}}
+| {{mountain coord prom|qid=Q3044652|rank=57}}
+| align="right" |3,345
+|align=right|3,623
+|align=right|278
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|59.
+|[[Belukha Mountain]]
+|[[Altai Mountains]]
+|{{KAZ}}<br/>{{RUS}}
+| {{mountain coord prom|qid=Q724367|rank=58}}
+| align="right" |3,343
+|align=right|4,506
+|align=right|1,163
+|[[Mount Everest|Everest]]
+|[[K2]]
+|-
+|60.
+|[[Monte San Lorenzo]]
+|[[Andes]]
+|{{ARG}}<br/>{{CHI}}
+| {{mountain coord prom|qid=Q3089010|rank=60}}
+| align="right" |3,319
+|align=right|3,706
+|align=right|387
+|[[Aconcagua]]
+|[[Aconcagua]]
+|-
+|61.
+|[[Mount Karisimbi]]
+|[[Virunga Mountains]]
+|{{Flag|DR Congo}}<br/>{{RWA}}
+| {{mountain coord prom|qid=Q737859|rank=61}}
+| align="right" |3,312
+|align=right|4,507
+|align=right|1,195
+|[[Mount Stanley]]
+|[[Mount Stanley]]
+|-
+|62.
+|[[Jabal An-Nabi Shu'ayb]]
+|[[Sarawat Mountains]]
+|{{YEM}}
+| {{mountain coord prom|qid=Q1261935|rank=62}}
+| align="right" |3,311
+|align=right|3,666
+|align=right|355
+|[[Mount Everest|Everest]]
+|[[Mount Ararat|Ararat]]
+|-
+|63.
+|[[Mount Waddington]]
+|[[Coast Mountains]]
+|{{CAN}}
+| {{mountain coord prom|qid=Q1737059|rank=63}}
+| align="right" |3,289
+|align=right|4,019
+|align=right|730
+|[[Mount Fairweather]]
+|[[Mount Fairweather]]
+|-
+|64.
+|[[Mulhacén]]
+|[[Sierra Nevada (Spain)|Sierra Nevada]]
+|{{ESP}}
+| {{mountain coord prom|qid=Q209528|rank=64}}
+| align="right" |3,285
+|align=right|3,479
+|align=right|194
+|[[Mont Blanc]]
+|[[Mont Blanc]]
+|-
+|65.
+|[[Mount Slamet]]
+|[[Java]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q580131|rank=65}}
+| align="right" |3,284
+|align=right|3,432
+|align=right|144
+|[[Semeru]]
+|[[Semeru]]
+|-
+|66.
+|[[Sabalan]]
+|[[Sabalan]]
+|{{IRN}}
+| {{mountain coord prom|qid=Q1364168|rank=66}}
+| align="right" |3,283
+|align=right|4,811
+|align=right|1,528
+|[[Mount Ararat]]
+|[[Mount Ararat]]
+|-
+|67.
+|[[Mount Marcus Baker]]
+|[[Chugach Mountains]]
+|{{USA}}
+| {{mountain coord prom|qid=Q829432|rank=67}}
+| align="right" |3,269
+|align=right|3,991
+|align=right|747
+|[[Mount Hayes]]
+|[[Mount Hayes]]
+|-
+|68.
+|[[Sauyr Zhotasy]]
+|[[Saur Mountains]]
+|{{Flag|China}}<br/>{{KAZ}}
+| {{mountain coord prom|qid=Q3950946|rank=68}}
+| align="right" |3,252
+|align=right|3,840
+|align=right|588
+|[[Mount Everest|Everest]]
+|[[Belukha Mountain|Belukha]]
+|-
+|69.
+|[[Cerro del Bolsón]]
+|[[Andes]]
+|{{ARG}}
+| {{mountain coord prom|qid=Q5065016|rank=69}}
+| align="right" |3,252
+|align=right|5,552
+|align=right|2,300
+|[[Aconcagua]]
+|[[Ojos del Salado]]
+|-
+|70.
+|[[Tomort]]
+|[[Tian Shan]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q7820308|rank=70}}
+| align="right" |3,243
+|align=right|4,886
+|align=right|1,643
+|[[Bogda Feng]]
+|[[Bogda Feng]]
+|-
+|71.
+|[[Jade Dragon Snow Mountain]]
+|[[Yun Range]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q1465660|rank=71}}
+| align="right" |3,202
+|align=right|5,596
+|align=right|2,394
+|[[Mount Everest|Everest]]
+|[[K2]]
+|-
+|72.
+|[[Mount Meru (Tanzania)|Mount Meru]]
+|[[Eastern Rift mountains]]
+|{{TAN}}
+| {{mountain coord prom|qid=Q309098|rank=72}}
+| align="right" |3,170
+|align=right|4,565
+|align=right|1,395
+|[[Mount Kenya]]
+|[[Mount Kenya]]
+|-
+|73.
+|[[Shiveluch]]
+|[[Kamchatka]]
+|{{RUS}}
+| {{mountain coord prom|qid=Q48877|rank=73}}
+| align="right" |3,168
+|align=right|3,307
+|align=right|139
+|[[Klyuchevskaya Sopka|Klyuchevskaya]]
+|[[Klyuchevskaya Sopka|Klyuchevskaya]]
+|-
+|74.
+|[[Nanda Devi]]
+|[[Himalayas]]
+|{{IND}}
+| {{mountain coord prom|qid=Q213262|rank=74}}
+| align="right" |3,139
+|align=right|7,817
+|align=right|4,677
+|[[K2]]
+|[[Dhaulagiri]]
+|-
+|75.
+|[[Ichinsky]]
+|[[Sredinny Range]]
+|{{RUS}}
+| {{mountain coord prom|qid=Q1675325|rank=75}}
+| align="right" |3,125
+|align=right|3,607
+|align=right|482
+|[[Klyuchevskaya Sopka|Klyuchevskaya]]
+|[[Klyuchevskaya Sopka|Klyuchevskaya]]
+|-
+|76.
+|[[Mount Lawu]]
+|[[Java]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q3219949|rank=76}}
+| align="right" |3,118
+|align=right|3,265
+|align=right|147
+|[[Semeru]]
+|[[Semeru]]
+|-
+|77.
+|[[Batura Sar]]
+|[[Karakoram]]
+|{{PAK}}
+| {{mountain coord prom|qid=Q811064|rank=77}}
+| align="right" |3,118
+|align=right|7,795
+|align=right|4,677
+|[[K2]]
+|[[K2]]
+|-
+|78.
+|[[Mount Siple]]
+|[[Siple Island]]
+|{{flag|Antarctica}}
+| {{mountain coord prom|qid=Q678102|rank=78}}
+| align="right" |3,110
+|align=right|3,110
+|align=right|0
+|None
+|None
+|-
+|79.
+|[[Pico Duarte]]
+|[[Cordillera Central, Dominican Republic|Cordillera Central]], [[Hispaniola]]
+|{{DOM}}
+| {{mountain coord prom|qid=Q783742|rank=79}}
+| align="right" |3,098
+|align=right|3,098
+|align=right|0
+|None
+|None
+|-
+|80.
+|[[Manaslu]]
+|[[Himalayas]]
+|{{NEP}}
+| {{mountain coord prom|qid=Q170070|rank=80}}
+| align="right" |3,092
+|align=right|8,163
+|align=right|5,071
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|81.
+|[[Mount Whitney]]
+|[[Sierra Nevada (U.S.)|Sierra Nevada]]
+|{{USA}}
+| {{mountain coord prom|qid=Q235539|rank=81}}
+| align="right" |3,073
+|align=right|4,418
+|align=right|1,345
+|[[Pico de Orizaba|Orizaba]]
+|[[Pico de Orizaba|Orizaba]]
+|-
+|82.
+|[[Piton des Neiges]]
+|[[Réunion]]
+|{{FRA}}
+| {{mountain coord prom|qid=Q1545452|rank=82}}
+| align="right" |3,069
+|align=right|3,069
+|align=right|0
+|None
+|None
+|-
+|83.
+|[[Raung]]
+|[[Java]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q2033748|rank=83}}
+| align="right" |3,069
+|align=right|3,332
+|align=right|263
+|[[Semeru]]
+|[[Semeru]]
+|-
+|84.
+|[[Xuelian Feng]]
+|[[Tian Shan]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q8045232|rank=84}}
+| align="right" |3,068
+|align=right|6,627
+|align=right|3,559
+|[[Jengish Chokusu]]
+|[[Jengish Chokusu]]
+|-
+|85.
+|[[Haleakalā]]
+|[[Maui]], [[Hawaiian Islands]]
+|{{USA}}
+| {{mountain coord prom|qid=Q515719|rank=85}}
+| align="right" |3,055
+|align=right|3,055
+|align=right|0
+|None
+|None
+|-
+|86.
+|[[Mount Lucania]]
+|[[Saint Elias Mountains]]
+|{{CAN}}
+| {{mountain coord prom|qid=Q1153188|rank=86}}
+| align="right" |3,046
+|align=right|5,226
+|align=right|2,180
+|[[Mount Logan]]
+|[[Mount Logan]]
+|-
+|87.
+|[[Mount Agung]]
+|[[Bali]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q158470|rank=87}}
+| align="right" |3,031
+|align=right|3,031
+|align=right|0
+|None
+|None
+|-
+|88.
+|[[Mount Binaiya]]
+|[[Seram]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q863497|rank=88}}
+| align="right" |3,027
+|align=right|3,027
+|align=right|0
+|None
+|None
+|-
+|89.
+|[[Popocatepetl]]
+|[[Trans-Mexican Volcanic Belt]]
+|{{MEX}}
+| {{mountain coord prom|qid=Q181157|rank=89}}
+| align="right" |3,020
+|align=right|5,400
+|align=right|2,380
+|[[Pico de Orizaba|Orizaba]]
+|[[Pico de Orizaba|Orizaba]]
+|-
+|90.
+|[[Pico Basilé]]
+|[[Bioko]], [[Cameroon line|Cameroon Line]]
+|{{EQG}}
+| {{mountain coord prom|qid=Q1518286|rank=90}}
+| align="right" |3,011
+|align=right|3,011
+|align=right|0
+|None
+|None
+|-
+|91.
+|[[Koryaksky]]
+|[[Sredinny Range]]
+|{{RUS}}
+| {{mountain coord prom|qid=Q839630|rank=91}}
+| align="right" |2,999
+|align=right|3,456
+|align=right|457
+|[[Klyuchevskaya Sopka|Klyuchevskaya]]
+|[[Klyuchevskaya Sopka|Klyuchevskaya]]
+|-
+|92.
+|[[Gangkhar Puensum]]
+|[[Himalayas]]
+|{{Flag|China}}<br/>{{BHU}}
+| {{mountain coord prom|qid=Q219986|rank=92}}
+| align="right" |2,995
+|align=right|7,570
+|align=right|4,575
+|[[Kangchenjunga]]
+|[[Kangchenjunga]]
+|-
+|93.
+|[[Mount Stephenson]]
+|[[Douglas Range]], [[Alexander Island]]
+|{{flag|Antarctica}}
+| {{mountain coord prom|qid=Q6923858|rank=93}}
+| align="right" |2,987
+|align=right|2,987
+|align=right|0
+|None
+|None
+|-
+|94.
+|[[Annapurna]]
+|[[Himalayas]]
+|{{NEP}}
+| {{mountain coord prom|qid=Q16466024|rank=94}}
+| align="right" |2,984
+|align=right|8,091
+|align=right|5,107
+|[[Mount Everest|Everest]]
+|[[Mount Everest|Everest]]
+|-
+|95.
+|[[Pik Talgar]]
+|[[Trans-Ili Alatau]]
+|{{KAZ}}
+| {{mountain coord prom|qid=Q608494|rank=95}}
+| align="right" |2,982
+|align=right|4,979
+|align=right|1,997
+|[[Mount Everest|Everest]]
+|[[Jengish Chokusu]]
+|-
+|96.
+|[[Mount Shasta]]
+|[[Cascade Range]]
+|{{USA}}
+| {{mountain coord prom|qid=Q748355|rank=96}}
+| align="right" |2,977
+|align=right|4,317
+|align=right|1,340
+|[[Pico de Orizaba|Orizaba]]
+|[[Mount Whitney|Whitney]]
+|-
+|97.
+|[[Mount Wilhelm]]
+|[[Bismarck Range]]
+|{{PNG}}
+| {{mountain coord prom|qid=Q277441|rank=97}}
+| align="right" |2,969
+|align=right|4,509
+|align=right|1,540
+|[[Puncak Jaya]]
+|[[Puncak Jaya]]
+|-
+|98.
+|[[Ramelau|Pico do Ramelau]]
+|[[Timor]]
+|{{TLS}}
+| {{mountain coord prom|qid=Q1539961|rank=98}}
+| align="right" |2,963
+|align=right|2,963
+|align=right|0
+|None
+|None
+|-
+|99.
+|[[Mount Apo]]
+|[[Apo–Talomo]], [[Mindanao]]
+|{{PHI}}
+| {{mountain coord prom|qid=Q455963|rank=99}}
+| align="right" |2,954
+|align=right|2,954
+|align=right|0
+|None
+|None
+|-
+|100.
+|[[Gyala Peri]]
+|[[Nyenchen Tanglha Mountains]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q1322521|rank=100}}
+| align="right" |2,942
+|align=right|7,294
+|align=right|4,352
+|[[K2]]
+|[[Dhaulagiri]]
+|-
+|101.
+|[[Mount Leuser]]
+|[[Sumatra]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q1909348|rank=101}}
+| align="right" |2,941
+|align=right|3,466
+|align=right|525
+|[[Mount Kerinci]]
+|[[Mount Kerinci]]
+|-
+|102.
+|[[Mount Paget]]
+|[[Allardyce Range]]
+|{{Flag|South Georgia}}
+| {{mountain coord prom|qid=Q1573762|rank=102}}
+| align="right" |2,934
+|align=right|2,934
+|align=right|0
+|None
+|None
+|-
+|103.
+|[[Chakragil]]
+|[[Kunlun Mountains]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q2947750|rank=103}}
+| align="right" |2,934
+|align=right|6,760
+|align=right|3,826
+|[[Mount Everest|Everest]]
+|[[Mount Gongga|Gongga]]
+|-
+|104.
+|[[Emi Koussi]]
+|[[Tibesti Mountains]]
+|{{CHA}}
+| {{mountain coord prom|qid=Q257441|rank=104}}
+| align="right" |2,934
+|align=right|3,445
+|align=right|511
+|[[Kilimanjaro]]
+|[[Mount Karisimbi|Karisimbi]]
+|-
+|105.
+|[[Monarch Mountain (British Columbia)|Monarch Mountain]]
+|[[Coast Mountains]]
+|{{CAN}}
+| {{mountain coord prom|qid=Q3861756|rank=105}}
+| align="right" |2,930
+|align=right|3,555
+|align=right|625
+|[[Denali]]
+|[[Mount Waddington|Waddington]]
+|-
+|106.
+|[[Mount Suckling]]
+|[[Owen Stanley Range]]
+|{{PNG}}
+| {{mountain coord prom|qid=Q8525325|rank=106}}
+| align="right" |2,925
+|align=right|3,676
+|align=right|751
+|[[Puncak Jaya]]
+|[[Puncak Jaya]]
+|-
+|107.
+|[[Mount Pulag]]
+|[[Cordillera Central (Luzon)|Cordillera Central]], [[Luzon]]
+|{{PHI}}
+| {{mountain coord prom|qid=Q948670|rank=107}}
+| align="right" |2,922
+|align=right|2,922
+|align=right|0
+|None
+|None
+|-
+|108.
+|[[El Melao]]
+|[[Sierras Pampeanas]]
+|{{ARG}}
+| {{mountain coord prom|qid=Q5351579|rank=108}}
+| align="right" |2,907
+|align=right|4,150
+|align=right|1,243
+|[[Aconcagua]]
+|[[Ojos del Salado]]
+|-
+|109.
+|[[Kuh-e Taftan|Taftan]]
+|[[Sistan and Baluchestan Province|Baluchestan Mountains]]
+|{{IRN}}
+| {{mountain coord prom|qid=Q524954|rank=109}}
+| align="right" |2,901
+|align=right|3,941
+|align=right|1,040
+|[[Sabalan]]
+|[[Sabalan]]
+|-
+|110.
+|[[Jabal Shams]]
+|Al-[[Hajar Mountains]]
+|{{OMA}}
+| {{mountain coord prom|qid=Q1261915|rank=110}}
+| align="right" |2,899
+|align=right|3,019
+|align=right|120
+|[[Mount Everest|Everest]]
+|[[Jabal An-Nabi Shu'ayb]]
+|-
+|111.
+|[[Shishapangma]]
+|[[Himalayas]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q105124|rank=111}}
+| align="right" |2,897
+|align=right|8,027
+|align=right|5,130
+|[[Annapurna Massif|Annapurna]]
+|[[Annapurna Massif|Annapurna]]
+|-
+|112.
+|[[Pico da Neblina]]
+|[[Cerro de la Neblina]]
+|{{BRA}}
+| {{mountain coord prom|qid=Q739484|rank=112}}
+| align="right" |2,886
+|align=right|2,994
+|align=right|108
+|[[Aconcagua]]
+|[[Ritacuba Blanco]]
+|-
+|113.
+|[[Mount Saramati|Saramati]]
+|[[Patkai]]
+|{{IND}}<br/>{{MYA}}
+| {{mountain coord prom|qid=Q8536271|rank=113}}
+| align="right" |2,885
+|align=right|3,826
+|align=right|941
+|[[Everest]]
+|[[Dhaulagiri]]
+|-
+|114.
+|[[Maromokotro]] 
+|[[Madagascar]]
+|{{MAD}}
+| {{mountain coord prom|qid=Q1147144|rank=114}}
+| align="right" |2,876
+|align=right|2,876 
+|align=right|0
+|None
+|None
+|-
+|115.
+|[[Mount Shishaldin]]
+|[[Aleutian Range]]
+|{{USA}}
+| {{mountain coord prom|qid=Q682455|rank=115}}
+| align="right" |2,869
+|align=right|2,869
+|align=right|0
+|None
+|None
+|-
+|116.
+|[[Moncong Lompotabang]]
+|[[Sulawesi]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q6898536|rank=116}}
+| align="right" |2,857
+|align=right|2,874
+|align=right|17
+|[[Mount Rantemario|Latimojong]]
+|[[Mount Rantemario|Latimojong]]
+|-
+|117.
+|[[Buni Zom]]
+|[[Hindu Raj]]
+|{{PAK}}
+| {{mountain coord prom|qid=Q3695741|rank=117}}
+| align="right" |2,845
+|align=right|6,542
+|align=right|3,697
+|[[Mount Everest|Everest]]
+|[[K2]]
+|-
+|118.
+|[[Kuh-e Bandaka]]
+|[[Hindu Kush]]
+|{{AFG}}
+| {{mountain coord prom|qid=Q6442008|rank=118}}
+| align="right" |2,834
+|align=right|6,812
+|align=right|3,978
+|[[Tirich Mir]]
+|[[Tirich Mir]]
+|-
+|119.
+|[[Mount Robson]]
+|[[Rainbow Range (Rocky Mountains)|Canadian Rockies]]
+|{{CAN}}
+| {{mountain coord prom|qid=Q1161258|rank=119}}
+| align="right" |2,829
+|align=right|3,959
+|align=right|1,130
+|[[Pico de Orizaba|Orizaba]]
+|[[Mount Whitney|Whitney]]
+|-
+|120.
+|[[Pico do Fogo]]
+|[[Fogo, Cape Verde|Fogo]]
+|{{CPV}}
+| {{mountain coord prom|qid=Q499108|rank=120}}
+| align="right" |2,829
+|align=right|2,829
+|align=right|0
+|None
+|None
+|-
+|121.
+|[[Kamet]]
+|[[Himalayas]]
+|{{IND}}
+| {{mountain coord prom|qid=Q1141272|rank=121}}
+| align="right" |2,825
+|align=right|7,756
+|align=right|4,931
+|[[Nanda Devi]]
+|[[Nanda Devi]]
+|-
+|122.
+|[[Rakaposhi]]
+|[[Karakoram]]
+|{{PAK}}
+| {{mountain coord prom|qid=Q933778|rank=122}}
+| align="right" |2,818
+|align=right|7,788
+|align=right|4,970
+|[[K2]]
+|[[K2]]
+|-
+|123.
+|[[Aneto]] 
+|[[Pyrenees]]
+|{{ESP}}
+| {{mountain coord prom|qid=Q208081|rank=123}}
+| align="right" |2,812
+|align=right|3,404
+|align=right|592
+|[[Mulhacén]]
+|[[Mulhacén]]
+|-
+|124.
+|[[Arjuno-Welirang]]
+|[[Java]]
+|{{IDN}}
+| {{mountain coord prom|qid=Q665399|rank=124}}
+| align="right" |2,812
+|align=right|3,339
+|align=right|527
+|[[Semeru]]
+|[[Semeru]]
+|-
+|125.
+|[[Jiuding Shan]]
+|[[Daxue Mountains]]
+|{{Flag|China}}
+| {{mountain coord prom|qid=Q6203384|rank=125}}
+| align="right" |2,808
+|align=right|4,969
+|align=right|2,161
+|[[Mount Everest|Everest]]
+|[[K2]]
+|}
+
+==Additional peaks==
+The list of peaks that follows is not complete, but the peaks are all notable. Island high points (whose prominence is equal to their elevation) can be found at the [[List of islands by highest point]]; hence most are not included below. Some well-known peaks listed here do not score highly by prominence.
+
+All peaks with a prominence of more than 1,500 metres rank as an [[Ultra-prominent peak|Ultra]]. For a complete listing of all 1,524 peaks with prominence greater than this level, see the [[Ultra-prominent peak#Lists of ultras|lists of Ultras]].
+
+{| class="wikitable sortable"
+![[Summit (topography)|Peak]]
+!Location
+![[Elevation|Height]] (m)
+![[Topographic prominence|Prominence]] (m)
+![[Mountain pass|Col]] (m)
+!Parent/ Notable for
+|-
+|[[Mount Ruapehu]]
+|{{NZL}}
+|align=right|2,797
+|align=right|'''2,797'''
+|align=right|0
+|''none''/ HP [[North Island]], [[New Zealand]]
+|-
+|[[Mount Ciremai]]
+|{{IDN}}
+|align=right|3,078
+|align=right|'''2,792'''
+|align=right|286
+|[[Semeru]]/ HP [[West Java]], [[Indonesia]]
+|-
+|[[Huascarán]]
+|{{PER}} 
+|align=right|6,746 <!--or 6,768 -->
+|align=right|'''2,776''' <!-- or 2,798-->
+|align=right|3,970
+|[[Ojos del Salado]]/ HP [[Peru]]
+|-
+|[[Mount Arfak]]
+|{{IDN}} 
+|align=right|2,955
+|align=right|'''2,775'''
+|align=right|179
+|?/ HP [[West Papua (province)|West Papua]], [[Indonesia]]
+|-
+|[[Mount Elbert]]
+|{{USA}}
+|align=right|4,401
+|align=right|'''2,772'''
+|align=right|1,629
+|[[Mount Whitney]]/ HP [[Rocky Mountains]], [[United States]]
+|-
+|[[San Gorgonio Mountain]]
+|{{USA}}
+|align=right|3,506
+|align=right|'''2,528'''
+|align=right|978
+|[[Olancha Peak]]/ HP [[Southern California]], [[United States]]
+|-
+|[[Pidurutalagala]] 
+|{{LKA}}
+|align=right|2,524
+|align=right|'''2,524'''
+|align=right|0
+|''none''/ HP [[Sri Lanka]]
+|-
+|[[Anamudi]] 
+|{{IND}}
+|align=right|2,695
+|align=right|'''2,479'''
+|align=right|216
+|?/ HP [[Western Ghats]], [[India]]
+|-
+|[[Musala]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=10352|title=Musala - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BGR}} 
+|align=right|2,925
+|align=right|'''2,473'''
+|align=right|432
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc]]<sup>2</sup><ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=10352|title=Key Col for Musala - Peakbagger.com|website=www.peakbagger.com}}</ref>/ HP [[Southeast Europe]], [[Balkans|Balkan Peninsula]] and [[Bulgaria]]
+|-
+|[[Mount Bazardüzü]]
+|{{AZE}}<br>{{RUS}}
+|align=right|4,466
+|align=right|'''2,454'''
+|align=right|2,012
+|?/ HP [[Azerbaijan]]
+|-
+|[[Qurnat as Sawda]]
+|{{LBN}}
+|align=right|3,093
+|align=right|'''2,393'''
+|align=right|700
+|?/ HP [[Lebanon]]
+|-
+|[[Galdhøpiggen]] 
+|{{NOR}}
+|align=right|2,469
+|align=right|'''2,372'''
+|align=right|97
+|[[Sauyr Zhotasy]]<sup>1</sup> / [[Mount Everest|Everest]]<sup>2</sup>/ HP [[Scandinavia]] and [[Norway]]
+|-
+|[[Gerlachovský štít]]
+|{{SVK}}
+|align=right|2,655
+|align=right|'''2,355'''
+|align=right|300
+|[[Mont Blanc]]/ HP [[Tatra Mountains|Hight Tatras]] and [[Slovakia]]
+|-
+|[[Mount Olympos]] (Mytikas)<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=10335|title=Olympus - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{GRE}} 
+|align=right|2,917
+|align=right|'''2,353'''
+|align=right|564
+|[[Großglockner]]<sup>1</sup> / [[Mont Blanc]]<sup>2</sup>/ HP [[Greece]]
+|-
+|[[Mount Pico]] ([[Azores]])
+|{{POR}}
+|align=right|2,351
+|align=right|'''2,351'''
+|align=right|0
+|''none''/ HP [[Portugal]], HP [[Mid-Atlantic Ridge]]
+|-
+|[[Mount Taranaki]]
+|{{NZL}}
+|align=right|2,518
+|align=right|'''2,308'''
+|align=right|210
+|[[Mount Ruapehu]], [[North Island]], [[New Zealand]]
+|-
+|[[Mount Kosciuszko]] 
+|{{AUS}}
+|align=right|2,228
+|align=right|'''2,228'''
+|align=right|0
+|''none''/ HP [[mainland Australia]]
+|-
+|[[Monte Rosa]] 
+|{{ITA}} {{SUI}} 
+|align=right|4,634
+|align=right|'''2,165'''
+|align=right|2,469
+|[[Mont Blanc]]/ HP [[Switzerland]]
+|-
+|[[Mount Aragats]]
+|{{ARM}}
+|align=right|4,090
+|align=right|'''2,143'''
+|align=right|1,947
+|?/ HP [[Armenia]]
+|-
+|[[Hvannadalshnúkur]] 
+|{{ISL}}
+|align=right|2,110
+|align=right|'''2,110'''
+|align=right|0
+|''none''/ HP [[Iceland]] 
+|-
+|[[Triglav]] 
+|{{SLO}}
+|align=right|2,864
+|align=right|'''2,052'''
+|align=right|812
+|[[Marmolada]] / Central element of the Slovene coat of arms
+|-
+|[[Moldoveanu Peak|Moldoveanu]]
+|{{ROU}}
+|align=right|2,544
+|align=right|'''2,046'''
+|align=right|498
+|[[Făgăraș Mountains]]/ HP [[Romania]]
+|-
+|[[Barre des Écrins]] 
+|{{FRA}}
+|align=right|4,102
+|align=right|'''2,045'''
+|align=right|2,057
+|[[Mont Blanc]]/ Only 4,000-metre mountain in [[France]] that lies outside the [[Mont Blanc Massif]]
+|-
+|[[Mount Washington]] 
+|{{USA}}
+|align=right|1,917
+|align=right|'''1,874'''
+|align=right|43
+|[https://www.peakbagger.com/peak.aspx?pid=7827 Potato Knob]<ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=6960|title=Key Col for Mount Washington - Peakbagger.com|website=www.peakbagger.com}}</ref><sup>1</sup>/ [[Mount Mitchell]]<sup>2</sup> / HP [[Northeastern United States]] and [[New Hampshire]]
+|-
+|[[Hermon]] 
+|{{LBN}}&nbsp;<br>{{SYR}}<!-- Note to editors re Israel: this is a list of peaks. Israel occupies, controls, and claims as its own territory part of the southern side of Mount Hermon, but Israel neither controls nor claims Mount Hermon's peak. -->
+|align=right|2,814
+|align=right|'''1,804'''
+|align=right|1,010
+|[[Qurnat as Sawda']]/ HP [[Lebanon]]
+|-
+|[[Vihren]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=10355|title=Vihren - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BGR}} 
+|align=right|2,914
+|align=right|'''1,784'''
+|align=right|1,131
+|Musala<ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=10355|title=Key Col for Vihren - Peakbagger.com|website=www.peakbagger.com}}</ref>/ HP [[Pirin|Pirin Mountain]]
+|-
+|[[Zugspitze]] 
+|{{flagcountry|Austria}} {{flagcountry|Germany}}
+|align=right|2,962
+|align=right|'''1,746'''
+|align=right|1,216
+|[[Piz Bernina]]<sup>1</sup> / [[Mont Blanc]]<sup>2</sup>/ HP [[Germany]]
+|-
+|[[Radomir (mountain)|Radomir/Kalabak/Kerkini]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=13265|title=Kerkini - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BGR}}&nbsp;/&nbsp;{{GRC}}
+|align=right|2,031
+|align=right|'''1,595'''
+|align=right|436
+|?/ HP [[Belasitsa|Belasitsa Mountain]]
+|-
+|[[Botev Peak]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=10351|title=Botev - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BUL}}
+|align=right|2,376
+|align=right|'''1,567'''
+|align=right|809
+|[[Musala]]<ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=10351|title=Key Col for Botev - Peakbagger.com|website=www.peakbagger.com}}</ref>/ HP [[Balkan Mountains]]
+|-
+|[[Roman-Kosh]]
+|{{UKR}}
+|align=right|1,545 
+|align=right|'''1,541'''
+|align=right|4
+|?/ HP [[Crimean Mountains]]
+|-
+|[[Midžor]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=13254|title=Midžor - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BUL}}/{{SRB}}
+|align=right|2,169
+|align=right|'''1,479'''
+|align=right|690
+|[[Musala]]<ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=13254|title=Key Col for Midžor - Peakbagger.com|website=www.peakbagger.com}}</ref>/ HP [[Serbia]] and Western [[Balkan Mountains]]
+|-
+|[[Morne Diablotins]] 
+|{{DMA}}
+|align=right|1,447 
+|align=right|'''1,447'''
+|align=right|0
+|''none''/ HP [[Dominica]]
+|-
+|[[Ruen (mountain)|Ruen]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=71204|title=Ruen - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BUL}}&nbsp;/&nbsp;{{NMK}}
+|align=right|2,251
+|align=right|'''1,416'''
+|align=right|835
+|Cherni Vrah/ Musala<ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=71204|title=Key Col for Ruen - Peakbagger.com|website=www.peakbagger.com}}</ref>/ HP [[Osogovo]] Mountain
+|-
+|[[Ben Nevis]] 
+|{{UK}}
+|align=right|1,344 
+|align=right|'''1,344'''
+|align=right|0
+|''none''/ HP [[Scotland]] and [[United Kingdom]]
+|-
+|[[Mount Kailash|Kailash]] 
+|{{CHN}}
+|align=right|6,638
+|align=right|'''1,319'''
+|align=right|5,319
+|[[Lunpo Gangri]] / Sacred in four religions: Bon, Buddhism, Hinduism and Jainism
+|-
+|[[Botte Donato]]
+|{{ITA}} 
+|align=right|1,928
+|align=right|'''1,307'''
+|align=right|621
+|?/ [[Sila National Park]]
+|-
+|[[Cherni Vrah]]<ref>{{Cite web|url=https://www.peakbagger.com/peak.aspx?pid=27649|title=Cherni Vrah - Peakbagger.com|website=www.peakbagger.com}}</ref>
+|{{BUL}}
+|align=right|2,290
+|align=right|'''1,259'''
+|align=right|1,031
+|Musala<ref>{{Cite web|url=https://www.peakbagger.com/KeyCol.aspx?pid=27649|title=Klisura - Peakbagger.com|website=www.peakbagger.com}}</ref>/ HP in [[Sofia City Province]], right next to the capital of [[Bulgaria]]
+|-
+|[[Sandia Peak]] 
+|{{USA}}
+|align=right|3,255
+|align=right|'''1,249'''
+|align=right|2,146
+|[[Sandia–Manzano_Mountains]]
+|-
+|[[Machhapuchhare]] 
+|{{NEP}}
+|align=right|6,993 
+|align=right|'''1,233'''
+|align=right|5,760
+|[[Annapurna I]]/ Tremendous vertical relief and sacred place for the [[Gurungs]]
+|-
+|[[Carrauntoohil]] 
+|{{IRL}}
+|align=right|1,038 
+|align=right|'''1,038'''
+|align=right|0
+|''none''/ HP [[Ireland]]
+|-
+|[[Snowdon]]
+|{{UK}}
+|align=right|1,085
+|align=right|'''1,038'''
+|align=right|47
+|[[Ben Nevis]]
+|-
+|[[Ama Dablam]]
+|{{NEP}}
+|align=right|6,812
+|align=right|'''1,041'''
+|align=right|5,771
+|?/ Tremendous height
+|-
+|[[Matterhorn]]/[[Monte Cervino]] 
+|{{ITA}} {{SUI}}
+|align=right|4,478
+|align=right|'''1,031'''
+|align=right|3,447
+|[[Weisshorn]] (4,507 m) / Its first ascent popularised mountain climbing culture
+|-
+|[[Eiger]] 
+|{{SUI}}
+|align=right|3,967
+|align=right|'''362'''
+|align=right|3,605
+|[[Mönch]] (4,099 m) / Famed for its dangerous North face climb
+|-
+
+|}
+In the table, the prominence parent is marked "<sup>1</sup>", and the encirclement parent "<sup>2</sup>". Where a single parent is listed, the different definitions agree.
+
+==See also==
+* [[Ultra-prominent peak#Lists_of_Ultras_(1515)|Lists of Ultras]]
+* [[List of mountain lists]]
+* [[List of islands by highest point]]
+* [[Summit]]
+* [[Elevation|Topographic elevation]]
+* [[Topographic isolation]]
+* [[Topographic prominence]]
+* [[Ultra-prominent peak|Ultra-prominent summit]]
+
+==Notes==
+<nowiki>*</nowiki>.{{note|b}}By convention, cols created by human activity are not counted. Therefore, the [[Suez Canal|Suez]], [[Panama Canal|Panama]] and other canals are ignored in these calculations. Cuts that lower the natural elevations of mountain passes are also ignored.<ref>{{cite web|url=http://www.peaklist.org/WWlists/WorldTop50.html|title=PEAKLIST.ORG – World Top 50 Prominence|first=Aaron|last=Maizlish|website=www.peaklist.org|access-date=10 April 2018}}</ref> Towers, monuments and similar on the peaks are also ignored.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.peakbagger.com/list.aspx?lid=401 World peaks with 4000 meters of prominence] from [http://www.peakbagger.com peakbagger.com]
+*[http://www.peaklist.org/WWlists/WorldTop50.html World top 50 most prominent peaks], originally compiled by David Metzler and Eberhard Jurgalski, and updated with the help of others as new elevation information, especially [[SRTM]], has become available.
+*[http://viewfinderpanoramas.org/reascent/World100.html World top 100 most prominent peaks], from the same authors as the top 50.
+*[http://www.peaklist.org/WWmaps/world50.jpg Map of the top 50] by Ken Jones
+*[http://www.peaklist.org/ultras.html Lists and/or maps covering all peaks in the world with 1500 m+ prominence]. Compiled by Aaron Maizlish. The latest estimate is that there are 1,516.
+
+{{portalbar|Mountains|Lists}}
+
+[[Category:Lists of mountains by prominence| ]]
+[[Category:Lists of mountains|Peaks, Prominence]]

@@ -1,0 +1,956 @@
+{{Short description|none}}
+This is a list of all the [[Ultra-prominent peak|ultra prominent peaks]] (with [[topographic prominence]] greater than 1,500 metres) in [[Tibet]], [[China]], [[East Asia]] and neighbouring areas of [[Burma]] and [[India]], including [[South India]] and [[Sri Lanka]].
+
+==[[Kunlun Mountains]] and Northeastern Tibet Plateau==
+[[File:Yuzhu Peak.jpg|250px|thumb|[[Yuzhu Peak]], [[China]]]]
+[[File:Qilian1.jpg|250px|thumb|[[Qilian Shan]], [[China]]]]
+[[File:岗什卡雪峰.jpg|250px|thumb|[[Gangshiqia Peak]], [[China]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Altun Shan]]
+|{{CHN}} 
+|5,830
+|'''2,528'''
+|3302
+|-
+|2
+|[[Tekilik Shan]]
+|{{CHN}} 
+|5,450
+|'''2,316'''
+|3134
+|-
+|3
+|[[Kangze Gyai]]
+|{{CHN}} 
+|5,808
+|'''2,231'''
+|3577
+|-
+|4
+|[[Sulamutag Feng]]
+|{{CHN}} 
+|6,245
+|'''2,028'''
+|4217
+|-
+|5
+|[[Amne Machin]]
+|{{CHN}} 
+|6,282
+|'''1,960'''
+|4322
+|-
+|6
+|[[Liushi Shan]]
+|{{CHN}} 
+|7,167
+|'''1,946'''
+|5221
+|-
+|7
+|[[Ulugh Muztagh]]
+|{{CHN}} 
+|6,973
+|'''1,943'''
+|5030
+|-
+|8
+|[[Aleke Tag]]<ref>First recorded ascent by [[Janne Corax]] on 7 September 2010.</ref>
+|{{CHN}} 
+|6,065
+|'''1,923'''
+|4142
+|-
+|9
+|[[Bukadaban Feng]]
+|{{CHN}} 
+|6,860
+|'''1,922'''
+|4938
+|-
+|10
+|[[Sicha Xuefeng]] (Ak Tag)
+|{{CHN}} 
+|6,748
+|'''1,920'''
+|4828
+|-
+|11
+|HP [[Ayaliktag Range]]<ref>First recorded ascent bt [[Janne Corax]] on 1 October 2010.</ref>
+|{{CHN}} 
+|6,130
+|'''1,728'''
+|4402
+|-
+|12
+|[[Sob Gangri]]
+|{{CHN}} 
+|6,224
+|'''1,674'''
+|4550
+|-
+|13
+|[[Selik Gulam Muztag]]
+|{{CHN}} 
+|6,691
+|'''1,660'''
+|5031
+|-
+|14
+|[[Mush Muztagh]]
+|{{CHN}} 
+|6,638
+|'''1,631'''
+|5007
+|-
+|15
+|[[Kogantag]]
+|{{CHN}} 
+|4,800
+|'''1,611'''
+|3189
+|-
+|16
+|HP [[Qilian Shan]]
+|{{CHN}} 
+|5,547
+|'''1,593'''
+|4982
+|-
+|17
+|[[Yenui Shan]]
+|{{CHN}} 
+|4,880
+|'''1,540'''
+|3340
+|-
+|18
+|[[Point 5350 (China)]]
+|{{CHN}} 
+|5,350
+|'''1,537'''
+|3813
+|-
+|19
+|[[Karakash Shan]]
+|{{CHN}} 
+|6,510
+|'''1,528'''
+|4982
+|-
+|20
+|[[Chung Muztagh]]
+|{{CHN}} 
+|6,962
+|'''1,512'''
+|5450
+|-
+|21
+|[[Gangshiqia Peak]]
+|{{CHN}} 
+|5,254
+|'''1,504'''
+|3750
+|-
+|22
+|[[Qaidam Shan]]
+|{{CHN}} 
+|5,759
+|'''1,500'''
+|4259
+|-
+|}
+
+==Western Tibet and neighboring areas==
+[[File:Ruoni.jpg|250px|thumb|[[Bairiga]], [[China]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Kangju Kangri]]
+|{{IND}} 
+|6,725
+|'''2,147'''
+|4578
+|-
+|2
+|[[Lunpo Gangri]]
+|{{CHN}} 
+|7,095
+|'''1,941'''
+|5154
+|-
+|3
+|[[Shakangshan]]
+|{{CHN}} 
+|6,822
+|'''1,914'''
+|4908
+|-
+|4
+|[[Bangong (mountain)|Bangong]]
+|{{CHN}} 
+|6,260
+|'''1,879'''
+|4381
+|-
+|5
+|[[Nganglong Kangri]]
+|{{CHN}} 
+|6,720
+|'''1,772'''
+|4948
+|-
+|6
+|[[Point 6300]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}} 
+|6,300
+|'''1,660'''
+|4640
+|-
+|7
+|[[Shahi Kangri]]
+|{{IND}} 
+|6,934
+|'''1,580'''
+|5354
+|-
+|8
+|[[Kataklik Kangri]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}} 
+|6,897
+|'''1,543'''
+|5354
+|-
+|}
+
+==South-eastern Tibet and neighboring areas==
+[[File:Nyainqentanglha.JPG|250px|thumb|[[Nyainqentanglha Feng|Nyenchen Tanglha]], [[China]]]]
+[[File:Litang Ge'nyen 2014.09.16 09-11-25.jpg|250px|thumb|[[Ge'nyen Massif|Ge'nyen]], [[China]]]]
+[[File:Chola Mountain.jpg|250px|thumb|[[Rongme Ngatra]], [[China]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Gyala Peri]]
+|{{CHN}} 
+|7,294
+|'''2,942'''
+|4352
+|-
+|2
+|[[Bairiga]]
+|{{CHN}} 
+|6,882
+|'''2,444'''
+|4438
+|-
+|3
+|[[Nyainqentanglha Feng]]
+|{{CHN}} 
+|7,162
+|'''2,239'''
+|4923
+|-
+|4
+|[[Sepu Kangri]]
+|{{CHN}} 
+|6,956
+|'''2,213'''
+|4743
+|-
+|5
+|[[Kawarani]]
+|{{CHN}} 
+|5,992
+|'''2,018'''
+|3974
+|-
+|6
+|[[Ge'nyen Massif|Ge'nyen]]
+|{{CHN}} 
+|6,204
+|'''2,000'''
+|4204
+|-
+|7
+|[[Point 6327]]
+|{{CHN}} 
+|6,327
+|'''1,863'''
+|4464
+|-
+|8
+|[[Rongme Ngatra]]
+|{{CHN}} 
+|6,168
+|'''1,703'''
+|4465
+|-
+|9
+|[[Point 6310]]
+|{{CHN}} 
+|6,310
+|'''1,673'''
+|4637
+|-
+|10
+|[[Bu Gyai Kangri]]
+|{{CHN}} 
+|6,328
+|'''1,666'''
+|4662
+|-
+|11
+|[[Point 6135]]
+|{{CHN}} 
+|6,135
+|'''1,634'''
+|4501
+|-
+|12
+|[[Nenang]]
+|{{CHN}} 
+|6,870
+|'''1,630'''
+|5240
+|-
+|13
+|[[Samdain Kangsang]]
+|{{CHN}} 
+|6,590
+|'''1,614'''
+|4976
+|-
+|14
+|[[Beu-tse]]
+|{{CHN}} 
+|6,270
+|'''1,558'''
+|4712
+|-
+|15
+|[[Geladandong]]
+|{{CHN}} 
+|6,621
+|'''1,541'''
+|5080
+|-
+|}
+
+==[[Yunnan]]==
+[[Image:Yulong xue shan.jpg|thumb|right|250px|[[Jade Dragon Snow Mountain]], [[China]]]]
+[[Image:HabaMountain.jpg|thumb|right|250px|[[Haba Xueshan]], [[China]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Jade Dragon Snow Mountain]]
+|{{CHN}} 
+|5,596
+|'''3,202'''
+|2394
+|-
+|2
+|[[Jiaozi Snow Mountain]]
+|{{CHN}} 
+|4,330
+|'''2,470'''
+|1860
+|-
+|3
+|[[Kawagebo]]
+|{{CHN}} 
+|6,740
+|'''2,232'''
+|4508
+|-
+|4
+|[[Yao Shan]]
+|{{CHN}} 
+|4,050
+|'''1,996'''
+|2054
+|-
+|5
+|[[Point 5841]]
+|{{CHN}} 
+|5,841
+|'''1,934'''
+|3907
+|-
+|6
+|[[Hkaru Bum]]
+|{{BIR}} 
+|3,677
+|'''1,914'''
+|1763
+|-
+|7
+|[[Xiannairi]]
+|{{CHN}} 
+|6,032
+|'''1,878'''
+|4154
+|-
+|8
+|[[Point 4030]]
+|{{CHN}} 
+|4,030
+|'''1,837'''
+|4565
+|-
+|9
+|[[Haba Snow Mountain]]
+|{{CHN}} 
+|5,396
+|'''1,794'''
+|3602
+|-
+|10
+|[[Point 4520]]
+|{{CHN}} 
+|4,520
+|'''1,786'''
+|2734
+|-
+|11
+|[[Damyon]]
+|{{CHN}} 
+|6,324
+|'''1,759'''
+|4565
+|-
+|12
+|[[Point 3480]]
+|{{CHN}} 
+|3,480
+|'''1,750'''
+|1730
+|-
+|13
+|[[Dabaicao Ling]]
+|{{CHN}} 
+|3,680
+|'''1,738'''
+|1942
+|-
+|14
+|[[Xuebang Shan]]
+|{{CHN}} 
+|4,260
+|'''1,735'''
+|4565
+|-
+|15
+|HP {{ill|Baxoila Ling|sv}}
+|{{CHN}} 
+|6,146
+|'''1,721'''
+|4425
+|-
+|16
+|[[Point 4911]]
+|{{CHN}} 
+|4,911
+|'''1,690'''
+|3221
+|-
+|17
+|[[Finchuiyanou Range]]
+|{{CHN}} 
+|3,580
+|'''1,590'''
+|1990
+|-
+|18
+|[[Laotzyunshan]]
+|{{CHN}} 
+|4,500
+|'''1,558'''
+|2942
+|-
+|19
+|[[Cang Mountain|Cangshan]]
+|{{CHN}} 
+|4,122
+|'''1,502'''
+|2620
+|-
+|}
+
+==[[Daxue Mountains]] of [[Sichuan]]==
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Gongga Shan]]
+|{{CHN}} 
+|7,556
+|'''3,642'''
+|3914
+|-
+|2
+|[[Jiuding Shan]]
+|{{CHN}} 
+|4,969
+|'''2,808'''
+|2161
+|-
+|3
+|[[Yaomei Feng]]
+|{{CHN}} 
+|6,250
+|'''2,571'''
+|3679
+|-
+|4
+|[[Huatou Jian]]
+|{{CHN}} 
+|4,750
+|'''2,223'''
+|2527
+|-
+|5
+|[[Lamo-She]]
+|{{CHN}} 
+|6,070
+|'''2,093'''
+|3977
+|-
+|6
+|[[Mount Xuebaoding]]
+|{{CHN}} 
+|5,588
+|'''2,057'''
+|3531
+|-
+|7
+|HP [[Dalyandun Range]]
+|{{CHN}} 
+|4,041
+|'''1,905'''
+|2136
+|-
+|8
+|HP [[Lunan Shan]]
+|{{CHN}} 
+|4,300
+|'''1,760'''
+|2540
+|-
+|9
+|[[Dapin Shan]]
+|{{CHN}} 
+|5,412
+|'''1,728'''
+|3684
+|-
+|10
+|[[Jiankho Shan]]
+|{{CHN}} 
+|5,300
+|'''1,692'''
+|3608
+|-
+|11
+|[[Jiaojin Shan]]
+|{{CHN}} 
+|5,734
+|'''1,681'''
+|4053
+|-
+|12
+|[[Point 3030]]
+|{{CHN}} 
+|3,030
+|'''1,656'''
+|1374
+|-
+|13
+|[[Jinping Shan]]
+|{{CHN}} 
+|4,420
+|'''1,630'''
+|2790
+|-
+|14
+|[[Point 4260]]
+|{{CHN}} 
+|4,260
+|'''1,625'''
+|2635
+|-
+|15
+|[[Haizi Shan]]
+|{{CHN}} 
+|5,820
+|'''1,578'''
+|4242
+|-
+|16
+|[[Point 5744]]
+|{{CHN}} 
+|5,744
+|'''1,563'''
+|4181
+|-
+|17
+|[[Yaoji Shan]]
+|{{CHN}} 
+|3,590
+|'''1,552'''
+|2038
+|-
+|}
+
+==Contiguous Eastern China==
+[[File:The helan mountain peaks.JPG|thumb|right|150px|Oboo Geda, [[Helan Shan]].]]
+[[File:Sommet d'un pic - HuangShan.jpg|thumb|right|250px|Lianhua Feng, [[Huang Shan]]]]
+[[Image:Sunset at Mt Tai.JPG|thumb|right|250px|[[Mount Tai]], [[China]]]]
+[[Image:Tianzhu Peak (20170116142019).jpg|thumb|right|150px|[[Mount Tianzhu]], [[China]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Subdivision
+!Elevation (m)
+!Prominence (m)
+!Col (m)<!--
+|-
+|0.5
+|[[Yushan (mountain)|Yushan]]
+|{{ROC}} 
+|3,952
+|'''3,952'''
+|0-->
+|-
+|1
+|[[Mount Taibai]]
+|[[Shaanxi]]
+|3,750
+|'''2,232'''
+|1518
+|-
+|2
+|[[Dashennongjia]]
+|[[Hubei]]
+|3,100
+|'''2,270'''
+|830
+|-
+|3
+|{{ill|Obo Geda|zh|敖包疙瘩}} a.k.a. Mati Peak<!-- (马蹄岭)--> (HP [[Helan Mountains]])
+|[[Inner Mongolia]]
+|3,540
+|'''2,098'''
+|1442
+|-
+|4
+|[[Mount Huanggang]]
+|[[Guangdong]]
+|2,170
+|'''1,965'''
+|205<!--
+|-
+|4.5
+|[[Xueshan]]
+|{{ROC}} 
+|3,886
+|'''1,932'''
+|1954-->
+|-
+|5
+|[[Nanfengmian]]
+|
+|2,140
+|'''1,921'''
+|219<!--
+|-
+|5.5
+|[[Wuzhi Shan]]
+|{{CHN}} ([[Hainan]])
+|1,840
+|'''1,840'''
+|0-->
+|-
+|6
+|[[Shengtang Shan]]
+|
+|1,935
+|'''1,785'''
+|150
+|-
+|7
+|Northern Summit<!--the Beitai Ding--> (Yedou Peak) of [[Wutai Shan]]
+|[[Shanxi]]
+|3,061
+|'''1,784'''
+|1277
+|-
+|8
+|{{ill|Fenghuang Shan of Guizhou|sv|Fenghuang Shan (berg i Kina, Guizhou)}}
+|[[Guizhou]]
+|2,570
+|'''1,762'''
+|808
+|-
+|9
+|[[Jiucai Ling]]
+|
+|2,010
+|'''1,735'''
+|275
+|-
+|10
+|[[Huangshan]]
+|[[Anhui]]
+|1,864
+|'''1,734'''
+|130
+|-
+|11
+|[[Wugong Mountains|Wugong Shan]]
+|[[Jiangxi]]
+|1,920
+|'''1,722'''
+|198
+|-
+|12
+|[[Kitten Mountain]]
+|[[Guangxi]]
+|2,140
+|'''1,647'''
+|493
+|-
+|13
+|[[Mount Tianzhu]]
+|[[Anhui]]
+|1,760
+|'''1,642'''
+|118
+|-
+|14
+|[[Bai Yi Zhai]]<ref>[https://web.archive.org/web/20091124191159/http://www.ii.uib.no/~petter/mountains/2000mtn/hefeng.html 2009 Trip Report]</ref>
+|
+|2,323
+|'''1,658'''
+|665
+|-
+|15
+|[[Benjiwo]]
+|
+|1,953
+|'''1,625'''
+|328
+|-
+|16
+|[[Jiuling Shan]]
+|
+|1,790
+|'''1,624'''
+|166
+|-
+|17
+|[[Shikengkong]]
+|[[Guangdong]]
+|1,895
+|'''1,622'''
+|273
+|-
+|18
+|[[Datian Ding]]
+|
+|1,704
+|'''1,609'''
+|95
+|-
+|19
+|[[Yujing Feng]]
+|
+|1,810
+|'''1,596'''
+|214
+|-
+|20
+|[[Mount Gumuyuan]] 古木源山<!--Q14476634-->, a.k.a. Yinding Shan (银锭山?<!--unsure!-->, 24º53'33"N, 111º10'00"E)<ref>not to be confused with the Mount Yindian 银殿山 at 24°53'15.0"N 110°59'44.7"E and the nearby Mount Lesser Yinding 小银顶山 24°53'42.5"N 111°00'03.9"E</ref>
+|[[Guangxi]]
+|1,857.1<!--according to Chinese source-->
+|'''1,574'''
+|283
+|-
+|21
+|[[Daming Shan]]
+|
+|1,785
+|'''1,570'''
+|215
+|-
+|22
+|[[Huangmaojian Peak|Huangmao Jian]]
+|
+|1,930
+|'''1,530'''
+|400
+|-
+|23
+|[[Baojie Ling]]
+|
+|1,930
+|'''1,530'''
+|400
+|-
+|24
+|[[Qingliang Feng]]
+|[[Zhejiang]]
+|1,787
+|'''1,521'''
+|266
+|-
+|25
+|{{ill|Tiewadian of Fenghuang Mountains|qid=Q66667606}} (a.k.a. Tevodian)
+|
+|2128.3<ref>{{Cite web|url=http://gsl.ankang.gov.cn/Article/ShowArticle.asp?ArticleID=353|title = 安康市人民政府}}</ref>
+|'''1,597'''
+|523
+|-
+|27
+|[[Mount Xiaowutai]]
+|[[Hebei]]
+|2870
+|'''1,519'''<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=10694| title = Xiaowutai Shan - Peakbagger.com}} </ref>
+|1351
+|-
+|27
+|[[Mount Wuling]]
+|[[Hebei]]
+|2118
+|'''1,508'''<ref>{{cite web| url = https://www.peakbagger.com/peak.aspx?pid=76675| title = Wuling Shan - Peakbagger.com}} </ref>
+|around 600<ref>[[Badaling]]</ref>
+|-
+|28
+|[[Mount Tai]]
+|[[Shandong]]
+|1,545
+|'''1,505'''
+|40
+|-
+|}
+
+==[[Taiwan]] and [[Hainan]]==
+[[Image:Yu-Shan National Park(WDPA-9030)-PeterWen-5.jpg|thumb|right|250px|[[Yushan (mountain)|Yushan]], [[Republic of China|Taiwan]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Yushan (mountain)|Yushan]]
+|{{ROC}} 
+|3,952
+|'''3,952'''
+|0
+|-
+|2
+|[[Xueshan]]
+|{{ROC}} 
+|3,886
+|'''1,932'''
+|1954
+|-
+|3
+|[[Wuzhi Shan]]
+|{{CHN}} ([[Hainan]])
+|1,840
+|'''1,840'''
+|0
+|-
+|}
+
+==[[South India]] and [[Sri Lanka]]==
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Pidurutalagala]]
+|{{SRI}}
+|2,524
+|'''2,524'''
+|0
+|-
+|2
+|[[Anamudi]]
+|{{IND}}
+|2,695
+|'''2,479'''
+|215
+|-
+|3
+|[[Doddabetta]]
+|{{IND}}
+|2,636
+|'''2,256'''
+|380
+|-
+|4
+|[[Elivai Malai]]
+|{{IND}}
+|2,088
+|'''1,540'''
+|548
+|}
+
+==References==
+<references/>
+
+== External links ==
+E. Jurgalski and others:
+*[http://www.peaklist.org/WWlists/ultras/china1.html List of Ultras in Tibet]
+*[http://www.peaklist.org/WWlists/ultras/china2.html List of Ultras in Sinkiang]
+*[http://www.peaklist.org/WWlists/ultras/china3.html List of Ultras in Sichuan and Yunnan]
+*[http://www.peaklist.org/WWlists/ultras/china4.html List of Ultras in Central and Eastern China, Taiwan and Korea]
+*[http://www.peaklist.org/WWlists/ultras/south_india.htm List of Ultras in Southern Indian Subcontinentl] {{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+<br />
+{{Lists of Ultras}}
+
+[[Category:Lists of mountains by prominence|Tibet]]
+[[Category:Landforms of East Asia]]
+[[Category:Geography of East Asia]]
+[[Category:Mountains of Tibet]]

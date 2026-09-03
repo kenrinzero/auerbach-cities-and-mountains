@@ -1,0 +1,643 @@
+{{Short description|none}}
+This is a list of all the [[ultra-prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in the [[Himalayas]]. Listed separately, to the west and north-west are the [[List of Ultras of the Karakoram and Hindu Kush|Karakoram and Hindu Kush Ultras]], and while to the north-east and east are the [[List of Ultras of Tibet, East Asia and neighbouring areas|ultras of Tibet]]. 9 of the 10 Himalayan [[Eight-thousander|8,000m peaks]] are ultras (the exception is [[Lhotse]]), and there are a further 28 peaks over 7000m.
+
+== Kashmir/Himachal Pradesh - Between [[Indus]] and [[Sutlej]] Rivers==
+[[File:Pin Parvati from Sarpass.jpg|thumb|240x240px|[[Parbati Parbat]], [[Himachal Pradesh]], [[India]]]]
+[[File:Northern Areas 38b commons.jpg|thumb|right|244x244px|[[Nanga Parbat]], [[Pakistan]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Nanga Parbat]]
+|{{PAK}}
+|8,125
+|'''4,608'''
+|3517
+|-
+|2
+|[[Nun Kun|Nun]]
+|{{IND}}
+|7,135
+|'''2,404'''
+|4731
+|-
+|3
+|[[Shikar Beh]]
+|{{IND}}
+|6,200
+|'''2,223'''
+|3977
+|-
+|4
+|[[Parbati Parbat]]
+|{{IND}}
+|6,633
+|'''2,093'''
+|4540
+|-
+|5
+|[[Reo Purgyil]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|6,816
+|'''1,978'''
+|4838
+|-
+|6
+|[[Sunset Peak (Jammu and Kashmir)|Sunset Peak]]
+|{{IND}}
+|4,745
+|'''1,942'''
+|2803
+|-
+|7
+|[[Miranjani]]
+|{{PAK}}
+|2,981
+|'''1,911'''
+|1070
+|-
+|8
+|[[Mount Gya|Gya]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|6,794
+|'''1,910'''
+|4884
+|-
+|9
+|[[Dofana]]
+|{{PAK}}
+|5,940
+|'''1,875'''
+|4065
+|-
+|10
+|[[Point 5608]]
+|{{PAK}}&nbsp;/&nbsp;{{IND}}
+|5,608
+|'''1,850'''
+|3758
+|-
+|11
+|[[Manirang]]
+|{{IND}}
+|6,593
+|'''1,727'''
+|4866
+|-
+|12
+|[[Point 5800]]
+|{{PAK}}
+|5,800
+|'''1,682'''
+|4118
+|-
+|13
+|[[Point 6086]]
+|{{IND}}
+|6,086
+|'''1,618'''
+|4468
+|-
+|14
+|[[Sickle Moon Peak|Bharanzar]]
+|{{IND}}
+|6,574
+|'''1,606'''
+|4968
+|-
+|15
+|[[Mulkila]]
+|{{IND}}
+|6,517
+|'''1,586'''
+|4931
+|-
+|16
+|[[Kolahoi]]
+|{{IND}}
+|5,425
+|'''1,585'''
+|3840
+|-
+|17
+|[[Point 5971]]
+|{{IND}}
+|5,971
+|'''1,566'''
+|4405
+|-
+|18
+|[[Junkor]]
+|{{PAK}}&nbsp;/&nbsp;{{IND}}
+|5,373
+|'''1,563'''
+|3810
+|-
+|19
+|[[Doda (mountain)|Doda]]
+|{{IND}}
+|6,573
+|'''1,504'''
+|5069
+|-
+|}
+
+==Garhwal/Kumaon- [[Sutlej]] to [[Kali River (Uttarakhand)|Kali River]]s==
+Source:<ref>{{Cite web | url=https://www.britannica.com/place/Kumaun-Himalayas | title=Kumaun Himalayas &#124; mountains, India }}</ref>
+[[Image:Nanda devi.jpg|thumb|right|227x227px|[[Nanda Devi]], [[India]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Nanda Devi]]
+|{{IND}} 
+|7,816
+|'''3,139'''
+|4677
+|-
+|2
+|[[Kamet]]
+|{{IND}} 
+|7,756
+|'''2,825'''
+|4931
+|-
+|3
+|[[Rangrik Rang]]
+|{{IND}} 
+|6,684
+|'''1,674'''
+|5010
+|-
+|4
+|[[Hathi Parbat]]
+|{{IND}} 
+|6,727
+|'''1,673'''
+|5054
+|-
+|5
+|[[Trisul]]
+|{{IND}} 
+|7,120
+|'''1,616'''
+|5504
+|-
+|6
+|[[Panchchuli]]
+|{{IND}} 
+|6,904
+|'''1,614'''
+|5290
+|-
+|7
+|[[Chaukhamba]]
+|{{IND}} 
+|7,138
+|'''1,594'''
+|5544
+|-
+|8
+|[[Nanda Kot]]
+|{{IND}} 
+|6,861
+|'''1,592'''
+|5269
+|-
+|}
+
+==Western Nepal/Tibet: [[Sharda River]] to [[Kali Gandaki River]] ==
+[[File:Api Nampa.JPG|thumb|[[Api (mountain)|Api]], [[Nepal]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Dhaulagiri]]
+|{{NEP}}
+|8,167
+|'''3,357'''
+|4810
+|-
+|2
+|[[Gurla Mandhata]]
+|{{CHN}}
+|7,694
+|'''2,788'''
+|4906
+|-
+|3
+|[[Dhaulagiri II]]
+|{{NEP}}
+|7,752
+|'''2,397'''
+|5355
+|-
+|4
+|[[Api (mountain)|Api]]
+|{{NEP}}
+|7,132
+|'''2,040'''
+|5092
+|-
+|5
+|[[Kanjiroba]]
+|{{NEP}}
+|6,883
+|'''1,870'''
+|5013
+|-
+|6
+|[[Saipal]]
+|{{NEP}}
+|7,031
+|'''1,824'''
+|5207
+|-
+|7
+|[[Kubi Gangri]]
+|{{NEP}}&nbsp;/&nbsp;{{CHN}}
+|6,859
+|'''1,699'''
+|5160
+|-
+|8
+|[[Badi malika]]
+|{{NEP}}
+|4,390
+|'''1,678'''
+|2712
+|-
+|9
+|[[Changla]]
+|{{NEP}}&nbsp;/&nbsp;{{CHN}}
+|6,721
+|'''1,657'''
+|5064
+|-
+|10
+|[[Bhalu Lek]]
+|{{NEP}}
+|5,425
+|'''1,643'''
+|3782
+|-
+|11
+|[[Jethi Bahurani]]
+|{{NEP}}
+|6,850
+|'''1,558'''
+|5292
+|}
+
+The Kali Gandaki River is normally considered to mark the divide between the Western and Eastern Himalayas.
+
+==Central Nepal/Tibet: [[Kali Gandaki River]] to [[Arun River (Nepal)|Arun River]]==
+[[Image:Mount Everest North Face.jpg|thumb|right|218x218px|[[Mount Everest]], [[Nepal]]]]
+[[Image:Annapurna from west.jpg|thumb|right|217x217px|[[Annapurna]], [[Nepal]]]]
+[[Image:Makalu.jpg|thumb|right|217x217px|[[Makalu]], [[Nepal]]]]
+[[Image:Sunrise, Manaslu.jpg|thumb|right|216x216px|[[Manaslu]], [[Nepal]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Everest]]
+|{{CHN}} / {{NEP}}<ref>{{Cite web | title=World - The World Factbook | url=https://www.cia.gov/the-world-factbook/countries/world/ | archive-url=https://web.archive.org/web/20210126032610/https://www.cia.gov/the-world-factbook/countries/world/ | url-status=dead | archive-date=January 26, 2021 | access-date=2025-09-27 | website=www.cia.gov}}</ref>
+|8,848
+|'''8,848'''
+|0
+|-
+|2
+|[[Manaslu]]
+|{{NEP}}
+|8,163
+|'''3,092'''
+|5071
+|-
+|3
+|[[Annapurna I]]
+|{{NEP}}
+|8,091
+|'''2,984'''
+|5107
+|-
+|4
+|[[Shishapangma]]
+|{{CHN}}
+|8,027
+|'''2,897'''
+|5130
+|-
+|5
+|[[Annapurna II]]
+|{{NEP}}
+|7,937
+|'''2,437'''
+|5500
+|-
+|6
+|[[Makalu]]
+|{{CHN}} / {{NEP}}
+|8,485
+|'''2,378'''
+|6107
+|-
+|7
+|[[Yangra]]
+|{{NEP}}
+|7,422
+|'''2,352'''
+|5070
+|-
+|8
+|[[Cho Oyu]]
+|{{CHN}} / {{NEP}}
+|8,188
+|'''2,340'''
+|5848
+|-
+|9
+|[[Chamar (mountain)|Chamar]]
+|{{NEP}}
+|7,165
+|'''2,061'''
+|5104
+|-
+|10
+|[[Labuche Kang]]
+|{{CHN}}
+|7,367
+|'''1,957'''
+|5410
+|-
+|11
+|[[Nemjung]]
+|{{NEP}}
+|7,140
+|'''1,920'''
+|5220
+|-
+|12
+|Tsanglha Ri (Zang La)
+|{{CHN}}
+|6,495
+|'''1,712'''
+|4783
+|-
+|13
+|[[Himalchuli]]
+|{{NEP}}
+|7,893
+|'''1,633'''
+|6260
+|-
+|14
+|[[Pangpoche]]
+|{{NEP}}
+|6,620
+|'''1,622'''
+|4998
+|-
+|15
+|[[Gauri Sankar]]
+|{{NEP}}
+|7,146
+|'''1,600'''
+|5546
+|-
+|16
+|[[Melungtse]]
+|{{&nbsp;CHN}}
+|7,181
+|'''1,551'''
+|5630
+|-
+|17
+|[[Langtang Lirung]]
+|{{NEP}}
+|7,234
+|'''1,534'''
+|5700
+|-
+|}
+
+==Arun River to [[Bhutan]] border==
+[[Image:Kangch-Goechala.jpg|thumb|right|200px|[[Kangchenjunga]], [[Nepal]]]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Kangchenjunga]]
+|{{IND}}&nbsp;/&nbsp;{{NEP}}
+|8,586
+|'''3,922'''
+|4664
+|-
+|2
+|[[Pauhunri]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|7,128
+|'''2,035'''
+|5093
+|-
+|3
+|[[Nyonno Ri]]
+|{{CHN}}
+|6,724
+|'''1,805'''
+|4919
+|-
+|4
+|[[Pandim]]
+|{{IND}}
+|6,691
+|'''1,762'''
+|4929
+|-
+|5
+|[[Chomo Yummo]]
+|{{CHN}}&nbsp;/&nbsp;{{IND}}
+|6,829
+|'''1,559'''
+|5270
+|-
+|}
+
+==Bhutan to the [[Brahmaputra]] (Assam Himalaya)==
+[[Image:GangkharPuensum3.jpg|thumb|right|200px|[[Gangkhar Puensum]], [[Bhutan]]/[[China]]]]
+[[File:Kangto.jpg|thumb|201x201px|[[Kangto]] [[East Kameng district]], [[Arunachal Pradesh]], India]]
+[[File:Katoie gyang kra daadi.jpg|thumb|197x197px|[[Nyegyi Kansang|Katoie Gyang/Kra Daadi]] [[East Kameng district]], [[Arunachal Pradesh]], India]]
+[[File:Khyarisatam-kawang gyang.jpg|thumb|193x193px|[[Chiumo|Kawang Gyang/Khyarisatam]] [[East Kameng district]], [[Arunachal Pradesh]], India]]
+{| class="wikitable sortable"
+!No
+!Peak
+!Country
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Namcha Barwa]]
+|{{CHN}}
+|7,782
+|'''4,106'''
+|3676
+|-
+|2
+|[[Gangkhar Puensum]]
+|{{BHU}}&nbsp;/&nbsp;{{CHN}}
+|7,570
+|'''2,995'''
+|4575
+|-
+|3
+|[[Kangto]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|7,060
+|'''2,195'''
+|4865
+|-
+|4
+|[[Noijin Kangsang]]
+|{{CHN}}
+|7,191
+|'''2,145'''
+|5046
+|-
+|5
+|[[Chomolhari]]
+|{{BHU}}&nbsp;/&nbsp;{{CHN}}
+|7,326
+|'''2,077'''
+|5249
+|-
+|6
+|[[Yarla Shampo]]
+|{{CHN}}
+|6,636
+|'''1,805'''
+|4831
+|-
+|7
+|[[Tongshanjiabu]]
+|{{BHU}}&nbsp;/&nbsp;{{CHN}}
+|7,207
+|'''1,757'''
+|5450
+|-
+|8
+|[[Nyegyi Kansang]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|6,970
+|'''1,752'''
+|5295
+|-
+|9
+|[[Chiumo|Khyarisatam]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|6,870
+|
+|
+|-
+|10
+|[[Point 5980]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|5,980
+|'''1,747'''
+|4233
+|-
+|11
+|[[Tarlha Ri]]
+|{{CHN}}
+|6,777
+|'''1,697'''
+|5080
+|-
+|12
+|HP [[Dafla Range]]
+|{{IND}}
+|3,776
+|'''1,684'''
+|2092
+|-
+|13
+|[[Point 5641]]
+|{{IND}}&nbsp;/&nbsp;{{CHN}}
+|5,641
+|'''1,681'''
+|3960
+|-
+|14
+|[[Kula Kangri]]
+|{{BHU}}&nbsp;/&nbsp;{{CHN}}
+|7,553
+|'''1,669'''
+|5884
+|-
+|15
+|[[Tarka La]]
+|{{BHU}}
+|4,735
+|'''1,624'''
+|3111
+|-
+|16
+|[[Kazi Razi]]
+|{{CHN}}
+|6,505
+|'''1,561'''
+|4944
+|-
+|17
+|[[Point 6215]]
+|{{CHN}}
+|6,215
+|'''1,521'''
+|4694
+|-
+|18
+|[[Point 5840]]
+|{{CHN}}
+|5840
+|'''1,511'''
+|4329
+|-
+|}
+
+==References==
+{{reflist}}
+
+==Sources==
+*[http://peaklist.org/WWlists/ultras/karakoram.html Western list]
+*[http://peaklist.org/WWlists/ultras/everest.html Eastern list]
+*[http://www.peaklist.org/WWmaps/asia/map/ASIA_High.gif Map]
+
+{{Lists of Ultras}}
+
+[[Category:Lists of mountains by prominence|Eastern Himalayan Ultras]]
+[[Category:Himalayas]]
+[[Category:Lists of mountains of Asia|Himalayas]]

@@ -1,0 +1,132 @@
+rank,place,pop,year,source
+1,Berlin,3685265,2025,eurostat-urb_cpop1
+2,Hamburg,1862565,2025,eurostat-urb_cpop1
+3,München,1505005,2025,eurostat-urb_cpop1
+4,Köln,1024621,2025,eurostat-urb_cpop1
+5,Frankfurt am Main,756021,2025,eurostat-urb_cpop1
+6,Düsseldorf,618685,2025,eurostat-urb_cpop1
+7,Stuttgart,612663,2025,eurostat-urb_cpop1
+8,Leipzig,611850,2025,eurostat-urb_cpop1
+9,Dortmund,603462,2025,eurostat-urb_cpop1
+10,Bremen,586271,2025,eurostat-urb_cpop1
+11,Essen,574682,2025,eurostat-urb_cpop1
+12,Dresden,564904,2025,eurostat-urb_cpop1
+13,Nürnberg,529508,2025,eurostat-urb_cpop1
+14,Hannover,522131,2025,eurostat-urb_cpop1
+15,Duisburg,502270,2025,eurostat-urb_cpop1
+16,Bochum,358676,2025,eurostat-urb_cpop1
+17,Wuppertal,358193,2025,eurostat-urb_cpop1
+18,Bielefeld,331605,2025,eurostat-urb_cpop1
+19,Bonn,323336,2025,eurostat-urb_cpop1
+20,Mannheim,318035,2025,eurostat-urb_cpop1
+21,Karlsruhe,309050,2025,eurostat-urb_cpop1
+22,Münster,308258,2025,eurostat-urb_cpop1
+23,Augsburg,301105,2025,eurostat-urb_cpop1
+24,Wiesbaden,288850,2025,eurostat-urb_cpop1
+25,Gelsenkirchen,267930,2025,eurostat-urb_cpop1
+26,Mönchengladbach,267213,2025,eurostat-urb_cpop1
+27,Aachen,262670,2025,eurostat-urb_cpop1
+28,Braunschweig,252962,2025,eurostat-urb_cpop1
+29,Kiel,252668,2025,eurostat-urb_cpop1
+30,Chemnitz,245618,2025,eurostat-urb_cpop1
+31,Magdeburg,244329,2025,eurostat-urb_cpop1
+32,Freiburg im Breisgau,237460,2025,eurostat-urb_cpop1
+33,Krefeld,231406,2025,eurostat-urb_cpop1
+34,Halle an der Saale,226767,2025,eurostat-urb_cpop1
+35,Mainz,224684,2025,eurostat-urb_cpop1
+36,Erfurt,218793,2025,eurostat-urb_cpop1
+37,Lübeck,216889,2025,eurostat-urb_cpop1
+38,Oberhausen,213646,2025,eurostat-urb_cpop1
+39,Rostock,205307,2025,eurostat-urb_cpop1
+40,Kassel,197230,2025,eurostat-urb_cpop1
+41,Hagen,190384,2025,eurostat-urb_cpop1
+42,Potsdam,184754,2025,eurostat-urb_cpop1
+43,Saarbrücken,182971,2025,eurostat-urb_cpop1
+44,Hamm,179968,2025,eurostat-urb_cpop1
+45,Ludwigshafen am Rhein,177222,2025,eurostat-urb_cpop1
+46,Oldenburg (Oldenburg),176614,2025,eurostat-urb_cpop1
+47,Mülheim a.d.Ruhr,173050,2025,eurostat-urb_cpop1
+48,Leverkusen,168581,2025,eurostat-urb_cpop1
+49,Darmstadt,167029,2025,eurostat-urb_cpop1
+50,Osnabrück,166057,2025,eurostat-urb_cpop1
+51,Solingen,165626,2025,eurostat-urb_cpop1
+52,Paderborn,156378,2025,eurostat-urb_cpop1
+53,Herne,155851,2025,eurostat-urb_cpop1
+54,Heidelberg,155756,2025,eurostat-urb_cpop1
+55,Neuss,154317,2025,eurostat-urb_cpop1
+56,Regensburg,151389,2025,eurostat-urb_cpop1
+57,Esslingen am Neckar (greater city),147052,2025,eurostat-urb_cpop1
+58,Ingolstadt,141185,2025,eurostat-urb_cpop1
+59,Pforzheim,134912,2025,eurostat-urb_cpop1
+60,Würzburg,133258,2025,eurostat-urb_cpop1
+61,Offenbach am Main,132746,2025,eurostat-urb_cpop1
+62,Fürth,132036,2025,eurostat-urb_cpop1
+63,Heilbronn,131986,2025,eurostat-urb_cpop1
+64,Waiblingen (greater city),131946,2025,eurostat-urb_cpop1
+65,Ulm,129882,2025,eurostat-urb_cpop1
+66,Wolfsburg,129560,2025,eurostat-urb_cpop1
+67,Göttingen,127259,2025,eurostat-urb_cpop1
+68,Reutlingen,118852,2025,eurostat-urb_cpop1
+69,Bremerhaven,118610,2025,eurostat-urb_cpop1
+70,Bottrop,118535,2025,eurostat-urb_cpop1
+71,Troisdorf (greater city),118346,2025,eurostat-urb_cpop1
+72,Ludwigsburg (greater city),117292,2025,eurostat-urb_cpop1
+73,Erlangen,115928,2025,eurostat-urb_cpop1
+74,Recklinghausen,115344,2025,eurostat-urb_cpop1
+75,Remscheid,113828,2025,eurostat-urb_cpop1
+76,Koblenz,113378,2025,eurostat-urb_cpop1
+77,Bergisch Gladbach,111361,2025,eurostat-urb_cpop1
+78,Jena,109725,2025,eurostat-urb_cpop1
+79,Trier,104342,2025,eurostat-urb_cpop1
+80,Siegen,102685,2025,eurostat-urb_cpop1
+81,Rüsselsheim am Main (greater city),102268,2025,eurostat-urb_cpop1
+82,Moers,101503,2025,eurostat-urb_cpop1
+83,Gütersloh,100479,2025,eurostat-urb_cpop1
+84,Kaiserslautern,100426,2025,eurostat-urb_cpop1
+85,Göppingen (greater city),99489,2025,eurostat-urb_cpop1
+86,Hildesheim,98510,2025,eurostat-urb_cpop1
+87,Schwerin,98308,2025,eurostat-urb_cpop1
+88,Hanau,97956,2025,eurostat-urb_cpop1
+89,Flensburg,96326,2025,eurostat-urb_cpop1
+90,Gera,95608,2025,eurostat-urb_cpop1
+91,Cottbus,95123,2025,eurostat-urb_cpop1
+92,Düren,94568,2025,eurostat-urb_cpop1
+93,Tübingen,92322,2025,eurostat-urb_cpop1
+94,Iserlohn,91811,2025,eurostat-urb_cpop1
+95,Witten,91808,2025,eurostat-urb_cpop1
+96,Ratingen,89368,2025,eurostat-urb_cpop1
+97,Gießen,89179,2025,eurostat-urb_cpop1
+98,Konstanz,86919,2025,eurostat-urb_cpop1
+99,Marl,86766,2025,eurostat-urb_cpop1
+100,Lünen,86163,2025,eurostat-urb_cpop1
+101,Lörrach (greater city),83585,2025,eurostat-urb_cpop1
+102,Norderstedt,82844,2025,eurostat-urb_cpop1
+103,Delmenhorst,81406,2025,eurostat-urb_cpop1
+104,Neumünster,79809,2025,eurostat-urb_cpop1
+105,Bamberg,77150,2025,eurostat-urb_cpop1
+106,Gladbeck,75499,2025,eurostat-urb_cpop1
+107,Lüneburg,74785,2025,eurostat-urb_cpop1
+108,Castrop-Rauxel,73282,2025,eurostat-urb_cpop1
+109,Bocholt,73257,2025,eurostat-urb_cpop1
+110,Aschaffenburg,73091,2025,eurostat-urb_cpop1
+111,Bayreuth,72940,2025,eurostat-urb_cpop1
+112,Landshut,71863,2025,eurostat-urb_cpop1
+113,Lüdenscheid,71212,2025,eurostat-urb_cpop1
+114,Kempten (Allgäu),67645,2025,eurostat-urb_cpop1
+115,Dinslaken,66993,2025,eurostat-urb_cpop1
+116,Plauen,65599,2025,eurostat-urb_cpop1
+117,Rosenheim,65274,2025,eurostat-urb_cpop1
+118,Neu-Ulm,62641,2025,eurostat-urb_cpop1
+119,Sindelfingen,61422,2025,eurostat-urb_cpop1
+120,Herten,60941,2025,eurostat-urb_cpop1
+121,Langenfeld (Rheinland),59975,2025,eurostat-urb_cpop1
+122,Unna,58333,2025,eurostat-urb_cpop1
+123,Oberursel (greater city),57592,2025,eurostat-urb_cpop1
+124,Frankfurt (Oder),57107,2025,eurostat-urb_cpop1
+125,Sankt Augustin,56521,2025,eurostat-urb_cpop1
+126,Görlitz,55186,2025,eurostat-urb_cpop1
+127,Hilden,55157,2025,eurostat-urb_cpop1
+128,Schweinfurt,54481,2025,eurostat-urb_cpop1
+129,Hattingen,53044,2025,eurostat-urb_cpop1
+130,Böblingen,51483,2025,eurostat-urb_cpop1
+131,Elmshorn,51342,2025,eurostat-urb_cpop1

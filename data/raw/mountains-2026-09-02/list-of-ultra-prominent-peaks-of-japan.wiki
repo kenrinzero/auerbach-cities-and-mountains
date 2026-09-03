@@ -1,0 +1,187 @@
+{{Short description|none}}
+This is a list of all the [[ultra-prominent peak]]s (with [[topographic prominence]] greater than 1,500 metres) in [[Japan]]. 
+{{Gallery
+|title= Ultra-prominent peaks in Japan
+| align        = center
+| footer       =
+| style        = cascade
+| state        =
+| mode = packed
+| width=
+| height=170
+|File:Kodaki_fuji_frm_shojinko_refurb.jpg|[[Mount Fuji]]
+|File:Asahidake.JPG|[[Asahidake]]
+|File:Mt.Kisokomagatake from Mt.Utsugidake 01.jpg|[[Mount Kisokoma]]
+|File:Yotei-zan-from-hirafu.jpg|[[Mount Yōtei]]
+}}
+
+{| class="wikitable sortable"
+!No
+!Peak
+!Island
+!Elevation (m)
+!Prominence (m)
+!Col (m)
+|-
+|1
+|[[Mount Fuji]]
+|[[Honshū]]
+|3,776
+|'''3,776'''
+|0
+|-
+|2
+|[[Mount Hotaka (Nagano, Gifu)|Mount Hotaka]]
+|[[Honshū]]
+|3,190
+|'''2,307'''
+|883
+|-
+|3
+|[[Asahidake]]
+|[[Hokkaidō]]
+|2,290
+|'''2,290'''
+|0
+|-
+|4
+|[[Mount Kita]]
+|[[Honshū]]
+|3,192
+|'''2,239'''
+|953
+|-
+|5
+|[[Mount Ishizuchi]]
+|[[Shikoku]]
+|1,982
+|'''1,982'''
+|0
+|-
+|6
+|[[Mount Miyanoura]]
+|[[Yakushima]]
+|1,936
+|'''1,936'''
+|0
+|-
+|7
+|[[Mount Aka (Yatsugatake)|Mount Aka]]
+|[[Honshū]]
+|2,899
+|'''1,916'''
+|883
+|-
+|8
+|[[Mount Haku]]
+|[[Honshū]]
+|2,702
+|'''1,897'''
+|805
+|-
+|9
+|[[Mount Chōkai]]
+|[[Honshū]]
+|2,236
+|'''1,891'''
+|345
+|-
+|10
+|[[Mount Yōtei]]
+|[[Hokkaidō]]
+|1,898
+|'''1,878'''
+|20
+|-
+|11
+|[[Mount Kujū]]
+|[[Kyūshū]]
+|1,791
+|'''1,791'''
+|0
+|-
+|12
+|[[Mount Kisokoma]]
+|[[Honshū]]
+|2,956
+|'''1,751'''
+|1205
+|-
+|13
+|[[Mount Iwate]]
+|[[Honshū]]
+|2,038
+|'''1,745'''
+|293
+|-
+|14
+|[[Mount Hakkyō]]
+|[[Honshū]]
+|1,915
+|'''1,732'''
+|183
+|-
+|15
+|[[Mount Rishiri]]
+|[[Rishiri Island]]
+|1,721
+|'''1,721'''
+|0
+|-
+|16
+|[[Mount Ontake]]
+|[[Honshū]]
+|3,067
+|'''1,712'''
+|1355
+|-
+|17
+|[[Mount Hiuchi]]
+|[[Honshū]]
+|2,462
+|'''1,637'''
+|825
+|-
+|18
+|[[Daisen (mountain)|Daisen]]
+|[[Honshū]]
+|1,729
+|'''1,634'''
+|95
+|-
+|19
+|[[Mount Nikkō-Shirane]]
+|[[Honshū]]
+|2,578
+|'''1,613'''
+|965
+|-
+|20
+|[[Mount Iide|Mount Dainichi]]
+|[[Honshū]]
+|2,128
+|'''1,593'''
+|535
+|-
+|21
+|[[Mount Tsurugi (Tokushima)|Mount Tsurugi]]
+|[[Shikoku]]
+|1,955
+|'''1,540'''
+|415
+|-
+|}
+
+==See also==
+*[[List of mountains in Japan]]
+
+==Sources==
+* [http://www.peaklist.org/WWlists/ultras/japan.html List]
+* [http://www.peaklist.org/WWmaps/ultra/japan.jpg Map]
+
+{{Lists of Ultras}}
+
+{{DEFAULTSORT:List Of Ultras Of Japan}}
+[[Category:Lists of mountains by prominence|Japan Ultras]]
+[[Category:Mountains of Japan]]
+[[Category:Lists of mountains of Japan|Ultras]]

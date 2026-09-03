@@ -1,0 +1,2077 @@
+{{Short description|none}}
+{{pp|small=yes}}
+
+[[File:Cities of Russia with over 1 million people.svg|thumb|350px|All Russian cities with at least one million residents, labelled]]
+[[File:Federal subjects of Russia by population density edited.svg|350px|thumb|Federal subjects of Russia by population density]]
+
+This is a list of [[classification of inhabited localities in Russia|cities and towns]] in [[Russia]] and parts of the [[Russian-occupied territories of Ukraine]] with a population of over 50,000 as of the [[2021 Russian census|2021 census]]. The figures are for the population within the limits of the city/town proper, not the [[urban area]] or [[metropolitan area]].
+
+The list includes [[Sevastopol]] and settlements within the [[Republic of Crimea (Russia)|Republic of Crimea]] which are [[political status of Crimea|internationally recognized]] as part of Ukraine and were not subject to the 2010 census. Additionally, settlements within the [[Donetsk People's Republic]], [[Russian occupation of Kherson Oblast|Kherson Oblast]], [[Luhansk People's Republic]], and [[Russian occupation of Zaporizhzhia Oblast|Zaporozhye Oblast]], are [[Political status of Crimea|internationally recognized]] as part of Ukraine and were not subject to the 2010 census. Only settlements presently controlled by Russia are included; settlements under the control of Ukraine are not included. The city of [[Zelenograd]] (a part of the [[federal cities of Russia|federal city]] of [[Moscow]]) and the municipal cities/towns of the federal city of [[Saint Petersburg|St.&nbsp;Petersburg]] are also excluded, as they are not enumerated in the 2021 census as stand-alone localities. The sixteen largest cities (cities with over 1,000,000 inhabitants) have a total population of 35,509,177, or roughly 24.1% of the country's total population.
+
+==Cities and towns==
+Cities in '''bold''' symbolize the capital city of its respective [[Federal subjects of Russia|federal subject]]. Three capitals are too small to make the list: [[Naryan-Mar]] (pop. 25,795), [[Magas, Russia|Magas]] (pop. 15,279), and [[Anadyr (town)|Anadyr]] (pop. 15,079). [[Pyatigorsk]] is the administrative centre of [[North Caucasian Federal District]] but not of any federal subject.
+
+Cities in {{legend-inline|#cccccc|text='''grey'''}} are in areas annexed by Russia that the international community considers illegally occupied by Russia.<ref>{{Cite web |title=UN resolution condemns Russia's occupation of Crimea |url=https://www.aljazeera.com/news/2019/12/10/un-resolution-condemns-russias-occupation-of-crimea |access-date=2023-09-13 |website=www.aljazeera.com |language=en}}</ref> Only a few nations recognize Crimea, the Donetsk People's Republic, Kherson Oblast, Luhansk People's Republic, and Zaporozhye Oblast as part of Russia.<ref>{{Cite web |last=Interfax-Ukraine |date=2014-03-27 |title=Nicaragua recognizes Crimea as part of Russia - Mar. 27, 2014 |url=https://archive.kyivpost.com/article/content/ukraine-politics/nicaragua-recognizes-crimea-as-part-of-russia-341102.html |access-date=2023-09-13 |website=Kyiv Post}}</ref>
+
+{{sticky header}}{{table alignment}}{{static row numbers}}
+{| class="sortable wikitable sticky-header static-row-numbers col5right col6right col7right" {{left}}
+|-
+! City or town
+! [[Russian language|Russian<br />name]]
+! [[Federal subjects of Russia|Federal subject]]
+! [[Federal districts of Russia|Federal district]]
+! [[2021 Russian census|2021 census]]<ref name=2021Census>{{cite web|title=Оценка численности постоянного населения по субъектам Российской Федерации|url=https://rosstat.gov.ru/storage/mediabank/tab-5_VPN-2020.xlsx|publisher=[[Federal State Statistics Service (Russia)|Federal State Statistics Service]]|accessdate=1 September 2022}}</ref>
+! [[2010 Russian census|2010 census]]<ref name="2010Census">{{ru-pop-ref|2010Census}}</ref>
+! Change
+|-
+|'''[[Moscow]]'''
+|{{lang|ru|Москва}}
+|{{flag|Moscow|name=Moscow (federal city)}}{{efn|The city of Moscow, though a separate entity from the surrounding [[Moscow Oblast]], also serves as its capital}}
+|[[Central Federal District|Central]]
+|{{change|invert=on|13010112|11503501}}
+|-
+|'''[[Saint Petersburg]]'''
+|{{lang|ru|Санкт-Петербург}}
+|{{flag|Saint Petersburg|name=Saint Petersburg (federal city)}}{{efn|The city of Saint Petersburg, though a separate entity from the surrounding [[Leningrad Oblast]], also serves as its capital}}
+|[[Northwestern Federal District|Northwest]]
+|{{change|invert=on|5601911|4879566}}
+|-
+|'''[[Novosibirsk]]'''
+|{{lang|ru|Новосибирск}}
+|{{flag|Novosibirsk Oblast}}
+|[[Siberian Federal District|Siberia]]
+|{{change|invert=on|1633595|1473754}}
+|-
+|'''[[Yekaterinburg]]'''
+|{{lang|ru|Екатеринбург}}
+|{{flag|Sverdlovsk Oblast}}
+|[[Ural Federal District|Ural]]
+|{{change|invert=on|1544376|1349772}}
+|-
+|'''[[Kazan]]'''
+|{{lang|ru|Казань}}
+|{{flag|Tatarstan|name=Republic of Tatarstan}}
+|[[Volga Federal District|Volga]]
+|{{change|invert=on|1308660|1143535}}
+|-
+|'''[[Nizhny Novgorod]]'''
+|{{lang|ru|Нижний Новгород}}
+|{{flag|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|1228199|1250619}}
+|-
+|'''[[Chelyabinsk]]'''
+|{{lang|ru|Челябинск}}
+|{{flag|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|1189525|1130132}}
+|-
+|'''[[Krasnoyarsk]]'''
+|{{lang|ru|Красноярск}}
+|{{flag|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|1187771|973826}}
+|-
+|'''[[Samara]]'''
+|{{lang|ru|Самара}}
+|{{flag|Samara Oblast}}
+|Volga
+|{{change|invert=on|1173299|1164685}}
+|-
+|'''[[Ufa]]'''
+|{{lang|ru|Уфа}}
+|{{flag|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|1144809|1062319}}
+|-
+|'''[[Rostov-on-Don]]'''
+|{{lang|ru|Ростов-на-Дону}}
+|{{flag|Rostov Oblast}}
+|[[Southern Federal District|South]]{{efn|Includes [[Crimea]], [[Annexation of Crimea by the Russian Federation|annexed by Russia in 2014]]; recognized as a part of [[Ukraine]] by most of the international community.}}
+|{{change|invert=on|1142162|1089261}}
+|-
+|'''[[Omsk]]'''
+|{{lang|ru|Омск}}
+|{{flag|Omsk Oblast}}
+|Siberia
+|{{change|invert=on|1125695|1154119}}
+|-
+|'''[[Krasnodar]]'''
+|{{lang|ru|Краснодар}}
+|{{flag|Krasnodar Krai}}
+|South
+|{{change|invert=on|1099344|744995}}
+|-
+|'''[[Voronezh]]'''
+|{{lang|ru|Воронеж}}
+|{{flag|Voronezh Oblast}}
+|Central
+|{{change|invert=on|1057681|889680}}
+|-
+|'''[[Perm, Russia|Perm]]'''
+|{{lang|ru|Пермь}}
+|{{flag|Perm Krai}}
+|Volga
+|{{change|invert=on|1034002|991162}}
+|-
+|'''[[Volgograd]]'''
+|{{lang|ru|Волгоград}}
+|{{flag|Volgograd Oblast}}
+|South
+|{{change|invert=on|1028036|1021215}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|'''[[Donetsk]]'''{{efn|name=The Donetsk People's Republic|[[Donetsk People's Republic|Annexed by Russia in 2022]]; recognized as a part of [[Ukraine]] by most of the international community. Census figure is from the [[Ukrainian Census (2001)|2001 Ukrainian Census]],<ref name="2001 Census">{{Cite web |date=5 December 2001 |script-title=uk:Кількість та територіальне розміщення населення України |trans-title=The number and territorial distribution of the population of Ukraine |publisher=[[State Statistics Service of Ukraine]] |format=[[RAR (file format)|RAR]] |url=http://2001.ukrcensus.gov.ua/publications/ |access-date=22 July 2025 |website=2001.ukrcensus.gov.ua |language=uk |archive-date=17 May 2015 |archive-url=https://web.archive.org/web/20150517002320/http://2001.ukrcensus.gov.ua/publications/ |url-status=live }}</ref> and a 2022 estimate is used instead of the 2021 census.<ref name="2022 estimate">{{Cite web |publisher=[[State Statistics Service of Ukraine]] |script-title=uk:Чисельність наявного населення України на 1 січня 2022 |trans-title=Number of Present Population of Ukraine, as of 1 January 2022 |url=http://db.ukrcensus.gov.ua/PXWEB2007/ukr/publ_new1/2022/zb_%D0%A1huselnist.pdf |url-status=live |archive-url=https://web.archive.org/web/20220912072600/db.ukrcensus.gov.ua/PXWEB2007/ukr/publ_new1/2022/zb_%D0%A1huselnist.pdf |archive-date=12 September 2022 |access-date=22 July 2025 |website=db.ukrcensus.gov.ua |language=uk,en}}</ref>}}
+|{{lang|ru|Донецк}}
+|{{flag|Donetsk People's Republic}}
+|South
+|{{change|invert=on|901645|1024678}}
+|-
+|'''[[Saratov]]'''
+|{{lang|ru|Саратов}} 
+|{{flag|Saratov Oblast}}
+|Volga
+|{{change|invert=on|901361|837900}}
+|-
+|'''[[Tyumen]]'''
+|{{lang|ru|Тюмень}}
+|{{flag|Tyumen Oblast}}
+|Ural
+|{{change|invert=on|847488|581907}}
+|-
+|[[Tolyatti]]
+|{{lang|ru|Тольятти}}
+|{{flagu|Samara Oblast}}
+|Volga
+|{{change|invert=on|684709|719632}}
+|-
+|'''[[Barnaul]]'''
+|{{lang|ru|Барнаул}}
+|{{flag|Altai Krai}}
+|Siberia
+|{{change|invert=on|630877|612401}}
+|-
+|'''[[Izhevsk]]'''
+|{{lang|ru|Ижевск}}
+|{{flag|Udmurtia|name=Udmurt Republic}}
+|Volga
+|{{change|invert=on|623472|627734}}
+|-
+|'''[[Makhachkala]]'''
+|{{lang|ru|Махачкала}}
+|{{flag|Dagestan|name=Republic of Dagestan}}
+|[[North Caucasian Federal District|North Caucasus]]
+|{{change|invert=on|623254|572076}}
+|-
+|'''[[Khabarovsk]]'''
+|{{lang|ru|Хабаровск}}
+|{{flag|Khabarovsk Krai}}
+|[[Far Eastern Federal District|Far East]]
+|{{change|invert=on|617441|577441}}
+|-
+|'''[[Ulyanovsk]]'''
+|{{lang|ru|Ульяновск}}
+|{{flag|Ulyanovsk Oblast}}
+|Volga
+|{{change|invert=on|617352|614786}}
+|-
+|'''[[Irkutsk]]'''
+|{{lang|ru|Иркутск}}
+|{{flag|Irkutsk Oblast}}
+|Siberia
+|{{change|invert=on|617264|587891}}
+|-
+|'''[[Vladivostok]]'''
+|{{lang|ru|Владивосток}}
+|{{flag|Primorsky Krai}}
+|Far East
+|{{change|invert=on|603519|592034}}
+|-
+|'''[[Yaroslavl]]'''
+|{{lang|ru|Ярославль}}
+|{{flag|Yaroslavl Oblast}}
+|Central
+|{{change|invert=on|577279|591486}}
+|-
+|'''[[Kemerovo]]'''
+|{{lang|ru|Кемерово}}
+|{{flag|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|557119|532981}}
+|-
+|'''[[Tomsk]]'''
+|{{lang|ru|Томск}}
+|{{flag|Tomsk Oblast}}
+|Siberia
+|{{change|invert=on|556478|524669}}
+|-
+|[[Naberezhnye Chelny]]
+|{{lang|ru|Набережные Челны}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|548434|513193}}
+|- class="static-row-numbers-norank" style="background:#ccc;"
+|'''[[Sevastopol]]'''{{efn|name=Crimea|[[Annexation of Crimea by the Russian Federation|Annexed by Russia in 2014]]; recognized as a part of [[Ukraine]] by most of the international community. Census figure is from the [[Ukrainian Census (2001)|2001 Ukrainian Census]].<ref name="2001 Census"/>}}
+|{{lang|ru|Севастополь}}
+|{{flag|Sevastopol|name=Sevastopol (federal city)}}
+|South
+|{{change|invert=on|547820|342451}}
+|-
+|'''[[Stavropol]]'''
+|{{lang|ru|Ставрополь}}
+|{{flag|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|547443|398539}}
+|-
+|'''[[Orenburg]]'''
+|{{lang|ru|Оренбург}}
+|{{flag|Orenburg Oblast}}
+|Volga
+|{{change|invert=on|543654|548331}}
+|-
+|[[Novokuznetsk]]
+|{{lang|ru|Новокузнецк}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|537480|547904}}
+|-
+|'''[[Ryazan]]'''
+|{{lang|ru|Рязань}}
+|{{flag|Ryazan Oblast}}
+|Central
+|{{change|invert=on|528599|524927}}
+|-
+|[[Balashikha]]
+|{{lang|ru|Балашиха}}
+|{{flag|Moscow Oblast}}
+|Central
+|{{change|invert=on|520962|215494}}
+|-
+|'''[[Penza]]'''
+|{{lang|ru|Пенза}}
+|{{flag|Penza Oblast}}
+|Volga
+|{{change|invert=on|501109|517311}}
+|-
+|'''[[Cheboksary]]'''
+|{{lang|ru|Чебоксары}}
+|{{flag|Chuvashia|name=Chuvash Republic}}
+|Volga
+|{{change|invert=on|497807|453721}}
+|-
+|'''[[Lipetsk]]'''
+|{{lang|ru|Липецк}}
+|{{flag|Lipetsk Oblast}}
+|Central
+|{{change|invert=on|496403|508887}}
+|-
+|'''[[Kaliningrad]]'''
+|{{lang|ru|Калининград}}
+|{{flag|Kaliningrad Oblast}}
+|Northwest
+|{{change|invert=on|490449|431902}}
+|-
+|'''[[Astrakhan]]'''
+|{{lang|ru|Астрахань}}
+|{{flag|Astrakhan Oblast}}
+|South
+|{{change|invert=on|475629|520339}}
+|-
+|'''[[Tula, Russia|Tula]]'''
+|{{lang|ru|Тула}}
+|{{flag|Tula Oblast}}
+|Central
+|{{change|invert=on|473622|501169}}
+|-
+|'''[[Kirov, Kirov Oblast|Kirov]]'''
+|{{lang|ru|Киров}}
+|{{flag|Kirov Oblast}}
+|Volga
+|{{change|invert=on|468212|473695}}
+|-
+|[[Sochi]]
+|{{lang|ru|Сочи}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|466078|343334}}
+|-
+|'''[[Kursk]]'''
+|{{lang|ru|Курск}}
+|{{flag|Kursk Oblast}}
+|Central
+|{{change|invert=on|440052|415159}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Mariupol]]{{efn|name=The Donetsk People's Republic}}
+|{{lang|ru|Мариуполь}}
+|{{flagu|Donetsk People's Republic}}
+|South
+|{{change|invert=on|425681|510835}}
+|-
+|'''[[Ulan-Ude]]'''
+|{{lang|ru|Улан-Удэ}}
+|{{flag|Buryatia|name=Republic of Buryatia}}
+|Far East
+|{{change|invert=on|437565|404426}}
+|-
+|'''[[Tver]]'''
+|{{lang|ru|Тверь}}
+|{{flag|Tver Oblast}}
+|Central
+|{{change|invert=on|416219|403606}}
+|-
+|[[Magnitogorsk]]
+|{{lang|ru|Магнитогорск}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|410594|407775}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|'''[[Lugansk]]'''{{efn|name=The Luhansk People's Republic|[[Luhansk People's Republic|Annexed by Russia in 2022]]; recognized as a part of [[Ukraine]] by most of the international community. Census figure is from the [[Ukrainian Census (2001)|2001 Ukrainian Census]],<ref name="2001 Census"/> and a 2022 estimate is used instead of the 2021 census.<ref name="2022 estimate"/>}}
+|{{lang|ru|Луганск}}
+|{{flag|Luhansk People's Republic}}
+|South
+|{{change|invert=on|425681|459294}}
+|-
+|[[Surgut]]
+|{{lang|ru|Сургут}}
+|{{flag|Khanty-Mansi Autonomous Okrug|name=Khanty-Mansi Autonomous Okrug-Yugra}}
+|Ural
+|{{change|invert=on|396443|306675}}
+|-
+|'''[[Bryansk]]'''
+|{{lang|ru|Брянск}}
+|{{flag|Bryansk Oblast}}
+|Central
+|{{change|invert=on|379152|415721}}
+|-
+|'''[[Ivanovo]]'''
+|{{lang|ru|Иваново}}
+|{{flag|Ivanovo Oblast}}
+|Central
+|{{change|invert=on|361644|408330}}
+|-
+|'''[[Yakutsk]]'''
+|{{lang|ru|Якутск}}
+|{{flag|Sakha Republic|name=Sakha (Yakutia) Republic}}
+|Far East
+|{{change|invert=on|355443|269601}}
+|-
+|'''[[Vladimir, Russia|Vladimir]]'''
+|{{lang|ru|Владимир}}
+|{{flag|Vladimir Oblast}}
+|Central
+|{{change|invert=on|349951|345373}}
+|- class="static-row-numbers-norank" style="background:#ccc;"
+|'''[[Simferopol]]'''{{efn|name=Crimea}}
+|{{lang|ru|Симферопoль}}
+|{{flag|Republic of Crimea}} 
+|South
+|{{change|invert=on|340540|343644}}
+|-
+|'''[[Belgorod]]'''
+|{{lang|ru|Белгород}}
+|{{flag|Belgorod Oblast}}
+|Central
+|{{change|invert=on|339978|356402}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Makeyevka]]{{efn|name=The Donetsk People's Republic}}
+|{{lang|ru|Макеевка}}
+|{{flagu|Donetsk People's Republic}}
+|South
+|{{change|invert=on|338968|387609}}
+|-
+|[[Nizhny Tagil]]
+|{{lang|ru|Нижний Тагил}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|338966|361811}}
+|-
+|'''[[Kaluga]]'''
+|{{lang|ru|Калуга}}
+|{{flag|Kaluga Oblast}}
+|Central
+|{{change|invert=on|337058|324698}}
+|-
+|'''[[Chita, Zabaykalsky Krai|Chita]]'''
+|{{lang|ru|Чита}}
+|{{flag|Zabaykalsky Krai}}
+|Far East
+|{{change|invert=on|334427|324444}}
+|-
+|'''[[Grozny]]'''
+|{{lang|ru|Грозный}}
+|{{flag|Chechnya|name=Chechen Republic}}
+|North Caucasus
+|{{change|invert=on|328533|271573}}
+|-
+|[[Volzhsky, Volgograd Oblast|Volzhsky]]
+|{{lang|ru|Волжский}}
+|{{flagu|Volgograd Oblast}}
+|South
+|{{change|invert=on|321479|314255}}
+|-
+|'''[[Smolensk]]'''
+|{{lang|ru|Смоленск}}
+|{{flag|Smolensk Oblast}}
+|Central
+|{{change|invert=on|316570|326861}}
+|-
+|[[Podolsk]]
+|{{lang|ru|Подольск}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|314934|187961}}
+|-
+|'''[[Saransk]]'''
+|{{lang|ru|Саранск}}
+|{{flag|Mordovia|name=Republic of Mordovia}}
+|Volga
+|{{change|invert=on|314871|297415}}
+|-
+|'''[[Vologda]]'''
+|{{lang|ru|Вологда}}
+|{{flagu|Vologda Oblast}}
+|Northwest
+|{{change|invert=on|313944|301755}}
+|-
+|'''[[Kurgan, Kurgan Oblast|Kurgan]]'''
+|{{lang|ru|Курган}}
+|{{flag|Kurgan Oblast}}
+|Ural
+|{{change|invert=on|310911|333606}}
+|-
+|[[Cherepovets]]
+|{{lang|ru|Череповец}}
+|{{flag|Vologda Oblast}}
+|Northwest
+|{{change|invert=on|305185|312310}}
+|-
+|'''[[Oryol]]'''
+|{{lang|ru|Орёл}}
+|{{flag|Oryol Oblast}}
+|Central
+|{{change|invert=on|303169|317747}}
+|-
+|'''[[Arkhangelsk]]'''
+|{{lang|ru|Архангельск}}
+|{{flag|Arkhangelsk Oblast}}
+|Northwest
+|{{change|invert=on|301199|348783}}
+|-
+|'''[[Vladikavkaz]]'''
+|{{lang|ru|Владикавказ}}
+|{{flag|North Ossetia-Alania|name=Republic of North Ossetia-Alania}}
+|North Caucasus
+|{{change|invert=on|295830|311693}}
+|-
+|[[Nizhnevartovsk]]
+|{{lang|ru|Нижневартовск}}
+|{{flagu|Khanty-Mansi Autonomous Okrug|name=Khanty-Mansi Autonomous Okrug-Yugra}}
+|Ural
+|{{change|invert=on|283256|251694}}
+|-
+|'''[[Yoshkar-Ola]]'''
+|{{lang|ru|Йошкар-Ола}}
+|{{flag|Mari El|name=Mari El Republic}}
+|Volga
+|{{change|invert=on|281248|248782}}
+|-
+|[[Sterlitamak]]
+|{{lang|ru|Стерлитамак}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|277410|273486}}
+|-
+|'''[[Murmansk]]'''
+|{{lang|ru|Мурманск}}
+|{{flag|Murmansk Oblast}}
+|Northwest
+|{{change|invert=on|270384|307257}}
+|-
+|'''[[Kostroma]]'''
+|{{lang|ru|Кострома}}
+|{{flag|Kostroma Oblast}}
+|Central
+|{{change|invert=on|267481|268742}}
+|-
+|[[Novorossiysk]]
+|{{lang|ru|Новороссийск}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|262293|241952}}
+|-
+|'''[[Tambov]]'''
+|{{lang|ru|Тамбов}}
+|{{flag|Tambov Oblast}}
+|Central
+|{{change|invert=on|261803|280161}}
+|-
+|[[Khimki]]
+|{{lang|ru|Химки}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|257128|207425}}
+|-
+|[[Mytishchi]]
+|{{lang|ru|Мытищи}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|255429|173160}}
+|-
+|'''[[Nalchik]]'''
+|{{lang|ru|Нальчик}}
+|{{flag|Kabardino-Balkaria|name=Kabardino-Balkar Republic}}
+|North Caucasus
+|{{change|invert=on|247054|240203}}
+|-
+|[[Taganrog]]
+|{{lang|ru|Таганрог}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|245120|257681}}
+|-
+|[[Nizhnekamsk]]
+|{{lang|ru|Нижнекамск}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|241479|234044}}
+|-
+|'''[[Blagoveshchensk]]'''
+|{{lang|ru|Благовещенск}}
+|{{flag|Amur Oblast}}
+|Far East
+|{{change|invert=on|241437|214390}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Gorlovka]]{{efn|name=The Donetsk People's Republic}}
+|{{lang|ru|Горловка}}
+|{{flagu|Donetsk People's Republic}}
+|South
+|{{change|invert=on|239828|289872}}
+|-
+|[[Komsomolsk-on-Amur]]
+|{{lang|ru|Комсомольск-на-Амуре}}
+|{{flagu|Khabarovsk Krai}}
+|Far East
+|{{change|invert=on|238505|263906}}
+|-
+|'''[[Petrozavodsk]]'''
+|{{lang|ru|Петрозаводск}}
+|{{flag|Karelia|name=Republic of Karelia}}
+|Northwest
+|{{change|invert=on|234897|261987}}
+|-
+|[[Korolyov, Moscow Oblast|Korolyov]]
+|{{lang|ru|Королёв}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|228095|183402}}
+|-
+|[[Shakhty]]
+|{{lang|ru|Шахты}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|226452|239987}}
+|-
+|[[Engels, Saratov Oblast|Engels]]
+|{{lang|ru|Энгельс}}
+|{{flagu|Saratov Oblast}}
+|Volga
+|{{change|invert=on|225428|202419}}
+|-
+|'''[[Veliky Novgorod]]'''
+|{{lang|ru|Великий Новгород}}
+|{{flag|Novgorod Oblast}}
+|Northwest
+|{{change|invert=on|224286|218717}}
+|-
+|[[Lyubertsy]]
+|{{lang|ru|Люберцы}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|224195|172525}}
+|-
+|[[Bratsk]]
+|{{lang|ru|Братск}}
+|{{flagu|Irkutsk Oblast}}
+|Siberia
+|{{change|invert=on|224071|246319}}
+|-
+|[[Stary Oskol]]
+|{{lang|ru|Старый Оскол}}
+|{{flagu|Belgorod Oblast}}
+|Central
+|{{change|invert=on|221676|221085}}
+|-
+|[[Angarsk]]
+|{{lang|ru|Ангарск}}
+|{{flagu|Irkutsk Oblast}}
+|Siberia
+|{{change|invert=on|221296|233567}}
+|-
+|'''[[Syktyvkar]]'''
+|{{lang|ru|Сыктывкар}}
+|{{flag|Komi Republic}}
+|Northwest
+|{{change|invert=on|220580|235006}}
+|-
+|[[Dzerzhinsk, Russia|Dzerzhinsk]]
+|{{lang|ru|Дзержинск}}
+|{{flagu|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|218630|240742}}
+|-
+|'''[[Pskov]]'''
+|{{lang|ru|Псков}}
+|{{flag|Pskov Oblast}}
+|Northwest
+|{{change|invert=on|193082|203279}}
+|-
+|[[Orsk]]
+|{{lang|ru|Орск}}
+|{{flagu|Orenburg Oblast}}
+|Volga
+|{{change|invert=on|189195|239800}}
+|-
+|[[Krasnogorsk, Moscow Oblast|Krasnogorsk]]
+|{{lang|ru|Красногорск}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|187634|116896}}
+|-
+|[[Armavir, Russia|Armavir]]
+|{{lang|ru|Армавир}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|187177|188832}}
+|-
+|'''[[Abakan]]'''
+|{{lang|ru|Абакан}}
+|{{flag|Khakassia|name=Republic of Khakassia}}
+|Siberia
+|{{change|invert=on|184769|165214}}
+|-
+|[[Balakovo]]
+|{{lang|ru|Балаково}}
+|{{flagu|Saratov Oblast}}
+|Volga
+|{{change|invert=on|184466|199690}}
+|-
+|[[Biysk]]
+|{{lang|ru|Бийск}}
+|{{flagu|Altai Krai}}
+|Siberia
+|{{change|invert=on|183852|210115}}
+|-
+|'''[[Yuzhno-Sakhalinsk]]'''
+|{{lang|ru|Южно-Сахалинск}}
+|{{flag|Sakhalin Oblast}}
+|Far East
+|{{change|invert=on|181587|181728}}
+|-
+|[[Odintsovo]]
+|{{lang|ru|Одинцово}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|180530|138930}}
+|-
+|[[Ussuriysk]]
+|{{lang|ru|Уссурийск}}
+|{{flagu|Primorsky Krai}}
+|Far East
+|{{change|invert=on|180393|158004}}
+|-
+|[[Prokopyevsk]]
+|{{lang|ru|Прокопьевск}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|177819|210130}}
+|-
+|[[Rybinsk]]
+|{{lang|ru|Рыбинск}}
+|{{flagu|Yaroslavl Oblast}}
+|Central
+|{{change|invert=on|177295|200771}}
+|-
+|[[Norilsk]]
+|{{lang|ru|Норильск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|174453|175365}}
+|-
+|[[Volgodonsk]]
+|{{lang|ru|Волгодонск}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|168048|170841}}
+|-
+|[[Syzran]]
+|{{lang|ru|Сызрань}}
+|{{flagu|Samara Oblast}}
+|Volga
+|{{change|invert=on|165725|178750}}
+|-
+|'''[[Petropavlovsk-Kamchatsky]]'''
+|{{lang|ru|Петропавловск-Камчатский}}
+|{{flag|Kamchatka Krai}}
+|Far East
+|{{change|invert=on|164900|179780}}
+|-
+|[[Kamensk-Uralsky]]
+|{{lang|ru|Каменск-Уральский}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|164192|174689}}
+|-
+|[[Novocherkassk]]
+|{{lang|ru|Новочеркасск}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|163674|168746}}
+|-
+|[[Almetyevsk]]
+|{{lang|ru|Альметьевск}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|163512|146393}}
+|-
+|[[Zlatoust]]
+|{{lang|ru|Златоуст}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|161774|174962}}
+|-
+|[[Severodvinsk]]
+|{{lang|ru|Северодвинск}}
+|{{flagu|Arkhangelsk Oblast}}
+|Northwest
+|{{change|invert=on|157213|192353}}
+|-
+|[[Khasavyurt]]
+|{{lang|ru|Хасавюрт}}
+|{{flagu|Dagestan|name=Republic of Dagestan}}
+|North Caucasus
+|{{change|invert=on|155144|131187}}
+|- class="static-row-numbers-norank" style="background:#ccc;"
+|[[Kerch]]{{efn|name=Crimea}}
+|{{lang|ru|Керчь}}
+|{{flagu|Republic of Crimea}} 
+|South
+|{{change|invert=on|154621|157007}}
+|-
+|[[Domodedovo (town)|Domodedovo]]
+|{{lang|ru|Домодедово}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|152404|96145}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|'''[[Melitopol]]'''{{efn|name=Zaporizhzhia Oblast|[[Russian occupation of Zaporizhzhia Oblast|Annexed by Russia in 2022]]; recognized as a part of [[Ukraine]] by most of the international community. Census figure is from the [[Ukrainian Census (2001)|2001 Ukrainian Census]],<ref name="2001 Census"/> and a 2022 estimate is used instead of the 2021 census.<ref name="2022 estimate"/>}}
+|{{lang|ru|Мелитополь}}
+|{{flag|Zaporozhye Oblast}}
+|South
+|{{change|invert=on|148851|160352}}
+|-
+|[[Salavat, Russia|Salavat]]
+|{{lang|ru|Салават}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|148575|156095}}
+|-
+|[[Miass]]
+|{{lang|ru|Миасс}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|147995|151751}}
+|-
+|[[Kopeysk]]
+|{{lang|ru|Копейск}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|147806|137601}}
+|-
+|[[Pyatigorsk]]
+|{{lang|ru|Пятигорск}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|146473|142511}}
+|-
+|[[Elektrostal]]
+|{{lang|ru|Электросталь}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|146403|155196}}
+|-
+|'''[[Maykop]]'''
+|{{lang|ru|Майкоп}}
+|{{flag|Adygea|name=Republic of Adygea}}
+|South
+|{{change|invert=on|143385|144249}}
+|-
+|[[Nakhodka]]
+|{{lang|ru|Находка}}
+|{{flagu|Primorsky Krai}}
+|Far East
+|{{change|invert=on|139931|159719}}
+|-
+|[[Berezniki]]
+|{{lang|ru|Березники}}
+|{{flagu|Perm Krai}}
+|Volga
+|{{change|invert=on|138069|156466}}
+|-
+|[[Kolomna]]
+|{{lang|ru|Коломна}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|134850|144589}}
+|-
+|[[Shchyolkovo]]
+|{{lang|ru|Щёлково}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|134211|110411}}
+|-
+|[[Serpukhov]]
+|{{lang|ru|Серпухов}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|133793|127041}}
+|-
+|[[Kovrov]]
+|{{lang|ru|Ковров}}
+|{{flagu|Vladimir Oblast}}
+|Central
+|{{change|invert=on|132417|145214}}
+|-
+|[[Neftekamsk]]
+|{{lang|ru|Нефтекамск}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|131942|121733}}
+|-
+|[[Kislovodsk]]
+|{{lang|ru|Кисловодск}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|127521|128553}}
+|-
+|[[Bataysk]]
+|{{lang|ru|Батайск}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|126988|111843}}
+|-
+|[[Rubtsovsk]]
+|{{lang|ru|Рубцовск}}
+|{{flagu|Altai Krai}}
+|Siberia
+|{{change|invert=on|126834|147002}}
+|-
+|[[Obninsk]]
+|{{lang|ru|Обнинск}}
+|{{flagu|Kaluga Oblast}}
+|Central
+|{{change|invert=on|125376|104739}}
+|-
+|'''[[Kyzyl]]'''
+|{{lang|ru|Кызыл}}
+|{{flag|Tuva|name=Tuva Republic}}
+|Siberia
+|{{change|invert=on|125241|109918}}
+|-
+|[[Derbent]]
+|{{lang|ru|Дербент}}
+|{{flagu|Dagestan|name=Republic of Dagestan}}
+|North Caucasus
+|{{change|invert=on|124953|119200}}
+|-
+|[[Nefteyugansk]]
+|{{lang|ru|Нефтеюганск}}
+|{{flagu|Khanty-Mansi Autonomous Okrug|name=Khanty-Mansi Autonomous Okrug-Yugra}}
+|Ural
+|{{change|invert=on|124732|122855}}
+|-
+|[[Nazran]]
+|{{lang|ru|Назрань}}
+|{{flag|Ingushetia|name=Republic of Ingushetia}}
+|North Caucasus
+|{{change|invert=on|122350|93335}}
+|-
+|[[Kaspiysk]]
+|{{lang|ru|Каспийск}}
+|{{flagu|Dagestan|name=Republic of Dagestan}}
+|North Caucasus
+|{{change|invert=on|121140|100129}}
+|-
+|[[Dolgoprudny]]
+|{{lang|ru|Долгопрудный}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|120907|90956}}
+|-
+|[[Novocheboksarsk]]
+|{{lang|ru|Новочебоксарск}}
+|{{flagu|Chuvashia|name=Chuvash Republic}}
+|Volga
+|{{change|invert=on|120375|124097}}
+|-
+|[[Novomoskovsk, Russia|Novomoskovsk]]
+|{{lang|ru|Новомосковск}}
+|{{flagu|Tula Oblast}}
+|Central
+|{{change|invert=on|119697|131386}}
+|-
+|[[Yessentuki]]
+|{{lang|ru|Ессентуки}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|119658|100996}}
+|-
+|[[Nevinnomyssk]]
+|{{lang|ru|Невинномысск}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|117562|118360}}
+|-
+|[[Oktyabrsky, Republic of Bashkortostan|Oktyabrsky]]
+|{{lang|ru|Октябрьский}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|115557|109474}}
+|-
+|[[Ramenskoye, Moscow Oblast|Ramenskoye]]
+|{{lang|ru|Раменское}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|114537|96317}}
+|-
+|[[Pervouralsk]]
+|{{lang|ru|Первоуральск}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|114450|124528}}
+|-
+|[[Mikhaylovsk, Stavropol Krai|Mikhaylovsk]]
+|{{lang|ru|Михайловск}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|114133|70981}}
+|-
+|[[Reutov]]
+|{{lang|ru|Реутов}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|113871|87314}}
+|-
+|'''[[Cherkessk]]'''
+|{{lang|ru|Черкесск}}
+|{{flag|Karachay-Cherkessia|name=Karachay-Cherkess Republic}}
+|North Caucasus
+|{{change|invert=on|113226|129069}}
+|-
+|[[Zhukovsky, Moscow Oblast|Zhukovsky]]
+|{{lang|ru|Жуковский}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|111222|104736}}
+|-
+|[[Dimitrovgrad, Russia|Dimitrovgrad]]
+|{{lang|ru|Димитровград}}
+|{{flagu|Ulyanovsk Oblast}}
+|Volga
+|{{change|invert=on|110968|122580}}
+|-
+|[[Pushkino, Pushkinsky District, Moscow Oblast|Pushkino]]
+|{{lang|ru|Пушкино}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|110868|102874}}
+|-
+|[[Artyom, Russia|Artyom]]
+|{{lang|ru|Артём}}
+|{{flagu|Primorsky Krai}}
+|Far East
+|{{change|invert=on|109556|102603}}
+|-
+|[[Kamyshin]]
+|{{lang|ru|Камышин}}
+|{{flagu|Volgograd Oblast}}
+|South
+|{{change|invert=on|107927|119565}}
+|- class="static-row-numbers-norank" style="background:#ccc;"
+|[[Yevpatoriya]]{{efn|name=Crimea}}
+|{{lang|ru|Евпатория}}
+|{{flagu|Republic of Crimea}}
+|South
+|{{change|invert=on|107877|105915}}
+|-
+|[[Murom]]
+|{{lang|ru|Муром}}
+|{{flagu|Vladimir Oblast}}
+|Central
+|{{change|invert=on|107497|116075}}
+|-
+|'''[[Khanty-Mansiysk]]'''
+|{{lang|ru|Ханты-Мансийск}}
+|{{flagu|Khanty-Mansi Autonomous Okrug|name=Khanty-Mansi Autonomous Okrug-Yugra}}
+|Ural
+|{{change|invert=on|107473|80151}}
+|-
+|[[Novy Urengoy]]
+|{{lang|ru|Новый Уренгой}}
+|{{flag|Yamalo-Nenets Autonomous Okrug}}
+|Ural
+|{{change|invert=on|107251|104107}}
+|-
+|[[Seversk]]
+|{{lang|ru|Северск}}
+|{{flagu|Tomsk Oblast}}
+|Siberia
+|{{change|invert=on|106648|108590}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Berdyansk]]{{efn|name=Zaporizhzhia Oblast}}
+|{{lang|ru|Бердянск}}
+|{{flagu|Zaporozhye Oblast}}
+|South
+|{{change|invert=on|106311|121759}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Alchevsk]]{{efn|name=The Luhansk People's Republic}}
+|{{lang|ru|Алчевск}}
+|{{flagu|Luhansk People's Republic}}
+|South
+|{{change|invert=on|106062|118611}}
+|-
+|[[Orekhovo-Zuyevo]]
+|{{lang|ru|Орехово-Зуево}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|105745|120670}}
+|-
+|[[Arzamas]]
+|{{lang|ru|Арзамас}}
+|{{flagu|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|104908|106362}}
+|-
+|[[Noginsk]]
+|{{lang|ru|Ногинск}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|103891|100072}}
+|-
+|[[Novoshakhtinsk]]
+|{{lang|ru|Новошахтинск}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|103480|111075}}
+|-
+|[[Berdsk]]
+|{{lang|ru|Бердск}}
+|{{flagu|Novosibirsk Oblast}}
+|Siberia
+|{{change|invert=on|102850|97296}}
+|-
+|'''[[Elista]]'''
+|{{lang|ru|Элиста}}
+|{{flag|Kalmykia|name=Republic of Kalmykia}}
+|South
+|{{change|invert=on|102583|103749}}
+|-
+|[[Sergiyev Posad]]
+|{{lang|ru|Сергиев Посад}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|101756|111179}}
+|-
+|[[Vidnoye, Moscow Oblast|Vidnoye]]
+|{{lang|ru|Видное}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|101490|56752}}
+|-
+|[[Achinsk]]
+|{{lang|ru|Ачинск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|100621|109155}}
+|-
+|[[Tobolsk]]
+|{{lang|ru|Тобольск}}
+|{{flagu|Tyumen Oblast}}
+|Ural
+|{{change|invert=on|100352|99694}}
+|-
+|[[Noyabrsk]]
+|{{lang|ru|Ноябрьск}}
+|{{flagu|Yamalo-Nenets Autonomous Okrug}}
+|Ural
+|{{change|invert=on|100188|110620}}
+|-
+|[[Yelets]]
+|{{lang|ru|Елец}}
+|{{flagu|Lipetsk Oblast}}
+|Central
+|{{change|invert=on|99875|108404}}
+|-
+|[[Zelenodolsk, Republic of Tatarstan|Zelenodolsk]]
+|{{lang|ru|Зеленодольск}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|99137|97674}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Severodonetsk]]{{efn|name=The Luhansk People's Republic}}
+|{{lang|ru|Северодонецк}}
+|{{flagu|Luhansk People's Republic}}
+|South
+|{{change|invert=on|99036|119940}}
+|-
+|[[Novokuybyshevsk]]
+|{{lang|ru|Новокуйбышевск}}
+|{{flagu|Samara Oblast}}
+|Volga
+|{{change|invert=on|98306|108438}}
+|-
+|[[Votkinsk]]
+|{{lang|ru|Воткинск}}
+|{{flagu|Udmurtia|name=Udmurt Republic}}
+|Volga
+|{{change|invert=on|97471|99022}}
+|-
+|[[Zheleznogorsk, Kursk Oblast|Zheleznogorsk]]
+|{{lang|ru|Железногорск}}
+|{{flagu|Kursk Oblast}}
+|Central
+|{{change|invert=on|97038|95049}}
+|-
+|[[Mezhdurechensk, Kemerovo Oblast|Mezhdurechensk]]
+|{{lang|ru|Междуреченск}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|96174|101678}}
+|-
+|[[Voskresensk, Moscow Oblast|Voskresensk]]
+|{{lang|ru|Воскресенск}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|95495|91464}}
+|-
+|[[Gatchina]]
+|{{lang|ru|Гатчина}}
+|{{flag|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|94377|92937}}
+|-
+|[[Serov (town)|Serov]]
+|{{lang|ru|Серов}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|94211|99373}}
+|-
+|[[Sarov]]
+|{{lang|ru|Саров}}
+|{{flagu|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|93357|92047}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Lisichansk]]{{efn|name=The Luhansk People's Republic}}
+|{{lang|ru|Лисичанск}}
+|{{flagu|Luhansk People's Republic}}
+|South
+|{{change|invert=on|93340|115299}}
+|-
+|[[Leninsk-Kuznetsky (city)|Leninsk-Kuznetsky]]
+|{{lang|ru|Ленинск-Кузнецкий}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|92244|101666}}
+|-
+|[[Sarapul]]
+|{{lang|ru|Сарапул}}
+|{{flagu|Udmurtia|name=Udmurt Republic}}
+|Volga
+|{{change|invert=on|91115|101381}}
+|-
+|'''[[Magadan]]'''
+|{{lang|ru|Магадан}}
+|{{flag|Magadan Oblast}}
+|Far East
+|{{change|invert=on|90757|95982}}
+|-
+|[[Michurinsk]]
+|{{lang|ru|Мичуринск}}
+|{{flagu|Tambov Oblast}}
+|Central
+|{{change|invert=on|90451|98758}}
+|-
+|[[Solikamsk]]
+|{{lang|ru|Соликамск}}
+|{{flagu|Perm Krai}}
+|Volga
+|{{change|invert=on|89473|97384}}
+|-
+|[[Murino, Leningrad Oblast|Murino]]
+|{{lang|ru|Мурино}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|89083|7949}}
+|-
+|[[Chekhov, Moscow Oblast|Chekhov]]
+|{{lang|ru|Чехов}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|89025|60720}}
+|-
+|[[Klin, Klinsky District, Moscow Oblast|Klin]]
+|{{lang|ru|Клин}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|88511|80585}}
+|-
+|[[Buzuluk, Orenburg Oblast|Buzuluk]]
+|{{lang|ru|Бузулук}}
+|{{flagu|Orenburg Oblast}}
+|Volga
+|{{change|invert=on|88341|82904}}
+|-
+|[[Glazov]]
+|{{lang|ru|Глазов}}
+|{{flagu|Udmurtia|name=Udmurt Republic}}
+|Volga
+|{{change|invert=on|87762|95854}}
+|-
+|[[Kansk]]
+|{{lang|ru|Канск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|86816|94226}}
+|-
+|[[Velikiye Luki]]
+|{{lang|ru|Великие Луки}}
+|{{flagu|Pskov Oblast}}
+|Northwest
+|{{change|invert=on|86711|98778}}
+|-
+|[[Kamensk-Shakhtinsky]]
+|{{lang|ru|Каменск-Шахтинский}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|86365|95296}}
+|-
+|[[Gubkin]]
+|{{lang|ru|Губкин}}
+|{{flagu|Belgorod Oblast}}
+|Central
+|{{change|invert=on|85225|88560}}
+|-
+|[[Kiselyovsk]]
+|{{lang|ru|Киселёвск}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|83431|98365}}
+|-
+|[[Yeysk]]
+|{{lang|ru|Ейск}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|82943|87769}}
+|-
+|[[Ivanteyevka, Moscow Oblast|Ivanteyevka]]
+|{{lang|ru|Ивантеевка}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|82827|58626}}
+|-
+|[[Lobnya]]
+|{{lang|ru|Лобня}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|82764|74252}}
+|-
+|[[Zheleznogorsk, Krasnoyarsk Krai|Zheleznogorsk]]
+|{{lang|ru|Железногорск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|82723|84795}}
+|-
+|[[Azov]]
+|{{lang|ru|Азов}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|81924|82937}}
+|-
+|[[Anapa]]
+|{{lang|ru|Анапа}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|81863|58990}}
+|-
+|[[Bugulma]]
+|{{lang|ru|Бугульма}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|81677|89204}}
+|-
+|[[Gelendzhik]]
+|{{lang|ru|Геленджик}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|80204|54980}}
+|-
+|[[Ukhta]]
+|{{lang|ru|Ухта}}
+|{{flagu|Komi Republic}}
+|Northwest
+|{{change|invert=on|79899|99591}}
+|-
+|[[Yurga]]
+|{{lang|ru|Юрга}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|79693|81533}}
+|-
+|[[Ust-Ilimsk]]
+|{{lang|ru|Усть-Илимск}}
+|{{flagu|Irkutsk Oblast}}
+|Siberia
+|{{change|invert=on|79570|86610}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Krasnyi Luch|Krasny Luch]]{{efn|name=The Luhansk People's Republic}}
+|{{lang|ru|Красный Луч}}
+|{{flagu|Luhansk People's Republic}}
+|South
+|{{change|invert=on|79533|94756}}
+|-
+|[[Vsevolozhsk]]
+|{{lang|ru|Всеволожск}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|79038|59704}}
+|-
+|[[Novouralsk]]
+|{{lang|ru|Новоуральск}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|78479|85522}}
+|-
+|[[Kuznetsk]]
+|{{lang|ru|Кузнецк}}
+|{{flagu|Penza Oblast}}
+|Volga
+|{{change|invert=on|78390|88839}}
+|-
+|[[Bor, Nizhny Novgorod Oblast|Bor]]
+|{{lang|ru|Бор}}
+|{{flagu|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|78372|78058}}
+|-
+|[[Kineshma]]
+|{{lang|ru|Кинешма}}
+|{{flagu|Ivanovo Oblast}}
+|Central
+|{{change|invert=on|77694|88164}}
+|-
+|[[Ozyorsk, Chelyabinsk Oblast|Ozyorsk]]
+|{{lang|ru|Озёрск}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|76896|82164}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Yenakiyevo]]{{efn|name=The Donetsk People's Republic}}
+|{{lang|ru|Енакиево}}
+|{{flagu|Donetsk People's Republic}}
+|South
+|{{change|invert=on|76673|104266}}
+|-
+|[[Novotroitsk]]
+|{{lang|ru|Новотроицк}}
+|{{flagu|Orenburg Oblast}}
+|Volga
+|{{change|invert=on|75960|98173}}
+|-
+|[[Kropotkin, Krasnodar Krai|Kropotkin]]
+|{{lang|ru|Кропоткин}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|75858|80765}}
+|-
+|[[Chaykovsky, Perm Krai|Chaykovsky]]
+|{{lang|ru|Чайковский}}
+|{{flagu|Perm Krai}}
+|Volga
+|{{change|invert=on|75837|82895}}
+|-
+|[[Chernogorsk]]
+|{{lang|ru|Черногорск}}
+|{{flagu|Khakassia|name=Republic of Khakassia}}
+|Siberia
+|{{change|invert=on|75745|72147}}
+|-
+|[[Usolye-Sibirskoye]]
+|{{lang|ru|Усолье-Сибирское}}
+|{{flagu|Irkutsk Oblast}}
+|Siberia
+|{{change|invert=on|74762|83327}}
+|- class="static-row-numbers-norank" style="background:#ccc;"
+|[[Yalta]]{{efn|name=Crimea}}
+|{{lang|ru|Ялта}}
+|{{flagu|Republic of Crimea}} 
+|South
+|{{change|invert=on|74652|81654}}
+|-
+|[[Dubna]]
+|{{lang|ru|Дубна}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|74183|70663}}
+|-
+|[[Balashov (town)|Balashov]]
+|{{lang|ru|Балашов}}
+|{{flagu|Saratov Oblast}}
+|Volga
+|{{change|invert=on|74057|82227}}
+|-
+|[[Yelabuga]]
+|{{lang|ru|Елабуга}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|73630|70728}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Kadiivka|Stakhanov]]{{efn|name=The Luhansk People's Republic}}
+|{{lang|ru|Стаханов}}
+|{{flagu|Luhansk People's Republic}}
+|South
+|{{change|invert=on|73248|90144}}
+|-
+|[[Novoaltaysk]]
+|{{lang|ru|Новоалтайск}}
+|{{flagu|Altai Krai}}
+|Siberia
+|{{change|invert=on|73049|70437}}
+|-
+|[[Vyborg]]
+|{{lang|ru|Выборг}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|72530|79962}}
+|-
+|[[Yegoryevsk]]
+|{{lang|ru|Егорьевск}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|71686|70081}}
+|-
+|[[Verkhnyaya Pyshma]]
+|{{lang|ru|Верхняя Пышма}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|71335|59749}}
+|-
+|[[Naro-Fominsk]]
+|{{lang|ru|Наро-Фоминск}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|71121|64665}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Bakhmut]]{{efn|name=The Donetsk People's Republic}}
+|{{lang|ru|Бахмут}}
+|{{flagu|Donetsk People's Republic}}
+|South
+|{{change|invert=on|71094|82916}}
+|-
+|[[Mineralnye Vody]]
+|{{lang|ru|Минеральные Воды}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|70485|76728}}
+|-
+|[[Troitsk, Chelyabinsk Oblast|Troitsk]]
+|{{lang|ru|Троицк}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|70301|78372}}
+|-
+|[[Chapayevsk]]
+|{{lang|ru|Чапаевск}}
+|{{flagu|Samara Oblast}}
+|Volga
+|{{change|invert=on|70228|72692}}
+|-
+|[[Minusinsk]]
+|{{lang|ru|Минусинск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|70089|71170}}
+|-
+|'''[[Birobidzhan]]'''
+|{{lang|ru|Биробиджан}}
+|{{flag|Jewish Autonomous Oblast}}
+|Far East
+|{{change|invert=on|70064|75413}}
+|-
+|[[Shadrinsk]]
+|{{lang|ru|Шадринск}}
+|{{flagu|Kurgan Oblast}}
+|Ural
+|{{change|invert=on|68609|77756}}
+|-
+|[[Belovo, Kemerovo Oblast|Belovo]]
+|{{lang|ru|Белово}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|68542|76764}}
+|-
+|[[Tuymazy]]
+|{{lang|ru|Туймазы}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|68349|66836}}
+|-
+|[[Sertolovo]]
+|{{lang|ru|Сертолово}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|68241|47457}}
+|-
+|[[Buynaksk]]
+|{{lang|ru|Буйнакск}}
+|{{flagu|Dagestan|name=Republic of Dagestan}}
+|North Caucasus
+|{{change|invert=on|68121|62623}}
+|-
+|[[Ishim, Tyumen Oblast|Ishim]]
+|{{lang|ru|Ишим}}
+|{{flagu|Tyumen Oblast}}
+|Ural
+|{{change|invert=on|67614|65243}}
+|-
+|[[Kirovo-Chepetsk]]
+|{{lang|ru|Кирово-Чепецк}}
+|{{flagu|Kirov Oblast}}
+|Volga
+|{{change|invert=on|66651|80921}}
+|-
+|[[Anzhero-Sudzhensk]]
+|{{lang|ru|Анжеро-Судженск}}
+|{{flagu|Kemerovo Oblast}}
+|Siberia
+|{{change|invert=on|66583|76646}}
+|- class="static-row-numbers-norank" style="background:#ccc;"
+|[[Feodosiya]]{{efn|name=Crimea}}
+|{{lang|ru|Феодосия}}
+|{{flagu|Republic of Crimea}} 
+|South
+|{{change|invert=on|66293|74669}}
+|-
+|[[Dmitrov]]
+|{{lang|ru|Дмитров}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|65574|61305}}
+|-
+|[[Sosnovy Bor, Leningrad Oblast|Sosnovy Bor]]
+|{{lang|ru|Сосновый Бор}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|65367|65788}}
+|-
+|'''[[Gorno-Altaysk]]'''
+|{{lang|ru|Горно-Алтайск}}
+|{{flag|Altai Republic}}
+|Siberia
+|{{change|invert=on|65342|56933}}
+|-
+|[[Lytkarino]]
+|{{lang|ru|Лыткарино}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|65212|55237}}
+|-
+|[[Pavlovsky Posad]]
+|{{lang|ru|Павловский Посад}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|65098|63711}}
+|-
+|[[Beloretsk]]
+|{{lang|ru|Белорецк}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|64525|68806}}
+|-
+|[[Stupino, Stupinsky District, Moscow Oblast|Stupino]]
+|{{lang|ru|Ступино}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|64412|66816}}
+|-
+|[[Gudermes]]
+|{{lang|ru|Гудермес}}
+|{{flagu|Chechnya|name=Chechen Republic}}
+|North Caucasus
+|{{change|invert=on|64376|45631}}
+|-
+|[[Ishimbay]]
+|{{lang|ru|Ишимбай}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|64041|66259}}
+|-
+|[[Donskoy, Tula Oblast|Donskoy]]
+|{{lang|ru|Донской}}
+|{{flagu|Tula Oblast}}
+|Central
+|{{change|invert=on|63837|64552}}
+|-
+|[[Kotelniki]]
+|{{lang|ru|Котельники}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|63728|32338}}
+|-
+|[[Kstovo]]
+|{{lang|ru|Кстово}}
+|{{flagu|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|63646|66657}}
+|-
+|[[Urus-Martan]]
+|{{lang|ru|Урус-Мартан}}
+|{{flagu|Chechnya|name=Chechen Republic}}
+|North Caucasus
+|{{change|invert=on|63449|49070}}
+|-
+|[[Georgiyevsk]]
+|{{lang|ru|Георгиевск}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|63221|72153}}
+|-
+|[[Klintsy]]
+|{{lang|ru|Клинцы}}
+|{{flagu|Bryansk Oblast}}
+|Central
+|{{change|invert=on|63059|62510}}
+|-
+|[[Nyagan]]
+|{{lang|ru|Нягань}}
+|{{flagu|Khanty-Mansi Autonomous Okrug|name=Khanty-Mansi Autonomous Okrug-Yugra}}
+|Ural
+|{{change|invert=on|63034|54890}}
+|-
+|[[Slavyansk-na-Kubani]]
+|{{lang|ru|Славянск-на-Кубани}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|62985|63842}}
+|-
+|[[Kungur]]
+|{{lang|ru|Кунгур}}
+|{{flagu|Perm Krai}}
+|Volga
+|{{change|invert=on|62673|66074}}
+|-
+|[[Sunzha]]
+|{{lang|ru|Сунжа}}
+|{{flagu|Ingushetia|name=Republic of Ingushetia}}
+|North Caucasus
+|{{change|invert=on|62078|61598}}
+|-
+|[[Tuapse]]
+|{{lang|ru|Туапсе}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|61571|63292}}
+|-
+|[[Kogalym]]
+|{{lang|ru|Когалым}}
+|{{flagu|Khanty-Mansi Autonomous Okrug|name=Khanty-Mansi Autonomous Okrug-Yugra}}
+|Ural
+|{{change|invert=on|61441|58181}}
+|-
+|[[Belogorsk, Amur Oblast|Belogorsk]]
+|{{lang|ru|Белогорск}}
+|{{flagu|Amur Oblast}}
+|Far East
+|{{change|invert=on|61440|68249}}
+|-
+|[[Leninogorsk, Russia|Leninogorsk]]
+|{{lang|ru|Лениногорск}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|60993|64127}}
+|-
+|[[Rossosh, Rossoshansky District, Voronezh Oblast|Rossosh]]
+|{{lang|ru|Россошь}}
+|{{flagu|Voronezh Oblast}}
+|Central
+|{{change|invert=on|60879|62865}}
+|-
+|[[Aleksin]]
+|{{lang|ru|Алексин}}
+|{{flagu|Tula Oblast}}
+|Central
+|{{change|invert=on|60842|61732}}
+|-
+|[[Borisoglebsk]]
+|{{lang|ru|Борисоглебск}}
+|{{flagu|Voronezh Oblast}}
+|Central
+|{{change|invert=on|60687|65585}}
+|-
+|[[Fryazino]]
+|{{lang|ru|Фрязино}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|60580|55369}}
+|-
+|[[Gukovo]]
+|{{lang|ru|Гуково}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|60361|67278}}
+|-
+|[[Revda, Sverdlovsk Oblast|Revda]]
+|{{lang|ru|Ревда}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|60200|61875}}
+|-
+|[[Prokhladny, Kabardino-Balkar Republic|Prokhladny]]
+|{{lang|ru|Прохладный}}
+|{{flagu|Kabardino-Balkaria|name=Kabardino-Balkar Republic}}
+|North Caucasus
+|{{change|invert=on|59938|59601}}
+|-
+|[[Beryozovsky, Sverdlovsk Oblast|Beryozovsky]]
+|{{lang|ru|Берёзовский}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|59698|51651}}
+|-
+|[[Belebey]]
+|{{lang|ru|Белебей}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|59195|60188}}
+|-
+|[[Chistopol]]
+|{{lang|ru|Чистополь}}
+|{{flagu|Tatarstan|name=Republic of Tatarstan}}
+|Volga
+|{{change|invert=on|58815|60755}}
+|-
+|[[Zarechny, Penza Oblast|Zarechny]]
+|{{lang|ru|Заречный}}
+|{{flagu|Penza Oblast}}
+|Volga
+|{{change|invert=on|58510|63601}}
+|-
+|[[Budyonnovsk]]
+|{{lang|ru|Будённовск}}
+|{{flagu|Stavropol Krai}}
+|North Caucasus
+|{{change|invert=on|58103|64624}}
+|-
+|[[Kumertau]]
+|{{lang|ru|Кумертау}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|57949|62851}}
+|-
+|[[Salsk]]
+|{{lang|ru|Сальск}}
+|{{flagu|Rostov Oblast}}
+|South
+|{{change|invert=on|57937|61316}}
+|-
+|[[Dzerzhinsky, Moscow Oblast|Dzerzhinsky]]
+|{{lang|ru|Дзержинский}}
+|{{flagu|Moscow Oblast}}
+|Central
+|{{change|invert=on|57918|47163}}
+|-
+|[[Labinsk]]
+|{{lang|ru|Лабинск}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|57428|62864}}
+|-
+|[[Asbest]]
+|{{lang|ru|Асбест}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|57317|68893}}
+|-
+|[[Iskitim]]
+|{{lang|ru|Искитим}}
+|{{flagu|Novosibirsk Oblast}}
+|Siberia
+|{{change|invert=on|57147|60078}}
+|-
+|[[Pavlovo, Pavlovsky District, Nizhny Novgorod Oblast|Pavlovo]]
+|{{lang|ru|Павлово}}
+|{{flagu|Nizhny Novgorod Oblast}}
+|Volga
+|{{change|invert=on|57116|60698}}
+|-
+|[[Alexandrov, Vladimir Oblast|Alexandrov]]
+|{{lang|ru|Александров}}
+|{{flagu|Vladimir Oblast}}
+|Central
+|{{change|invert=on|57053|61551}}
+|-
+|[[Vorkuta]]
+|{{lang|ru|Воркута}}
+|{{flagu|Komi Republic}}
+|Northwest
+|{{change|invert=on|56985|70548}}
+|-
+|[[Sibay]]
+|{{lang|ru|Сибай}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|56514|62763}}
+|-
+|[[Meleuz]]
+|{{lang|ru|Мелеуз}}
+|{{flagu|Bashkortostan|name=Republic of Bashkortostan}}
+|Volga
+|{{change|invert=on|56505|61390}}
+|-
+|[[Kotlas]]
+|{{lang|ru|Котлас}}
+|{{flagu|Arkhangelsk Oblast}}
+|Northwest
+|{{change|invert=on|56093|60562}}
+|-
+|[[Mikhaylovka, Volgograd Oblast|Mikhaylovka]]
+|{{lang|ru|Михайловка}}
+|{{flagu|Volgograd Oblast}}
+|South
+|{{change|invert=on|56031|59132}}
+|-
+|[[Izberbash]]
+|{{lang|ru|Избербаш}}
+|{{flagu|Dagestan|name=Republic of Dagestan}}
+|North Caucasus
+|{{change|invert=on|55996|55646}}
+|-
+|[[Krasnoturyinsk]]
+|{{lang|ru|Краснотурьинск}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|55875|59633}}
+|-
+|[[Belorechensk, Krasnodar Krai|Belorechensk]]
+|{{lang|ru|Белореченск}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|55870|53892}}
+|-
+|[[Rzhev]]
+|{{lang|ru|Ржев}}
+|{{flagu|Tver Oblast}}
+|Central
+|{{change|invert=on|55757|61982}}
+|-
+|[[Lesosibirsk]]
+|{{lang|ru|Лесосибирск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|55730|61139}}
+|-
+|[[Tikhoretsk]]
+|{{lang|ru|Тихорецк}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|55686|61823}}
+|-
+|[[Tikhvin]]
+|{{lang|ru|Тихвин}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|55415|58459}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Rubezhnoye]]{{efn|name=The Luhansk People's Republic}}
+|{{lang|ru|Рубежное}}
+|{{flagu|Luhansk People's Republic}}
+|South
+|{{change|invert=on|55247|65564}}
+|-
+|[[Shuya, Ivanovo Oblast|Shuya]]
+|{{lang|ru|Шуя}}
+|{{flagu|Ivanovo Oblast}}
+|Central
+|{{change|invert=on|55225|58486}}
+|-
+|[[Polevskoy]]
+|{{lang|ru|Полевской}}
+|{{flagu|Sverdlovsk Oblast}}
+|Ural
+|{{change|invert=on|55182|64220}}
+|-
+|[[Shchyokino (town), Tula Oblast|Shchyokino]]
+|{{lang|ru|Щёкино}}
+|{{flagu|Tula Oblast}}
+|Central
+|{{change|invert=on|55109|58139}}
+|-
+|[[Shali, Chechen Republic|Shali]]
+|{{lang|ru|Шали}}
+|{{flagu|Chechnya|name=Chechen Republic}}
+|North Caucasus
+|{{change|invert=on|55054|47708}}
+|-
+|[[Volsk]]
+|{{lang|ru|Вольск}}
+|{{flagu|Saratov Oblast}}
+|Volga
+|{{change|invert=on|55035|66508}}
+|-
+|[[Krymsk]]
+|{{lang|ru|Крымск}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|54597|57382}}
+|-
+|[[Zelenogorsk, Krasnoyarsk Krai|Zelenogorsk]]
+|{{lang|ru|Зеленогорск}}
+|{{flagu|Krasnoyarsk Krai}}
+|Siberia
+|{{change|invert=on|54279|66056}}
+|-
+|[[Liski, Voronezh Oblast|Liski]]
+|{{lang|ru|Лиски}}
+|{{flagu|Voronezh Oblast}}
+|Central
+|{{change|invert=on|54147|55864}}
+|-
+|[[Lysva]]
+|{{lang|ru|Лысьва}}
+|{{flagu|Perm Krai}}
+|Volga
+|{{change|invert=on|53855|65918}}
+|-
+|[[Neryungri]]
+|{{lang|ru|Нерюнгри}}
+|{{flagu|Sakha Republic|name=Sakha (Yakutia) Republic}}
+|Far East
+|{{change|invert=on|53409|61747}}
+|-
+|[[Volzhsk]]
+|{{lang|ru|Волжск}}
+|{{flagu|Mari El|name=Mari El Republic}}
+|Volga
+|{{change|invert=on|53013|55659}}
+|-class="static-row-numbers-norank" style="background:#ccc;"
+|[[Energodar]]{{efn|name=Zaporizhzhia Oblast}}
+|{{lang|ru|Энергодар}}
+|{{flagu|Zaporozhye Oblast}}
+|South
+|{{change|invert=on|52237|56180}}
+|-
+|[[Vyazma]]
+|{{lang|ru|Вязьма}}
+|{{flagu|Smolensk Oblast}}
+|Central
+|{{change|invert=on|51950|57101}}
+|-
+|[[Timashyovsk]]
+|{{lang|ru|Тимашёвск}}
+|{{flagu|Krasnodar Krai}}
+|South
+|{{change|invert=on|51858|53924}}
+|-
+|[[Gus-Khrustalny (town)|Gus-Khrustalny]]
+|{{lang|ru|Гусь-Хрустальный}}
+|{{flagu|Vladimir Oblast}}
+|Central
+|{{change|invert=on|51552|60784}}
+|-
+|[[Krasnokamensk, Zabaykalsky Krai|Krasnokamensk]]
+|{{lang|ru|Краснокаменск}}
+|{{flagu|Zabaykalsky Krai}}
+|Far East
+|{{change|invert=on|51137|55666}}
+|-
+|[[Kirishi]]
+|{{lang|ru|Кириши}}
+|{{flagu|Leningrad Oblast}}
+|Northwest
+|{{change|invert=on|51028|52309}}
+|-
+|[[Snezhinsk]]
+|{{lang|ru|Снежинск}}
+|{{flagu|Chelyabinsk Oblast}}
+|Ural
+|{{change|invert=on|50619|48810}}
+|-
+|[[Zhigulyovsk]]
+|{{lang|ru|Жигулёвск}}
+|{{flagu|Samara Oblast}}
+|Volga
+|{{change|invert=on|50466|55565}}
+|}
+
+==Gallery==
+{{Gallery
+|title=Largest cities of Russia
+|width=300
+|height=210
+|align=center
+|File:Moscow (52078730783).jpg|[[Moscow]], the [[capital city|capital]] of Russia, is the [[list of European cities by population within city limits|largest city]] in Europe.
+|File:Spb 06-2017 img01 Spit of Vasilievsky Island.jpg|[[Saint Petersburg]], the cultural capital of the country
+|File:Novosibirsk skyline in winter.jpg|[[Novosibirsk]], the largest city in [[Siberia]]
+|File:E-burg_asv2019-05_img46_view_from_VysotSky.jpg|[[Yekaterinburg]], the largest city in the [[Ural_(region)|Urals]]
+|File:Kazan Kremlin - panoramio (6).jpg|[[Kazan]], the largest city on the [[Volga]]
+|File:Красноярск (ночной).jpg|[[Krasnoyarsk]]
+|File:NN 01-09-2021 06.jpg|[[Nizhny Novgorod]]
+|File:Фотография Челябинска с отражением (2021).jpg|[[Chelyabinsk]]
+|File:Night in Ufa-22.jpg|[[Ufa]]
+|File:2023. Краснодар DSC 0157.jpg|[[Krasnodar]], the largest city in [[Southern Russia]]
+|File:Samara P5171857 2200.jpg|[[Samara]]
+|File:Rostov on Don panoramic.png|[[Rostov-on-Don]]
+|File:Вид на правый берег Иртыша с Ленинградского моста.jpg|[[Omsk]]
+|File:Благовещенский кафедральный собор.jpg|[[Voronezh]]
+|File:Perm asv2019-05 img50 Gorky Park.jpg|[[Perm,_Russia|Perm]]
+|File:Volgograd Russia.jpg|[[Volgograd]]
+}}
+
+==Location of most populous cities in Russia==
+{{location map+|float=left|Russia|width=1200|caption=Location of most populous cities in Russia|places=
+{{Location map~|Russia|coordinates={{coord|55|45|21|N|37|37|2|E|}}|label=[[Moscow]]|position=right|marksize=21}}
+{{Location map~|Russia|coordinates={{coord|59|56|15|N|30|18|31|E}}|label={{nowrap|[[Saint Petersburg]]}}|position=right|marksize=14}}
+{{Location map~|Russia|coordinates={{coord|55|03|00|N|82|57|00|E}}|label=[[Novosibirsk]]|position=right|marksize=8}}
+{{Location map~|Russia|coordinates={{coord|56|50|00|N|60|35|00|E}}|label=[[Yekaterinburg]]|position=right|marksize=7}}
+{{Location map~|Russia|coordinates={{coord|55|47|47|N|49|06|32|E}}|label=[[Kazan]]|position=right|marksize=7}}
+{{Location map~|Russia|coordinates={{coord|56|01|00|N|92|52|00|E}}|label=[[Krasnoyarsk]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|56|19|37|N|44|00|27|E}}|label={{nowrap|[[Nizhny Novgorod]]}}|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|55|09|17|N|61|22|33|E}}|label=[[Chelyabinsk]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|54|44|00|N|56|00|00|E}}|label=[[Ufa]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|45|02|00|N|38|59|00|E}}|label=[[Krasnodar]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|53|12|10|N|50|08|27|E}}|label=[[Samara]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|47|14|00|N|39|42|00|E}}|label={{nowrap|[[Rostov-on-Don]]}}|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|54|59|00|N|73|22|00|E}}|label=[[Omsk]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|51|40|18|N|39|12|38|E}}|label=[[Voronezh]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|58|00|00|N|56|19|00|E}}|label=[[Perm, Russia|Perm]]|position=right|marksize=6}}
+{{Location map~|Russia|coordinates={{coord|48|42|00|N|44|31|00|E}}|label=[[Volgograd]]|position=right|marksize=6}}
+}}
+
+{{clear}}
+
+==See also==
+*[[Demographics of Russia]]
+*[[List of cities and towns in Russia]], a complete list of all cities and towns in Russia
+*[[List of federal subjects of Russia by population]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.citypopulation.de/Russia-Cities.html Russian Cities of over 100,000 population at Citypopulation.de]
+*[http://tour-planet.com/articles/2/ Cities of Russia as a subject of tourist interest https://tour-planet.com]
+
+[[Category:Lists of cities by population|Russia]]
+[[Category:Lists of cities in Russia|Population]]
+[[Category:Demographics of Russia]]

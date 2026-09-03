@@ -1,0 +1,461 @@
+##############################################################################
+# Stage 3 receipts - Auerbach (1913) mountain-summit claim (AU-C11)
+# Contract: PREREGISTRATION.md §5; design frozen in results/stage3-plan.md
+# (incl. §11 pre-fitting refinements). Data: results/stage3-parse-report.txt.
+# Seeds: 20260904 (joint bootstrap, GoF), 20260915 (jitter). xi = 1/zeta, alpha = zeta + 1.
+##############################################################################
+==============================================================================
+[A0 global ultras] union of 16 Wikipedia ultra lists; membership prominence >= 1500 m; fitted variable = summit elevation
+   note: incoming row order is not descending elevation (the derived table is sorted by its membership rule); re-sorted for the rank-dependent statistics.
+   n = 1522 ; elevation 1501..8848 m (dynamic range 5.89x) ; median 3040 m
+   h_min selected 1501 m (Clauset KS minimization): n_tail = 1522, KS distance 0.2000
+   M1 power law: alpha 2.2797 -> zeta 1.2797 -> xi 0.7815
+      joint bootstrap B = 2000: xi 95% CI [0.7573, 0.8019]; one-sided 95% upper bound 0.7979
+      bootstrap alpha 95% CI [2.2471, 2.3205] (Auerbach alpha = 2); h_min median 1501 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.7794
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 85.3855, one-sided p = 1.228e-20
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 1501, n = 1522): alpha 2.2797 -> xi 0.7815
+   rank-curve OLS ln h ~ ln r: slope -0.4015 -> xi_OLS 0.4015 (classical SE 0.0045, HC1 0.0131, HC3 0.0134)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0272 ; median (h(r)-h(r+1))/h(r) = 0.00068 ; max relative drop 0.0350
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 1.000 ; < 1.01: 0.996
+      top-10 elevations: 8848 8614 8586 8485 8188 8167 8163 8125 8091 8080
+   six-model set on the identical subsample {h >= 1501}, n_tail = 1522:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1   -13467.817   26937.64   0.2000    0.0020   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1   -13161.223   26324.45   0.0915    0.0020   z +20.796 p 0  [H = 8848.86 m]
+      M4 trunc-lognormal   2   -13126.503   26257.01   0.0561    0.0020   z +18.401 p 0
+      M2 pl+exp cutoff     2   -13121.826   26247.66   0.0537    0.0020   z +19.281 p 0  [lambda = 1040 m]
+      M5 trunc-gamma       2   -13121.826   26247.66   0.0537    0.0020   z +19.281 p 0  [p(h) ~ h^(b-1) exp(-a h), a = 0.000961361 b = 3.0615]
+      M6b miskinis-dens    2   -13127.413   26258.83   0.0940    0.0020   z +25.258 p 0  [beta cancels; h_max = 8858.3 m]
+      lowest AICc: M2 pl+exp cutoff (dAICc vs M1 = -689.98)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -2.0615, lambda 1040.19  <->  M5 a 0.000961361, b 3.0615.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 1522 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 5.3292, a = 0.00147529 (scale 677.83 m), mean 3612.3 m, logLik -13254.932, KS 0.1007
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 8685.9 m, beta 0.0106075, alpha_M 1.4522 ; RMS 140.3 m ; R2(log) 0.99244 ; n = 1522
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 1501, alpha 2.2795, xi 0.7816 (shift +0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0020; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma, M6b miskinis-dens]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[A1 P>=2000] A0 restricted to prominence >= 2000 m (coverage-bias sweep; exploratory)
+   note: incoming row order is not descending elevation (the derived table is sorted by its membership rule); re-sorted for the rank-dependent statistics.
+   n = 492 ; elevation 2000..8848 m (dynamic range 4.42x) ; median 3679 m
+   h_min selected 2000 m (Clauset KS minimization): n_tail = 492, KS distance 0.1866
+   M1 power law: alpha 2.5195 -> zeta 1.5195 -> xi 0.6581
+      joint bootstrap B = 500: xi 95% CI [0.6168, 0.6891]; one-sided 95% upper bound 0.6850
+      bootstrap alpha 95% CI [2.4511, 2.6213] (Auerbach alpha = 2); h_min median 2000 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.6507
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 75.2689, one-sided p = 2.054e-18
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 2000, n = 492): alpha 2.5195 -> xi 0.6581
+   rank-curve OLS ln h ~ ln r: slope -0.3588 -> xi_OLS 0.3588 (classical SE 0.0067, HC1 0.0184, HC3 0.0192)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0272 ; median (h(r)-h(r+1))/h(r) = 0.00185 ; max relative drop 0.0350
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 1.000 ; < 1.01: 0.947
+      top-10 elevations: 8848 8614 8586 8485 8188 8167 8163 8125 8091 8080
+   six-model set on the identical subsample {h >= 2000}, n_tail = 492:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1    -4349.591    8701.19   0.1866    0.0020   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1    -4248.900    8499.81   0.0835    0.0020   z +11.405 p 0  [H = 8848.86 m]
+      M4 trunc-lognormal   2    -4252.706    8509.44   0.0506    0.0020   z +9.806 p 0
+      M2 pl+exp cutoff     2    -4250.510    8505.05   0.0470    0.0020   z +10.215 p 0  [lambda = 957.8 m]
+      M5 trunc-gamma       2    -4250.510    8505.05   0.0470    0.0020   z +10.215 p 0  [p(h) ~ h^(b-1) exp(-a h), a = 0.00104407 b = 3.8120]
+      M6b miskinis-dens    2    -4242.781    8489.59   0.0779    0.0020   z +12.660 p 0  [beta cancels; h_max = 8870.0 m]
+      lowest AICc: M6b miskinis-dens (dAICc vs M1 = -211.60)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -2.8120, lambda 957.794  <->  M5 a 0.00104407, b 3.8120.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 492 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 6.9248, a = 0.00166514 (scale 600.55 m), mean 4158.7 m, logLik -4297.342, KS 0.0934
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 8998.3 m, beta 0.0192924, alpha_M 1.4375 ; RMS 113.8 m ; R2(log) 0.99504 ; n = 492
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 2000, alpha 2.5195, xi 0.6581 (shift -0.0000)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0020; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma, M6b miskinis-dens]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[A2 P>=2500] A0 restricted to prominence >= 2500 m (coverage-bias sweep; exploratory)
+   note: incoming row order is not descending elevation (the derived table is sorted by its membership rule); re-sorted for the rank-dependent statistics.
+   n = 189 ; elevation 2520..8848 m (dynamic range 3.51x) ; median 4167 m
+   h_min selected 2520 m (Clauset KS minimization): n_tail = 189, KS distance 0.1592
+   M1 power law: alpha 2.8212 -> zeta 1.8212 -> xi 0.5491
+      joint bootstrap B = 500: xi 95% CI [0.4962, 0.5962]; one-sided 95% upper bound 0.5871
+      bootstrap alpha 95% CI [2.6774, 3.0153] (Auerbach alpha = 2); h_min median 2520 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.5459
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 56.1650, one-sided p = 3.332e-14
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 2520, n = 189): alpha 2.8212 -> xi 0.5491
+   rank-curve OLS ln h ~ ln r: slope -0.3325 -> xi_OLS 0.3325 (classical SE 0.0097, HC1 0.0241, HC3 0.0264)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0272 ; median (h(r)-h(r+1))/h(r) = 0.00419 ; max relative drop 0.0488
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 0.995 ; < 1.01: 0.787
+      top-10 elevations: 8848 8614 8586 8167 8163 8125 8091 8027 7885 7816
+   six-model set on the identical subsample {h >= 2520}, n_tail = 189:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1    -1659.723    3321.47   0.1592    0.0020   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1    -1622.613    3247.25   0.0521    0.2695   z +6.532 p 6.507e-11  [H = 8848.86 m]
+      M4 trunc-lognormal   2    -1631.905    3267.87   0.0556    0.1178   z +4.977 p 6.445e-07
+      M2 pl+exp cutoff     2    -1630.388    3264.84   0.0535    0.1597   z +5.280 p 1.294e-07  [lambda = 965.2 m]
+      M5 trunc-gamma       2    -1630.388    3264.84   0.0535    0.1597   z +5.280 p 1.294e-07  [p(h) ~ h^(b-1) exp(-a h), a = 0.00103607 b = 4.0396]
+      M6b miskinis-dens    2    -1622.501    3249.07   0.0544    0.4112   z +6.311 p 2.777e-10  [beta cancels; h_max = 8888.3 m]
+      lowest AICc: M3 trunc-pl (dAICc vs M1 = -74.22)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -3.0396, lambda 965.184  <->  M5 a 0.00103607, b 4.0396.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 189 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 8.5605, a = 0.0018483 (scale 541.04 m), mean 4631.5 m, logLik -1652.978, KS 0.0951
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 9090.4 m, beta 0.028024, alpha_M 1.3726 ; RMS 128.3 m ; R2(log) 0.99517 ; n = 189
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 2520, alpha 2.8209, xi 0.5492 (shift +0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0020; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma, M6b miskinis-dens]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[A3 P>=3000] A0 restricted to prominence >= 3000 m (coverage-bias sweep; exploratory)
+   note: incoming row order is not descending elevation (the derived table is sorted by its membership rule); re-sorted for the rank-dependent statistics.
+   n = 90 ; elevation 3011..8848 m (dynamic range 2.94x) ; median 4618 m
+   h_min selected 3011 m (Clauset KS minimization): n_tail = 90, KS distance 0.1666
+   M1 power law: alpha 3.1445 -> zeta 2.1445 -> xi 0.4663
+      joint bootstrap B = 500: xi 95% CI [0.4064, 0.5266]; one-sided 95% upper bound 0.5195
+      bootstrap alpha 95% CI [2.8989, 3.4608] (Auerbach alpha = 2); h_min median 3011 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.4631
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 41.2587, one-sided p = 6.668e-11
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 3011, n = 90): alpha 3.1445 -> xi 0.4663
+   rank-curve OLS ln h ~ ln r: slope -0.3073 -> xi_OLS 0.3073 (classical SE 0.0119, HC1 0.0270, HC3 0.0315)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0272 ; median (h(r)-h(r+1))/h(r) = 0.00750 ; max relative drop 0.0641
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 0.966 ; < 1.01: 0.596
+      top-10 elevations: 8848 8614 8586 8167 8163 8125 7816 7795 7782 7706
+   six-model set on the identical subsample {h >= 3011}, n_tail = 90:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -784.209    1570.46   0.1666    0.0020   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -767.162    1536.37   0.0706    0.3772   z +4.323 p 1.537e-05  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -773.009    1550.16   0.0661    0.3713   z +3.048 p 0.002304
+      M2 pl+exp cutoff     2     -772.315    1548.77   0.0670    0.3393   z +3.265 p 0.001093  [lambda = 873.3 m]
+      M5 trunc-gamma       2     -772.315    1548.77   0.0670    0.3393   z +3.265 p 0.001093  [p(h) ~ h^(b-1) exp(-a h), a = 0.00114508 b = 4.7829]
+      M6b miskinis-dens    2     -768.025    1540.19   0.0816    0.4451   z +3.749 p 0.0001775  [beta cancels; h_max = 8911.3 m]
+      lowest AICc: M3 trunc-pl (dAICc vs M1 = -34.09)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -3.7829, lambda 873.301  <->  M5 a 0.00114508, b 4.7829.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 90 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 10.9516, a = 0.00217832 (scale 459.07 m), mean 5027.5 m, logLik -784.237, KS 0.1108
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 9214.1 m, beta 0.0463921, alpha_M 1.4107 ; RMS 158.4 m ; R2(log) 0.99209 ; n = 90
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 3011, alpha 3.1438, xi 0.4665 (shift +0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0020; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma, M6b miskinis-dens]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[A4 P>=4000] A0 restricted to prominence >= 4000 m (coverage-bias sweep; exploratory)
+   note: incoming row order is not descending elevation (the derived table is sorted by its membership rule); re-sorted for the rank-dependent statistics.
+   n = 22 ; elevation 4095..8848 m (dynamic range 2.16x) ; median 5708 m
+   h_min selected 4095 m (Clauset KS minimization): n_tail = 22, KS distance 0.2300
+   M1 power law: alpha 3.7880 -> zeta 2.7880 -> xi 0.3587
+      joint bootstrap B = 500: xi 95% CI [0.2512, 0.4389]; one-sided 95% upper bound 0.4155
+      bootstrap alpha 95% CI [3.2783, 4.9813] (Auerbach alpha = 2); h_min median 4095 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.3415
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 16.8960, one-sided p = 1.974e-05
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 4095, n = 22): alpha 3.7880 -> xi 0.3587
+   rank-curve OLS ln h ~ ln r: slope -0.2632 -> xi_OLS 0.2632 (classical SE 0.0185, HC1 0.0308, HC3 0.0451)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0272 ; median (h(r)-h(r+1))/h(r) = 0.02669 ; max relative drop 0.1016
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 0.762 ; < 1.01: 0.143
+      top-10 elevations: 8848 8614 8125 7782 7439 6962 6267 6190 5956 5895
+   six-model set on the identical subsample {h >= 4095}, n_tail = 22:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -190.320     382.84   0.2300    0.0200   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -184.984     372.17   0.1242    0.5090   z +2.282 p 0.02247  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -187.045     378.72   0.1041    0.6966   z +1.584 p 0.1133
+      M2 pl+exp cutoff     2     -186.892     378.42   0.0991    0.7705   z +1.682 p 0.09257  [lambda = 505.7 m]
+      M5 trunc-gamma       2     -186.892     378.42   0.0991    0.7705   z +1.682 p 0.09257  [p(h) ~ h^(b-1) exp(-a h), a = 0.00197751 b = 10.7770]
+      M6b miskinis-dens    2     -178.908     362.45   0.2644    0.3114   z +1.193 p 0.2327  [beta cancels; h_max = 8848.0 m]
+      lowest AICc: M6b miskinis-dens (dAICc vs M1 = -20.39)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -9.7770, lambda 505.687  <->  M5 a 0.00197751, b 10.7770.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 22 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 20.1898, a = 0.00335939 (scale 297.67 m), mean 6010.0 m, logLik -189.218, KS 0.1234
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 9047.0 m, beta 0.0772345, alpha_M 1.3275 ; RMS 200.3 m ; R2(log) 0.97785 ; n = 22
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 4095, alpha 3.7874, xi 0.3588 (shift +0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0200; Vuong favours an alternative at p<0.05: M3 trunc-pl]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[R1 Alps] List of Alpine peaks by prominence; prominence >= 1500 m
+   n = 44 ; elevation 2082..4810 m (dynamic range 2.31x) ; median 2902 m
+   h_min selected 2082 m (Clauset KS minimization): n_tail = 44, KS distance 0.1786
+   M1 power law: alpha 3.7279 -> zeta 2.7279 -> xi 0.3666
+      joint bootstrap B = 2000: xi 95% CI [0.2680, 0.4217]; one-sided 95% upper bound 0.4099
+      bootstrap alpha 95% CI [3.3716, 4.7310] (Auerbach alpha = 2); h_min median 2082 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.3477
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 32.5694, one-sided p = 5.751e-09
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 2082, n = 44): alpha 3.7279 -> xi 0.3666
+   rank-curve OLS ln h ~ ln r: slope -0.2487 -> xi_OLS 0.2487 (classical SE 0.0128, HC1 0.0236, HC3 0.0302)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0380 ; median (h(r)-h(r+1))/h(r) = 0.01550 ; max relative drop 0.0701
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 0.953 ; < 1.01: 0.349
+      top-10 elevations: 4810 4634 4309 4274 4102 4061 4048 3905 3841 3798
+   six-model set on the identical subsample {h >= 2082}, n_tail = 44:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -352.183     706.46   0.1786    0.0240   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -351.138     704.37   0.1610    0.0379   z +2.365 p 0.01804  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -345.831     695.95   0.0825    0.6008   z +2.386 p 0.01705
+      M2 pl+exp cutoff     2     -345.545     695.38   0.0791    0.6567   z +2.471 p 0.01346  [lambda = 280.7 m]
+      M5 trunc-gamma       2     -345.545     695.38   0.0791    0.6567   z +2.471 p 0.01346  [p(h) ~ h^(b-1) exp(-a h), a = 0.00356204 b = 9.8769]
+      M6b miskinis-dens    2     -343.789     691.87   0.0796    0.9301   z +2.929 p 0.003399  [beta cancels; h_max = 4855.9 m]
+      lowest AICc: M6b miskinis-dens (dAICc vs M1 = -14.59)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -8.8769, lambda 280.738  <->  M5 a 0.00356204, b 9.8769.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 44 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 19.0046, a = 0.00616093 (scale 162.31 m), mean 3084.7 m, logLik -350.374, KS 0.1154
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 4821.5 m, beta 0.0519664, alpha_M 1.3612 ; RMS 52.2 m ; R2(log) 0.99447 ; n = 44
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 2082, alpha 3.7267, xi 0.3667 (shift +0.0002)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0240; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma, M6b miskinis-dens]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[R2 Himalayas] List of ultras of the Himalayas (incl. Sino-Nepal provinces); prominence >= 1500 m
+   n = 77 ; elevation 2981..8848 m (dynamic range 2.97x) ; median 6861 m
+   h_min selected 2981 m (Clauset KS minimization): n_tail = 77, KS distance 0.4513
+   M1 power law: alpha 2.2328 -> zeta 1.2328 -> xi 0.8112
+      joint bootstrap B = 2000: xi 95% CI [0.3664, 0.8369]; one-sided 95% upper bound 0.8302
+      bootstrap alpha 95% CI [2.1949, 3.7293] (Auerbach alpha = 2); h_min median 2981 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.7885
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 3.1484, one-sided p = 0.038
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 2981, n = 77): alpha 2.2328 -> xi 0.8112
+   rank-curve OLS ln h ~ ln r: slope -0.1426 -> xi_OLS 0.1426 (classical SE 0.0153, HC1 0.0196, HC3 0.0215)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0305 ; median (h(r)-h(r+1))/h(r) = 0.00409 ; max relative drop 0.2105
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 0.947 ; < 1.01: 0.776
+      top-10 elevations: 8848 8586 8485 8188 8167 8163 8125 8091 8027 7937
+   six-model set on the identical subsample {h >= 2981}, n_tail = 77:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -739.349    1480.75   0.4513    0.0020   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -654.708    1311.47   0.2194    0.0020   z +12.247 p 0  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -654.347    1312.86   0.1936    0.0020   z +6.345 p 2.225e-10
+      M2 pl+exp cutoff     2     -650.504    1305.17   0.1803    0.0020   z +7.092 p 1.32e-12  [lambda = 191 m]
+      M5 trunc-gamma       2     -650.504    1305.17   0.1803    0.0020   z +7.092 p 1.32e-12  [p(h) ~ h^(b-1) exp(-a h), a = 0.00523658 b = 35.6305]
+      M6b miskinis-dens    2     -662.007    1328.18   0.2603    0.0020   z +4.313 p 1.61e-05  [beta cancels; h_max = 8848.0 m]
+      lowest AICc: M5 trunc-gamma (dAICc vs M1 = -175.58)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -34.6305, lambda 190.964  <->  M5 a 0.00523658, b 35.6305.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 77 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 35.6374, a = 0.00523756 (scale 190.93 m), mean 6804.2 m, logLik -650.505, KS 0.1794
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 7863.2 m, beta 2.87969e-05, alpha_M 0.4435 ; RMS 387.0 m ; R2(log) 0.81840 ; n = 77
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 2981, alpha 2.2327, xi 0.8112 (shift +0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0020; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma, M6b miskinis-dens]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[R3 Rockies] NA-article Canadian Rockies (19) + US Rocky Mountains (17) sub-tables; prominence >= 1500 m
+   n = 36 ; elevation 2429..4401 m (dynamic range 1.81x) ; median 3527 m
+   h_min selected 2429 m (Clauset KS minimization): n_tail = 36, KS distance 0.3561
+   M1 power law: alpha 3.7015 -> zeta 2.7015 -> xi 0.3702
+      joint bootstrap B = 2000: xi 95% CI [0.1710, 0.3997]; one-sided 95% upper bound 0.3921
+      bootstrap alpha 95% CI [3.5021, 6.8473] (Auerbach alpha = 2); h_min median 2429 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.3473
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 26.2067, one-sided p = 1.534e-07
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 2429, n = 36): alpha 3.7015 -> xi 0.3702
+   rank-curve OLS ln h ~ ln r: slope -0.1376 -> xi_OLS 0.1376 (classical SE 0.0124, HC1 0.0190, HC3 0.0240)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0062 ; median (h(r)-h(r+1))/h(r) = 0.00977 ; max relative drop 0.0964
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 0.943 ; < 1.01: 0.514
+      top-10 elevations: 4401 4374 4302 4209 4199 4120 4013 3959 3879 3861
+   six-model set on the identical subsample {h >= 2429}, n_tail = 36:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -294.177     590.47   0.3561    0.0020   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -292.724     587.57   0.3194    0.0020   z +4.010 p 6.07e-05  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -272.240     548.84   0.0908    0.6347   z +4.013 p 5.994e-05
+      M2 pl+exp cutoff     2     -271.879     548.12   0.0858    0.7445   z +4.212 p 2.533e-05  [lambda = 63.32 m]
+      M5 trunc-gamma       2     -271.879     548.12   0.0858    0.7425   z +4.212 p 2.533e-05  [p(h) ~ h^(b-1) exp(-a h), a = 0.0157924 b = 55.9345]
+      M6b miskinis-dens    2     -261.207     526.78   0.2707    0.0020   z +1.702 p 0.08873  [beta cancels; h_max = 4401.2 m]
+      lowest AICc: M6b miskinis-dens (dAICc vs M1 = -63.69)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -54.9345, lambda 63.3217  <->  M5 a 0.0157924, b 55.9345.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 36 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 58.0593, a = 0.0163657 (scale 61.10 m), mean 3547.6 m, logLik -272.033, KS 0.0793
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 4386.7 m, beta 0.0153047, alpha_M 1.0684 ; RMS 107.0 m ; R2(log) 0.92308 ; n = 36
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 2429, alpha 3.7024, xi 0.3700 (shift -0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.0020; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal, M2 pl+exp cutoff, M5 trunc-gamma]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[E1 highest-by-elevation] List of highest mountains on Earth, ranked rows only (elevation-selected; the source flags 'S' rows as sub-prominences and they are excluded here)
+   n = 108 ; elevation 7200..8849 m (dynamic range 1.23x) ; median 7472 m
+   h_min selected 7200 m (Clauset KS minimization): n_tail = 108, KS distance 0.0725
+   M1 power law: alpha 20.8397 -> zeta 19.8397 -> xi 0.0504
+      joint bootstrap B = 500: xi 95% CI [0.0418, 0.0598]; one-sided 95% upper bound 0.0574
+      bootstrap alpha 95% CI [17.7255, 24.9041] (Auerbach alpha = 2); h_min median 7200 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.0501
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 440.2277, one-sided p = 4.829e-98
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 7200, n = 108): alpha 20.8397 -> xi 0.0504
+   rank-curve OLS ln h ~ ln r: slope -0.0479 -> xi_OLS 0.0479 (classical SE 0.0005, HC1 0.0012, HC3 0.0013)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0276 ; median (h(r)-h(r+1))/h(r) = 0.00083 ; max relative drop 0.0350
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 1.000 ; < 1.01: 0.981
+      top-10 elevations: 8849 8611 8586 8516 8485 8188 8167 8163 8126 8091
+   six-model set on the identical subsample {h >= 7200}, n_tail = 108:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -750.012    1502.06   0.0725    0.3713   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -747.835    1497.71   0.0529    0.7824   z +2.537 p 0.01119  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -737.235    1478.59   0.9537    1.0000   z +2.371 p 0.01776
+         (500 of 500 GoF replicates failed to refit and were skipped)
+      M2 pl+exp cutoff     2     -751.141    1506.40   0.0821    0.3832   z -0.786 p 0.432  [lambda = 98.86 m]
+      M5 trunc-gamma       2     -751.154    1506.42   0.0818    0.3872   z -0.802 p 0.4227  [p(h) ~ h^(b-1) exp(-a h), a = 0.00998746 b = 60.0000]
+      M6b miskinis-dens    2     -748.926    1501.97   0.0484    0.8383   z +0.930 p 0.3524  [beta cancels; h_max = 10290.4 m]
+      lowest AICc: M4 trunc-lognormal (dAICc vs M1 = -23.48)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -60.0000, lambda 98.8594  <->  M5 a 0.00998746, b 60.0000.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 108 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 491.1482, a = 0.0647959 (scale 15.43 m), mean 7579.9 m, logLik -783.340, KS 0.1516
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 8970.7 m, beta 0.0500781, alpha_M 3.1117 ; RMS 38.5 m ; R2(log) 0.98891 ; n = 108
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 7200, alpha 20.8141, xi 0.0505 (shift +0.0001)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.3713; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[E1b incl. sub-prominences] same list including the rows the source flags 'S' (sensitivity)
+   n = 120 ; elevation 7200..8849 m (dynamic range 1.23x) ; median 7472 m
+   h_min selected 7200 m (Clauset KS minimization): n_tail = 120, KS distance 0.0701
+   M1 power law: alpha 21.0501 -> zeta 20.0501 -> xi 0.0499
+      joint bootstrap B = 500: xi 95% CI [0.0419, 0.0583]; one-sided 95% upper bound 0.0567
+      bootstrap alpha 95% CI [18.1519, 24.8402] (Auerbach alpha = 2); h_min median 7200 m
+      bootstrap p(xi >= 1) = 0.0000 ; median xi 0.0496
+      LRT H0 alpha=2 (xi=1) vs H1 alpha>2 (xi<1): LR 491.5466, one-sided p = 3.283e-109
+      H-MR (xi < 1) significant at 95%: YES   [frozen rule: bootstrap p AND LRT p < 0.05]
+      H-MC (zeta < 1, i.e. xi > 1) significant at 95%: NO
+   forced full-support M1 (h_min = min h = 7200, n = 120): alpha 21.0501 -> xi 0.0499
+   rank-curve OLS ln h ~ ln r: slope -0.0463 -> xi_OLS 0.0463 (classical SE 0.0005, HC1 0.0010, HC3 0.0011)
+   clause descriptives ('the highest surpasses the following only a little'):
+      h(1)/h(2) = 1.0276 ; median (h(r)-h(r+1))/h(r) = 0.00077 ; max relative drop 0.0350
+      share of adjacent pairs with h(r)/h(r+1) < 1.05: 1.000 ; < 1.01: 0.983
+      top-10 elevations: 8849 8611 8586 8516 8485 8188 8167 8163 8126 8091
+   six-model set on the identical subsample {h >= 7200}, n_tail = 120:
+      model                k       logLik       AICc       KS     GoF p   Vuong vs M1 (z, p)
+      M1 pl                1     -832.017    1666.07   0.0701    0.3393   z +0.000 p 1  [analytic MLE]
+      M3 trunc-pl          1     -829.714    1661.46   0.0528    0.7246   z +2.708 p 0.006763  [H = 8848.86 m]
+      M4 trunc-lognormal   2     -818.558    1641.22   0.9583    1.0000   z +2.399 p 0.01644
+         (500 of 500 GoF replicates failed to refit and were skipped)
+      M2 pl+exp cutoff     2     -832.977    1670.06   0.0733    0.5389   z -0.648 p 0.5173  [lambda = 98.54 m]
+      M5 trunc-gamma       2     -832.998    1670.10   0.0731    0.5469   z -0.667 p 0.505  [p(h) ~ h^(b-1) exp(-a h), a = 0.0100202 b = 60.0000]
+      M6b miskinis-dens    2     -830.496    1665.09   0.0419    0.9002   z +1.136 p 0.256  [beta cancels; h_max = 10024.2 m]
+      lowest AICc: M4 trunc-lognormal (dAICc vs M1 = -24.85)
+      identity (deviation D10): on [h_min, inf) M2 and M5 are the SAME two-parameter
+         family — h^(-alpha) exp(-h/lambda) == h^(b-1) exp(-a h) at b = 1-alpha,
+         a = 1/lambda. Fitted: M2 alpha -60.0000, lambda 98.5391  <->  M5 a 0.0100202, b 60.0000.
+         Their logLik/AICc/KS rows therefore coincide; both are kept because prereg
+         §5.2 names them separately.
+      M5-full — the JAMP 2023 object itself: gamma p(h) ~ h^(b-1) exp(-a h) on (0, inf),
+         fitted to ALL n = 120 elevations with no h_min truncation (descriptor only;
+         different sample, so outside the Vuong/AICc set):
+         shape b = 522.2475, a = 0.0689394 (scale 14.51 m), mean 7575.5 m, logLik -866.628, KS 0.1426
+   M6a Miskinis native rank fit h(i) = hmax*exp(-beta*(i-1)^(1/alpha_M)):
+      hmax 8966.7 m, beta 0.0506473, alpha_M 3.2248 ; RMS 35.6 m ; R2(log) 0.99013 ; n = 120
+   rounding robustness (+/-0.5 m jitter, seed 20260915): h_min 7200, alpha 21.0390, xi 0.0499 (shift +0.0000)
+   H-MB (a bounded/cutoff family wins): YES  [M1 GoF p = 0.3393; Vuong favours an alternative at p<0.05: M3 trunc-pl, M4 trunc-lognormal]
+   prereg §7 lane for this arm: bounded family wins (H-MB)
+==============================================================================
+[H-MR family] the four primary arms; Holm-Bonferroni at family alpha = 0.05 (plan §7).
+   The prominence sweep (A1-A4) and the elevation arms (E1/E1b) are exploratory and
+   excluded from the family, reported uncorrected.
+   arm        xi          xi 95% CI    p(boot)     p(LRT)    Holm adj  H-MR
+   A0     0.7815 [ 0.7573,  0.8019]          0  1.228e-20           0  supported
+   R1     0.3666 [ 0.2680,  0.4217]          0  5.751e-09           0  supported
+   R2     0.8112 [ 0.3664,  0.8369]          0      0.038           0  supported
+   R3     0.3702 [ 0.1710,  0.3997]          0  1.534e-07           0  supported
+==============================================================================
+[P5 inputs] 'a pure full-support power law is rejected everywhere it is attempted;
+   above selected cutoffs xi < 1 in at least the global ultra list; a bounded/cutoff
+   family is indistinguishable from or favored over the pure power law in most arms'.
+   A0   xi(selected) 0.7815  GoF p(M1) 0.0020  xi(full support) 0.7815  best AICc M2 pl+exp cutoff    dAICc -689.98
+   A1   xi(selected) 0.6581  GoF p(M1) 0.0020  xi(full support) 0.6581  best AICc M6b miskinis-dens   dAICc -211.60
+   A2   xi(selected) 0.5491  GoF p(M1) 0.0020  xi(full support) 0.5491  best AICc M3 trunc-pl         dAICc -74.22
+   A3   xi(selected) 0.4663  GoF p(M1) 0.0020  xi(full support) 0.4663  best AICc M3 trunc-pl         dAICc -34.09
+   A4   xi(selected) 0.3587  GoF p(M1) 0.0200  xi(full support) 0.3587  best AICc M6b miskinis-dens   dAICc -20.39
+   R1   xi(selected) 0.3666  GoF p(M1) 0.0240  xi(full support) 0.3666  best AICc M6b miskinis-dens   dAICc -14.59
+   R2   xi(selected) 0.8112  GoF p(M1) 0.0020  xi(full support) 0.8112  best AICc M5 trunc-gamma      dAICc -175.58
+   R3   xi(selected) 0.3702  GoF p(M1) 0.0020  xi(full support) 0.3702  best AICc M6b miskinis-dens   dAICc -63.69
+   E1   xi(selected) 0.0504  GoF p(M1) 0.3713  xi(full support) 0.0504  best AICc M4 trunc-lognormal  dAICc -23.48
+   E1b  xi(selected) 0.0499  GoF p(M1) 0.3393  xi(full support) 0.0499  best AICc M4 trunc-lognormal  dAICc -24.85
+[P6 inputs] 'the Miskinis stretched-exponential rank curve fits regional lists at
+   least as well as any power law - his exponential-not-power conclusion replicates'.
+   A0   M6a R2(log) 0.99244 RMS   140.3 m hmax  8685.9 | M6b AICc  26258.83 vs M1  26937.64 (dAICc  -678.80), Vuong z +25.258 p 0
+   R1   M6a R2(log) 0.99447 RMS    52.2 m hmax  4821.5 | M6b AICc    691.87 vs M1    706.46 (dAICc   -14.59), Vuong z +2.929 p 0.003399
+   R2   M6a R2(log) 0.81840 RMS   387.0 m hmax  7863.2 | M6b AICc   1328.18 vs M1   1480.75 (dAICc  -152.58), Vuong z +4.313 p 1.61e-05
+   R3   M6a R2(log) 0.92308 RMS   107.0 m hmax  4386.7 | M6b AICc    526.78 vs M1    590.47 (dAICc   -63.69), Vuong z +1.702 p 0.08873
+   E1   M6a R2(log) 0.98891 RMS    38.5 m hmax  8970.7 | M6b AICc   1501.97 vs M1   1502.06 (dAICc    -0.09), Vuong z +0.930 p 0.3524
+==============================================================================
+[lanes] prereg §7 verdict lane per arm (frozen priority in plan §7):
+   A0   bounded family wins (H-MB)
+   A1   bounded family wins (H-MB)
+   A2   bounded family wins (H-MB)
+   A3   bounded family wins (H-MB)
+   A4   bounded family wins (H-MB)
+   R1   bounded family wins (H-MB)
+   R2   bounded family wins (H-MB)
+   R3   bounded family wins (H-MB)
+   E1   bounded family wins (H-MB)
+   E1b  bounded family wins (H-MB)
+[cross-range xi ordering] (AU-C13 probe; descriptive only, mechanism stays speculative):
+   R1 xi=0.3666  <  R3 xi=0.3702  <  A0 xi=0.7815  <  R2 xi=0.8112
+[bias reminder] plan §4: remote-range undercoverage and climbed-peak overrepresentation
+   both bias xi DOWNWARD, i.e. toward the H-MR reading; a significant H-MR is partly
+   confounded in the direction of the hypothesis. Raising the prominence cutoff is
+   expected to push xi down and widen its CI under the same bias.

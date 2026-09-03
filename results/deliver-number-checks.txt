@@ -1,0 +1,132 @@
+==============================================================================
+DELIVER-STAGE NUMBER CHECKS - Auerbach (1913) cities + mountains
+sources: results/step0-derivation-checks.txt, results/stage1-recompute.txt,
+         results/stage2-recompute.txt, results/stage3-recompute.txt,
+         results/stage3-parse-report.txt, data/derived/*.csv
+Stage 4 refits nothing: fitted quantities are read from the frozen receipts;
+deterministic quantities are recomputed from the manifested derived CSVs.
+notation (prereg §1): xi = 1/zeta, alpha = zeta + 1; Auerbach <=> xi = 1 <=> alpha = 2
+==============================================================================
+CLAIM C1 band 45..53 over ranks 15..94 -> |1-xi| <= ln(53/45)/ln(94/15) = 0.089159 -> xi in [0.911, 1.089]  recomputed; receipts D1  [in REPORT.md]
+CLAIM C1a band bound vs receipts D1 recomputed 0.089159 vs receipts 0.089159 -> AGREE
+CLAIM C2 Ciccone Fig.4 -1.15 (robust SE 0.03) as a xi estimate -> 95% CI [1.0912, 1.2088]; band-implied upper bound 1.0892 -> CI lower edge exceeds it  recomputed; receipts D1b  [in REPORT.md]
+CLAIM C3 scan 47.8/0.645 = 74.109 -> 74 (Auerbach prints 74); translation slip 47.2/0.645 = 73.178 -> 73  recomputed; receipts D2  [in REPORT.md]
+CLAIM C4 AU-C12 'four times as many half-millionaires as millionaires' -> beta = ln4/ln2 = 2.0 (Pareto ccdf exponent 2)  recomputed; receipts D4; parked  [in REPORT.md]
+CLAIM C5 Saibante 17-country alpha_S range 0.82..1.68 -> xi = 1/alpha_S range 0.595..1.220 (CSV xi_implied 0.595..1.220)  recomputed from saibante-1928-alpha.csv; receipts D6  [in REPORT.md]
+CLAIM C6 AU-C8 deltas 1895->1910: density 23.3% (printed 23), A.K. 72.5% (printed 72), Sp.K. 40.0% (printed 40)  recomputed; receipts D7  [in REPORT.md]
+CLAIM C7 AU-C9 1910 definition effect: Sp.K. 77 admin / 74 topographic - 1 = 4.05%; A.K. side 49.5/47.8 - 1 = 3.56%  recomputed; receipts D8  [in REPORT.md]
+
+-- Stage 1: Table 1 recomputed from data/derived/auerbach-1913-table1.csv --
+CLAIM C8 Table 1 rows = 94 (contract: 94); rank 1 = Berlin  recomputed from CSV  [in REPORT.md]
+CLAIM C9 AU-C1 band over ranks 15..94 (printed A.K.): min 45 max 53; exact products: min 45.12 max 53.10  recomputed from CSV  [in REPORT.md]
+CLAIM C10 ranks 1..14 printed A.K. range 19..46 (CLAIM_INVENTORY AU-C2 parenthetical, corrected 2026-09-02)  recomputed from CSV  [in REPORT.md]
+CLAIM C11 AU-C1 means: printed all-94 47.8723, exact all-94 47.7540, printed tail(15..94) 50.0250, exact tail 49.8870 -> the printed 47,8 is an ALL-94 statistic  recomputed from CSV  [in REPORT.md]
+CLAIM C12 Tafel 14 Abb.1: sum of printed A.K. = 4500 over 94 -> 47.8723; Tafel numerator 4503 -> 47.9043 (the internally inconsistent member)  recomputed from CSV  [in REPORT.md]
+CLAIM C13 AU-C2 stabilization rank under Amendment 1 (band containment, printed A.K. inside 45..53 for every rank >= r0): r0 = 15  recomputed from CSV  [in REPORT.md]
+CLAIM C13a deleted prereg §3.3 +/-2% tail-mean rule returned r0 = 92 (degenerate; superseded by Amendment 1)  receipts stage1  [in REPORT.md]
+CLAIM C14 AU-C4 Sp.K. Germany = 47.8/0.645 = 74.1085 -> printed 74 ('abgerundet')  recomputed  [in REPORT.md]
+CLAIM C15 AU-C5 twelve-state Sp.K. ordering as printed: Niederlande 91 > Großbritannien 87 > Belgien 82 > Schweiz 75 > Deutsches Reich 74 > Vereinigte Staaten 57 > Italien 47 > Frankreich 44 > Spanien 43 > Österreich-Ungarn 32 > Europäisches Rußland 19 > Britisch-Indien 11  recomputed from CSV  [in REPORT.md]
+CLAIM C15a AU-C5 implied populations (A.K./Sp.K.*100, Mill.): Deutsches Reich 64.59, Vereinigte Staaten 92.98, Großbritannien 45.29, Britisch-Indien 327.27  recomputed from CSV  [in REPORT.md]
+CLAIM C16 AU-C6 Prussian provinces Sp.K.: Rheinland 152, Westfalen 124, Schlesien 88, Hannover 83, Ostpreußen 54, Posen 44 (Posen below Ostpreußen as printed)  recomputed from CSV  [in REPORT.md]
+CLAIM C17 AU-C7 Europe complex: A.K. 169 over 334 places >= 50,000; 169/4.32 = 39.1204 -> printed 39  recomputed  [in REPORT.md]
+CLAIM C18 all 94 ranks: alpha 2.0203 -> xi 0.9801, bootstrap 95% CI [0.7787, 1.1851]  receipts stage1  [in REPORT.md]
+CLAIM C19 all 94: Ciccone-recipe OLS xi 0.8553 (SE 0.0118, HC1 0.0559, HC3 0.0291); Gabaix-Ibragimov rank-1/2 xi 0  receipts stage1  [in REPORT.md]
+CLAIM C20 ranks >= 15 (upper-truncated zeta, s_max 306): xi 1.4383 CI [0.8397, 3.1155]; OLS on the window 0.9767  receipts stage1; deviation 2  [in REPORT.md]
+CLAIM C21 EXT-C1 adjudication: inverse spec slope -1.1489 (HC3 0.0328) -> implied xi 0.8704; direct-spec HC3 0.0291 -- Ciccone's robust SE 0.03 matches HC3 on EITHER spec  receipts stage1; audit 2026-09-02 F3  [in REPORT.md]
+CLAIM C21a log-log correlation r = -0.9913 (r^2 0.9827)  receipts stage1  [in REPORT.md]
+CLAIM C22 P7 Monte Carlo (n=94, 2000 reps): MLE bias -0.0044 rmse 0.1007 coverage 0.943; rank-size OLS bias +0.0588 rmse 0.1537 coverage classical 0.158 / HC0 0.636 / HC1 0.640 / HC3 0.420  receipts stage1; audit 2026-09-02 F1  [in REPORT.md]
+
+-- Stage 2: modern cities recomputed from data/derived/modern-*.csv --
+CLAIM C23 DE admin (true 2025 cross-section): n = 131, national pop 83577140  recomputed from CSV; audit 2026-09-02-stage2 F1  [in REPORT.md]
+CLAIM C24 DE admin A.K. band over ranks 15..131: 57.4..87.2 (1910: 45..53); over all ranks 36.9..87.2  recomputed from CSV  [in REPORT.md]
+CLAIM C24a DE admin band min (ranks 15..) recomputed 57.4 vs receipts 57.4 -> AGREE
+CLAIM C24b DE admin band max (ranks 15..) recomputed 87.2 vs receipts 87.2 -> AGREE
+CLAIM C25 DE admin A.K. mean all ranks 75.87 | tail(15..) 78.85; Sp.K. 90.8 (1910: 74 topographic / 77 admin)  recomputed from CSV  [in REPORT.md]
+CLAIM C25a DE admin Sp.K. recomputed 90.8 vs receipts 90.8 -> AGREE
+CLAIM C25b DE admin A.K. mean all ranks recomputed 75.87 vs receipts 75.87 -> AGREE
+CLAIM C25c DE admin primacy-excluded Sp.K. 92.7 (prereg §4.5 sensitivity)  receipts stage2  [in REPORT.md]
+CLAIM C26 DE FUA (topographic arm): n = 89; band ranks 15..89 71.1..158.4; A.K. mean 130.53; Sp.K. 156.2  recomputed from CSV  [in REPORT.md]
+CLAIM C26a DE FUA Sp.K. recomputed 156.2 vs receipts 156.2 -> AGREE
+CLAIM C27 AU-C9 modern / P4 definition effect: Sp.K. FUA/admin - 1 = +72.04% vs Auerbach 1910 4.05%  recomputed from CSV  [in REPORT.md]
+CLAIM C27a definition effect (%%) recomputed 72.04 vs receipts 72.04 -> AGREE
+CLAIM C28 DE admin exact-count zeta MLE: alpha 1.9261 -> xi 1.0798, CI [0.887, 1.219]; OLS xi 0.8397 (HC3 0.0157)  receipts stage2  [in REPORT.md]
+CLAIM C29 twelve-country modern table at the common 100 k threshold: n = AT 6, BE 10, CH 7, DE 84, ES 61, FR 48, HU 8, IN 339, IT 46, NL 31, RU 168, UK 119, US 350  recomputed from CSV  [in REPORT.md]
+CLAIM C29at Sp.K. AT recomputed 94.2 vs receipts 94.2 -> AGREE
+CLAIM C29in Sp.K. IN recomputed 34.0 vs receipts 34.0 -> AGREE
+CLAIM C29nl Sp.K. NL recomputed 147.7 vs receipts 147.7 -> AGREE
+CLAIM C29ru Sp.K. RU recomputed 117.9 vs receipts 117.9 -> AGREE
+CLAIM C29uk Sp.K. UK recomputed 153.2 vs receipts 153.2 -> AGREE
+CLAIM C29us Sp.K. US recomputed 77.6 vs receipts 77.6 -> AGREE
+CLAIM C29de Sp.K. DE recomputed 88.5 vs receipts 88.5 -> AGREE
+CLAIM C30 modern Sp.K. ordering (recomputed): UK > NL > RU > ES > CH > AT > BE > DE > HU > US > IT > FR > IN  recomputed from CSV  [in REPORT.md]
+CLAIM C31 AU-C5 modern / P3 Kendall tau (recomputed from the CSVs, tau_a): primary(9 1:1 complexes) +0.5556 (C28/D8); tau1(11) +0.6364 (C45/D10) = the nine + AT+HU pooled (Sp.K. 74.8) as the Austria-Hungary successor + IN as the PARTIAL Britisch-Indien successor; tau2(12) +0.4545 (C48/D18) = tau1 + RU as the European-Russia successor  recomputed from CSVs  [in REPORT.md]
+CLAIM C31a tau primary(9) recomputed 0.5556 vs receipts 0.5556 -> AGREE
+CLAIM C31b tau1(11) recomputed 0.6364 vs receipts 0.6364 -> AGREE
+CLAIM C31c tau2(12) recomputed 0.4545 vs receipts 0.4545 -> AGREE
+CLAIM C32 P3 permutation nulls (10 000 reps): primary seed 20260902 mean -0.004 sd 0.265 two-sided p 0.0436; sensitivity-arm seed 20260903 same-stream primary p 0.0439, tau1 p 0.0058, tau2 p 0.0423  receipts stage2 + source seeds  [in REPORT.md]
+CLAIM C33 primacy sensitivity (prereg §4.5), largest swings: UK 153.2 -> 173.0; AT 94.2 -> 63.0; RU 117.9 -> 126.9; IN primacy-insensitive at n = 339  recomputed + receipts stage2  [in REPORT.md]
+CLAIM C34 source-count deviations: US 350 rows against the article's stated 348 (audit F5: the article's count is stale); India prose claims 496 cities >= 100 000, tables list 339  recomputed from CSV + receipts  [in REPORT.md]
+
+-- Stage 3: mountains, read from results/stage3-recompute.txt (corrected 2026-09-03) --
+CLAIM C35 A0 union: parsed distinct summits 1522 (CSV rows 1522) vs index-stated world total 1516 -> delta +6, inside the pre-frozen tolerance [1490, 1540]; 68 duplicate rows merged  recomputed from CSV + parse report  [in REPORT.md]
+CLAIM C35r1 R1 arm row count (mountains-alps.csv) recomputed 44 vs receipts 44 -> AGREE
+CLAIM C35r2 R2 arm row count (mountains-himalayas.csv) recomputed 77 vs receipts 77 -> AGREE
+CLAIM C35r3 R3 arm row count (mountains-rockies.csv) recomputed 36 vs receipts 36 -> AGREE
+CLAIM C36 A1 membership n at prominence >= 2000 recomputed 492 vs receipts 492 -> AGREE
+CLAIM C37 A2 membership n at prominence >= 2500 recomputed 189 vs receipts 189 -> AGREE
+CLAIM C38 A3 membership n at prominence >= 3000 recomputed 90 vs receipts 90 -> AGREE
+CLAIM C39 A4 membership n at prominence >= 4000 recomputed 22 vs receipts 22 -> AGREE
+CLAIM C40 prominence-sweep arm sizes recomputed from mountains-global-ultras.csv: A0 1522, A1 492, A2 189, A3 90, A4 22  recomputed from CSV  [in REPORT.md]
+CLAIM C41 elevation arms: source list 120 rows; E1 = the 108 rows the source ranks as summits (subprominence flag False); E1b = all 120 rows including the 12 the source flags 'S'  recomputed from CSV; audit F5 -> no §7 lane  [in REPORT.md]
+CLAIM C41a E1 arm size (source-ranked rows) recomputed 108 vs receipts 108 -> AGREE
+CLAIM C41b E1b arm size (all rows) recomputed 120 vs receipts 120 -> AGREE
+CLAIM C42-A0 n 1522, elevation 1501..8848 (5.89x), h_min 2634 (n_tail 989, KS 0.0808), alpha 3.1750 -> xi 0.4598, joint-boot 95% CI [0.1164, 0.5218], one-sided upper 0.5154, GoF p(M1) 0.0020, forced full-support xi 0.7815, best AICc M6b miskinis-dens (-241.15), lane: bounded family wins (H-MB)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-A1 n 492, elevation 2000..8848 (4.42x), h_min 3298 (n_tail 296, KS 0.0975), alpha 3.4880 -> xi 0.4019, joint-boot 95% CI [0.3231, 0.5050], one-sided upper 0.4872, GoF p(M1) 0.0020, forced full-support xi 0.6581, best AICc M3 trunc-pl (-91.06), lane: bounded family wins (H-MB)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-A2 n 189, elevation 2520..8848 (3.51x), h_min 3445 (n_tail 137, KS 0.0960), alpha 3.5952 -> xi 0.3853, joint-boot 95% CI [0.0590, 0.4999], one-sided upper 0.4808, GoF p(M1) 0.0359, forced full-support xi 0.5491, best AICc M3 trunc-pl (-42.59), lane: bounded family wins (H-MB)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-A3 n 90, elevation 3011..8848 (2.94x), h_min 3666 (n_tail 74, KS 0.1176), alpha 3.8310 -> xi 0.3532, joint-boot 95% CI [0.1959, 0.4715], one-sided upper 0.4571, GoF p(M1) 0.0838, forced full-support xi 0.4663, best AICc M3 trunc-pl (-21.54), lane: bounded family wins (H-MB)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-A4 n 22, elevation 4095..8848 (2.16x), h_min 5445 (n_tail 15, KS 0.1391), alpha 6.2519 -> xi 0.1904, joint-boot 95% CI [0.1126, 0.3678], one-sided upper 0.3508, GoF p(M1) 0.7665, forced full-support xi 0.3587, best AICc M6b miskinis-dens (-25.47), lane: M-rank supported  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-R1 n 44, elevation 2082..4810 (2.31x), h_min 2336 (n_tail 40, KS 0.1365), alpha 4.5232 -> xi 0.2838, joint-boot 95% CI [0.1518, 0.3878], one-sided upper 0.3715, GoF p(M1) 0.1816, forced full-support xi 0.3666, best AICc M6b miskinis-dens (-6.47), lane: M-rank supported  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-R2 n 77, elevation 2981..8848 (2.97x), h_min 6495 (n_tail 59, KS 0.1359), alpha 10.3546 -> xi 0.1069, joint-boot 95% CI [0.0470, 0.1176], one-sided upper 0.1145, GoF p(M1) 0.0519, forced full-support xi 0.8112, best AICc M4 trunc-lognormal (-45.32), lane: bounded family wins (H-MB)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-R3 n 36, elevation 2429..4401 (1.81x), h_min 3316 (n_tail 27, KS 0.1028), alpha 9.6608 -> xi 0.1155, joint-boot 95% CI [0.0713, 0.1755], one-sided upper 0.1611, GoF p(M1) 0.8104, forced full-support xi 0.3702, best AICc M4 trunc-lognormal (-9.81), lane: M-rank supported  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-E1 n 108, elevation 7200..8849 (1.23x), h_min 7349 (n_tail 77, KS 0.0717), alpha 22.2313 -> xi 0.0471, joint-boot 95% CI [0.0306, 0.0575], one-sided upper 0.0558, GoF p(M1) 0.6367, forced full-support xi 0.0504, best AICc M3 trunc-pl (-3.67), lane: uninformative (elevation-selected window; no §7 lane assigned — audit F5)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C42-E1b n 120, elevation 7200..8849 (1.23x), h_min 7281 (n_tail 100, KS 0.0567), alpha 21.9118 -> xi 0.0478, joint-boot 95% CI [0.0291, 0.0557], one-sided upper 0.0543, GoF p(M1) 0.7465, forced full-support xi 0.0499, best AICc M4 trunc-lognormal (-15.18), lane: uninformative (elevation-selected window; no §7 lane assigned — audit F5)  receipts stage3 (corrected)  [in REPORT.md]
+CLAIM C43 AU-C11 primary arm A0: xi 0.4598, CI [0.1164, 0.5218], h_min 2634 m (n_tail 989), GoF p 0.0020, best AICc M6b miskinis-dens (delta -241.15) -> lane 'bounded family wins (H-MB)'  receipts stage3; the report's headline  [in REPORT.md]
+CLAIM C44 lanes: H-MB in A0/A1/A2/A3/R2; M-rank supported in A4/R1/R3; uninformative (no §7 lane) in E1/E1b  receipts stage3 lanes block  [in REPORT.md]
+CLAIM C44a lanes block vs per-arm lane lines: 10/10 identical
+CLAIM C45 H-MR family (Holm-Bonferroni over per-arm max(p_boot, p_LRT), family alpha 0.05): A0 xi 0.4598 Holm-adj 1.45e-103 -> supported; R1 xi 0.2838 Holm-adj 2.168e-11 -> supported; R2 xi 0.1069 Holm-adj 3.709e-36 -> supported; R3 xi 0.1155 Holm-adj 1.084e-16 -> supported  receipts stage3; audit F2  [in REPORT.md]
+CLAIM C45a Holm re-derived from the arm blocks (input max(p_boot,p_LRT), multipliers 4..1, running max, capped at 1): 4/4 adjusted p-values reproduce the receipts
+CLAIM C46 H-MR significant in 4/4 primary arms; H-MC (xi > 1) supported in 0/10 arms; bootstrap p(xi>=1) = 0.0000 in all four primary arms  receipts stage3  [in REPORT.md]
+CLAIM C47 pre-registered bias rail (prereg §5.4 / plan §4): xi over the prominence sweep 0.4598 -> 0.4019 -> 0.3853 -> 0.3532 -> 0.1904 -> monotonically decreasing: True  receipts stage3; direction frozen pre-fit  [in REPORT.md]
+CLAIM C48 P5 limb (i): forced full-support fits, xi 0.7815/0.6581/0.5491/0.4663/0.3587/0.3666/0.8112/0.3702; selected-cutoff GoF p(M1) 0.0020/0.0020/0.0359/0.0838/0.7665/0.1816/0.0519/0.8104  receipts stage3  [in REPORT.md]
+CLAIM C48a P5 summary block vs per-arm blocks: 10/10 identical
+CLAIM C49 deviation D10 (M2 == M5 on [h_min, inf)): logLik/AICc/KS identical in 8/10 arms; the algebraic identity b = 1-alpha, a = 1/lambda reproduces from the fitted parameters in 8/8 testable arms. The refitted-bootstrap GoF p still differs between the two rows on R2/R3 (independent Monte-Carlo draws per model row, not a likelihood difference), and on E1/E1b the logLik itself differs because both parameters sit ON the imposed guards (alpha -60.0, b 60.0) -- which independently corroborates D11. The set is effectively five distinct families  recomputed from the receipts' own model rows  [in REPORT.md]
+CORRECTION-RECORD C49n results/stage3-summary.md previously said the M2/M5 rows 'coincide exactly in every arm'. Literally they do not: logLik/AICc/KS coincide in 8/10, the GoF p column differs on R2 (0.5170 vs 0.5250) and R3 (0.5968 vs 0.5988) because each model row draws its own refitted bootstrap, and on the guard-saturated E1/E1b the logLik differs by <= 0.017. The substance of D10 is unaffected -- M2 and M5 are the same family, so they are one model, not two independent wins. The user-approved correction was applied by Kimi #996 on 2026-09-03.
+CLAIM C50 M4 (truncated lognormal) is unbounded above, so per the frozen rule it never counts toward H-MB; it is nonetheless best-AICc on R2/R3/E1b, where its printed GoF p = 1.0000 is the D11 artifact (500/500 bootstrap replicates failed to refit)  receipts stage3; frozen rule + audit catch  [in REPORT.md]
+CLAIM C51 A0 cutoff-PL fitted alpha -1.2386 with lambda 1256.6 m (negative alpha -> the exp(-h/lambda) factor does the work); M5-full gamma on all n = 1522: shape 5.3292, a 0.00147529, mean 3612.3 m, KS 0.1007  receipts stage3  [in REPORT.md]
+CLAIM C52 P6 Miskinis: M6a rank-space R2(log) A0 0.99244 / R1 0.99447 / R2 0.81840 / R3 0.92308 / E1 0.98891; M6b dAICc vs M1 A0 -241.15 / R1 -6.47 / R2 -6.85 / R3 -4.44 / E1 +0.65  receipts stage3 P6 block  [in REPORT.md]
+CLAIM C52a P6 qualifier: R2 (Himalayas) M6a fitted hmax 7863.2 m falls BELOW the observed 8848 m, so the Miskinis rank form cannot reach Everest in that arm (alpha_M 0.4435, RMS 387.0 m)  receipts stage3  [in REPORT.md]
+CLAIM C53A0 clause descriptives recomputed from CSV: h(1)/h(2) 1.0272, share<1.05 1.000, share<1.01 0.996 vs receipts 1.0272 / 1.000 / 0.996 -> AGREE
+CLAIM C53A1 clause descriptives recomputed from CSV: h(1)/h(2) 1.0272, share<1.05 1.000, share<1.01 0.947 vs receipts 1.0272 / 1.000 / 0.947 -> AGREE
+CLAIM C53R1 clause descriptives recomputed from CSV: h(1)/h(2) 1.0380, share<1.05 0.953, share<1.01 0.349 vs receipts 1.0380 / 0.953 / 0.349 -> AGREE
+CLAIM C53R2 clause descriptives recomputed from CSV: h(1)/h(2) 1.0305, share<1.05 0.947, share<1.01 0.776 vs receipts 1.0305 / 0.947 / 0.776 -> AGREE
+CLAIM C53R3 clause descriptives recomputed from CSV: h(1)/h(2) 1.0062, share<1.05 0.943, share<1.01 0.514 vs receipts 1.0062 / 0.943 / 0.514 -> AGREE
+CLAIM C53 AU-C11 justification clause, A0: h(1)/h(2) 1.0272 (8848 -> 8614 m), median adjacent drop 0.00068, share of adjacent pairs < 1.05 = 1.000, < 1.01 = 0.996  receipts stage3 + recomputed from CSV  [in REPORT.md]
+CLAIM C54 rank-curve OLS vs selected-cutoff MLE: OLS BELOW in A0/A1/A2/A3/R1/E1b; OLS ABOVE in A4/R2/R3/E1  recomputed from the receipts; the 2026-09-03 prose correction  [in REPORT.md]
+CLAIM C54A0 xi_OLS 0.4015 vs xi_MLE 0.4598 (below)  receipts stage3  [in REPORT.md]
+CLAIM C54A4 xi_OLS 0.2632 vs xi_MLE 0.1904 (above)  receipts stage3  [in REPORT.md]
+CLAIM C54R2 xi_OLS 0.1426 vs xi_MLE 0.1069 (above)  receipts stage3  [in REPORT.md]
+CLAIM C54R3 xi_OLS 0.1376 vs xi_MLE 0.1155 (above)  receipts stage3  [in REPORT.md]
+CLAIM C55 AU-C13 probe, cross-range xi ordering: R2 0.1069 < R3 0.1155 < R1 0.2838 < A0 0.4598 (descriptive only; mechanism stays speculative)  receipts stage3  [in REPORT.md]
+CLAIM C56 selection instability (D17): A0 h_min median under joint bootstrap 2577 m vs selected 2634 m; A0 alpha CI [2.9165, 9.5924] against Auerbach's alpha = 2  receipts stage3  [in REPORT.md]
+CLAIM C57 metre-rounding robustness (+/-0.5 m jitter, seed 20260915): max |xi shift| = 0.0001 over the eight prominence-defined arms, 0.0001 on E1b, and 0.0020 on the degenerate E1 arm  recomputed from the receipts' jitter lines  [in REPORT.md]
+CORRECTION-RECORD C57n results/stage3-summary.md previously stated 'metre rounding is immaterial: +/-0.5 m jitter moves xi by <= 0.0003 in every arm', but the receipts print a +0.0020 shift on E1 (E1b +0.0001; the eight prominence-defined arms are all <= 0.0001). E1 is the degenerate elevation-selected arm that carries no prereg §7 lane (audit F5) and nothing fitted depends on it, so no verdict changes. The user-approved correction was applied by Kimi #996 on 2026-09-03.
+CLAIM C58 Wikidata snapshot (cross-check only, never fitted -- D8): 1543 rows / 1543 distinct QIDs; no elevation 73; elevation impossible (> 8850 m) 276; prominence above elevation + 0.5 m tolerance 95; A1-passing 1099 on recounting the derived CSV under the parser's own rule  recomputed from mountains-wikidata-crosscheck.csv  [in REPORT.md]
+CLAIM C58a prominence-above-elevation count (parser tolerance +0.5 m) recomputed 95 vs receipts 95 -> AGREE
+CORRECTION-RECORD C58n the parse report prints 'Wikidata qids passing A1 1085' (and audit F6 cites 1110 under any-row-per-QID semantics); recounting the derived CSV under the parser's own A1 rule gives 1099, a gap of +14 QIDs. The other three X1 counts reconcile exactly (73 / 276 / 95). The snapshot is a cross-check that is never fitted (D8) and the report quotes the printed figure with its semantics label, so nothing rests on the gap. The user-approved summary correction was applied by Kimi #996 on 2026-09-03; the generated parse receipt remains frozen.
+CLAIM C59 DC-3 custody: 22 raw sources manifested (21 Wikipedia wikitext files with revids + 1 Wikidata SPARQL snapshot); peaklist.org unreachable and peakbagger's ToS page 403, so neither was scraped (D6); Miskinis's 548-summit list not obtainable (D7)  data/CONTRACT.md Addendum 3 + parse report  [in REPORT.md]
+CLAIM C60 coordinate-duplicate assertion (A3-ii) ran on 440 of 1522 A0 rows and found 0 pairs within 1 km; on the Wikidata snapshot it finds 10 pairs, adjudicated individually (D2)  parse report  [in REPORT.md]
+
+==============================================================================
+claims emitted: 109 ; failures: 0
+RESULT: PASS - every claim re-derived; every needle present in REPORT.md
+==============================================================================

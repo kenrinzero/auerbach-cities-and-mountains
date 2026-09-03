@@ -1,0 +1,145 @@
+========================================================================
+STAGE 1 RECOMPUTE — Auerbach (1913) historical anchor
+input: data/derived/*.csv (double-entry transcription, 2026-09-02)
+========================================================================
+
+[ASSERT] Table 1 rows: 94 (expect 94)
+[ASSERT] rank 1 place: Berlin (expect Berlin)
+[ASSERT] ranks are exactly 1..94 consecutive: OK
+
+[A.K. vs round(rank*E.Z./100)] — printed A.K. compared with the exact product
+max |printed - exact|: 1.08 hundred-thousands
+printed == round-to-nearest: 80/94
+printed == floor ('abrunden'): 37/94
+rows with |printed - round-to-nearest| >= 1: 11
+   rank 21 Königsberg i.Pr.       exact  51.66 printed  51
+   rank 22 Duisburg               exact  50.38 printed  51
+   rank 48 Mülhausen              exact  52.32 printed  53
+   rank 58 Darmstadt              exact  50.46 printed  51
+   rank 62 Freiburg i.Br.         exact  51.46 printed  52
+   rank 66 Offenbach              exact  50.16 printed  51
+   rank 67 Waldenburg i.Schl.     exact  50.25 printed  51
+   rank 75 Harburg                exact  50.25 printed  51
+   rank 76 Gleiwitz               exact  50.92 printed  52
+   rank 78 Osnabrück              exact  51.48 printed  52
+   rank 87 Herne                  exact  49.59 printed  49
+[ASSERT] |printed - round-to-nearest| <= 1 for 94/94 rows (contract: all)
+
+[AU-C1] band over ranks 15..94: min 45, max 53 (printed claim: 45..53)
+[AU-C1] exact-product band over ranks 15..94: min 45.12, max 53.10
+[AU-C1] ranks 1..14 printed A.K. range: 19..46 (NB: claim inventory AU-C2 said '36..53' — the scan's printed values give 19..46; inventory line needs a dated fix)
+
+[Tafel 14 Abb.1] sum of printed A.K. over all 94 ranks: 4500 (Tafel numerator: 4503)
+   4503/94 = 47.9043  -> Tafel prints Mittelwert 47,8
+   sum_printed/94 = 47.8723
+   sum of EXACT products over all 94: 4488.88 -> /94 = 47.7540
+   mean of printed A.K. over ranks 15..94: 50.0250 (text: Mittelwert 47,8 'von Rangnummer 15 ab')
+   mean of EXACT products over ranks 15..94: 49.8870
+   mean of exact products over ranks 15..94 in thousands*rank/100 units: same as above
+   mean exact product over ranks 10..94: 49.5008
+   mean exact product over ranks 12..94: 49.6872
+   mean exact product over ranks 14..94: 49.8156
+   mean exact product over ranks 15..94: 49.8870
+   mean exact product over ranks 16..94: 49.9375
+   mean exact product over ranks 20..94: 50.0575
+
+[AU-C4] Sp.K. Germany: 47.8 / 0.645 = 74.1085 -> printed 74 ('abgerundet')
+
+[AU-C2] stabilization rank r0 (prereg §3.3): smallest r0 such that the
+   running tail-mean M(r) = mean(A.K. over ranks r..94) stays within +/-2%
+   of M(r0) for all r >= r0. Computed on printed A.K. and on exact products.
+   r0 (printed A.K.): 92 ; M(r) at that rank: 47.667
+   r0 (exact products): 92 ; M(r): 47.420
+   Auerbach's eyeballed stabilization rank: 15
+   M(rank  1..94): printed 47.872 | exact 47.754
+   M(rank  5..94): printed 48.867 | exact 48.741
+   M(rank 10..94): printed 49.624 | exact 49.501
+   M(rank 14..94): printed 49.951 | exact 49.816
+   M(rank 15..94): printed 50.025 | exact 49.887
+   M(rank 16..94): printed 50.076 | exact 49.937
+   M(rank 20..94): printed 50.200 | exact 50.057
+   M(rank 25..94): printed 50.243 | exact 50.090
+   M(rank 30..94): printed 50.415 | exact 50.272
+   NOTE (degeneracy): the prereg §3.3 rule keys on the *tail mean*, which drifts
+   slowly (47.9 -> 50.4 over ranks 1..30) and only satisfies the +/-2% window near
+   the list end (r0 = 92) — the literal rule does not capture Auerbach's criterion.
+   Auerbach's own criterion — printed A.K. inside 45..53 for every rank >= r —
+   holds exactly from rank 15 onward (his eyeballed 15).
+
+[AU-C5] twelve-state table: printed A.K./Sp.K. and implied population
+   implied pop (Mill.) = A.K. / Sp.K. * 100
+   Niederlande            A.K.   5.30  Sp.K.  91  implied pop   5.82 Mill.
+   Großbritannien         A.K.  39.40  Sp.K.  87  implied pop  45.29 Mill.
+   Belgien                A.K.   5.80  Sp.K.  82  implied pop   7.07 Mill.
+   Schweiz                A.K.   2.80  Sp.K.  75  implied pop   3.73 Mill.
+   Deutsches Reich        A.K.  47.80  Sp.K.  74  implied pop  64.59 Mill.
+   Vereinigte Staaten     A.K.  53.00  Sp.K.  57  implied pop  92.98 Mill.
+   Italien                A.K.  15.90  Sp.K.  47  implied pop  33.83 Mill.
+   Frankreich             A.K.  17.40  Sp.K.  44  implied pop  39.55 Mill.
+   Spanien                A.K.   8.60  Sp.K.  43  implied pop  20.00 Mill.
+   Österreich-Ungarn      A.K.  16.80  Sp.K.  32  implied pop  52.50 Mill.
+   Europäisches Rußland   A.K.  24.20  Sp.K.  19  implied pop 127.37 Mill.
+   Britisch-Indien        A.K.  36.00  Sp.K.  11  implied pop 327.27 Mill.
+
+[AU-C6] Prussian provinces: printed A.K./Sp.K. and implied population
+   Rheinland      A.K.  10.80  Sp.K. 152  implied pop  7.11 Mill.
+   Westfalen      A.K.   5.10  Sp.K. 124  implied pop  4.11 Mill.
+   Schlesien      A.K.   4.50  Sp.K.  88  implied pop  5.11 Mill.
+   Hannover       A.K.   2.50  Sp.K.  83  implied pop  3.01 Mill.
+   Ostpreußen     A.K.   1.10  Sp.K.  54  implied pop  2.04 Mill.
+   Posen          A.K.   0.93  Sp.K.  44  implied pop  2.11 Mill.
+
+[AU-C7] Europe: A.K. 169 over 334 places >= 50,000; 169 / 4.32 = 39.1204 -> printed 39
+
+[AU-C8] time series (administrative, Tafel 14 Abb. 3 + text)
+   1895: A.K. 28.7 Sp.K. 55  density printed 52.3; A.K./density = 0.549; implied normalizer 0.522
+   1900: A.K. 34.2 Sp.K. 61  implied normalizer 0.561 (density units)
+   1905: A.K. 42.2 Sp.K. 70  implied normalizer 0.603 (density units)
+   1910: A.K. 49.5 Sp.K. 77  density printed 64.5; A.K./density = 0.767; implied normalizer 0.643
+   deltas 1895->1910: density 23.3% (printed 23), A.K. 72.5% (printed 72), Sp.K. 40.0% (printed 40)
+
+[AU-C9] definition effect 1910: Sp.K. 77 administrative (Abb. 3) vs 74 topographic (Table 1)
+   77/74 - 1 = 4.05% (paper: ~4%)
+   A.K. side: 49.5 admin vs 47.8 topo: 3.56%
+
+========================================================================
+FREE-EXPONENT ESTIMATION on the 94 printed populations (E.Z., thousands)
+notation (prereg §1): s(r) = A r^-xi; pdf p(s) ~ s^-alpha; xi = 1/(alpha-1)
+========================================================================
+
+[all 94 ranks] n = 94, s_min = 50
+   zeta MLE: alpha = 2.0203 -> xi = 0.9801 ; parametric bootstrap 95% CI for xi: [0.7787, 1.1851]
+   OLS log-log (Ciccone recipe):        xi = 0.8553 (SE 0.0118, HC1 0.0559, HC3 0.0291)
+   OLS log-log rank-1/2 (Gabaix-Ibragimov): xi = 0.8027 (SE 0.0123, HC1 0.0566, HC3 0.0261)
+
+[ranks >= 15] n = 80, s_min = 50, s_max = 306 (upper-truncated zeta: rank window cuts the TOP)
+   zeta MLE: alpha = 1.6953 -> xi = 1.4383 ; parametric bootstrap 95% CI for xi: [0.8397, 3.1155]
+   OLS log-log (Ciccone recipe):        xi = 0.9767 (SE 0.0072, HC1 0.0787, HC3 0.0094)
+   OLS log-log rank-1/2 (Gabaix-Ibragimov): xi = 0.9638 (SE 0.0072, HC1 0.0781, HC3 0.0096)
+
+[ranks >= r0 (=92)] n = 3, s_min = 50, s_max = 53 (upper-truncated zeta: rank window cuts the TOP)
+   zeta MLE: alpha = 12.0000 -> xi = 0.0909 ; parametric bootstrap 95% CI for xi: [0.0909, 862758.8492]
+   OLS log-log (Ciccone recipe):        xi = 2.7142 (SE 1.5558, HC1 1135.8955, HC3 3.8113)
+   OLS log-log rank-1/2 (Gabaix-Ibragimov): xi = 2.6997 (SE 1.5474, HC1 1122.3440, HC3 3.7907)
+
+[EXT-C1] Ciccone 2023 Fig. 4: OLS log-log slope -1.15 (robust SE 0.03) on the 94 cities
+   our plain-OLS replication (log size on log rank): see 'all 94 ranks' block above
+   spec probe — inverse OLS (log rank on log size): slope -1.1489 (SE 0.0159, HC1 0.1572, HC3 0.0328); implied xi = 0.8704
+   HC3 on the direct spec: 0.0291 — Ciccone's robust SE 0.03 matches HC3 on EITHER spec,
+   so the SE cannot discriminate them; only the point estimate can (audit 2026-09-02 F3)
+   log-log correlation r = -0.9913 (r^2 = 0.9827)
+   => Ciccone's -1.15 matches the INVERSE spec within rounding: his slope estimates
+      zeta = 1/xi, i.e. xi ~ 0.87, not xi ~ 1.15. This RE-FRAMES the F4/D1b tension
+      (xi 0.87, HC3 CI [0.824, 0.922], sits at/below the band window's lower edge
+      0.911); what resolves it is P7 — rank-size OLS is unreliable at this n.
+
+[P7] Monte Carlo at this N: true model = fitted zeta (alpha = 2.0203, xi = 1 approx,
+   s_min = 50, n = 94, 2000 reps). Estimators: zeta MLE vs plain log-log OLS.
+   true xi = 0.9801 (alpha0 = 2.0203)
+   MLE:  bias -0.0044  rmse 0.1007  nominal-95% coverage 0.943
+   OLS:  bias +0.0588  rmse 0.1537  nominal-95% coverage by SE convention:
+         classical 0.158 | HC0 0.636 | HC1 0.640 | HC3 0.420  (Ciccone's reported
+         robust SE 0.03 is an HC3-type value on either spec: 0.0291 direct / 0.0328 inverse)
+
+[band-implied bound, receipt D1] band 45..53 over ranks 15..94 => xi in [0.911, 1.089]
+   compare with the MLE/OLS estimates above (F4 tension: OLS CI [1.091, 1.209])
