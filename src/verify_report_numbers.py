@@ -232,7 +232,7 @@ def main():
 
     # -- C2 Ciccone EXT-C1 CI vs the band bound (receipt D1b) ---------------
     lo, hi = 1.15 - 1.96 * 0.03, 1.15 + 1.96 * 0.03
-    claim("C2", "Ciccone Fig.4 -1.15 (robust SE 0.03) as a xi estimate -> 95%% CI [%.4f, %.4f]; "
+    claim("C2", "2023 Appendix Figure A1 -1.15 (robust SE 0.03), hypothetically read as a xi estimate, -> 95%% CI [%.4f, %.4f]; "
                 "band-implied upper bound %.4f -> CI lower edge exceeds it" % (lo, hi, 1 + tol),
           ["[1.0912, 1.2088]", "1.0892"], "recomputed; receipts D1b")
 
@@ -330,16 +330,17 @@ def main():
     gi = graball(r"rank-1/2 \(Gabaix-Ibragimov\): xi = ([\d.]+)", S1)
     claim("C18", "all 94 ranks: alpha %s -> xi %s, bootstrap 95%% CI [%s, %s]" % fits[0],
           ["0.9801", "2.0203", "[0.7787, 1.1851]"], "receipts stage1")
-    claim("C19", "all 94: Ciccone-recipe OLS xi %s (SE %s, HC1 %s, HC3 %s); Gabaix-Ibragimov rank-1/2 xi %s"
+    claim("C19", "all 94: project population-on-rank OLS xi %s (SE %s, HC1 %s, HC3 %s); Gabaix-Ibragimov rank-1/2 xi %s"
           % (ols[0][0], ols[0][1], ols[0][2], ols[0][3], gi[0][0]),
           ["0.8553", "0.0291", "0.8027"], "receipts stage1")
     claim("C20", "ranks >= 15 (upper-truncated zeta, s_max 306): xi %s CI [%s, %s]; OLS on the window %s"
           % (fits[1][1], fits[1][2], fits[1][3], ols[1][0]),
           ["1.4383", "[0.8397, 3.1155]", "0.9767"], "receipts stage1; deviation 2")
     inv = grab(r"inverse OLS \(log rank on log size\): slope -([\d.]+) \(SE ([\d.]+), HC1 ([\d.]+), HC3 ([\d.]+)\); implied xi = ([\d.]+)", S1, "C21")
-    claim("C21", "EXT-C1 adjudication: inverse spec slope -%s (HC3 %s) -> implied xi %s; direct-spec HC3 %s "
-                 "-- Ciccone's robust SE 0.03 matches HC3 on EITHER spec" % (inv[0], inv[3], inv[4], ols[0][3]),
-          ["1.1489", "0.8704", "0.0328", "0.0291"], "receipts stage1; audit 2026-09-02 F3")
+    claim("C21", "EXT-C1 project reproduction: inverse spec slope -%s (HC3 %s) -> mapped xi %s; "
+                 "population-on-rank HC3 %s -- source reports only generic robust SE 0.03, and direct inspection determines its axes"
+          % (inv[0], inv[3], inv[4], ols[0][3]),
+          ["1.1489", "0.8704", "0.0328", "0.0291"], "receipts stage1; source audit 2026-09-03")
     corr = grab(r"log-log correlation r = -([\d.]+) \(r\^2 = ([\d.]+)\)", S1, "C21a")
     claim("C21a", "log-log correlation r = -%s (r^2 %s)" % corr, ["0.9913", "0.9827"], "receipts stage1")
 

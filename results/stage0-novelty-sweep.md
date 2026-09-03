@@ -70,6 +70,17 @@ same EPB issue discussing K and S_n.
 year of record is **2012** (*Cities* 29(S1):S17–S23); December 2011 is its
 online-publication date. The 2011 label above is retained as part of this
 2026-09-01 search record and is superseded by this correction.
+
+**Dated EXT-C1 adjudication — 2026-09-03:** the `Fig. 4` and generic
+`Ciccone's translation` wording above is retained as part of the 2026-09-01 search
+record and superseded here. Direct inspection establishes that the February 2021
+working translation contains Figures 1–3 and no regression appendix. Auerbach and
+Ciccone (2023) adds Appendix Figure A1 (the fourth figure), which reports equal-weight
+OLS of log rank on log population for 94 German cities in 1910: slope −1.15, robust
+standard error 0.03. The project's separate inverse regression reproduces −1.1489
+(HC3 SE 0.0328); interpreting its magnitude as ζ = 1/ξ gives ξ = 0.8704. The source
+does not identify its robust covariance convention or report a population-on-rank
+OLS coefficient.
 3. Model-set consequence (prereg §5.2): truncated PL, cutoff PL, gamma-type tail,
    and the Miškinis stretched-exponential rank curve are mandatory alternatives —
    the two prior studies both point away from a pure power law for summits.

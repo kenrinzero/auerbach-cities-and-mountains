@@ -61,11 +61,11 @@ class ReaderFacingSiteTests(unittest.TestCase):
         self.assertRegex(self.page, r'\["overview","Overview"\],\["report","Full report"\]')
         self.assertIn('show("overview")', self.page)
         self.assertNotIn(" hidden", overview.split(">", 1)[0])
-        for heading in ("What we found", "1913 cities", "Modern cities", "Mountains"):
+        for heading in ("What we found", "What is new here", "1913 cities", "Modern cities", "Mountains"):
             self.assertIn(heading, text)
         self.assertIn("Read the full report", text)
-        self.assertGreaterEqual(len(text.split()), 220)
-        self.assertLessEqual(len(text.split()), 520)
+        self.assertGreaterEqual(len(text.split()), 320)
+        self.assertLessEqual(len(text.split()), 620)
         for provenance_term in ("katflow", "session #", "SHA-256", "receipt", "harness"):
             self.assertNotIn(provenance_term.lower(), text.lower())
 
@@ -74,7 +74,15 @@ class ReaderFacingSiteTests(unittest.TestCase):
         for expected in (
             "rank 15",
             "ξ = 0.9801",
+            "ξ ∈ [0.911, 1.089]",
+            "all 94",
+            "−1.15",
+            "inverse",
+            "roughly 70%",
+            "nine-complex",
+            "exploratory",
             "all four primary arms",
+            "bounded support",
             "bounded or cutoff families win in the global, lower-prominence and Himalaya arms",
             "supports no tectonic causal mechanism",
             "Coverage bias in summit lists points toward the mountain result",

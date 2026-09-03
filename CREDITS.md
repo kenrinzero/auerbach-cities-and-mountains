@@ -70,8 +70,7 @@ Recorded here deliberately, because a credits file that lists only successes is 
   sources disagree on: Auerbach's Table 2 prints Schweiz's A.K. as **2,8**; Ciccone's translation
   prints 2,6. Both transcription passes and the arithmetic favour the scan. The translation also
   carries 47,2 for 47,8 and 64,6 for 64,5 Mill. The project consulted the February 2021 working
-  version; the open 2023 release adds Fig. 4 and retains the mismatches. Neither version is used
-  as a numeric source for Auerbach's tables.
+  version; the open 2023 publication by Auerbach and Ciccone adds Appendix Figure A1 (the fourth figure), which reports equal-weight OLS of log rank on log population, and retains the mismatches. Neither version is used as a numeric source for Auerbach's tables.
 - Qoder's Stage-2 implementation shipped a German table that was not what its header claimed.
   Kimi's audit caught it; the corrected true 2025 cross-section (n = 131) is what stands.
 - Qoder's Stage-3 implementation shipped a selector bug that silently forced floor cutoffs and

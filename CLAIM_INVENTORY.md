@@ -36,6 +36,17 @@ Notation (single source of truth, prereg §1): rank-size `s(r) = A·r^(−ξ)`; 
 | EXT-C2 | Saibante 1928 (Metron 7(2):53–99): 17-country α table, 0.82 (Australia) … 1.68 (British India); convention flip α_S = 1/ξ ⇒ ξ ∈ [0.60, 1.22] (receipt D6). | Re-fit with the binned MLE on era-appropriate census data where obtainable; document data availability per country. | T2 | Stage 1 |
 | EXT-C3 | Lotka 1925: ξ ≈ 0.93 read off log-log axes for US cities. | Recompute from Lotka's plotted data (public-domain book). | T2 | Stage 1 (optional arm) |
 
+**Dated EXT-C1 adjudication — 2026-09-03.** The frozen EXT-C1 row above and the
+checklist reference below retain the Stage-0 wording. Direct inspection of Appendix
+Figure A1 and note 6 in Auerbach and Ciccone (2023) confirms that the 2023 publication
+reports equal-weight OLS of log rank on log population for 94 German cities in 1910,
+with slope −1.15 and robust standard error 0.03. The February 2021 working translation
+contains Figures 1–3 and no regression appendix. Separately, the project's inverse
+regression reproduces −1.1489 (HC3 SE 0.0328); its magnitude is interpreted as
+ζ = 1/ξ, corresponding to ξ = 0.8704. The source does not name an HC convention, use
+the ξ/ζ notation, or report a population-on-rank OLS coefficient. This adjudication
+supersedes the historical `Fig. 4` label and the row's unresolved-orientation framing.
+
 ## C. Standing-checklist walk — the paper itself (2026-09-01)
 
 Lenses from `..\INVESTIGATION_CHECKLIST.md`. A checked lens means *screened*; hits are

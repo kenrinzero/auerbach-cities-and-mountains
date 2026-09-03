@@ -104,8 +104,8 @@ PREDICTIONS = [
      "47.7540 exact products), not the tail mean 50.0250 / 49.8870 his prose implies."),
     ("P2", "FAILED",
      "The free-exponent MLE on all 94 cities gives xi = 0.9801 (CI [0.7787, 1.1851]) -- below 1, "
-     "not the predicted 1.05-1.20. The prediction's premise dissolved: Ciccone's -1.15 is an "
-     "inverse-axis slope estimating zeta = 1/xi, i.e. xi = 0.8704 (EXT-C1)."),
+     "not the predicted 1.05-1.20. Direct inspection of the 2023 Appendix Figure A1 confirms that "
+     "-1.15 is the inverse-axis slope; under the project's mapping its magnitude gives xi = 0.8704 (EXT-C1)."),
     ("P3", "borne out",
      "Ordering not intact (UK/NL swap, ES 9->3, BE 3->5) but concordance survives: Kendall "
      "tau = +0.5556, permutation p = 0.0436 (primary seed 20260902); tau1 = +0.6364 "
@@ -127,10 +127,9 @@ PREDICTIONS = [
      "M6b beats M1 on AICc in A0/R1/R2/R3. 'At least as well as any power law' holds; 'as well "
      "as any alternative' does not."),
     ("P7", "borne out",
-     "At n = 94: MLE bias -0.0044, RMSE 0.1007, coverage 0.943; rank-size OLS bias +0.0588, "
-     "RMSE 0.1537, coverage 0.158 classical / 0.636 HC0 / 0.640 HC1 / 0.420 HC3. Ciccone's "
-     "reported SE 0.03 is an HC3-type value on either spec, so only per-convention coverage may "
-     "be quoted."),
+     "At n = 94: MLE bias -0.0044, RMSE 0.1007, coverage 0.943; the project's population-on-rank "
+     "OLS bias is +0.0588, with RMSE 0.1537 and coverage 0.158 classical / 0.636 HC0 / 0.640 HC1 / "
+     "0.420 HC3. The source reports only a generic robust SE 0.03; HC3 is a project-side comparison."),
     ("P8", "UNVERIFIABLE HERE",
      "AU-C3's 47.2 / 48.1 need the full 1910 census place list (DC-1b), not obtained within "
      "budget; retrieval path documented in CONTRACT Addendum 1. The claim stays "
@@ -154,7 +153,7 @@ CLAIMS = [
     ("AU-C11", "compatible with qualifiers", "Lanes: H-MB on A0/A1/A2/A3/R2; M-rank supported on A4/R1/R3; M-count nowhere."),
     ("AU-C12", "parked", "beta = ln4/ln2 = 2.0 reproduces his arithmetic; no data plan in this project."),
     ("AU-C13", "reported as speculative", "R2 0.1069 < R3 0.1155 < R1 0.2838 < A0 0.4598, confounded; no mechanism claimed."),
-    ("EXT-C1", "compatible with qualifiers", "Inverse spec -1.1489 -> xi = 0.8704; his SE 0.03 matches HC3 on either spec."),
+    ("EXT-C1", "compatible with qualifiers", "The 2023 Appendix Figure A1 reports equal-weight OLS of log rank on log population: -1.15 (robust SE 0.03). The project's inverse reproduction is -1.1489 (HC3 SE 0.0328), whose magnitude maps to xi = 0.8704."),
     ("EXT-C2", "unverifiable here", "alpha_S [0.82, 1.68] -> xi [0.595, 1.220] transcribed; all 17 countries data-blocked."),
     ("EXT-C3", "not attempted", "Optional arm; skipped rather than rushed, recorded not dropped."),
 ]
@@ -354,6 +353,13 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       Zipf&rsquo;s law; the same broad shape remains visible in modern cities even though concentration
       levels and country ordering have moved. For mountain summits, the pre-registered
       gentler-than-inverse reading is supported, but no single simple power law describes every arm.</p>
+      <div class="card"><h3>What is new here</h3><p>Auerbach did not estimate an exponent: his
+      45&ndash;53 band supports only the tolerance <strong>&xi; &isin; [0.911, 1.089]</strong>. His printed
+      47,8 also proves to be the mean across <strong>all 94</strong> cities, not the stabilized tail mean
+      described in his prose. Direct inspection of Appendix Figure A1 in Auerbach and Ciccone (2023)
+      confirms that its reported <strong>&minus;1.15</strong> slope is equal-weight OLS of log rank on log
+      population for 94 German cities in 1910 (robust SE 0.03); under this project's notation, its
+      magnitude estimates &zeta; = 1/&xi;, corresponding to &xi; approximately 0.87.</p></div>
       <div class="overview-grid">
         <article class="card"><h3>1913 cities</h3><p>The band Auerbach reported begins at rank 15
         exactly when his own containment rule is applied. A free-exponent fit over all 94 cities gives
@@ -361,15 +367,17 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
         textual: his printed 47,8 is the mean across all 94 cities, not the stabilized tail mean described
         in the prose.</p></article>
         <article class="card"><h3>Modern cities</h3><p>Germany still has a Zipf-compatible shape,
-        while its concentration level has shifted. The twelve-country ordering is no longer intact,
-        although a positive concordance remains. Most importantly, switching from municipalities to
-        Functional Urban Areas changes the concentration statistic sharply, showing that city boundaries
-        are part of the measurement rather than harmless bookkeeping.</p></article>
-        <article class="card"><h3>Mountains</h3><p>Summit heights decline more gently with rank in
-        all four primary arms. The distributional result is less uniform: bounded or cutoff
-        families win in the global, lower-prominence and Himalaya arms, while the Alps, Rockies and highest-prominence
-        tail satisfy the stricter rank-law lane. The evidence supports no tectonic causal mechanism, and
-        the global arm rejects every fitted family on absolute goodness-of-fit.</p></article>
+        while its concentration level has shifted. The deliberately coarse Functional-Urban-Area versus
+        municipality contrast is <strong>roughly 70%</strong> and direction-only, showing that city
+        boundaries are part of the measurement. The positive nine-complex concordance is
+        <strong>exploratory</strong>, not evidence that the historical ordering is durable.</p></article>
+        <article class="card"><h3>Mountains</h3><p>The first qualifiers are <strong>bounded support</strong>
+        and sampling coverage, before model-family detail: the list-building process pushes estimates toward
+        Auerbach&rsquo;s direction. Summit heights nevertheless decline more gently with rank in all four
+        primary arms. The result then splits: bounded or cutoff families win in the global, lower-prominence and Himalaya arms,
+        while the Alps, Rockies and highest-prominence tail satisfy the stricter rank-law lane. The evidence
+        supports no tectonic causal mechanism, and the global arm rejects every fitted family on absolute
+        goodness-of-fit.</p></article>
       </div>
       <div class="overview-caveats"><h3>What the headline does not mean</h3><ul>
         <li>Auerbach supplied a band and descriptive argument, not an estimated exponent.</li>
@@ -408,9 +416,11 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       <div class="card"><h3>Rank&ndash;size curve, log&ndash;log</h3><div id="c1913"></div>
         <p class="note">Points: the double-entered scan transcription. Lines are the <em>reported</em> exponents
         anchored at rank 1 for display &mdash; not new fits. MLE &xi; = 0.9801 (CI [0.7787, 1.1851]);
-        Ciccone-recipe OLS &xi; = 0.8553; Gabaix&ndash;Ibragimov rank&minus;&frac12; &xi; = 0.8027.
-        The inverse specification (log rank on log size) gives slope &minus;1.1489, which is what the
-        translator's &minus;1.15 actually is &mdash; an estimate of &zeta; = 1/&xi;, i.e. &xi; &asymp; 0.8704.</p></div>
+        population-on-rank OLS &xi; = 0.8553; Gabaix&ndash;Ibragimov rank&minus;&frac12; &xi; = 0.8027.
+        Direct inspection of the 2023 Appendix Figure A1 establishes that the source reports equal-weight
+        OLS of log rank on log population: slope &minus;1.15, robust SE 0.03. The project&rsquo;s separate
+        inverse reproduction gives &minus;1.1489 (HC3 SE 0.0328), whose magnitude maps to
+        &zeta; = 1/&xi; and &xi; = 0.8704.</p></div>
       <div class="card"><h3>A.K. = rank &times; population / 100</h3><div id="cak"></div>
         <p class="note">Auerbach's band 45&ndash;53 (shaded) holds from rank 15 onward: r&#8320; = 15 exactly under
         Amendment 1's band-containment criterion. Printed all-94 mean 47.8723, exact-product mean 47.7540;
@@ -419,8 +429,8 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
     <div class="grid">
       <div class="card"><h3>Estimator calibration at n = 94 (Monte Carlo, 2000 reps)</h3><div id="cmc"></div>
         <p class="note">Nominal 95% coverage. The MLE covers 0.943; rank-size OLS covers 0.158 classical /
-        0.636 HC0 / 0.640 HC1 / 0.420 HC3. Ciccone's robust SE 0.03 is an HC3-type value on either
-        specification, so only per-convention coverage may be quoted (Stage-1 audit F1).</p></div>
+        0.636 HC0 / 0.640 HC1 / 0.420 HC3. Auerbach and Ciccone (2023) label 0.03 only as a robust
+        standard error; the project&rsquo;s HC3 values are comparisons, not a source-method attribution.</p></div>
       <div class="card"><h3>Sp.K., twelve complexes (1913, from the scan)</h3><div id="ct2"></div>
         <p class="note">Sp.K. = A.K. &divide; (population / 10&#8312;). Germany 47.8 / 0.645 = 74.1085 &rarr; 74.
         Schweiz shown at the corrected A.K. 2,8 (pass A and Ciccone print 2,6).</p></div>
@@ -631,7 +641,7 @@ function render1913(){
   drawLine(s,1,94,r=>anchor*Math.pow(r,-s1.gi),sc,"#6fb3f2","2 3");
   drawPts(s,pts,sc,"#e6e6e6",2.2);tickLabels(s,sc,W,H,m);
   txt(s,m.l+8,20,"MLE xi 0.9801",{fill:"#5ad19a"});
-  txt(s,m.l+8,36,"OLS xi 0.8553 (Ciccone recipe)",{fill:"#e8c468"});
+  txt(s,m.l+8,36,"OLS xi 0.8553 (population-on-rank)",{fill:"#e8c468"});
   txt(s,m.l+8,52,"rank-1/2 OLS xi 0.8027",{fill:"#6fb3f2"});
   document.getElementById("c1913").appendChild(s);
 
@@ -1108,11 +1118,11 @@ def main():
         "<li>Ciccone, A. (2021, February). <em>Das Gesetz der Bev&ouml;lkerungskonzentration &mdash; The Law "
         'of Population Concentration</em>. Working translation, version 1.0, University of Mannheim. '
         '<a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Ciccone/auerbach_1913_translation_1.0.pdf">'
-        'Open working copy</a> &mdash; the version used during the historical transcription.</li>',
+        'Open working copy</a> &mdash; the version used during the historical transcription; it contains Figures 1&ndash;3 and no regression appendix.</li>',
         "<li>Auerbach, F., &amp; Ciccone, A. (2023). &ldquo;The Law of Population Concentration.&rdquo; "
         '<em>Environment and Planning B</em> <b>50</b>(2), 290&ndash;298. '
         '<a href="https://doi.org/10.1177/23998083221147139">doi:10.1177/23998083221147139</a> &mdash; the '
-        "translation whose added Fig. 4 OLS slope this project adjudicates as EXT-C1; never used as a numeric source.</li>",
+        "publication whose Appendix Figure A1 (the fourth figure) reports equal-weight OLS of log rank on log population; never used as a numeric source for Auerbach&rsquo;s tables.</li>",
         "<li>Batty, M. (2023). &ldquo;Scaling in city size distributions.&rdquo; [editorial] "
         '<em>Environment and Planning B</em> <b>50</b>(2), 287&ndash;289. '
         '<a href="https://doi.org/10.1177/23998083231155725">doi:10.1177/23998083231155725</a></li>',

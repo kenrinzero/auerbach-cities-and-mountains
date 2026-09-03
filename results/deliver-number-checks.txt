@@ -9,7 +9,7 @@ notation (prereg §1): xi = 1/zeta, alpha = zeta + 1; Auerbach <=> xi = 1 <=> al
 ==============================================================================
 CLAIM C1 band 45..53 over ranks 15..94 -> |1-xi| <= ln(53/45)/ln(94/15) = 0.089159 -> xi in [0.911, 1.089]  recomputed; receipts D1  [in REPORT.md]
 CLAIM C1a band bound vs receipts D1 recomputed 0.089159 vs receipts 0.089159 -> AGREE
-CLAIM C2 Ciccone Fig.4 -1.15 (robust SE 0.03) as a xi estimate -> 95% CI [1.0912, 1.2088]; band-implied upper bound 1.0892 -> CI lower edge exceeds it  recomputed; receipts D1b  [in REPORT.md]
+CLAIM C2 2023 Appendix Figure A1 -1.15 (robust SE 0.03), hypothetically read as a xi estimate, -> 95% CI [1.0912, 1.2088]; band-implied upper bound 1.0892 -> CI lower edge exceeds it  recomputed; receipts D1b  [in REPORT.md]
 CLAIM C3 scan 47.8/0.645 = 74.109 -> 74 (Auerbach prints 74); translation slip 47.2/0.645 = 73.178 -> 73  recomputed; receipts D2  [in REPORT.md]
 CLAIM C4 AU-C12 'four times as many half-millionaires as millionaires' -> beta = ln4/ln2 = 2.0 (Pareto ccdf exponent 2)  recomputed; receipts D4; parked  [in REPORT.md]
 CLAIM C5 Saibante 17-country alpha_S range 0.82..1.68 -> xi = 1/alpha_S range 0.595..1.220 (CSV xi_implied 0.595..1.220)  recomputed from saibante-1928-alpha.csv; receipts D6  [in REPORT.md]
@@ -30,9 +30,9 @@ CLAIM C15a AU-C5 implied populations (A.K./Sp.K.*100, Mill.): Deutsches Reich 64
 CLAIM C16 AU-C6 Prussian provinces Sp.K.: Rheinland 152, Westfalen 124, Schlesien 88, Hannover 83, Ostpreußen 54, Posen 44 (Posen below Ostpreußen as printed)  recomputed from CSV  [in REPORT.md]
 CLAIM C17 AU-C7 Europe complex: A.K. 169 over 334 places >= 50,000; 169/4.32 = 39.1204 -> printed 39  recomputed  [in REPORT.md]
 CLAIM C18 all 94 ranks: alpha 2.0203 -> xi 0.9801, bootstrap 95% CI [0.7787, 1.1851]  receipts stage1  [in REPORT.md]
-CLAIM C19 all 94: Ciccone-recipe OLS xi 0.8553 (SE 0.0118, HC1 0.0559, HC3 0.0291); Gabaix-Ibragimov rank-1/2 xi 0  receipts stage1  [in REPORT.md]
+CLAIM C19 all 94: project population-on-rank OLS xi 0.8553 (SE 0.0118, HC1 0.0559, HC3 0.0291); Gabaix-Ibragimov rank-1/2 xi 0  receipts stage1  [in REPORT.md]
 CLAIM C20 ranks >= 15 (upper-truncated zeta, s_max 306): xi 1.4383 CI [0.8397, 3.1155]; OLS on the window 0.9767  receipts stage1; deviation 2  [in REPORT.md]
-CLAIM C21 EXT-C1 adjudication: inverse spec slope -1.1489 (HC3 0.0328) -> implied xi 0.8704; direct-spec HC3 0.0291 -- Ciccone's robust SE 0.03 matches HC3 on EITHER spec  receipts stage1; audit 2026-09-02 F3  [in REPORT.md]
+CLAIM C21 EXT-C1 project reproduction: inverse spec slope -1.1489 (HC3 0.0328) -> mapped xi 0.8704; population-on-rank HC3 0.0291 -- source reports only generic robust SE 0.03, and direct inspection determines its axes  receipts stage1; source audit 2026-09-03  [in REPORT.md]
 CLAIM C21a log-log correlation r = -0.9913 (r^2 0.9827)  receipts stage1  [in REPORT.md]
 CLAIM C22 P7 Monte Carlo (n=94, 2000 reps): MLE bias -0.0044 rmse 0.1007 coverage 0.943; rank-size OLS bias +0.0588 rmse 0.1537 coverage classical 0.158 / HC0 0.636 / HC1 0.640 / HC3 0.420  receipts stage1; audit 2026-09-02 F1  [in REPORT.md]
 
