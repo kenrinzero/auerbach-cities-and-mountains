@@ -26,6 +26,18 @@ def visible_text(fragment):
     return re.sub(r"\s+", " ", html.unescape(without_tags)).strip()
 
 
+def css_properties(source, selector):
+    match = re.search(rf"{re.escape(selector)}\{{([^}}]+)\}}", source)
+    if not match:
+        raise AssertionError(f"missing CSS selector {selector}")
+    return {
+        name.strip(): value.strip()
+        for declaration in match.group(1).split(";")
+        if ":" in declaration
+        for name, value in [declaration.split(":", 1)]
+    }
+
+
 class ReaderFacingSiteTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -68,6 +80,18 @@ class ReaderFacingSiteTests(unittest.TestCase):
             "Coverage bias in summit lists points toward the mountain result",
         ):
             self.assertIn(expected, text)
+
+    def test_reader_text_measures_match_the_approved_axtell_like_layout(self):
+        overview = css_properties(self.page, ".overview")
+        overview_lede = css_properties(self.page, ".overview-lede")
+        report = css_properties(self.page, ".rp-measure")
+        report_code = css_properties(self.page, ".rp code")
+
+        self.assertEqual("980px", overview["max-width"])
+        self.assertEqual("none", overview_lede["max-width"])
+        self.assertEqual("800px", report["max-width"])
+        self.assertEqual("auto", report["margin-inline"])
+        self.assertEqual("anywhere", report_code["overflow-wrap"])
 
     def test_tabs_have_keyboard_semantics_and_overview_actions_transfer_focus(self):
         for code in (
