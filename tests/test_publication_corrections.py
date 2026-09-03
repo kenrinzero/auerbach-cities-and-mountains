@@ -86,8 +86,8 @@ class PublicationCorrectionTests(unittest.TestCase):
 
     def test_public_conclusions_keep_their_decision_critical_qualifiers_adjacent(self):
         report_claim = self.report[
-            self.report.index("## 4. The defensible claim"):
-            self.report.index("## 5. Prediction scoreboard")
+            self.report.index("## 3. The defensible claim"):
+            self.report.index("## 4. Prediction scoreboard")
         ]
         readme_findings = self.readme[
             self.readme.index("## Headline findings"):
@@ -125,7 +125,7 @@ class PublicationCorrectionTests(unittest.TestCase):
 
     def test_audit_provenance_names_each_dimension_without_claiming_external_replication(self):
         report_audit = self.report[
-            self.report.index("## Audit and provenance"):
+            self.report.index("## 7. Audit and provenance"):
             self.report.index("## 8. Reproducibility")
         ]
         readme_audit_start = self.readme.index("These controls are distinct:")

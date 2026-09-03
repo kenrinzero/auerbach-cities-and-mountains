@@ -242,7 +242,7 @@ class ReaderFacingSiteTests(unittest.TestCase):
         abstract = report.index("## Abstract")
         notation = report.index("Notation is the preregistration's §1")
         question = report.index("## 1. The question")
-        audit = report.index("## Audit and provenance")
+        audit = report.index("## 7. Audit and provenance")
         reproducibility = report.index("## 8. Reproducibility")
         self.assertLess(project_links, abstract)
         self.assertLess(abstract, notation)
@@ -253,6 +253,79 @@ class ReaderFacingSiteTests(unittest.TestCase):
         opening = report[:question]
         self.assertNotIn("katflow #", opening)
         self.assertNotIn("Deliver stage", opening)
+
+    def test_report_headings_are_sequential_after_the_editorial_move(self):
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        numbered = re.findall(r"(?m)^## ([1-8])\. ", report)
+        self.assertEqual(list("12345678"), numbered)
+        self.assertIn("## 2. Results", report)
+        for subsection in ("2.1", "2.2", "2.3", "2.4"):
+            self.assertRegex(report, rf"(?m)^### {re.escape(subsection)} ")
+        self.assertIn("## 7. Audit and provenance", report)
+        self.assertIn("All three are pre-registered and all three are reported (§2.3).", report)
+        self.assertIn("against the draft of this report before §3 was finalized", report)
+
+    def test_current_provenance_includes_addendum_4_and_the_source_audit(self):
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        contract = (ROOT / "data" / "CONTRACT.md").read_text(encoding="utf-8")
+        historical = (
+            "Its source enum is a Task 1\n"
+            "proposal pending the fresh-context Task 2 audit; it is not independently confirmed here."
+        )
+        disposition = "**Task 2 disposition — 2026-09-03:**"
+        self.assertIn(historical, contract)
+        self.assertIn(disposition, contract)
+        self.assertLess(contract.index(historical), contract.index(disposition))
+        current_disposition = contract[contract.index(disposition):]
+        self.assertIn("STANDS WITH CORRECTION", current_disposition)
+        self.assertIn("source-description corrections only", current_disposition)
+        self.assertIn("AUDIT-CICCONE-SOURCE-RECONCILIATION.md", current_disposition)
+        self.assertNotIn("pending the fresh-context Task 2 audit", current_disposition)
+
+        for artifact, text in (
+            ("README.md", self.readme),
+            ("REPORT.md", report),
+            ("src/build_explorer.py", self.builder),
+        ):
+            with self.subTest(artifact=artifact):
+                self.assertNotIn("Addenda 1–3", text)
+                self.assertNotIn("Addenda 1&ndash;3", text)
+        self.assertIn("Addenda 1–4", self.readme)
+        self.assertIn("Addenda 1–4", report)
+        self.assertIn("Addenda 1&ndash;4", self.builder)
+        for path in (
+            "results/ciccone-2021-2023-source-reconciliation.md",
+            "AUDIT-CICCONE-SOURCE-RECONCILIATION.md",
+        ):
+            self.assertIn(path, self.readme)
+            self.assertIn(path, report)
+
+    def test_report_closes_completed_reviewer_followup_statuses(self):
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        self.assertNotIn("the one browser-QA limitation of this environment", report)
+        self.assertNotIn("a one-line guard for the latent (never-firing) edge case", report)
+        self.assertIn("**Reviewer-follow-up closure — 2026-09-03.**", report)
+        self.assertIn("all-ties/non-identification guard", report)
+        self.assertIn("browser QA is closed", report)
+        self.assertIn("throughout this report", report)
+        self.assertIn("the verifier itself performs no refitting", report)
+        self.assertNotIn("every quantitative statement below", report)
+        self.assertNotIn("this stage refits nothing", report)
+
+    def test_receipt_reconciles_the_protected_scope_from_branch_base(self):
+        receipt = (ROOT / "results" / "final-correction-receipt.md").read_text(encoding="utf-8")
+        followup = receipt[receipt.index("## reviewer-followup/prepublication-reader-gate") :]
+        for expected in (
+            "ec9502bb3dd5e2f6369a89e1ff7310c73ed368a145a1436d4536f4e869ea2979",
+            "cef09a2e1bdd0a061ea8f0ca4457d2f3ce156a933c2bd4a81a3c700825010e66",
+            "4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110",
+            "05081d1f5a27a1565fabc1fca9f4f867f9332726",
+            "1e1c4597fa997f6097cf59f805721f40c608d1c2",
+            "CLAIM_INVENTORY.md",
+            "authorized source-audit adjudication",
+        ):
+            self.assertIn(expected, followup)
+        self.assertNotIn("protected-scope recipe remains", followup)
 
     def test_project_report_links_render_as_clickable_anchors(self):
         report_tab = element(self.page, "section", "tab-report")
@@ -314,7 +387,7 @@ class ReaderFacingSiteTests(unittest.TestCase):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
         self.assertIn("Dated correction — 2026-09-03", sweep)
         self.assertIn("year of record is **2012**", sweep)
-        audit_start = report.index("## Audit and provenance")
+        audit_start = report.index("## 7. Audit and provenance")
         stage3_start = report.index("**Stage 3", audit_start)
         stage3 = report[stage3_start:report.index("**Stage 4", stage3_start)]
         normalized_stage3 = re.sub(r"\s+", " ", stage3).strip()

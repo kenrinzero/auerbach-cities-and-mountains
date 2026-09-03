@@ -22,7 +22,7 @@ The project's novel target is the paper's closing sentence (AU-C11), for which t
 - **H-MC:** on the count-law axis that orders the sentence's own two examples (cities β = 1, wealth β = 2 "schärfer"), "sanfter" reads β < 1 ⇔ ζ < 1 ⇔ **ξ > 1**.
 - **H-MB:** the mechanism clause — "die gebirgsbildende Kraft … reichte über eine bestimmte Grenze nicht hinaus" — implies **bounded support**, so no pure power law; a bounded or truncated family should win the model comparison. On bounded support H-MC is also physically implausible, since ζ < 1 on unbounded support has a divergent mean (receipt D9).
 
-All three are pre-registered and all three are reported (§3.3). Prereg F2 makes bounded support a design constraint, not a footnote: Earth's summit elevations are bounded above by Everest at 8848 m (8848.86 m on the highest-mountains list; the two source articles disagree and neither was reconciled — Stage-3 D15), and every list is bounded below by its own membership rule. Prereg F6 makes the *regional* arms primary evidence rather than an extension, because Auerbach's claim is framed per range ("eines Gebirges").
+All three are pre-registered and all three are reported (§2.3). Prereg F2 makes bounded support a design constraint, not a footnote: Earth's summit elevations are bounded above by Everest at 8848 m (8848.86 m on the highest-mountains list; the two source articles disagree and neither was reconciled — Stage-3 D15), and every list is bounded below by its own membership rule. Prereg F6 makes the *regional* arms primary evidence rather than an extension, because Auerbach's claim is framed per range ("eines Gebirges").
 
 The dated novelty sweep (`results/stage0-novelty-sweep.md`) fixes the delta this project claims. Two papers fit mountain rank–height curves and neither asks Auerbach's question: Miškinis (2011, *Geologija* 53(1):21–26), on a 548-summit list > 3,500 m, concludes the distribution "is approximated by the exponential and not the power function"; a 2023 *J. Applied Mathematics and Physics* paper derives a CIR-type gamma tail and fits six regional classifications. Neither cites Auerbach, neither controls for prominence, neither tests an exponent against 1 with calibrated uncertainty, and neither pre-registers a direction. On the city side, the dated sweep found no prior independent-transcription recomputation of Table 1, modern Sp.K. persistence test on his twelve countries, or MLE treatment of his 94 cities — the only exponent estimate on that data found in the sweep is Auerbach and Ciccone's (2023) Appendix Figure A1 (the fourth figure), which reports an equal-weight OLS slope of −1.15 (robust SE 0.03) for log rank on log population. The surviving delta is therefore narrow and specific: *Auerbach's own question, on prominence-controlled data, with modern goodness-of-fit and alternative-model testing, and with the directional ambiguity resolved by pre-registration rather than by which reading fits.*
 
@@ -31,9 +31,9 @@ The dated novelty sweep (`results/stage0-novelty-sweep.md`) fixes the delta this
 
 
 
-## 3. Results
+## 2. Results
 
-### 3.1 The historical anchor (Stage 1)
+### 2.1 The historical anchor (Stage 1)
 
 Table 1 reproduces **exactly** from the double-entered scan transcription — 94 rows, rank 1 Berlin, ranks consecutive. The printed A.K. over ranks 15–94 has min 45 and max 53 — Auerbach's band, on his own numbers — and the exact products rank × E.Z./100 span 45.12 to 53.10. Under Amendment 1's band-containment criterion the stabilization rank is **r₀ = 15**, exactly his eyeballed value; the deleted ±2% tail-mean rule had returned r₀ = 92 because it is degenerate as specified, not because it was mis-implemented. Step 0 had quantified a provisional tension by reading the published −1.15 slope with robust SE 0.03 as an estimate of ξ: that hypothetical reading gives a 95% CI of **[1.0912, 1.2088]**, whose lower edge sits just above the band-implied upper bound **1.0892** (receipts D1/D1b). Direct inspection of Appendix Figure A1 establishes the inverse orientation and removes that provisional reading.
 
@@ -47,7 +47,7 @@ Sp.K. and the surrounding tables confirm: 47.8/0.645 = 74.109 → 74, and the sc
 
 **P7, the Monte Carlo.** At n = 94 with the fitted zeta as truth (2,000 replicates): the MLE has bias −0.0044, RMSE 0.1007 and nominal-95% coverage 0.943; population-on-rank OLS has bias +0.0588, RMSE 0.1537 and coverage **0.158 classical / 0.636 HC0 / 0.640 HC1 / 0.420 HC3**. Severe undercoverage under every SE convention. The source labels its 0.03 only as a robust standard error; the project's HC3 values of 0.0291 and 0.0328 are comparisons, not evidence that the source used HC3. The coverage result is therefore reported per convention rather than attributed to Auerbach and Ciccone.
 
-### 3.2 Modern cities (Stage 2)
+### 2.2 Modern cities (Stage 2)
 
 **Germany, the Table-1 mirror.** On the true 2025 administrative cross-section (n = 131 places ≥ 50,000; national population 83577140) the A.K. band over ranks 15–131 is 57.4 to 87.2, and over all ranks 36.9 to 87.2. The 1910 *level* (45–53) does not transfer — A.K. scales with city size relative to national population, and a century of urbanization moved it — while exact-count zeta MLE gives α = 1.9261 → **ξ = 1.0798**, bootstrap 95% CI [0.887, 1.219], with OLS below the MLE at 0.8397 (HC3 0.0157). Compared with the 1913 interval [0.7787, 1.1851], the overlapping intervals do not establish a change in exponent. A.K. mean 75.87 over all ranks and 78.85 over the tail; Sp.K. 90.8, primacy-excluded 92.7.
 
@@ -57,7 +57,7 @@ Sp.K. and the surrounding tables confirm: 47.8/0.645 = 74.109 → 74, and the sc
 
 Primacy sensitivity is reported alongside every value, per prereg §4.5, because Sp.K. is primacy-fragile by construction at small n: UK 153.2 → 173.0, AT 94.2 → 63.0 (Vienna's share at n = 6), RU 117.9 → 126.9; India is primacy-insensitive at n = 339 (34.0 → 34.0) once the audit removed the artifact row that had made "Mumbai dominance" look like a 850.9 swing.
 
-### 3.3 Mountains (Stage 3) — AU-C11
+### 2.3 Mountains (Stage 3) — AU-C11
 
 Membership rule = prominence cutoff; fitted variable = summit elevation in metres; h_min by Clauset KS-distance minimization, genuinely selecting after the F1 fix — every selected cutoff is interior, and the KS distances roughly halve against the floor fits (A0: 0.0808 vs 0.2000). Six models on identical subsamples; the forced full-support fit is reported separately per the frozen design. All numbers below are the **corrected** ones.
 
@@ -105,7 +105,7 @@ Three honesty notes belong in the body, not a footnote. (i) On A0 **all six fami
 
 **List integrity and custody.** The parsed A0 union is 1522 distinct summits against the index article's stated world total of 1516 — a delta of +6, inside the pre-frozen tolerance [1490, 1540] — after merging 68 duplicate rows by link target. Per-article deltas run from −2 (South America) to +14 (West Asia) and are printed line by line in `results/stage3-parse-report.txt`; the audit re-verified the North America master table's 353 rows and the Rockies sub-table structural repair by an independent rendered-HTML route. The regional arm sizes recompute exactly from the derived CSVs: 44 Alps, 77 Himalayas, 36 Rockies, and 492 / 189 / 90 / 22 for the prominence sweep. The Wikidata snapshot (1543 QIDs) is a **cross-check only and was never fitted** (D8): 73 QIDs carry no elevation, 276 an impossible one (max 16,390 m), 95 a prominence above elevation beyond the parser's 0.5 m tolerance; the parse report prints 1085 A1-passing QIDs under one-row-per-QID semantics and the audit cites 1110 under any-row semantics, and either way ≈1.1k ≪ 1522 with nothing fitted resting on it. The coordinate-duplicate assertion ran on the 440 A0 rows that carry coordinates and found 0 pairs within 1 km; on the Wikidata snapshot it finds 10 pairs, each adjudicated individually (two genuine duplicate items, two genuinely distinct neighbouring summits).
 
-### 3.4 Adjudication of every claim (prereg §7 language)
+### 2.4 Adjudication of every claim (prereg §7 language)
 
 | Claim | Verdict | Evidence |
 |---|---|---|
@@ -129,7 +129,7 @@ Three honesty notes belong in the body, not a footnote. (i) On A0 **all six fami
 | EXT-C2 Saibante's 17-country α table | **unverifiable here** (re-fit); transcription confirmed | α_S range [0.82, 1.68] transcribed; convention flip α_S = ζ = 1/ξ asserted programmatically (ξ ∈ [0.595, 1.220]). Era census counts for the re-fit not obtainable → all 17 countries data-blocked. |
 | EXT-C3 Lotka's ξ ≈ 0.93 | **not attempted** | Optional arm; skipped rather than rushed, per the Stage-1 work order. Recorded, not dropped. |
 
-## 4. The defensible claim
+## 3. The defensible claim
 
 > **On Auerbach's own 1913 tables, recomputed from a double-entry transcription of the scan, the A.K. band 45–53 and stabilization rank 15 reproduce on his own containment criterion, and a free-exponent MLE over all 94 cities gives ξ = 0.9801; the wide 95% interval [0.7787, 1.1851] includes 1 and cannot sharply distinguish nearby exponents, while the point estimate is inside the band-implied tolerance ξ ∈ [0.911, 1.089]. The important historical qualifier is that the printed 47,8 reproduces as an all-94 mean (47.8723 printed / 47.7540 exact), not the tail mean his prose states (50.0250 / 49.8870). Auerbach and Ciccone's (2023) Appendix Figure A1 reports equal-weight OLS of log rank on log population with slope −1.15 (robust SE 0.03); the project's separate inverse-regression reproduction is −1.1489 (HC3 SE 0.0328), whose magnitude maps to ζ = 1/ξ and ξ = 0.8704. At n = 94 the project's population-on-rank regression has coverage 15.8% under classical standard errors and 42.0% under HC3, against 94.3% for the MLE. On modern data the level moves: Germany's 2025 administrative cross-section gives ξ = 1.0798 (CI [0.887, 1.219]) with its A.K. band displaced to 57.4–87.2, and the overlapping intervals do not establish a change in exponent. The twelve-country ordering is not intact after 110 years; Kendall τ = +0.5556 (p = 0.0436) is exploratory at nine one-to-one complexes and one reassignment away from non-significance, with +0.6364 and +0.4545 on the two preregistered successor arms. FUA-versus-Gemeinde gives +72.04% against Auerbach's 4.05%, or roughly 70%, direction-only under this coarse FUA-versus-municipality proxy, which is likely to overstate a suburb-merging effect rather than provide a like-for-like replication. Auerbach's mountain wording is directionally ambiguous; the preregistered H-MR reading is supported in all four primary arms after Holm–Bonferroni (largest adjusted p = 2.168e-11, Alps), but the empirical form splits by arm. Relative model evidence gives bounded family wins (H-MB) in A0/A1/A2/A3/R2, while A4/R1/R3 meet the full M-rank confirmation lane and M-count is supported nowhere; A0 itself rejects every fitted family on absolute GoF (p = 0.0020 at h_min = 2634 m), despite the best relative ΔAICc of −241.15. AU-C11 therefore remains compatible with qualifiers on bounded support: its descriptive justification clause holds sharply (global h(1)/h(2) = 1.0272; every adjacent pair within 5%, 99.6% within 1%), and the empirical bounded-support implication is compatible, but no tectonic causal mechanism was tested. Summit-list coverage bias pushes ξ̂ toward the H-MR result, the prominence sweep moves monotonically in that direction (0.4598 → 0.4019 → 0.3853 → 0.3532 → 0.1904), and cutoff selection is unstable under resampling (A0 h_min median 2577 m, ξ CI [0.1164, 0.5218]); all three limitations travel with the claim.**
 
@@ -137,7 +137,7 @@ One-sentence form: *Auerbach's city band and free exponent reproduce with the qu
 
 Scoped exactly to the evidence: ten arms, two of which (E1/E1b) carry no lane at all; three pre-registered ranges, not "mountains in general"; prominence-defined lists whose own membership rule is a lower cutoff; German and twelve-country city arms at stated thresholds and reference years; AU-C3, AU-C8-modern, EXT-C2 and EXT-C3 unverified or unattempted and labelled so; AU-C12 parked; AU-C13 speculative.
 
-## 5. Prediction scoreboard (PREREGISTRATION.md §6, quoted verbatim)
+## 4. Prediction scoreboard (PREREGISTRATION.md §6, quoted verbatim)
 
 | # | Prediction as frozen 2026-09-01 | Verdict | Evidence |
 |---|---|---|---|
@@ -152,7 +152,7 @@ Scoped exactly to the evidence: ten arms, two of which (E1/E1b) carry no lane at
 
 Scoreboard: **six borne out** (P1 with one qualifier, P3, P4, P5, P6 with qualifiers, P7), **one failed** (P2), **one unverifiable here** (P8). The failure and the unverifiable are results, and they are the two that changed how the city-side claim can be stated: P2's failure prompted the EXT-C1 check, whose inverse-axis orientation direct source inspection confirmed, and P8 is why AU-C3 reads *unverifiable here* rather than *confirmed*.
 
-## 6. Deviations and corrections — the full dated record
+## 5. Deviations and corrections — the full dated record
 
 Nothing here is hidden or silently folded in. Corrections to frozen artifacts landed only via dated amendment; corrections to stage and public-facing artifacts landed only with the user's approval; each defect below retains its dated disposition.
 
@@ -176,9 +176,11 @@ Nothing here is hidden or silently folded in. Corrections to frozen artifacts la
 
 **Stage 4 → cross-agent final audit (Codex #1000; user-approved correction pass #1001, 2026-09-03).** `AUDIT-2026-09-03-final.md` accepted the scientific/computational package and required five public-facing corrections, with one recommended cleanup folded into the same pass: **F1** reversed the mistaken inference about the A0 α interval; **F2** separated the primary 20260902 and sensitivity-arm 20260903 permutation streams; **F3** restored the preregistered qualifiers to the public synthesis; **F4** corrected the original page range; **F5** refreshed the status and correction history; **F6** traced the seed-specific floor-GoF bound to the preserved pre-correction receipt/Stage-3 audit and disclosed the explorer's display rounding. `PREREGISTRATION.md`, `CLAIM_INVENTORY.md`, raw/derived custody and all frozen Stage-1/2/3 receipts were untouched.
 
-Also open and non-blocking, carried forward rather than closed: the per-country FUA (topographic-arm) τ; the full IN+PK+BD successor pool; DC-1b → AU-C3 and DC-2d → AU-C8's modern analog; DC-1c → EXT-C2's re-fit; EXT-C3; Miškinis's own 548-summit comparator (D7); a prominence-as-variable arm; a cleaned-and-fitted Wikidata arm; and a one-line guard for the latent (never-firing) edge case in the corrected h_min selector where a candidate tail of all ties would score −∞ and win the argmin (zero such candidates in all ten arms).
+**Reviewer-follow-up closure — 2026-09-03.** The all-ties/non-identification guard for the corrected h_min selector is now explicit and regression-covered; the forced full-support fit remains separately reportable, and the isolated Stage-3 rerun confirms that no real arm changed. The source-version audit is complete with a **STANDS WITH CORRECTION** disposition, and browser QA is closed on desktop and mobile widths with keyboard, overflow, accessibility and console checks recorded in `results/final-correction-receipt.md`.
 
-## 7. Limitations
+Still open and non-blocking: the per-country FUA (topographic-arm) τ; the full IN+PK+BD successor pool; DC-1b → AU-C3 and DC-2d → AU-C8's modern analog; DC-1c → EXT-C2's re-fit; EXT-C3; Miškinis's own 548-summit comparator (D7); a prominence-as-variable arm; and a cleaned-and-fitted Wikidata arm.
+
+## 6. Limitations
 
 1. **Coverage bias in every summit list, direction frozen pre-fit.** The ultra lists are climbing-community products (peaklist lineage): the Karakoram, Tibet, Alaska, Antarctica and New Guinea entries are the least completely surveyed, the Alps (R1) the best surveyed, the Rockies (R3) intermediate, and the Himalaya arm (R2) mixes well-surveyed Nepal with sparsely surveyed Sino-Nepal provinces — the arm where selection jumps to 6495 m, consistent with a two-regime list. Missed remote summits are mid-height, so undercoverage and climbed-peak overrepresentation both bias ξ̂ **downward**, i.e. toward Auerbach. The prominence sweep moved monotonically in exactly that predicted direction, so the sweep is evidence about the bias and cannot be read as evidence about the law.
 2. **Cutoff selection dominates the mountain uncertainty.** The corrected CIs are wide (A0 [0.1164, 0.5218]) and h_min moves under resampling (A0 median 2577 m vs selected 2634 m). Conditional statements understate this; the compatibility readings here are on the joint-bootstrap intervals. M2–M6 CIs are bootstrapped with h_min *fixed* (B = 500) against M1's joint bootstrap (B = 2000 on the primary arms), so their intervals do not carry selection uncertainty at all (D4).
@@ -190,18 +192,18 @@ Also open and non-blocking, carried forward rather than closed: the per-country 
 8. **Superpopulation framing.** The city tables are censuses and the summit lists are enumerations, so all intervals are model-based variability under the fitted data-generating distribution, not sampling error.
 9. **What this report is not.** No mechanistic claim about tectonic "driving forces" (AU-C13 stays speculative); no wealth-distribution test (AU-C12 parked); no bibliometric limb (the Rybski–Ciccone ALZ claims belong to a different paper and a separate future project).
 
-## Audit and provenance
+## 7. Audit and provenance
 
 **Project:** `paper-claims/auerbach-mountains-and-cities` · **Deliver stage:** 2026-09-03 (Qoder, katflow #994) · **Final-audit corrections:** 2026-09-03 (Codex, katflow #1001) · **Citation/prose audit:** 2026-09-03 (Codex, katflow #1010)
-**Contract:** `PREREGISTRATION.md` (frozen 2026-09-01; Amendment 1 in force 2026-09-02) · `CLAIM_INVENTORY.md` (frozen 2026-09-01; AU-C2 parenthetical corrected 2026-09-02) · `data/CONTRACT.md` + Addenda 1–3 · `results/stage0-novelty-sweep.md` (dated prior-art record)
+**Contract:** `PREREGISTRATION.md` (frozen 2026-09-01; Amendment 1 in force 2026-09-02) · `CLAIM_INVENTORY.md` (frozen 2026-09-01; AU-C2 parenthetical corrected 2026-09-02) · `data/CONTRACT.md` + Addenda 1–4 · `results/stage0-novelty-sweep.md` (dated prior-art record) · `results/ciccone-2021-2023-source-reconciliation.md` with `AUDIT-CICCONE-SOURCE-RECONCILIATION.md` (fresh-context source-version audit; STANDS WITH CORRECTION)
 **Evidence base:** `results/step0-derivation-checks.txt` (26 derivation receipts), `results/stage1-recompute.txt`, `results/stage2-recompute.txt`, `results/stage3-recompute.txt` (corrected 2026-09-03, SHA-256 `6ee0540c…193c7`; the pre-correction file is history only and is never quoted), `results/stage3-parse-report.txt`, and the manifested derived tables in `data/derived/` (`MANIFEST.sha256`).
-**Number verification:** every quantitative statement below is re-derived by `src/verify_report_numbers.py` → `results/deliver-number-checks.txt` (109 `CLAIM` lines). Deterministic quantities are recomputed from the derived CSVs; fitted quantities are read from the frozen receipts — **this stage refits nothing**. The script additionally asserts that each cited numeral occurs in this file verbatim at the stated rounding, and cross-checks the receipts' own summary blocks (P5/P6/lanes/Holm) against their per-arm blocks.
-**Detailed synthesis:** `results/stage1-summary.md`, `results/stage2-summary.md`, `results/stage3-summary.md`; audits `AUDIT-2026-09-02.md` (Stage 1), `AUDIT-2026-09-02-stage2.md` (Stage 2), `AUDIT-2026-09-03-stage3.md` (Stage 3), `AUDIT-2026-09-03-stage4.md` plus `AUDIT-2026-09-03-stage4-verification.md` (Stage 4), and `AUDIT-2026-09-03-final.md` (cross-agent final audit; F1–F6 applied in this correction pass).
+**Number verification:** every quantitative statement throughout this report is re-derived by `src/verify_report_numbers.py` → `results/deliver-number-checks.txt` (109 `CLAIM` lines). Deterministic quantities are recomputed from the derived CSVs; fitted quantities are read from the frozen receipts — **the verifier itself performs no refitting**. The script additionally asserts that each cited numeral occurs in this file verbatim at the stated rounding, and cross-checks the receipts' own summary blocks (P5/P6/lanes/Holm) against their per-arm blocks.
+**Detailed synthesis:** `results/stage1-summary.md`, `results/stage2-summary.md`, `results/stage3-summary.md`; source reconciliation `results/ciccone-2021-2023-source-reconciliation.md` and its fresh-context audit `AUDIT-CICCONE-SOURCE-RECONCILIATION.md`; stage audits `AUDIT-2026-09-02.md` (Stage 1), `AUDIT-2026-09-02-stage2.md` (Stage 2), `AUDIT-2026-09-03-stage3.md` (Stage 3), `AUDIT-2026-09-03-stage4.md` plus `AUDIT-2026-09-03-stage4-verification.md` (Stage 4), and `AUDIT-2026-09-03-final.md` (cross-agent final audit; F1–F6 applied in this correction pass).
 **Explorer:** `results/explorer.html` — self-contained, no network, no external assets.
 
 The audit structure has four distinct dimensions: Stage 1 used double-entry scan transcription; corrected Stage 3 values received a fresh-code re-derivation; stage and final checks were cross-agent implementation review; and no independent external conceptual replication was performed. The cross-agent audits caught consequential implementation defects; they are not independent human conceptual replication and do not rule out shared model-family blind spots.
 
-### Operational chronology — what was done (frozen before anything was fitted)
+### 7.1 Operational chronology — what was done (frozen before anything was fitted)
 
 **Stage 0 (T1, Kimi, frozen 2026-09-01).** Claim inventory AU-C1…C13 + EXT-C1…C3 with checkability and tier; 26 Step-0 derivation receipts (`src/step0_derivation_checks.py`); the dated novelty sweep; `data/CONTRACT.md`; `PREREGISTRATION.md` — notation, the six Step-0 findings F1–F6, per-stage contracts §3–§5, eight predictions §6 written before analysis code, fixed verdict language §7. No fitting before this freeze.
 
@@ -218,8 +220,8 @@ The audit structure has four distinct dimensions: Stage 1 used double-entry scan
 
 - **Published pipeline:** `src/step0_derivation_checks.py`; `src/stage1_recompute.py`; `src/stage2_parse_raw.py` → `src/stage2_modern.py`; `src/stage3_parse_raw.py` → `src/stage3_mountains.py`. The publication layer adds only `src/verify_report_numbers.py` and `src/build_explorer.py`.
 - **Publication receipts:** `results/deliver-number-checks.txt` — regenerate with `python src/verify_report_numbers.py` (it writes the file itself, UTF-8/LF/no BOM, and exits non-zero on any mismatch or missing needle). `results/explorer.html` — regenerate with `python src/build_explorer.py`; self-contained, opens from `file://` with the network disabled.
-- **Final correction receipt:** `results/final-correction-receipt.md` records the approved F1–F6 changes, deterministic gates, protected-artifact aggregate, new hashes, and the one browser-QA limitation of this environment.
+- **Final correction receipt:** `results/final-correction-receipt.md` records the approved correction chain, deterministic gates, protected-artifact aggregate reconciliation, current hashes, and the closed desktop/mobile browser-QA evidence.
 - **Stage-3 receipts authority:** `results/stage3-recompute.txt`, SHA-256 `6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7`; seeds 20260904 (joint bootstrap, GoF) and 20260915 (jitter). The pre-correction file `results/stage3-recompute-precorrection-2026-09-03.txt` (SHA-256 `b8650d34…c07`) is preserved for history and is never quoted.
 - **Raw custody:** `data/raw/` with per-stage manifests (Stage 3: 22 sources, SHA-256 + revid + retrieval timestamp + licence in `_manifest.json`); derived tables under `data/derived/MANIFEST.sha256`, contract rule 2 (no hand-produced CSVs) enforced by the parsers.
-- **Standing-checklist walk:** `results/stage4-checklist-walk.md`, walked lens by lens against the draft of this report before §4 was finalized.
+- **Standing-checklist walk:** `results/stage4-checklist-walk.md`, walked lens by lens against the draft of this report before §3 was finalized.
 - **Audit and publication:** complete. Kimi's Stage-4 cross-agent audit, Qoder's verification, Codex's cross-agent final audit, and the citation-and-prose audit are preserved in the repository. The live site is generated from this report by `src/build_explorer.py`.

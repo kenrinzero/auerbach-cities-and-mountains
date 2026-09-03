@@ -1152,7 +1152,7 @@ def main():
         "SciPy 1.18.1. Permutation seeds 20260902 (primary) and 20260903 (sensitivity); Stage-3 seeds "
         "20260904 and 20260915. This page carries no timestamp and rebuilds byte-for-byte.</div>",
         '<div style="margin-top:6px">Deviations from the frozen contract exist only as dated appended entries '
-        "(D1&ndash;D17 in the stage records, Amendment 1 in the pre-registration, Addenda 1&ndash;3 in the data "
+        "(D1&ndash;D17 in the stage records, Amendment 1 in the pre-registration, Addenda 1&ndash;4 in the data "
         "contract). Superpopulation framing: the city tables are censuses and the summit lists are enumerations, "
         "so every interval here is model-based variability under the fitted distribution, not sampling error.</div>",
         "</div>",

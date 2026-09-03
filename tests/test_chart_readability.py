@@ -279,7 +279,7 @@ class ChartReadabilityTests(unittest.TestCase):
 
     def test_report_contents_jump_transfers_focus_and_keeps_tab_order_local(self):
         self.activate("Full report")
-        link = self.page.get_by_role("link", name="4. The defensible claim", exact=True)
+        link = self.page.get_by_role("link", name="3. The defensible claim", exact=True)
         target_id = link.get_attribute("href").removeprefix("#")
         link.click()
         self.page.wait_for_timeout(100)

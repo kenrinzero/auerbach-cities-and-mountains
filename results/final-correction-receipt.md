@@ -435,6 +435,24 @@ neutral `Project links`, abstract and results before audit/provenance, and opera
 retained later. This pre-deployment candidate does not claim that its local bytes already match a
 live deployment.
 
+**Protected-scope aggregate reconciliation.** The historical audit record gives
+`ec9502bb3dd5e2f6369a89e1ff7310c73ed368a145a1436d4536f4e869ea2979` as the expected
+baseline for the stated 59-file recipe. Independent recomputation of that exact recipe at the
+repository's root package commit (`6f5fb0e`) and at reviewer-followup branch base
+`05081d1f5a27a1565fabc1fca9f4f867f9332726` instead gives
+`cef09a2e1bdd0a061ea8f0ca4457d2f3ce156a933c2bd4a81a3c700825010e66`. Git history
+contains no protected-scope change between those commits, so the historical `ec9502bb…` value
+cannot be the digest of the committed branch-base tree; no per-file listing or earlier Git snapshot
+was preserved from the pre-commit working tree, so that historical value is retained as an
+unreproducible pre-commit record rather than treated as the baseline for this branch.
+
+From branch base to the final reviewer-followup state, the sole protected changed path is
+`CLAIM_INVENTORY.md`: commit `edc040e` appended the dated EXT-C1 disposition for the
+authorized source-audit adjudication without rewriting the frozen Stage-0 row. The independently recomputed
+aggregate at pre-closure HEAD `1e1c4597fa997f6097cf59f805721f40c608d1c2` and after this
+docs-only closure is `4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`.
+No raw file, derived table, preregistration, or frozen Stage-0–3 plan/receipt changed.
+
 **Gate sequence.** On the frozen pre-reader candidate (`238e9f9`), deterministic verification
 passed: 109/109 verifier claims, 26/26 tests, and a byte-stable 194,799-byte explorer mirror with
 SHA-256 `fbf4ab5e17eb2da4e40f8f7c6abc14a1f85bb50efb7a4d834d755cdc524300a9`.
@@ -459,7 +477,7 @@ byte-identical at **200,940 bytes** and SHA-256
 `5f9eab19ae6bb79c46d3dd2eb17734c965794ab80435228d2beb09e97e145299`.
 The isolated Stage 3 receipt remains exactly
 `6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7`; the derived and raw
-manifests pass 16/16 and 22/22 respectively; and the exact 59-file protected-scope recipe remains
+manifests pass 16/16 and 22/22 respectively; and the exact 59-file protected-scope aggregate is
 `4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`. UTF-8/LF/no-BOM,
 inline-JavaScript syntax, stale-public-state, and `git diff --check` gates pass.
 
