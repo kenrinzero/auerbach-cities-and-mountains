@@ -974,6 +974,11 @@ def render_report_md(path):
 
     def inline(s):
         s = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        s = re.sub(
+            r"\[([^\]\n]+)\]\((https?://[^\s<>()]+)\)",
+            r'<a href="\2">\1</a>',
+            s,
+        )
         s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
         s = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", s)
         s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)

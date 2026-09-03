@@ -159,12 +159,30 @@ class ReaderFacingSiteTests(unittest.TestCase):
 
     def test_full_report_opens_as_a_finished_publication(self):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
-        opening = report[:1800]
-        self.assertIn("**Published:**", opening)
-        self.assertIn("## Abstract", opening)
+        published = report.index("**Published:**")
+        abstract = report.index("## Abstract")
+        notation = report.index("Notation is the preregistration's §1")
+        question = report.index("## 1. The question")
+        audit = report.index("## Audit and provenance")
+        reproducibility = report.index("## 8. Reproducibility")
+        self.assertLess(published, abstract)
+        self.assertLess(abstract, notation)
+        self.assertLess(notation, question)
+        self.assertLess(question, audit)
+        self.assertLess(audit, reproducibility)
+        self.assertNotRegex(report[audit + 1:reproducibility], r"(?m)^## ")
+        opening = report[:question]
         self.assertNotIn("katflow #", opening)
         self.assertNotIn("Deliver stage", opening)
-        self.assertIn("## Audit and provenance", report)
+
+    def test_published_report_links_render_as_clickable_anchors(self):
+        report_tab = element(self.page, "section", "tab-report")
+        for label, url in (
+            ("live site", "https://kenrinzero.github.io/auerbach-cities-and-mountains/"),
+            ("public source", "https://github.com/kenrinzero/auerbach-cities-and-mountains"),
+        ):
+            self.assertIn(f'<a href="{url}">{label}</a>', report_tab)
+            self.assertNotIn(f"[{label}]({url})", report_tab)
 
     def test_current_public_prose_has_no_work_order_voice(self):
         current = visible_text(self.page)
@@ -175,6 +193,8 @@ class ReaderFacingSiteTests(unittest.TestCase):
             "probable separate project",
         ):
             self.assertNotIn(stale, current)
+        self.assertIn("current regression suite", self.readme)
+        self.assertNotRegex(self.readme, r"(?m)^python -m unittest discover -s tests -q # 3 tests$")
 
     def test_method_provenance_distinguishes_framework_from_implementation(self):
         public_text = self.readme + visible_text(self.page)

@@ -48,7 +48,7 @@ The defensible claim, the adjudication of all thirteen of Auerbach's claims plus
 | [`INVESTIGATION_CHECKLIST.md`](INVESTIGATION_CHECKLIST.md) | The failure-mode lens set (number inflation, best-seed cherry-picking, config mismatch, aggregation mismatch, phantom results, self-normalised scores, …) walked against the paper at Stage 0 and against the draft report before §4 was finalised — see [`results/stage4-checklist-walk.md`](results/stage4-checklist-walk.md) |
 | [`CREDITS.md`](CREDITS.md) | Who wrote what, who audited whom, and what the agents got wrong |
 
-These controls are distinct: double-entry constrains transcription error, fresh-code re-derivation constrains shared implementation, and cross-agent review checks staged work. None is independent external conceptual replication, and they do not rule out shared model-family blind spots.
+These controls are distinct: double-entry constrains transcription error, fresh-code re-derivation constrains shared implementation, and cross-agent review checks staged work. They are not independent human conceptual replication and do not rule out shared model-family blind spots.
 
 ## Reproduce
 
@@ -63,7 +63,7 @@ python src/stage3_parse_raw.py          # -> data/derived/mountains-*.csv + resu
 python src/stage3_mountains.py          # -> results/stage3-recompute.txt          (~5 min; the fit receipts)
 python src/verify_report_numbers.py     # -> results/deliver-number-checks.txt     (109 claims; exits non-zero on any mismatch)
 python src/build_explorer.py            # -> results/explorer.html AND docs/index.html (asserted byte-identical)
-python -m unittest discover -s tests -q # 3 tests
+python -m unittest discover -s tests -q # current regression suite
 ```
 
 **This was run, not merely written.** The complete analytical pipeline above was executed in an isolated copy of this repository, from the raw data in `data/raw/` alone, and **every protected analytical artifact came back byte-identical** — including `results/stage3-recompute.txt` at SHA-256 `6ee0540c11ab60ef…` (the receipt `REPORT.md` §8 quotes) and `results/deliver-number-checks.txt` at `0c160505b685ced6…`. The then-current explorer also reproduced at `294074ad29d1adcd…`; later reader-facing builds and their separate deterministic checks are recorded in the dated audit chain. The derived tables are additionally hash-manifested at `data/derived/MANIFEST.sha256`, so a reader can verify a regeneration rather than trust it. `src/stage3_mountains.py` emits one benign `RuntimeWarning` from a scipy simplex convergence test on a saturated parameter; it does not affect any fitted value.

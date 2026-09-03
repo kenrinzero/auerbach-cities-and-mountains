@@ -53,36 +53,74 @@ class PublicationCorrectionTests(unittest.TestCase):
         self.assertIn("Gabaix-Ibragimov rank-1/2 xi 0.8027", c19)
 
     def test_public_conclusions_keep_their_decision_critical_qualifiers_adjacent(self):
-        public = self.report + self.readme
-        for expected in (
+        report_claim = self.report[
+            self.report.index("## 4. The defensible claim"):
+            self.report.index("## 5. Prediction scoreboard")
+        ]
+        readme_findings = self.readme[
+            self.readme.index("## Headline findings"):
+            self.readme.index("## The evidence chain")
+        ]
+        calibration = (
             "the wide 95% interval [0.7787, 1.1851] includes 1 and cannot sharply distinguish nearby exponents",
             "roughly 70%, direction-only under this coarse FUA-versus-municipality proxy",
             "exploratory at nine one-to-one complexes and one reassignment away from non-significance",
             "the overlapping intervals do not establish a change in exponent",
-        ):
-            self.assertIn(expected, public)
+        )
+        for artifact, window in (("REPORT.md", report_claim), ("README.md", readme_findings)):
+            with self.subTest(artifact=artifact):
+                for expected in calibration:
+                    self.assertIn(expected, window)
 
-        mountain_start = self.report.index("Since prereg F6")
-        mountain = self.report[
-            mountain_start:self.report.index("**H-MR", mountain_start)
+        report_mountain_start = self.report.index("Since prereg F6")
+        report_mountain = self.report[
+            report_mountain_start:self.report.index("\n\n", report_mountain_start)
         ]
-        for expected in (
-            "coverage bias",
-            "bounded support",
-            "rejects every fitted family",
-            "cutoff",
-        ):
-            self.assertIn(expected, mountain)
+        readme_mountain_start = self.readme.index("8. **The mountain claim")
+        readme_mountain = self.readme[
+            readme_mountain_start:self.readme.index("\n", readme_mountain_start)
+        ]
+        for artifact, paragraph in (("REPORT.md", report_mountain), ("README.md", readme_mountain)):
+            with self.subTest(artifact=artifact, scope="mountain verdict"):
+                for expected in ("coverage bias", "bounded support", "absolute", "cutoff"):
+                    self.assertIn(expected, paragraph)
+
+        one_sentence_start = self.report.index("One-sentence form:")
+        one_sentence = self.report[one_sentence_start:self.report.index("\n\n", one_sentence_start)]
+        self.assertIn("overlapping intervals do not establish whether the exponent changed", one_sentence)
+        self.assertIn("levels and ordering move", one_sentence)
+        self.assertNotIn("the shape persists", one_sentence)
 
     def test_audit_provenance_names_each_dimension_without_claiming_external_replication(self):
-        public = self.report + self.readme + self.explorer
-        for expected in (
-            "double-entry",
-            "fresh-code",
-            "cross-agent",
-            "not independent human conceptual replication",
+        report_audit = self.report[
+            self.report.index("## Audit and provenance"):
+            self.report.index("## 8. Reproducibility")
+        ]
+        readme_audit_start = self.readme.index("These controls are distinct:")
+        readme_audit = self.readme[readme_audit_start:self.readme.index("\n\n", readme_audit_start)]
+        footer_start = self.explorer.index("The controls have distinct dimensions:")
+        footer = self.explorer[footer_start:self.explorer.index("</div>", footer_start)]
+        for artifact, window in (
+            ("REPORT.md audit section", report_audit),
+            ("README.md audit paragraph", readme_audit),
+            ("generated footer audit paragraph", footer),
         ):
-            self.assertIn(expected, public)
+            with self.subTest(artifact=artifact):
+                for expected in (
+                    "double-entry",
+                    "fresh-code",
+                    "cross-agent",
+                    "not independent human conceptual replication",
+                ):
+                    self.assertIn(expected, window)
+
+        detailed_start = report_audit.index("**Detailed synthesis:**")
+        detailed = report_audit[detailed_start:report_audit.index("\n", detailed_start)]
+        stage4_start = report_audit.index("**Stage 4")
+        stage4 = report_audit[stage4_start:report_audit.index("\n", stage4_start)]
+        for historical_entry in (detailed, stage4):
+            self.assertIn("cross-agent final audit", historical_entry)
+            self.assertNotIn("independent final audit", historical_entry)
 
 
 if __name__ == "__main__":
