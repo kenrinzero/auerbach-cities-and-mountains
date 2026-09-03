@@ -167,10 +167,12 @@ class ReaderFacingSiteTests(unittest.TestCase):
         sweep = (ROOT / "results" / "stage0-novelty-sweep.md").read_text(encoding="utf-8")
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
         self.assertIn("Dated correction — 2026-09-03", sweep)
-        self.assertIn("year of record is 2012", sweep)
+        self.assertIn("year of record is **2012**", sweep)
         stage3 = report[report.index("**Stage 3"):report.index("**Stage 4")]
-        self.assertIn("subsequently obtained and preserved", stage3)
-        self.assertIn("not yet ingested or analysed", stage3)
+        normalized_stage3 = re.sub(r"\s+", " ", stage3).strip()
+        historical = "the Scaruffi path probed returned 404, so Miškinis's 548-summit list was not obtainable within Stage 3)."
+        corrective = "The correct page was subsequently obtained and preserved, remains outside the fitted corpus, and is not yet ingested or analysed pending a dated data-contract addendum."
+        self.assertIn(historical + " " + corrective, normalized_stage3)
 
 
 if __name__ == "__main__":

@@ -67,7 +67,7 @@ same EPB issue discussing K and S_n.
    flagged in 1910 (AU-C9).
 
 **Dated correction — 2026-09-03:** the Berry and Okulicz-Kozaryn paper's
-year of record is 2012 (**2012**) (*Cities* 29(S1):S17–S23); December 2011 is its
+year of record is **2012** (*Cities* 29(S1):S17–S23); December 2011 is its
 online-publication date. The 2011 label above is retained as part of this
 2026-09-01 search record and is superseded by this correction.
 3. Model-set consequence (prereg §5.2): truncated PL, cutoff PL, gamma-type tail,
