@@ -40,5 +40,6 @@ STAGE4_WORK_ORDER.md
 # Build detritus
 # ---------------------------------------------------------------------------
 
+.worktrees/
 __pycache__/
 *.pyc
