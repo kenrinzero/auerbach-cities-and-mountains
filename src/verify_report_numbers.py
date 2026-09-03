@@ -659,10 +659,16 @@ def main():
     p6 = dict((m[0], m) for m in graball(
         r"^   (%s)\s+M6a R2\(log\) ([\d.]+) RMS\s+([\d.]+) m hmax\s+([\d.]+) \| M6b AICc\s+([\d.]+) vs M1\s+([\d.]+) \(dAICc\s+([+-][\d.]+)\), Vuong z ([+-][\d.]+) p (\S+)$"
         % "|".join(ARMS), S3.split("[P6 inputs]")[1].split("====")[0], re.M))
-    claim("C52", "P6 Miskinis: M6a rank-space R2(log) %s; M6b dAICc vs M1 %s"
+    a4 = A["A4"]
+    a4_m6b = a4["models"]["M6b miskinis-dens"]
+    claim("C52", "P6 Miskinis: M6a rank-space R2(log) %s; M6b dAICc vs M1 %s; "
+                 "A4 decision companions dAICc %.2f, Vuong p %s, M6b GoF p %.4f, M1 GoF p %.4f, lane %s"
           % (" / ".join("%s %s" % (k, p6[k][1]) for k in ("A0", "R1", "R2", "R3", "E1") if k in p6),
-             " / ".join("%s %s" % (k, p6[k][6]) for k in ("A0", "R1", "R2", "R3", "E1") if k in p6)),
-          ["0.99244", "0.99447", "0.81840", "0.92308", "-241.15", "-6.47", "-6.85", "-4.44", "+0.65"],
+             " / ".join("%s %s" % (k, p6[k][6]) for k in ("A0", "R1", "R2", "R3", "E1") if k in p6),
+             a4["d_best"], a4_m6b["vp"], a4_m6b["gof"],
+             a4["models"]["M1 pl"]["gof"], a4["lane"]),
+          ["0.99244", "0.99447", "0.81840", "0.92308", "-241.15", "-6.47", "-6.85", "-4.44", "+0.65",
+           "A4", "-25.47", "0.5619", "0.0020", "0.7665", "M-rank supported"],
           "receipts stage3 P6 block")
     for k in ("A0", "R1", "R2", "R3"):
         if k in p6 and abs(f(p6[k][1]) - A[k]["m6a_r2"]) > 1e-9:
@@ -673,7 +679,6 @@ def main():
                   "Miskinis rank form cannot reach Everest in that arm (alpha_M %.4f, RMS %.1f m)"
           % (A["R2"]["m6a_hmax"], A["R2"]["h_hi"], A["R2"]["m6a_am"], A["R2"]["m6a_rms"]),
           ["7863.2", "8848", "0.4435", "387.0"], "receipts stage3")
-
     # -- C53 Auerbach's own clause, recomputed from the CSVs ----------------
     def clause(elevs):
         e = sorted(elevs, reverse=True)

@@ -214,6 +214,90 @@ class ChartReadabilityTests(unittest.TestCase):
                     self.assertGreater(result["pointCount"], 0)
                     self.assertEqual(1, result["thresholdCount"])
 
+    def test_every_chart_has_a_visible_heading_name_and_description(self):
+        expected = {
+            "1913 cities": ("#c1913", "#cak", "#cmc", "#ct2"),
+            "Modern cities": ("#cslope", "#ctau", "#cde", "#cdeband"),
+            "Mountains": ("#cmount", "#crail", "#creg"),
+        }
+        for tab, containers in expected.items():
+            self.activate(tab)
+            for container in containers:
+                with self.subTest(tab=tab, chart=container):
+                    result = self.page.locator(container + " svg").evaluate(
+                        """svg => {
+                            const labelledby = svg.getAttribute("aria-labelledby");
+                            const describedby = svg.getAttribute("aria-describedby");
+                            const label = labelledby && document.getElementById(labelledby);
+                            const description = describedby && document.getElementById(describedby);
+                            return {
+                                role: svg.getAttribute("role"),
+                                labelledby,
+                                describedby,
+                                labelText: label && label.textContent.trim(),
+                                descriptionText: description && description.textContent.trim(),
+                            };
+                        }"""
+                    )
+                    self.assertEqual("img", result["role"])
+                    self.assertTrue(result["labelledby"])
+                    self.assertTrue(result["describedby"])
+                    self.assertTrue(result["labelText"])
+                    self.assertTrue(result["descriptionText"])
+
+    def test_mobile_tabs_keep_overflow_local_to_accessible_table_regions(self):
+        try:
+            for width in (390, 392):
+                self.page.set_viewport_size({"width": width, "height": 844})
+                for tab in (
+                    "Overview", "Full report", "Scoreboard", "1913 cities",
+                    "Modern cities", "Mountains", "Data & custody",
+                ):
+                    with self.subTest(width=width, tab=tab):
+                        self.activate(tab)
+                        metrics = self.page.evaluate(
+                            """() => ({
+                                scrollWidth: document.documentElement.scrollWidth,
+                                clientWidth: document.documentElement.clientWidth,
+                            })"""
+                        )
+                        self.assertEqual(metrics["clientWidth"], metrics["scrollWidth"])
+
+                self.activate("Mountains")
+                table_region = self.page.locator("#tmodels").locator("xpath=..")
+                self.assertEqual("region", table_region.get_attribute("role"))
+                self.assertEqual("0", table_region.get_attribute("tabindex"))
+                self.assertIn("scroll horizontally", table_region.get_attribute("aria-label"))
+                scroll = table_region.evaluate(
+                    "el => ({clientWidth: el.clientWidth, scrollWidth: el.scrollWidth})"
+                )
+                self.assertGreater(scroll["scrollWidth"], scroll["clientWidth"])
+                table_region.evaluate("el => { el.scrollLeft = el.scrollWidth; }")
+                self.assertGreater(table_region.evaluate("el => el.scrollLeft"), 0)
+        finally:
+            self.page.set_viewport_size({"width": 1180, "height": 900})
+
+    def test_report_contents_jump_transfers_focus_and_keeps_tab_order_local(self):
+        self.activate("Full report")
+        link = self.page.get_by_role("link", name="4. The defensible claim", exact=True)
+        target_id = link.get_attribute("href").removeprefix("#")
+        link.click()
+        self.page.wait_for_timeout(100)
+        focused = self.page.evaluate("document.activeElement.id")
+        self.assertEqual(target_id, focused)
+        self.assertEqual("-1", self.page.locator("#" + target_id).get_attribute("tabindex"))
+        self.page.keyboard.press("Tab")
+        follows = self.page.evaluate(
+            """targetId => {
+                const target = document.getElementById(targetId);
+                const active = document.activeElement;
+                return active !== document.body && active !== target &&
+                    Boolean(target.compareDocumentPosition(active) & Node.DOCUMENT_POSITION_FOLLOWING);
+            }""",
+            target_id,
+        )
+        self.assertTrue(follows)
+
 
 if __name__ == "__main__":
     unittest.main()

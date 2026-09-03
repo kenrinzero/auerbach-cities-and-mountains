@@ -52,6 +52,17 @@ class PublicationCorrectionTests(unittest.TestCase):
         c19 = next(line for line in self.checks.splitlines() if line.startswith("CLAIM C19 "))
         self.assertIn("Gabaix-Ibragimov rank-1/2 xi 0.8027", c19)
 
+    def test_verifier_emits_the_a4_decision_companions(self):
+        matches = [line for line in self.checks.splitlines() if line.startswith("CLAIM C52 ")]
+        self.assertEqual(1, len(matches), "verifier must emit exactly one C52 evidence line")
+        c52 = matches[0]
+        self.assertIn("A4 decision companions", c52)
+        self.assertIn("dAICc -25.47", c52)
+        self.assertIn("Vuong p 0.5619", c52)
+        self.assertIn("M6b GoF p 0.0020", c52)
+        self.assertIn("M1 GoF p 0.7665", c52)
+        self.assertIn("M-rank supported", c52)
+
     def test_public_conclusions_keep_their_decision_critical_qualifiers_adjacent(self):
         report_claim = self.report[
             self.report.index("## 4. The defensible claim"):

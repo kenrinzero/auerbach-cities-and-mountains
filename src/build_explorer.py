@@ -121,13 +121,15 @@ PREDICTIONS = [
      "Pure full-support power law rejected in all eight prominence-defined arms; xi = 0.4598 "
      "(CI [0.1164, 0.5218]) on the global arm and < 1 in all ten; bounded/cutoff family favored "
      "where the test has power (A0/A1/A2/A3/R2) and indistinguishable in the small-tail arms "
-     "(A4/R1/R3). The empirical bounded-support implication is compatible; no tectonic causal "
-     "mechanism was tested."),
+     "(A4/R1/R3). A4 stays in the M-rank lane despite M6b dAICc -25.47 because Vuong p 0.5619 "
+     "is not significant and M6b GoF p 0.0020 fails absolute fit. The empirical bounded-support "
+     "implication is compatible; no tectonic causal mechanism was tested."),
     ("P6", "borne out, with qualifiers",
      "Miskinis rank curve R2(log) 0.99447 Alps / 0.92308 Rockies / 0.99244 global, but only "
      "0.81840 on the Himalayas where fitted h_max 7863.2 m cannot reach the observed 8848 m. "
-     "M6b beats M1 on AICc in A0/R1/R2/R3. 'At least as well as any power law' holds; 'as well "
-     "as any alternative' does not."),
+     "M6b has lower AICc than M1 in A0/R1/R2/R3/A4. In A4, however, Vuong p 0.5619 and M6b "
+     "GoF p 0.0020 keep the receipt-derived M-rank lane under the frozen rule. 'At least as well "
+     "as any power law' holds only as an AICc statement; 'as well as any alternative' does not."),
     ("P7", "borne out",
      "At n = 94: MLE bias -0.0044, RMSE 0.1007, coverage 0.943; the project's population-on-rank "
      "OLS bias is +0.0588, with RMSE 0.1537 and coverage 0.158 classical / 0.636 HC0 / 0.640 HC1 / "
@@ -152,7 +154,7 @@ CLAIMS = [
     ("AU-C9 hist", "confirmed", "77 admin vs 74 topographic = 4.05%; A.K. side 3.56%."),
     ("AU-C9 modern", "confirmed, far larger", "+72.04% FUA vs Gemeinde -- roughly 70%, direction-only under this coarse FUA-versus-municipality proxy, not like-for-like."),
     ("AU-C10", "compatible with qualifiers", "Both examples hold directionally; 'knapp doppelt' is loose (~2.5-2.7x)."),
-    ("AU-C11", "compatible with qualifiers", "Lanes: H-MB on A0/A1/A2/A3/R2; M-rank supported on A4/R1/R3; M-count nowhere."),
+    ("AU-C11", "compatible with qualifiers", "Lanes: H-MB on A0/A1/A2/A3/R2; M-rank supported on A4/R1/R3; M-count nowhere. A4 companion evidence: M6b dAICc -25.47, Vuong p 0.5619, M6b GoF p 0.0020, and M1 GoF p 0.7665."),
     ("AU-C12", "parked", "beta = ln4/ln2 = 2.0 reproduces his arithmetic; no data plan in this project."),
     ("AU-C13", "reported as speculative", "R2 0.1069 < R3 0.1155 < R1 0.2838 < A0 0.4598, confounded; no mechanism claimed."),
     ("EXT-C1", "compatible with qualifiers", "The 2023 Appendix Figure A1 reports equal-weight OLS of log rank on log population: -1.15 (robust SE 0.03). The project's inverse reproduction is -1.1489 (HC3 SE 0.0328), whose magnitude maps to xi = 0.8704."),
@@ -236,6 +238,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
 <title>Auerbach 1913 - cities and mountains, recomputed</title>
 <style>
 :root{--bg:#0f1115;--fg:#e6e6e6;--mut:#9aa4b2;--card:#171a21;--line:#2a2f3a;
@@ -255,8 +258,10 @@ main{padding:18px 26px 60px;max-width:1180px;margin:0 auto}
 section[hidden]{display:none}
 h2{font-size:17px;margin:18px 0 6px}
 h3{font-size:14px;margin:16px 0 4px;color:var(--mut);text-transform:uppercase;letter-spacing:.08em}
-.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:12px 0}
+h4{font-size:12.5px;margin:8px 0 4px;color:var(--mut);font-weight:600}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:12px 0;min-width:0}
 .grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
+.grid>*{min-width:0}
 table{border-collapse:collapse;width:100%;font-size:13px}
 th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top}
 th{color:var(--mut);font-weight:600}
@@ -269,7 +274,11 @@ td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
 svg{display:block;width:100%;height:auto;background:#12151c;border-radius:8px}
 .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0}
 select{background:#12151c;color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:5px 8px}
-code{background:#12151c;padding:1px 5px;border-radius:4px;font-size:12.5px}
+code{background:#12151c;padding:1px 5px;border-radius:4px;font-size:12.5px;
+     overflow-wrap:anywhere;word-break:break-word}
+.table-scroll{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.table-scroll table{width:max-content;min-width:100%}
+.table-scroll:focus{outline:2px solid var(--acc);outline-offset:2px}
 footer{color:var(--mut);font-size:12px;padding:0 26px 40px;max-width:1180px;margin:0 auto}
 header .repo-line{margin:6px 0 2px;font-size:13px;color:var(--fg)}
 header .credit-line{margin:2px 0;color:var(--mut);font-size:13px}
@@ -326,7 +335,7 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
 .rp blockquote{margin:18px 0;padding:14px 20px;background:var(--card);border:1px solid var(--line);
                border-left:3px solid var(--acc);border-radius:0 10px 10px 0}
 .rp blockquote p{margin:8px 0}
-.rp .tw{overflow-x:auto;margin:16px 0}
+.rp .tw{max-width:100%;overflow-x:auto;margin:16px 0}
 .rp table{margin:0;font-size:12.5px;min-width:680px}
 .rp code{font-size:12.5px;overflow-wrap:anywhere}
 /* one shared measure: every heading and paragraph inside .rp-measure shares exactly the same
@@ -377,7 +386,9 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
         and sampling coverage, before model-family detail: the list-building process pushes estimates toward
         Auerbach&rsquo;s direction. Summit heights nevertheless decline more gently with rank in all four
         primary arms. The result then splits: bounded or cutoff families win in the global, lower-prominence and Himalaya arms,
-        while the Alps, Rockies and highest-prominence tail satisfy the stricter rank-law lane. The evidence
+        while the Alps, Rockies and highest-prominence A4 tail satisfy the stricter rank-law lane. In A4 the
+        project-side M6b fit has &Delta;AICc &minus;25.47, but lower AICc alone does not switch the lane:
+        Vuong p = 0.5619 is not significant and M6b fails absolute GoF at p = 0.0020. The evidence
         supports no tectonic causal mechanism, and the global arm rejects every fitted family on absolute
         goodness-of-fit.</p></article>
       </div>
@@ -410,58 +421,61 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
     are results and get the same prominence as the confirmations.</p>
     <div id="score-cards" class="grid"></div>
     <h3>Adjudication of every claim (prereg &sect;7 language)</h3>
-    <div class="card"><table id="claims"></table></div>
+    <div class="card"><div class="table-scroll" role="region" tabindex="0"
+      aria-label="Claim adjudication table; scroll horizontally to see all columns"><table id="claims"></table></div></div>
   </section>
 
   <section id="tab-1913" role="tabpanel" hidden><h2>The 1913 anchor: 94 cities</h2>
     <div class="grid">
-      <div class="card"><h3>Rank&ndash;size curve, log&ndash;log</h3><div id="c1913"></div>
-        <p class="note">Points: the double-entered scan transcription. Lines are the <em>reported</em> exponents
+      <div class="card"><h3 id="h-c1913">Rank&ndash;size curve, log&ndash;log</h3><div id="c1913"></div>
+        <p class="note" id="d-c1913">Points: the double-entered scan transcription. Lines are the <em>reported</em> exponents
         anchored at rank 1 for display &mdash; not new fits. MLE &xi; = 0.9801 (CI [0.7787, 1.1851]);
         population-on-rank OLS &xi; = 0.8553; Gabaix&ndash;Ibragimov rank&minus;&frac12; &xi; = 0.8027.
         Direct inspection of the 2023 Appendix Figure A1 establishes that the source reports equal-weight
         OLS of log rank on log population: slope &minus;1.15, robust SE 0.03. The project&rsquo;s separate
         inverse reproduction gives &minus;1.1489 (HC3 SE 0.0328), whose magnitude maps to
         &zeta; = 1/&xi; and &xi; = 0.8704.</p></div>
-      <div class="card"><h3>A.K. = rank &times; population / 100</h3><div id="cak"></div>
-        <p class="note">Auerbach's band 45&ndash;53 (shaded) holds from rank 15 onward: r&#8320; = 15 exactly under
+      <div class="card"><h3 id="h-cak">A.K. = rank &times; population / 100</h3><div id="cak"></div>
+        <p class="note" id="d-cak">Auerbach's band 45&ndash;53 (shaded) holds from rank 15 onward: r&#8320; = 15 exactly under
         Amendment 1's band-containment criterion. Printed all-94 mean 47.8723, exact-product mean 47.7540;
         the tail mean over ranks 15&ndash;94 is 50.0250 / 49.8870 &mdash; the printed 47,8 is an all-94 statistic.</p></div>
     </div>
     <div class="grid">
-      <div class="card"><h3>Estimator calibration at n = 94 (Monte Carlo, 2000 reps)</h3><div id="cmc"></div>
-        <p class="note">Nominal 95% coverage. The MLE covers 0.943; rank-size OLS covers 0.158 classical /
+      <div class="card"><h3 id="h-cmc">Estimator calibration at n = 94 (Monte Carlo, 2000 reps)</h3><div id="cmc"></div>
+        <p class="note" id="d-cmc">Nominal 95% coverage. The MLE covers 0.943; rank-size OLS covers 0.158 classical /
         0.636 HC0 / 0.640 HC1 / 0.420 HC3. Auerbach and Ciccone (2023) label 0.03 only as a robust
         standard error; the project&rsquo;s HC3 values are comparisons, not a source-method attribution.</p></div>
-      <div class="card"><h3>Sp.K., twelve complexes (1913, from the scan)</h3><div id="ct2"></div>
-        <p class="note">Sp.K. = A.K. &divide; (population / 10&#8312;). Germany 47.8 / 0.645 = 74.1085 &rarr; 74.
+      <div class="card"><h3 id="h-ct2">Sp.K., twelve complexes (1913, from the scan)</h3><div id="ct2"></div>
+        <p class="note" id="d-ct2">Sp.K. = A.K. &divide; (population / 10&#8312;). Germany 47.8 / 0.645 = 74.1085 &rarr; 74.
         Schweiz shown at the corrected A.K. 2,8 (pass A and Ciccone print 2,6).</p></div>
     </div>
   </section>
 
   <section id="tab-modern" role="tabpanel" hidden><h2>Modern cities</h2>
     <div class="grid">
-      <div class="card"><h3>Sp.K. then vs now &mdash; nine 1:1 complexes</h3><div id="cslope"></div>
-        <p class="note">Kendall &tau; = +0.5556, permutation p = 0.0436 (10,000 reps, null sd 0.265,
+      <div class="card"><h3 id="h-cslope">Sp.K. then vs now &mdash; nine 1:1 complexes</h3><div id="cslope"></div>
+        <p class="note" id="d-cslope">Kendall &tau; = +0.5556, permutation p = 0.0436 (10,000 reps, null sd 0.265,
         primary seed 20260902).
         This residual association is exploratory at nine one-to-one complexes and one reassignment away
         from non-significance; it is not evidence that the historical ordering is durable.</p></div>
-      <div class="card"><h3>&tau; sensitivity arms</h3><div id="ctau"></div>
-        <p class="note">&tau;&#8321; (11) adds the pooled AT+HU successor (Sp.K. 74.8) for Austria-Hungary and
+      <div class="card"><h3 id="h-ctau">&tau; sensitivity arms</h3><div id="ctau"></div>
+        <p class="note" id="d-ctau">&tau;&#8321; (11) adds the pooled AT+HU successor (Sp.K. 74.8) for Austria-Hungary and
         India as a <em>partial</em> Britisch-Indien successor; &tau;&#8322; (12) adds the Russian Federation for
         European Russia. These two arms use sensitivity-arm seed 20260903; its same-stream primary comparison
         is p = 0.0439. All three &tau; values are re-derived from the derived CSVs (claim C31).</p></div>
     </div>
     <div class="card"><h3>Germany: administrative vs topographic definition (P4, AU-C9 modern)</h3>
-      <div class="grid"><div><div id="cde"></div></div><div><div id="cdeband"></div></div></div>
-      <p class="note">Sp.K. 156.2 (89 Functional Urban Areas) vs 90.8 (131 municipalities, true 2025
+      <div class="grid"><div><h4 id="h-cde">Sp.K. level comparison</h4><div id="cde"></div></div>
+      <div><h4 id="h-cdeband">A.K. by rank</h4><div id="cdeband"></div></div></div>
+      <p class="note" id="d-de">Sp.K. 156.2 (89 Functional Urban Areas) vs 90.8 (131 municipalities, true 2025
       cross-section) = <strong>+72.04%</strong>, against Auerbach's own 4.05%: roughly 70%, direction-only
       under this coarse FUA-versus-municipality proxy. Primacy-excluded: 160.3 vs 92.7. The contrast is a
       coarse proxy likely to overstate a suburb-merging effect and is not a like-for-like replication. &xi; = 1.0798 (CI
       [0.887, 1.219]) with the A.K. band displaced from 45&ndash;53 to 57.4&ndash;87.2; compared with the 1913
       interval [0.7787, 1.1851], the overlapping intervals do not establish a change in exponent.</p></div>
     <div class="card"><h3>The twelve-country modern table (common 100,000 threshold)</h3>
-      <table id="tmodern"></table>
+      <div class="table-scroll" role="region" tabindex="0"
+        aria-label="Modern country table; scroll horizontally to see all columns"><table id="tmodern"></table></div>
       <p class="note">Reference years are heterogeneous by necessity (IN 2011 &hellip; DE/IT/CH 2025), so the
       &tau; is not a same-year comparison. Sp.K. levels are not comparable across 1910/2025; only orderings,
       ratios and &xi; are. Primacy-excluded values are shown for every row per prereg &sect;4.5.</p></div>
@@ -472,10 +486,12 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       <div class="grid" id="mhead"></div>
       <p class="note">Lane split, in the prereg's fixed language: <strong>bounded family wins (H-MB)</strong> on
       A0/A1/A2/A3/R2; <strong>M-rank supported</strong> (the full three-condition confirmation) on A4/R1/R3;
-      M-count supported nowhere; E1/E1b carry no lane (audit F5). Because the &sect;5.3 conjunction fails on the
+      M-count supported nowhere; E1/E1b carry no lane (audit F5). For A4, the project-side M6b fit has
+      &Delta;AICc &minus;25.47, but lower AICc alone does not switch the lane: Vuong p = 0.5619 does not meet
+      the frozen rule and M6b fails absolute GoF at p = 0.0020, while M1 passes at p = 0.7665. Because the &sect;5.3 conjunction fails on the
       primary arm, AU-C11 overall reads <em>compatible with qualifiers</em>. The empirical bounded-support
       implication is compatible; no tectonic causal mechanism was tested.</p></div>
-    <div class="card"><h3>Rank&ndash;height curve by arm</h3>
+    <div class="card"><h3 id="h-cmount">Rank&ndash;height curve by arm</h3>
       <div class="controls">
         <label for="armsel">Arm</label>
         <select id="armsel"></select>
@@ -485,26 +501,33 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       <div id="cmount"></div>
       <p class="note" id="mnote"></p></div>
     <div class="grid">
-      <div class="card"><h3>The pre-registered bias rail (A0&ndash;A4)</h3><div id="crail"></div>
-        <p class="note">Direction frozen before fitting: coverage bias pushes &xi;&#770; <em>down</em>, toward
+      <div class="card"><h3 id="h-crail">The pre-registered bias rail (A0&ndash;A4)</h3><div id="crail"></div>
+        <p class="note" id="d-crail">Direction frozen before fitting: coverage bias pushes &xi;&#770; <em>down</em>, toward
         confirming Auerbach. The sweep moves monotonically that way, so the drift is evidence about the bias,
         not about the claim. Bars are joint-bootstrap 95% intervals &mdash; wide and overlapping.</p></div>
-      <div class="card"><h3>Regional ordering (AU-C13 probe)</h3><div id="creg"></div>
-        <p class="note">Himalayas &lt; Rockies &lt; Alps &lt; global, confounded by each arm's elevation span
+      <div class="card"><h3 id="h-creg">Regional ordering (AU-C13 probe)</h3><div id="creg"></div>
+        <p class="note" id="d-creg">Himalayas &lt; Rockies &lt; Alps &lt; global, confounded by each arm's elevation span
         (1.81&times; to 5.89&times;), by the coverage bias, and by selection instability. AU-C13 stays
         speculative; no mechanism is claimed.</p></div>
     </div>
-    <div class="card"><h3>Auerbach's own clause, measured</h3><table id="tclause"></table>
+    <div class="card"><h3>Auerbach's own clause, measured</h3><div class="table-scroll" role="region" tabindex="0"
+      aria-label="Auerbach clause table; scroll horizontally to see all columns"><table id="tclause"></table></div>
       <p class="note">&ldquo;The highest summit of a range surpasses the following ones mostly only a little.&rdquo;
       On the global list every adjacent rank pair is within 5% and 99.6% are within 1%. This is the
       best-supported part of AU-C11 &mdash; and a weaker statement than a power law, which is why it survives
       while the power-law form does not. All five arms re-derived from the CSVs (claims C53A0&ndash;C53R3).</p></div>
-    <div class="card"><h3>H-MR family, Holm&ndash;Bonferroni (audit F2)</h3><table id="tholm"></table>
+    <div class="card"><h3>H-MR family, Holm&ndash;Bonferroni (audit F2)</h3><div class="table-scroll" role="region" tabindex="0"
+      aria-label="H-MR family table; scroll horizontally to see all columns"><table id="tholm"></table></div>
       <p class="note">Holm input is the per-arm max of the two frozen statistics; multipliers 4..1 with a running
       maximum. Re-derived from the arm blocks in claim C45a. The prominence sweep and elevation arms are
       exploratory and excluded from the family.</p></div>
-    <div class="card"><h3>Model comparison, all ten arms</h3><table id="tmodels"></table>
-      <p class="note">Honesty notes: on A0 <em>all six</em> families are rejected on GoF at the selected cutoff,
+    <div class="card"><h3>Model comparison, all ten arms</h3><div class="table-scroll" role="region" tabindex="0"
+      aria-label="Mountain model comparison table; scroll horizontally to see all columns"><table id="tmodels"></table></div>
+      <p class="note">The frozen H-MB rule requires a preregistered bounded alternative to have both lower
+      AICc and significant Vuong evidence against M1; lower AICc alone does not switch the lane. In A4,
+      M6b has &Delta;AICc &minus;25.47, but Vuong p = 0.5619 is not significant and M6b GoF p = 0.0020 fails
+      absolute fit, while M1 GoF p = 0.7665. These are project-side model diagnostics, not source claims.
+      Other honesty notes: on A0 <em>all six</em> families are rejected on GoF at the selected cutoff,
       so H-MB there rests on Vuong/AICc alone (D13). M4 is a truncated lognormal &mdash; unbounded above &mdash;
       so per the frozen rule it never counts toward H-MB, yet it is best-AICc on R2/R3, where its printed
       GoF p = 1.0000 is the D11 artifact of 500/500 failed bootstrap refits, not evidence of fit. M2 and M5 are
@@ -513,9 +536,11 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
 
   <section id="tab-data" role="tabpanel" hidden><h2>Data, custody, and what is missing</h2>
     <div class="grid">
-      <div class="card"><h3>Arm sizes, re-derived from the derived CSVs</h3><table id="tsizes"></table></div>
+      <div class="card"><h3>Arm sizes, re-derived from the derived CSVs</h3><div class="table-scroll" role="region" tabindex="0"
+        aria-label="Mountain arm sizes table; scroll horizontally to see all columns"><table id="tsizes"></table></div></div>
       <div class="card"><h3>Custody and the gaps</h3>
-        <table>
+        <div class="table-scroll" role="region" tabindex="0"
+          aria-label="Data custody table; scroll horizontally to see all columns"><table>
           <tr><th>Item</th><th>Status</th></tr>
           <tr><td>DC-3 raw sources</td><td>22 manifested (21 Wikipedia wikitext files with revision IDs + 1
               Wikidata SPARQL snapshot), SHA-256 + retrieval timestamp + licence each</td></tr>
@@ -535,7 +560,7 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
           <tr><td>DC-2d (multi-decade municipal series)</td><td>not landed &rarr; AU-C8's modern analog open</td></tr>
           <tr><td>Source elevations disagree</td><td>Everest 8848 m (ultra lists) vs 8848.86 m (highest-mountains
               list); K2 8614 vs 8611 &mdash; neither reconciled; each arm keeps its own source's values (D15)</td></tr>
-        </table></div>
+        </table></div></div>
     </div>
     <div class="card"><h3>Stage-3 receipts authority</h3>
       <p class="note">Corrected receipts <code>results/stage3-recompute.txt</code>, SHA-256
@@ -550,7 +575,9 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
 const DATA = __DATA__;
 const NS = "http://www.w3.org/2000/svg";
 function el(n, a){const e=document.createElementNS(NS,n);for(const k in (a||{}))e.setAttribute(k,a[k]);return e;}
-function svg(w,h){const s=el("svg",{viewBox:"0 0 "+w+" "+h,preserveAspectRatio:"xMidYMid meet"});s.style.maxHeight="380px";return s;}
+function svg(w,h,labelId,descriptionId){const s=el("svg",{viewBox:"0 0 "+w+" "+h,
+  preserveAspectRatio:"xMidYMid meet",role:"img","aria-labelledby":labelId,
+  "aria-describedby":descriptionId});s.style.maxHeight="380px";return s;}
 function txt(s,x,y,t,a){const e=el("text",{x:x,y:y,fill:a&&a.fill||"#9aa4b2","font-size":a&&a.size||11,
   "text-anchor":a&&a.anchor||"start","font-variant-numeric":"tabular-nums"});e.textContent=t;s.appendChild(e);return e;}
 function axes(s,W,H,m,xl,yl){
@@ -637,7 +664,7 @@ function renderScore(){
 function render1913(){
   const pts=DATA.cities.map(r=>[r[0],r[2]]);           // rank, E.Z. thousands
   const W=560,H=380,m={l:52,r:14,t:62,b:34};
-  const s=svg(W,H);axes(s,W,H,m,"rank","population (thousands)");
+  const s=svg(W,H,"h-c1913","d-c1913");axes(s,W,H,m,"rank","population (thousands)");
   const sc=loglog(s,W,H,m,pts);
   const s1=DATA.s1,anchor=pts[0][1];
   drawLine(s,1,94,r=>anchor*Math.pow(r,-s1.xi_mle),sc,"#5ad19a");
@@ -650,7 +677,7 @@ function render1913(){
   document.getElementById("c1913").appendChild(s);
 
   const W2=560,H2=340,m2={l:46,r:14,t:14,b:34};
-  const s2=svg(W2,H2);axes(s2,W2,H2,m2,"rank","A.K. (hundred-thousands)");
+  const s2=svg(W2,H2,"h-cak","d-cak");axes(s2,W2,H2,m2,"rank","A.K. (hundred-thousands)");
   const ak=DATA.cities.map(r=>[r[0],r[3]]);
   const ylo=15,yhi=58;
   const px=r=>m2.l+(r-1)/93*(W2-m2.l-m2.r), py=v=>H2-m2.b-(v-ylo)/(yhi-ylo)*(H2-m2.t-m2.b);
@@ -666,7 +693,7 @@ function render1913(){
   document.getElementById("cak").appendChild(s2);
 
   const mc=DATA.s1.mc,W3=560,H3=300,m3={l:46,r:14,t:16,b:44};
-  const s3=svg(W3,H3);axes(s3,W3,H3,m3,"","nominal 95% coverage");
+  const s3=svg(W3,H3,"h-cmc","d-cmc");axes(s3,W3,H3,m3,"","nominal 95% coverage");
   const bars=[["MLE",mc.mle_cov,"#5ad19a"],["OLS classical",mc.cov.classical,"#e8797b"],
     ["OLS HC0",mc.cov.HC0,"#e8c468"],["OLS HC1",mc.cov.HC1,"#e8c468"],["OLS HC3",mc.cov.HC3,"#e8c468"]];
   const bw=(W3-m3.l-m3.r)/bars.length;
@@ -683,7 +710,7 @@ function render1913(){
   document.getElementById("cmc").appendChild(s3);
 
   const W4=560,H4=380,m4={l:46,r:14,t:14,b:122};
-  const s4=svg(W4,H4);axes(s4,W4,H4,m4,"","Sp.K. (1913)");
+  const s4=svg(W4,H4,"h-ct2","d-ct2");axes(s4,W4,H4,m4,"","Sp.K. (1913)");
   const t2=DATA.t2,maxv=Math.max.apply(null,t2.map(r=>r.spk));
   const bw4=(W4-m4.l-m4.r)/t2.length;
   t2.forEach((r,i)=>{const x=m4.l+i*bw4+bw4*0.2,w=bw4*0.6,
@@ -702,7 +729,7 @@ function spk1913(name){for(const r of DATA.t2)if(r.state===name)return r.spk;ret
 function spkNow(cc){for(const r of DATA.modern)if(r.country===cc)return r.spk;return null;}
 function renderModern(){
   const W=560,H=400,m={l:142,r:76,t:26,b:28};
-  const s=svg(W,H);axes(s,W,H,m,"","");
+  const s=svg(W,H,"h-cslope","d-cslope");axes(s,W,H,m,"","");
   const pairs=NINE.map(p=>({cc:p[0],name:p[1],a:spk1913(p[1]),b:spkNow(p[0])})).filter(p=>p.a&&p.b);
   const lo=0,hi=Math.max.apply(null,pairs.map(p=>Math.max(p.a,p.b)))*1.08;
   const py=v=>H-m.b-(v-lo)/(hi-lo)*(H-m.t-m.b);
@@ -723,7 +750,7 @@ function renderModern(){
   document.getElementById("cslope").appendChild(s);
 
   const ta=DATA.tau,W2=560,H2=240,m2={l:52,r:14,t:18,b:40};
-  const s2=svg(W2,H2);axes(s2,W2,H2,m2,"","Kendall tau");
+  const s2=svg(W2,H2,"h-ctau","d-ctau");axes(s2,W2,H2,m2,"","Kendall tau");
   const bw=(W2-m2.l-m2.r)/ta.arms.length,zero=H2-m2.b-(0-(-0.2))/(1-(-0.2))*(H2-m2.t-m2.b);
   s2.appendChild(el("line",{x1:m2.l,y1:zero,x2:W2-m2.r,y2:zero,stroke:"#2a2f3a"}));
   ta.arms.forEach((a,i)=>{const x=m2.l+i*bw+bw*0.22,w=bw*0.56;
@@ -736,7 +763,7 @@ function renderModern(){
   document.getElementById("ctau").appendChild(s2);
 
   const de=DATA.de,W3=560,H3=260,m3={l:52,r:14,t:18,b:44};
-  const s3=svg(W3,H3);axes(s3,W3,H3,m3,"","Sp.K.");
+  const s3=svg(W3,H3,"h-cde","d-de");axes(s3,W3,H3,m3,"","Sp.K.");
   const bars3=[["admin (131 Gemeinde)",de.admin.spk,"#6fb3f2"],["admin, primacy-excl.",de.admin.spk_prim,"#3d5a7a"],
     ["FUA (89)",de.fua.spk,"#e8c468"],["FUA, primacy-excl.",de.fua.spk_prim,"#8a7433"]];
   const bw3=(W3-m3.l-m3.r)/bars3.length,mx3=180;
@@ -751,7 +778,7 @@ function renderModern(){
   document.getElementById("cde").appendChild(s3);
 
   const W4=560,H4=300,m4={l:46,r:14,t:58,b:34};
-  const s4=svg(W4,H4);axes(s4,W4,H4,m4,"rank","A.K.");
+  const s4=svg(W4,H4,"h-cdeband","d-de");axes(s4,W4,H4,m4,"rank","A.K.");
   const adm=DATA.de_admin.map(r=>[r[0],r[3]]),fu=DATA.de_fua.map(r=>[r[0],r[3]]);
   const all=adm.concat(fu),ylo=0,yhi=Math.max.apply(null,all.map(p=>p[1]))*1.05,
         xhi=Math.max(adm.length,fu.length);
@@ -799,7 +826,7 @@ function renderMountains(){
     const k=sel.value,a=DATA.arms[k],pts=DATA.arm_points[k];
     const box=document.getElementById("cmount");box.innerHTML="";
     const W=900,H=430,m={l:58,r:16,t:58,b:38};
-    const s=svg(W,H);axes(s,W,H,m,"rank (descending elevation)","summit elevation (m)");
+    const s=svg(W,H,"h-cmount","mnote");axes(s,W,H,m,"rank (descending elevation)","summit elevation (m)");
     s.style.maxHeight="420px";
     const plot=plotLayer(s,"mountain-plot-clip",W,H,m);
     const sc=loglog(s,W,H,m,pts);
@@ -842,7 +869,7 @@ function renderMountains(){
   document.getElementById("showm6").onchange=draw;draw();
 
   const rail=["A0","A1","A2","A3","A4"],W2=560,H2=320,m2={l:52,r:16,t:18,b:44};
-  const s2=svg(W2,H2);axes(s2,W2,H2,m2,"prominence cutoff (m)","xi (selected cutoff)");
+  const s2=svg(W2,H2,"h-crail","d-crail");axes(s2,W2,H2,m2,"prominence cutoff (m)","xi (selected cutoff)");
   const xs=rail.map(k=>DATA.arms[k].cutoff),ymax=0.6;
   const px2=v=>m2.l+(v-1500)/(4000-1500)*(W2-m2.l-m2.r), py2=v=>H2-m2.b-(v/ymax)*(H2-m2.t-m2.b);
   s2.appendChild(el("line",{x1:m2.l,y1:py2(0),x2:W2-m2.r,y2:py2(0),stroke:"#2a2f3a"}));
@@ -860,7 +887,7 @@ function renderMountains(){
   document.getElementById("crail").appendChild(s2);
 
   const reg=["R2","R3","R1","A0"],W3=560,H3=280,m3={l:96,r:60,t:16,b:26};
-  const s3=svg(W3,H3);axes(s3,W3,H3,m3,"","");
+  const s3=svg(W3,H3,"h-creg","d-creg");axes(s3,W3,H3,m3,"","");
   const bw3=(H3-m3.t-m3.b)/reg.length;
   reg.forEach((k,i)=>{const a=DATA.arms[k],y=m3.t+i*bw3+bw3*0.22,h=bw3*0.56,
       w=(a.xi/0.5)*(W3-m3.l-m3.r);
@@ -942,6 +969,16 @@ function moveTab(ev,index){
   show(TABS[next][0]);
   document.getElementById("navtab-"+TABS[next][0]).focus();
 }
+function bindReportContents(){
+  document.querySelectorAll(".rp-toc a[href^='#']").forEach(link=>{
+    link.addEventListener("click",()=>{
+      const target=document.getElementById(link.hash.slice(1));
+      if(!target)return;
+      target.tabIndex=-1;
+      requestAnimationFrame(()=>target.focus({preventScroll:true}));
+    });
+  });
+}
 function boot(){
   const nav=document.getElementById("nav");
   TABS.forEach((t,index)=>{const b=document.createElement("button");b.textContent=t[1];
@@ -954,6 +991,7 @@ function boot(){
     b.onclick=()=>show(t[0]);
     b.onkeydown=ev=>moveTab(ev,index);
     nav.appendChild(b);});
+  bindReportContents();
   show("overview");  // a cold reader lands on the concise synthesis
 }
 boot();
@@ -1030,7 +1068,9 @@ def render_report_md(path):
                      for c in head.strip().strip("|").split("|"))
         trs = "".join("<tr>%s</tr>" % "".join("<td>%s</td>" % inline(c.strip())
                       for c in r.strip().strip("|").split("|")) for r in body)
-        out.append('<div class="tw"><table><thead><tr>%s</tr></thead>'
+        out.append('<div class="tw" role="region" tabindex="0" '
+                   'aria-label="Report table; scroll horizontally to see all columns">'
+                   '<table><thead><tr>%s</tr></thead>'
                    "<tbody>%s</tbody></table></div>" % (th, trs))
         del table[:]
 
@@ -1057,6 +1097,9 @@ def render_report_md(path):
         elif line.startswith("### "):
             flush_all()
             out.append("<h3>%s</h3>" % inline(line[4:]))
+        elif line.strip() == "---":
+            flush_all()
+            out.append("<hr>")
         elif line.startswith("> "):
             flush_para(); flush_ul(); flush_ol()
             quote.append(line[2:])
@@ -1198,8 +1241,8 @@ def main():
                 "__REPO__", "__FOOTER__"):
         assert tok not in html, "unsubstituted template placeholder: %s" % tok
 
-    # self-containment assertions: no external references of any kind
-    for pat in (r"<script[^>]+src=", r"<link\b", r"@import", r"url\(\s*['\"]?https?:",
+    # self-containment assertions: no external network references of any kind
+    for pat in (r"<script[^>]+src=", r"<link[^>]+href=['\"]https?:", r"@import", r"url\(\s*['\"]?https?:",
                 r"<img\b", r"<iframe\b", r"fetch\(", r"XMLHttpRequest"):
         assert not re.search(pat, html, re.I), "external reference found: %s" % pat
     assert "\r" not in html
@@ -1216,7 +1259,7 @@ def main():
     print("  embedded: %d cities, %d DE admin, %d DE FUA, %d modern rows, %d arms (%d points)"
           % (len(data["cities"]), len(data["de_admin"]), len(data["de_fua"]), len(data["modern"]),
              len(data["arms"]), sum(len(v) for v in data["arm_points"].values())))
-    print("  self-containment: no <script src>, <link>, @import, url(http), <img>, <iframe>, "
+    print("  self-containment: no <script src>, external <link href=http>, @import, url(http), <img>, <iframe>, "
           "fetch(), XMLHttpRequest")
     return 0
 

@@ -99,6 +99,27 @@ class ReaderFacingSiteTests(unittest.TestCase):
         self.assertIn("−1.15", new_here)
         self.assertIn("log rank on log population", new_here)
 
+    def test_a4_lane_explains_the_frozen_rule_and_companion_evidence(self):
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        overview = visible_text(element(self.page, "section", "tab-overview"))
+        mountains = visible_text(element(self.page, "section", "tab-mount"))
+
+        for artifact, text in (
+            ("REPORT.md", report),
+            ("README.md", self.readme),
+            ("Overview", overview),
+            ("Mountains", mountains),
+        ):
+            with self.subTest(artifact=artifact):
+                self.assertIn("A4", text)
+                self.assertIn("−25.47", text)
+                self.assertIn("0.5619", text)
+                self.assertIn("0.0020", text)
+
+        self.assertIn("lower AICc alone does not switch the lane", report)
+        self.assertIn("lower AICc alone does not switch the lane", mountains)
+        self.assertIn("A0/R1/R2/R3/A4", report)
+
     def test_reader_text_measures_match_the_approved_axtell_like_layout(self):
         overview = css_properties(self.page, ".overview")
         overview_lede = css_properties(self.page, ".overview-lede")
@@ -159,13 +180,14 @@ class ReaderFacingSiteTests(unittest.TestCase):
 
     def test_full_report_opens_as_a_finished_publication(self):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
-        published = report.index("**Published:**")
+        self.assertIn("**Project links:**", report)
+        project_links = report.index("**Project links:**")
         abstract = report.index("## Abstract")
         notation = report.index("Notation is the preregistration's §1")
         question = report.index("## 1. The question")
         audit = report.index("## Audit and provenance")
         reproducibility = report.index("## 8. Reproducibility")
-        self.assertLess(published, abstract)
+        self.assertLess(project_links, abstract)
         self.assertLess(abstract, notation)
         self.assertLess(notation, question)
         self.assertLess(question, audit)
@@ -175,14 +197,24 @@ class ReaderFacingSiteTests(unittest.TestCase):
         self.assertNotIn("katflow #", opening)
         self.assertNotIn("Deliver stage", opening)
 
-    def test_published_report_links_render_as_clickable_anchors(self):
+    def test_project_report_links_render_as_clickable_anchors(self):
         report_tab = element(self.page, "section", "tab-report")
+        self.assertIn("Project links:", visible_text(report_tab))
+        self.assertNotIn("Published:", visible_text(report_tab))
         for label, url in (
             ("live site", "https://kenrinzero.github.io/auerbach-cities-and-mountains/"),
             ("public source", "https://github.com/kenrinzero/auerbach-cities-and-mountains"),
         ):
             self.assertIn(f'<a href="{url}">{label}</a>', report_tab)
             self.assertNotIn(f"[{label}]({url})", report_tab)
+
+    def test_report_rule_favicon_and_source_audit_label_are_publication_ready(self):
+        report_tab = element(self.page, "section", "tab-report")
+        self.assertIn("<hr>", report_tab)
+        self.assertNotIn("<p>---</p>", report_tab)
+        self.assertRegex(self.page, r'<link\s+rel="icon"\s+href="data:[^"]*">')
+        self.assertIn("cross-agent source-version audit", self.readme)
+        self.assertNotIn("its independent audit", self.readme)
 
     def test_current_public_prose_has_no_work_order_voice(self):
         current = visible_text(self.page)
