@@ -16,6 +16,13 @@ paper/
 # SHA-256 are recorded in data/CONTRACT.md, Addendum 1.
 data/raw/saibante-1928/
 
+# Scaruffi's compiled highest-mountains list, captured 2026-09-03 because the
+# archive.org availability API reports zero snapshots of it and it is the source of
+# Miskinis's 548-summit set. Preservation only: a third-party copyrighted
+# compilation we have no licence to redistribute, and it is not parsed, fitted, or
+# referenced by any result. Full status in the _manifest.json there.
+data/raw/scaruffi-2026-09-03/
+
 # ---------------------------------------------------------------------------
 # Atelier working files (see README, "Working files not in this repository")
 # ---------------------------------------------------------------------------

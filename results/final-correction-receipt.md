@@ -344,3 +344,54 @@ was fetched and is byte-identical to `docs/index.html` (`294074ad29d1adcd…`, 1
 
 **Publication:** complete. The package is live and was verified from the reader's side — clone,
 hash manifest, verifier, and served page — not only from the author's working tree.
+
+---
+
+## Addendum 5 — 2026-09-03 (owner's two publication follow-ups; Qoder session #1009)
+
+The owner reviewed the live site and asked for two things: (1) the explorer's masthead and footer
+to carry credits, citations and links to the repository, as `kenrinzero/axtell-zipf-susb` does, so a
+reader who lands on the page can reach the source and the attribution without guessing; (2) the
+Scaruffi page to be captured, since no archive copy of it exists.
+
+**Explorer changes.** The masthead gains a repository line and an attribution line naming the three
+contributing agents and linking `CREDITS.md`. The footer is rebuilt from a single stale sentence
+into four blocks — Reproducibility, Credits (with the methodological debt and its DOIs), Citations
+(the paper under test and its companions, the mountain prior art, and the data sources with their
+licences) and a licence fineprint line — carrying 18 external reference links and 10 internal
+anchors. The stale sentence "publication still awaits the user's separate signal" is gone. A new
+guard asserts that every known template placeholder was substituted, so a future placeholder cannot
+ship as literal text. The self-containment assertions still pass: the added links are references,
+not loads, and no `<script src>`, `<link>`, `@import`, `url(http…)`, `<img>`, `<iframe>`, `fetch(`
+or `XMLHttpRequest` appears. No numeral, claim text or embedded dataset changed.
+
+| Artifact | Bytes | SHA-256 |
+|---|---:|---|
+| `src/build_explorer.py` | 66,182 | `7eca606dd81f72fd148451fc2efebc6ee7be5a3cba52a94a1d20b6dab3dde129` |
+| `results/explorer.html` | 180,427 | `79cf03b324aa19e041f4a1e17ed04cd65bfbb27aa307bded10cfc6c25c2e5027` |
+| `docs/index.html` | 180,427 | `79cf03b324aa19e041f4a1e17ed04cd65bfbb27aa307bded10cfc6c25c2e5027` |
+
+Baseline superseded: `src/build_explorer.py` `186b99aa1f4a3db6…`, explorer `294074ad29d1adcd…`
+(Addendum 4).
+
+**Scaruffi capture.** `http://www.scaruffi.com/travel/tallest.html` was fetched once at
+2026-09-03T09:09:13Z (HTTP 200) and preserved at `data/raw/scaruffi-2026-09-03/tallest.html`
+(102,018 bytes, SHA-256 `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`,
+568 `<tr>` elements) with a `_manifest.json` (1,769 bytes, SHA-256
+`81f485dc74e331e6001af21381a5cc6e54c13f9f9aadef8296ef127bc6fe22ef`). It is the source
+Miškinis (2011) used for his 548-summit set, and the archive.org availability API reports zero
+snapshots of it. **Preservation only:** the directory is in `.gitignore` (`.gitignore` is now
+2,161 bytes, SHA-256 `cc0b6468a9204dd6d3d70e2a5e41edb7380207a2f48bec6561b39ebd1b90d484`), the
+same treatment as `paper/` and `data/raw/saibante-1928/`, because it is a third-party copyrighted
+compilation we have no licence to redistribute. It is not parsed, not fitted, and referenced by no
+result; using it as the DC-3c comparator needs a dated `data/CONTRACT.md` addendum first.
+
+**Verification.** Verifier exit 0 with 109 claims / 0 failures and `results/deliver-number-checks.txt`
+unchanged at `0c160505b685ced6…`; unittest 3/3 OK; a second build byte-identical with
+`results/explorer.html` == `docs/index.html`; console QA on the rebuilt page reports zero errors and
+zero `window.onerror` events across all six tabs, the Mountains selector swept through all 10 option
+states, all 8 Report-tab TOC anchors resolve, and all 20 header/footer links are well-formed; a
+2560px render shows the masthead, repo line, credit line and centered reading column intact.
+
+**Publication:** the repository and Pages site carry this addendum's build; the push of these
+changes is recorded in the project log for this session.

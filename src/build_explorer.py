@@ -43,6 +43,8 @@ OUT = ROOT / "results" / "explorer.html"
 # GitHub Pages serves docs/index.html; written from the same bytes as OUT so the
 # published page cannot drift from the receipted artifact.
 DOCS_INDEX = ROOT / "docs" / "index.html"
+REPO_URL = "https://github.com/kenrinzero/auerbach-cities-and-mountains"
+BLOB_URL = REPO_URL + "/blob/main/"
 RECEIPTS_SHA = hashlib.sha256((ROOT / "results" / "stage3-recompute.txt").read_bytes()).hexdigest()
 
 PRIMARY = ["A0", "R1", "R2", "R3"]
@@ -268,6 +270,14 @@ svg{display:block;width:100%;height:auto;background:#12151c;border-radius:8px}
 select{background:#12151c;color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:5px 8px}
 code{background:#12151c;padding:1px 5px;border-radius:4px;font-size:12.5px}
 footer{color:var(--mut);font-size:12px;padding:0 26px 40px;max-width:1180px;margin:0 auto}
+header .repo-line{margin:6px 0 2px;font-size:13px;color:var(--fg)}
+header .credit-line{margin:2px 0;color:var(--mut);font-size:13px}
+header a,footer a{color:#8ab4ff;text-decoration:none}
+header a:hover,footer a:hover{text-decoration:underline}
+footer .fblock{margin:14px 0 0;line-height:1.65}
+footer ul.cites{margin:4px 0 0;padding-left:18px}
+footer ul.cites li{margin:3px 0}
+footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--line)}
 .big{font-size:26px;font-variant-numeric:tabular-nums}
 /* ---- Report tab: reading typography ---- */
 .rp{font-size:15px;line-height:1.7;color:var(--fg)}
@@ -303,6 +313,14 @@ footer{color:var(--mut);font-size:12px;padding:0 26px 40px;max-width:1180px;marg
 <body>
 <header>
   <h1>Auerbach (1913) <em>Das Gesetz der Bev&ouml;lkerungskonzentration</em> &mdash; cities and mountains, recomputed</h1>
+  <div class="repo-line"><a href="__REPO__">github.com/kenrinzero/auerbach-cities-and-mountains</a>
+    &mdash; source code, data custody, tests, the frozen pre-registration, the complete audit chain,
+    and every receipt behind this page.</div>
+  <div class="credit-line">Directed by Kenrin (<a href="https://github.com/kenrinzero">@kenrinzero</a>).
+    Analysis by AI agents under his direction &mdash; <b>Kimi K3</b>, <b>GPT-5.6 Sol</b> and
+    <b>Qwen3.8-Max</b> &mdash; with every stage audited by a different agent than the one that
+    implemented it. Who wrote what, and what they got wrong:
+    <a href="__REPO__/blob/main/CREDITS.md">CREDITS.md</a>, summarised at the foot of this page.</div>
   <p>Stage-4 explorer &middot; __META__</p>
   <p>Every number here is re-derived by <code>src/verify_report_numbers.py</code> &rarr;
      <code>results/deliver-number-checks.txt</code>. Stage 4 refits nothing: fitted values are read from the
@@ -933,11 +951,92 @@ def render_report_md(path):
 
 def main():
     data = build_data()
-    footer = ("Auerbach (1913) executable verification &middot; Stage 4 corrected after final audit &middot; "
-              "REPORT.md &middot; results/deliver-number-checks.txt &middot; results/stage4-summary.md. "
-              "The independent final audit and approved correction pass are complete; publication still "
-              "awaits the user's separate signal. Built by src/build_explorer.py; deterministic output (no timestamp), "
-              "self-contained (no network, no external assets).")
+    footer = "".join([
+        '<div class="fblock"><h3>Reproducibility</h3>',
+        "<div>Every number on this page is re-derived by <code>src/verify_report_numbers.py</code> from the "
+        "derived CSVs and the frozen receipts (109 claims, 0 failures, exit non-zero on any mismatch). The "
+        "complete eight-script pipeline was run in an isolated copy and reproduced every shipped artifact "
+        "byte-identically &mdash; including the 317-second Stage-3 refit &mdash; and a fresh clone of the "
+        "repository does the same, with all 16 derived-table hashes verifying. Python 3.13.13, NumPy 2.5.2, "
+        "SciPy 1.18.1. Permutation seeds 20260902 (primary) and 20260903 (sensitivity); Stage-3 seeds "
+        "20260904 and 20260915. This page carries no timestamp and rebuilds byte-for-byte.</div>",
+        '<div style="margin-top:6px">Deviations from the frozen contract exist only as dated appended entries '
+        "(D1&ndash;D17 in the stage records, Amendment 1 in the pre-registration, Addenda 1&ndash;3 in the data "
+        "contract). Superpopulation framing: the city tables are censuses and the summit lists are enumerations, "
+        "so every interval here is model-based variability under the fitted distribution, not sampling error.</div>",
+        "</div>",
+
+        '<div class="fblock"><h3 id="credits">Credits</h3>',
+        '<div>Directed by Kenrin (<a href="https://github.com/kenrinzero">@kenrinzero</a>), who set the scope, '
+        "adjudicated every audit finding and approved every correction before it landed. The analysis was produced "
+        "by AI agents under his direction: <b>Kimi K3</b> &mdash; Stage 0 pre-registration and claim inventory, the "
+        "Stage-1 scan transcription, and the Stage-2/3/4 audits; <b>GPT-5.6 Sol</b> &mdash; the independent final "
+        "audit and its F1&ndash;F6 correction pass; <b>Qwen3.8-Max</b> &mdash; the Stage-1 audit, the Stage-2 and "
+        "Stage-3 implementations, the report, this explorer, and publication. No agent audited a stage it "
+        'implemented. Full attribution session by session, and what each agent got wrong: '
+        '<a href="' + BLOB_URL + 'CREDITS.md">CREDITS.md</a>.</div>',
+        '<div style="margin-top:6px">Methodological debt: the binned-data framework of '
+        '<a href="https://doi.org/10.1214/13-AOAS710">Virkar &amp; Clauset (2014)</a> and the cutoff-selection, '
+        "refitted-bootstrap goodness-of-fit and alternative-comparison design of "
+        '<a href="https://doi.org/10.1137/070710111">Clauset, Shalizi &amp; Newman (2009)</a>; non-nested '
+        "comparison by Vuong (1989); multiplicity by Holm (1979); rank correlation by Kendall (1938); the "
+        'rank-shifted OLS comparator of <a href="https://doi.org/10.1198/jbes.2009.06157">Gabaix &amp; Ibragimov '
+        "(2011)</a>. The whole machinery was first built and audited in "
+        '<a href="https://github.com/kenrinzero/axtell-zipf-susb">kenrinzero/axtell-zipf-susb</a> and imported here '
+        "by design, so a defect in it would have surfaced twice rather than once.</div>",
+        "</div>",
+
+        '<div class="fblock"><h3 id="citations">Citations</h3>',
+        "<div>The paper under test and its companions:</div>",
+        '<ul class="cites">',
+        "<li>Auerbach, F. (1913). &ldquo;Das Gesetz der Bev&ouml;lkerungskonzentration.&rdquo; "
+        "<em>Petermanns Geographische Mitteilungen</em> <b>59</b>(I), 74&ndash;76, Tafel 14. Gotha: Justus Perthes.</li>",
+        "<li>Auerbach, F., &amp; Ciccone, A. (2023). &ldquo;The Law of Population Concentration.&rdquo; "
+        '<em>Environment and Planning B</em> <b>50</b>(2), 290&ndash;298. '
+        '<a href="https://doi.org/10.1177/23998083221147139">doi:10.1177/23998083221147139</a> &mdash; the '
+        "translation whose added Fig. 4 OLS slope this project adjudicates as EXT-C1; never used as a numeric source.</li>",
+        "<li>Batty, M. (2023). &ldquo;Scaling in city size distributions.&rdquo; [editorial] "
+        '<em>Environment and Planning B</em> <b>50</b>(2), 287&ndash;289. '
+        '<a href="https://doi.org/10.1177/23998083231155725">doi:10.1177/23998083231155725</a></li>',
+        "<li>Saibante, M. (1928). &ldquo;La concentrazione della popolazione.&rdquo; <em>Metron</em> <b>7</b>(2), "
+        "53&ndash;99 &mdash; the 17-country &alpha; table at p. 59 (EXT-C2); his &alpha; is our &zeta; = 1/&xi;.</li>",
+        "<li>Rybski, D. (2013). &ldquo;Commentary&rdquo; [on Auerbach&rsquo;s legacy]. "
+        '<em>Environment and Planning A</em> <b>45</b>(6), 1266&ndash;1268. '
+        '<a href="https://doi.org/10.1068/a4678">doi:10.1068/a4678</a></li>',
+        "<li>Rybski, D., &amp; Ciccone, A. (2023). &ldquo;Auerbach, Lotka, and Zipf: pioneers of power-law city-size "
+        'distributions.&rdquo; <em>Archive for History of Exact Sciences</em> <b>77</b>(6), 601&ndash;613. '
+        '<a href="https://doi.org/10.1007/s00407-023-00314-0">doi:10.1007/s00407-023-00314-0</a> &mdash; '
+        "deliberately <em>not</em> tested here; split into a separate project.</li>",
+        "</ul>",
+        '<div style="margin-top:8px">Prior art on mountain rank&ndash;height, from the dated novelty sweep:</div>',
+        '<ul class="cites">',
+        "<li>Mi&scaron;kinis, P. (2011). &ldquo;Mathematical modelling of mountain height distribution on the "
+        'Earth&rsquo;s surface.&rdquo; <em>Geologija</em> <b>53</b>(1(73)), 21&ndash;26. '
+        '<a href="https://doi.org/10.6001/geologija.v53i1.1615">doi:10.6001/geologija.v53i1.1615</a> &mdash; his '
+        "stretched-exponential rank curve is our M6, and his &ldquo;exponential, not power&rdquo; conclusion replicates.</li>",
+        "<li>Allen, E. J. (2023). &ldquo;Derivation of a Formula for Mountain Height as a Function of Rank in "
+        'Height.&rdquo; <em>Journal of Applied Mathematics and Physics</em> <b>11</b>(11), 3565&ndash;3584. '
+        '<a href="https://doi.org/10.4236/jamp.2023.1111225">doi:10.4236/jamp.2023.1111225</a> &mdash; prior art on '
+        "model families only (our M5), not as authority.</li>",
+        "</ul>",
+        '<div style="margin-top:8px">Data: Eurostat (<code>urb_cpop1</code>, <code>urb_lpop1</code>, '
+        "<code>demo_pjan</code>), World Bank (<code>SP.POP.TOTL</code>), 25 English-Wikipedia articles via the "
+        "MediaWiki API, one Wikidata SPARQL snapshot, and the Functional Urban Area definition of the EU/FAO/"
+        'UN-Habitat/OECD/World Bank <em>Degree of Urbanisation</em> manual (2021), '
+        '<a href="https://doi.org/10.2785/706535">doi:10.2785/706535</a>. Per-file licence, retrieval date and '
+        'SHA-256 in <a href="' + BLOB_URL + 'data/CONTRACT.md">data/CONTRACT.md</a> and the two '
+        "<code>_manifest.json</code> files. The complete 29-reference list &mdash; with fields we could not verify "
+        'from a primary source omitted rather than guessed &mdash; is in '
+        '<a href="' + BLOB_URL + 'README.md#citations">README.md</a>.</div>',
+        "</div>",
+
+        '<div class="fineprint">&copy; 2026 kenrinzero &middot; code MIT '
+        '(<a href="' + BLOB_URL + 'LICENSE">LICENSE</a>) &middot; documents CC-BY-4.0 '
+        '(<a href="' + BLOB_URL + 'REPORT-LICENSE">REPORT-LICENSE</a>) &middot; data under its sources&rsquo; own '
+        "licences, not ours to relicense &middot; built by <code>src/build_explorer.py</code>; deterministic output "
+        "(no timestamp), self-contained (no network, no external assets &mdash; the links above are references, not loads).",
+        "</div>",
+    ])
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
     report_html, report_toc = render_report_md(V.REPORT_PATH)
     report_sha = hashlib.sha256(V.REPORT_PATH.read_bytes()).hexdigest()
@@ -949,7 +1048,11 @@ def main():
             .replace("__REPORTSHA__", report_sha[:16])
             .replace("__META__", "%s &middot; Stage-3 receipts SHA-256 %s&hellip;"
                      % (data["meta"]["stage"], RECEIPTS_SHA[:16]))
+            .replace("__REPO__", REPO_URL)
             .replace("__FOOTER__", footer))
+    for tok in ("__DATA__", "__SHA__", "__REPORT__", "__TOC__", "__REPORTSHA__", "__META__",
+                "__REPO__", "__FOOTER__"):
+        assert tok not in html, "unsubstituted template placeholder: %s" % tok
 
     # self-containment assertions: no external references of any kind
     for pat in (r"<script[^>]+src=", r"<link\b", r"@import", r"url\(\s*['\"]?https?:",
