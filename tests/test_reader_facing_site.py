@@ -163,6 +163,15 @@ class ReaderFacingSiteTests(unittest.TestCase):
         self.assertNotIn("59(I): 74–76", visible_text(self.page))
         self.assertNotIn("No DOI exists (confirmed absent from Crossref)", self.readme)
 
+    def test_known_historical_statuses_are_corrected_where_first_encountered(self):
+        sweep = (ROOT / "results" / "stage0-novelty-sweep.md").read_text(encoding="utf-8")
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        self.assertIn("Dated correction — 2026-09-03", sweep)
+        self.assertIn("year of record is 2012", sweep)
+        stage3 = report[report.index("**Stage 3"):report.index("**Stage 4")]
+        self.assertIn("subsequently obtained and preserved", stage3)
+        self.assertIn("not yet ingested or analysed", stage3)
+
 
 if __name__ == "__main__":
     unittest.main()
