@@ -329,7 +329,9 @@ def main():
     ols = graball(r"OLS log-log \(Ciccone recipe\):\s+xi = ([\d.]+) \(SE ([\d.]+), HC1 ([\d.]+), HC3 ([\d.]+)\)", S1)
     gi = graball(r"rank-1/2 \(Gabaix-Ibragimov\): xi = ([\d.]+)", S1)
     claim("C18", "all 94 ranks: alpha %s -> xi %s, bootstrap 95%% CI [%s, %s]" % fits[0],
-          ["0.9801", "2.0203", "[0.7787, 1.1851]"], "receipts stage1")
+          ["0.9801", "2.0203", "[0.7787, 1.1851]",
+           "the wide 95% interval [0.7787, 1.1851] includes 1 and cannot sharply distinguish nearby exponents"],
+          "receipts stage1")
     claim("C19", "all 94: project population-on-rank OLS xi %s (SE %s, HC1 %s, HC3 %s); Gabaix-Ibragimov rank-1/2 xi %s"
           % (ols[0][0], ols[0][1], ols[0][2], ols[0][3], gi[0]),
           ["0.8553", "0.0291", "0.8027"], "receipts stage1")
@@ -390,13 +392,16 @@ def main():
     xcheck("C26a", "DE FUA Sp.K.", spk_fua, 156.2, 1)
     eff = (spk_fua / spk_de - 1) * 100
     claim("C27", "AU-C9 modern / P4 definition effect: Sp.K. FUA/admin - 1 = %+.2f%% vs Auerbach 1910 %.2f%%"
-          % (eff, e10), ["+72.04%", "4.05%"], "recomputed from CSV")
+          % (eff, e10), ["+72.04%", "4.05%",
+                         "roughly 70%, direction-only under this coarse FUA-versus-municipality proxy"],
+          "recomputed from CSV")
     xcheck("C27a", "definition effect (%%)", eff, 72.04, 2)
     g = grab(r"zeta MLE alpha ([\d.]+) -> xi ([\d.]+), bootstrap 95% CI \[([\d.]+), ([\d.]+)\]", S2, "C28")
     o = grab(r"OLS xi ([\d.]+) \(SE ([\d.]+), HC1 ([\d.]+), HC3 ([\d.]+)\)", S2, "C28")
     claim("C28", "DE admin exact-count zeta MLE: alpha %s -> xi %s, CI [%s, %s]; OLS xi %s (HC3 %s)"
           % (g[0], g[1], g[2], g[3], o[0], o[3]),
-          ["1.0798", "[0.887, 1.219]", "0.8397"], "receipts stage2")
+          ["1.0798", "[0.887, 1.219]", "0.8397",
+           "the overlapping intervals do not establish a change in exponent"], "receipts stage2")
 
     # -- C29..C33 twelve-country table + tau --------------------------------
     mc = rows("modern-cities-12.csv")
@@ -449,7 +454,9 @@ def main():
                  "Austria-Hungary successor + IN as the PARTIAL Britisch-Indien successor; tau2(12) %+.4f "
                  "(C%d/D%d) = tau1 + RU as the European-Russia successor"
           % (t9, c9, d9, t11, c11, d11, ah[1], t12, c12, d12),
-          ["+0.5556", "+0.6364", "+0.4545", "74.8"], "recomputed from CSVs")
+          ["+0.5556", "+0.6364", "+0.4545", "74.8",
+           "exploratory at nine one-to-one complexes and one reassignment away from non-significance"],
+          "recomputed from CSVs")
     xcheck("C31a", "tau primary(9)", t9, 0.5556, 4)
     xcheck("C31b", "tau1(11)", t11, 0.6364, 4)
     xcheck("C31c", "tau2(12)", t12, 0.4545, 4)
@@ -521,7 +528,9 @@ def main():
                  "best AICc %s (delta %+.2f) -> lane '%s'"
           % (A["A0"]["xi"], A["A0"]["ci_lo"], A["A0"]["ci_hi"], A["A0"]["h_min"], A["A0"]["n_tail"],
              A["A0"]["models"]["M1 pl"]["gof"], A["A0"]["best"], A["A0"]["d_best"], A["A0"]["lane"]),
-          ["0.4598", "[0.1164, 0.5218]", "2634", "989", "0.0020", "-241.15", "bounded family wins"],
+          ["0.4598", "[0.1164, 0.5218]", "2634", "989", "0.0020", "-241.15",
+           "bounded family wins", "summit-list coverage bias", "bounded support",
+           "rejects every fitted family", "broad cutoff uncertainty"],
           "receipts stage3; the report's headline")
     claim("C44", "lanes: H-MB in %s; M-rank supported in %s; uninformative (no §7 lane) in %s"
           % ("/".join(k for k in ARMS if A[k]["lane"].startswith("bounded")),

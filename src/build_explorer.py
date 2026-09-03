@@ -107,13 +107,15 @@ PREDICTIONS = [
      "not the predicted 1.05-1.20. Direct inspection of the 2023 Appendix Figure A1 confirms that "
      "-1.15 is the inverse-axis slope; under the project's mapping its magnitude gives xi = 0.8704 (EXT-C1)."),
     ("P3", "borne out",
-     "Ordering not intact (UK/NL swap, ES 9->3, BE 3->5) but concordance survives: Kendall "
+     "Ordering not intact (UK/NL swap, ES 9->3, BE 3->5). The residual association is exploratory "
+     "at nine one-to-one complexes and one reassignment away from non-significance: Kendall "
      "tau = +0.5556, permutation p = 0.0436 (primary seed 20260902); tau1 = +0.6364 "
      "(p = 0.0058) and tau2 = +0.4545 (p = 0.0423) use sensitivity-arm seed 20260903. "
      "All three tau values are re-derived from the CSVs for the report."),
     ("P4", "borne out",
      "Definition effect +72.04% (Sp.K. 156.2 FUA vs 90.8 Gemeinde) against Auerbach's 4.05%. "
-     "Qualifier: FUA-vs-Gemeinde is a coarse proxy likely to overstate a suburb-merging effect, "
+     "That is roughly 70%, direction-only under this coarse FUA-versus-municipality proxy. The comparison "
+     "is a coarse proxy likely to overstate a suburb-merging effect and is "
      "not a like-for-like replication."),
     ("P5", "borne out",
      "Pure full-support power law rejected in all eight prominence-defined arms; xi = 0.4598 "
@@ -142,13 +144,13 @@ CLAIMS = [
     ("AU-C3", "unverifiable here", "Needs the full 1910 census place list (DC-1b); path documented, not faked from Table 1."),
     ("AU-C4", "confirmed", "47.8/0.645 = 74.1085 -> 74; the scan is the consistent reading (47.2 -> 73.178)."),
     ("AU-C5 hist", "confirmed", "Cell-by-cell vs the scan, one correction: Schweiz A.K. 2,8 not 2,6."),
-    ("AU-C5 modern", "compatible with qualifiers", "tau = +0.5556 (p = 0.0436); mixed reference years, administrative arm."),
+    ("AU-C5 modern", "compatible with qualifiers", "tau = +0.5556 (p = 0.0436), exploratory at nine one-to-one complexes and one reassignment away from non-significance; mixed reference years, administrative arm."),
     ("AU-C6", "confirmed", "All six provinces verified; Posen below Ostpreussen as printed."),
     ("AU-C7", "confirmed", "169/4.32 = 39.1204 -> 39 over 334 places >= 50,000."),
     ("AU-C8 hist", "confirmed (arithmetic)", "Deltas 23.3% / 72.5% / 40.0% vs printed 23 / 72 / 40."),
     ("AU-C8 modern", "unverifiable here", "DC-2d multi-decade municipal series not landed; reported open."),
     ("AU-C9 hist", "confirmed", "77 admin vs 74 topographic = 4.05%; A.K. side 3.56%."),
-    ("AU-C9 modern", "confirmed, far larger", "+72.04% FUA vs Gemeinde -- a coarse proxy likely to overstate a suburb-merging effect, not like-for-like."),
+    ("AU-C9 modern", "confirmed, far larger", "+72.04% FUA vs Gemeinde -- roughly 70%, direction-only under this coarse FUA-versus-municipality proxy, not like-for-like."),
     ("AU-C10", "compatible with qualifiers", "Both examples hold directionally; 'knapp doppelt' is loose (~2.5-2.7x)."),
     ("AU-C11", "compatible with qualifiers", "Lanes: H-MB on A0/A1/A2/A3/R2; M-rank supported on A4/R1/R3; M-count nowhere."),
     ("AU-C12", "parked", "beta = ln4/ln2 = 2.0 reproduces his arithmetic; no data plan in this project."),
@@ -336,7 +338,7 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
 <header>
   <h1>Auerbach (1913) <em>Das Gesetz der Bev&ouml;lkerungskonzentration</em> &mdash; cities and mountains, recomputed</h1>
   <div class="repo-line"><a href="__REPO__">github.com/kenrinzero/auerbach-cities-and-mountains</a>
-    &mdash; source, data, methods, tests and independent audits.</div>
+    &mdash; source, data, methods, tests and audit records.</div>
   <div class="credit-line">Directed by Kenrin (<a href="https://github.com/kenrinzero">@kenrinzero</a>).
     Analysis by AI agents under his direction: <b>Kimi (Kimi K3)</b>,
     <b>Codex (GPT-5.6 Sol)</b>, and <b>Qoder (Qwen3.8-Max)</b>.
@@ -393,7 +395,7 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
   <section id="tab-report" role="tabpanel" hidden>
     <div class="rp">
       <div class="rp-measure">
-        <p class="rp-lede">The report in full, rendered verbatim from <code>REPORT.md</code> at build time
+        <p class="rp-lede">The complete technical record, rendered verbatim from <code>REPORT.md</code> at build time
         (SHA-256 <code>__REPORTSHA__</code>&hellip;). Nothing on this page is retyped by hand, so it moves
         whenever the report moves. The other tabs are the interactive layer: every number on them is
         re-derived by <code>src/verify_report_numbers.py</code> from the frozen receipts and the
@@ -442,7 +444,8 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       <div class="card"><h3>Sp.K. then vs now &mdash; nine 1:1 complexes</h3><div id="cslope"></div>
         <p class="note">Kendall &tau; = +0.5556, permutation p = 0.0436 (10,000 reps, null sd 0.265,
         primary seed 20260902).
-        The ordering does not survive intact; the concordance does.</p></div>
+        This residual association is exploratory at nine one-to-one complexes and one reassignment away
+        from non-significance; it is not evidence that the historical ordering is durable.</p></div>
       <div class="card"><h3>&tau; sensitivity arms</h3><div id="ctau"></div>
         <p class="note">&tau;&#8321; (11) adds the pooled AT+HU successor (Sp.K. 74.8) for Austria-Hungary and
         India as a <em>partial</em> Britisch-Indien successor; &tau;&#8322; (12) adds the Russian Federation for
@@ -452,10 +455,11 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
     <div class="card"><h3>Germany: administrative vs topographic definition (P4, AU-C9 modern)</h3>
       <div class="grid"><div><div id="cde"></div></div><div><div id="cdeband"></div></div></div>
       <p class="note">Sp.K. 156.2 (89 Functional Urban Areas) vs 90.8 (131 municipalities, true 2025
-      cross-section) = <strong>+72.04%</strong>, against Auerbach's own 4.05%. Primacy-excluded: 160.3 vs 92.7.
-      The FUA-vs-Gemeinde contrast is a coarse proxy likely to overstate a suburb-merging effect, not a
-      like-for-like replication. Shape persists, level does not: &xi; = 1.0798 (CI [0.887, 1.219]) with the
-      A.K. band displaced from 45&ndash;53 to 57.4&ndash;87.2.</p></div>
+      cross-section) = <strong>+72.04%</strong>, against Auerbach's own 4.05%: roughly 70%, direction-only
+      under this coarse FUA-versus-municipality proxy. Primacy-excluded: 160.3 vs 92.7. The contrast is a
+      coarse proxy likely to overstate a suburb-merging effect and is not a like-for-like replication. &xi; = 1.0798 (CI
+      [0.887, 1.219]) with the A.K. band displaced from 45&ndash;53 to 57.4&ndash;87.2; compared with the 1913
+      interval [0.7787, 1.1851], the overlapping intervals do not establish a change in exponent.</p></div>
     <div class="card"><h3>The twelve-country modern table (common 100,000 threshold)</h3>
       <table id="tmodern"></table>
       <p class="note">Reference years are heterogeneous by necessity (IN 2011 &hellip; DE/IT/CH 2025), so the
@@ -1093,11 +1097,15 @@ def main():
         '<div>Directed by Kenrin (<a href="https://github.com/kenrinzero">@kenrinzero</a>), who set the scope, '
         "adjudicated every audit finding and approved every correction before it landed. The analysis was produced "
         "by AI agents under his direction: <b>Kimi (Kimi K3)</b> &mdash; Stage 0 pre-registration and claim inventory, the "
-        "Stage-1 scan transcription, and the Stage-2/3/4 audits; <b>Codex (GPT-5.6 Sol)</b> &mdash; the independent final "
+        "Stage-1 scan transcription, and the Stage-2/3/4 audits; <b>Codex (GPT-5.6 Sol)</b> &mdash; the cross-agent final "
         "audit, its F1&ndash;F6 correction pass, and this citation/prose pass; <b>Qoder (Qwen3.8-Max)</b> &mdash; the Stage-1 audit, the Stage-2 and "
         "Stage-3 implementations, the report, this explorer, and publication. No agent audited a stage it "
         'implemented. Full attribution session by session, and what each agent got wrong: '
         '<a href="' + BLOB_URL + 'CREDITS.md">CREDITS.md</a>.</div>',
+        '<div style="margin-top:6px">The controls have distinct dimensions: Stage 1 used double-entry scan '
+        'transcription, corrected Stage-3 values received fresh-code re-derivation, and the stage and final '
+        'checks were cross-agent implementation review. They are not independent human conceptual replication '
+        'and do not rule out shared model-family blind spots.</div>',
         '<div style="margin-top:6px">Methodological debt: the binned-data framework of '
         '<a href="https://doi.org/10.1214/13-AOAS710">Virkar &amp; Clauset (2014)</a> and the cutoff-selection, '
         "refitted-bootstrap goodness-of-fit and alternative-comparison design of "

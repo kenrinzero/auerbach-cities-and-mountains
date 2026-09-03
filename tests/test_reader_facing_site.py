@@ -157,6 +157,25 @@ class ReaderFacingSiteTests(unittest.TestCase):
         ):
             self.assertNotIn(stale, visible_text(self.page))
 
+    def test_full_report_opens_as_a_finished_publication(self):
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        opening = report[:1800]
+        self.assertIn("**Published:**", opening)
+        self.assertIn("## Abstract", opening)
+        self.assertNotIn("katflow #", opening)
+        self.assertNotIn("Deliver stage", opening)
+        self.assertIn("## Audit and provenance", report)
+
+    def test_current_public_prose_has_no_work_order_voice(self):
+        current = visible_text(self.page)
+        for stale in (
+            "Publishing: none",
+            "publication still requires the user's separate signal",
+            "this deliverable awaits",
+            "probable separate project",
+        ):
+            self.assertNotIn(stale, current)
+
     def test_method_provenance_distinguishes_framework_from_implementation(self):
         public_text = self.readme + visible_text(self.page)
         self.assertIn("continuous-data cutoff selector was implemented separately", public_text)
@@ -186,7 +205,9 @@ class ReaderFacingSiteTests(unittest.TestCase):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
         self.assertIn("Dated correction — 2026-09-03", sweep)
         self.assertIn("year of record is **2012**", sweep)
-        stage3 = report[report.index("**Stage 3"):report.index("**Stage 4")]
+        audit_start = report.index("## Audit and provenance")
+        stage3_start = report.index("**Stage 3", audit_start)
+        stage3 = report[stage3_start:report.index("**Stage 4", stage3_start)]
         normalized_stage3 = re.sub(r"\s+", " ", stage3).strip()
         historical = "the Scaruffi path probed returned 404, so Miškinis's 548-summit list was not obtainable within Stage 3)."
         corrective = "The correct page was subsequently obtained and preserved, remains outside the fitted corpus, and is not yet ingested or analysed pending a dated data-contract addendum."
