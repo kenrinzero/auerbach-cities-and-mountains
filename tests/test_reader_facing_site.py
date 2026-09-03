@@ -123,20 +123,36 @@ class ReaderFacingSiteTests(unittest.TestCase):
                 self.assertIn("0.5619", text)
                 self.assertIn("0.0020", text)
                 self.assertIn("0.7665", text)
-                self.assertIn("no bounded alternative wins on the preregistered significant comparison", text)
+
+        for artifact, text in (
+            ("REPORT.md", report),
+            ("Overview", overview),
+            ("Mountains", mountains),
+        ):
+            with self.subTest(artifact=artifact, rule="D9 comparison"):
+                self.assertIn(
+                    "no bounded alternative wins on the preregistered favorable Vuong comparison at p < 0.05",
+                    text,
+                )
 
         for artifact, text in (("REPORT.md", report), ("Mountains", mountains)):
             with self.subTest(artifact=artifact, rule="frozen H-MB rule"):
-                self.assertIn("M3 beats M1 on the LRT", text)
-                self.assertIn("M2/M5/M6b beats M1 on Vuong at p < 0.05", text)
-                self.assertIn("M1 is rejected on GoF", text)
+                self.assertIn(
+                    "at least one of M3, M2, M5, or M6b beats M1 on a favorable Vuong comparison at p < 0.05",
+                    text,
+                )
+                self.assertIn(
+                    "M1 is rejected on GoF while at least one alternative is not",
+                    text,
+                )
                 self.assertIn("AICc is companion evidence", text)
+                self.assertNotIn("M3 beats M1 on the LRT", text)
                 self.assertNotIn("requires a preregistered bounded alternative to have both lower AICc", text)
 
         self.assertNotIn("has both lower AICc and significant Vuong", report)
         self.assertNotIn("M6b GoF p = 0.0020 keep it out", report)
         for expected in ("A4", "-25.47", "0.5619", "0.0020", "0.7665",
-                         "no bounded alternative wins on the preregistered significant comparison"):
+                         "no bounded alternative wins on the preregistered favorable Vuong comparison at p < 0.05"):
             self.assertIn(expected, scoreboard)
         self.assertNotIn("M6b GoF p 0.0020 keep", scoreboard)
         self.assertNotIn("M6b GoF p 0.0020 keep", mountains)

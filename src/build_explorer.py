@@ -123,14 +123,14 @@ PREDICTIONS = [
      "(CI [0.1164, 0.5218]) on the global arm and < 1 in all ten; bounded/cutoff family favored "
      "where the test has power (A0/A1/A2/A3/R2) and indistinguishable in the small-tail arms "
      "(A4/R1/R3). A4 stays outside H-MB because M1 GoF p 0.7665 passes and no bounded alternative "
-     "wins on the preregistered significant comparison. M6b has lower companion AICc (dAICc -25.47), "
+     "wins on the preregistered favorable Vuong comparison at p < 0.05. M6b has lower companion AICc (dAICc -25.47), "
      "but Vuong p 0.5619 is nonsignificant and M6b GoF p 0.0020 separately fails absolute fit. The empirical bounded-support "
      "implication is compatible; no tectonic causal mechanism was tested."),
     ("P6", "borne out, with qualifiers",
      "Miskinis rank curve R2(log) 0.99447 Alps / 0.92308 Rockies / 0.99244 global, but only "
      "0.81840 on the Himalayas where fitted h_max 7863.2 m cannot reach the observed 8848 m. "
      "M6b has lower AICc than M1 in A0/R1/R2/R3/A4. A4 stays outside H-MB because M1 GoF p "
-     "0.7665 passes and no bounded alternative wins on the preregistered significant comparison; M6b "
+     "0.7665 passes and no bounded alternative wins on the preregistered favorable Vuong comparison at p < 0.05; M6b "
      "Vuong p 0.5619 is nonsignificant and its GoF p 0.0020 separately fails absolute fit. 'At least as well "
      "as any power law' holds only as an AICc statement; 'as well as any alternative' does not."),
     ("P7", "borne out",
@@ -390,7 +390,7 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
         Auerbach&rsquo;s direction. Summit heights nevertheless decline more gently with rank in all four
         primary arms. The result then splits: bounded or cutoff families win in the global, lower-prominence and Himalaya arms,
         while the Alps, Rockies and highest-prominence A4 tail satisfy the stricter rank-law lane. In A4,
-        M1 passes GoF at p = 0.7665 and no bounded alternative wins on the preregistered significant comparison. AICc is
+        M1 passes GoF at p = 0.7665 and no bounded alternative wins on the preregistered favorable Vuong comparison at p &lt; 0.05. AICc is
         companion evidence, not part of that alternative-win rule: M6b has lower companion AICc
         (&Delta;AICc &minus;25.47), but its Vuong p = 0.5619 is not significant and it fails absolute GoF at
         p = 0.0020. The evidence
@@ -528,10 +528,10 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       exploratory and excluded from the family.</p></div>
     <div class="card"><h3>Model comparison, all ten arms</h3><div class="table-scroll" role="region" tabindex="0"
       aria-label="Mountain model comparison table; scroll horizontally to see all columns"><table id="tmodels"></table></div>
-      <p class="note">The frozen H-MB rule is true if M3 beats M1 on the LRT, M2/M5/M6b beats M1 on
-      Vuong at p &lt; 0.05, or M1 is rejected on GoF while at least one alternative is not. AICc is companion
+      <p class="note">The frozen H-MB rule is true if at least one of M3, M2, M5, or M6b beats M1 on a favorable
+      Vuong comparison at p &lt; 0.05, or M1 is rejected on GoF while at least one alternative is not. AICc is companion
       evidence, not part of that alternative-win rule; lower AICc alone does not switch the lane. In A4,
-      M1 passes GoF at p = 0.7665 and no bounded alternative wins on the preregistered significant comparison.
+      M1 passes GoF at p = 0.7665 and no bounded alternative wins on the preregistered favorable Vuong comparison at p &lt; 0.05.
       M6b has lower companion AICc (&Delta;AICc &minus;25.47), but its Vuong p = 0.5619 is not significant and
       M6b GoF p = 0.0020 fails absolute fit. These are project-side model diagnostics, not source claims.
       Other honesty notes: on A0 <em>all six</em> families are rejected on GoF at the selected cutoff,
