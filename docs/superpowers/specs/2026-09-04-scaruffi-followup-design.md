@@ -1,6 +1,6 @@
 # Scaruffi Historical Comparator and Current-Snapshot Sensitivity
 
-**Status:** Approved in chat on 2026-09-04; written for user review before implementation planning.
+**Status:** Approved in chat on 2026-09-04; evidence-specific amendment approved in chat on 2026-09-04 after the source audit found a dated 2009 capture.
 
 **Project:** `paper-claims/auerbach-mountains-and-cities`
 
@@ -19,8 +19,26 @@ These phases answer different questions. The first concerns historical reproduci
 - The preserved capture at `data/raw/scaruffi-2026-09-03/tallest.html` is private and gitignored. Its recorded size is 102,018 bytes and its SHA-256 is `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`.
 - The capture contains 568 HTML `tr` elements across three tables. The unique table headed `Mountain`, `Height`, `Country`, and `Continent` contains one header plus 565 data rows.
 - A read-only inspection found eight repeated case-insensitive names, one exact name-and-height repetition (`Kamet`, 7.756), one metre-form height token (`3980`) among kilometre-form decimals, and several source-order inversions.
-- Miškinis (2011) describes a 548-summit list above 3,500 m attributed to Scaruffi (2008). The seventeen-row difference is unexplained. The served page is undated, and no dated snapshot establishing the 2008 membership is held.
+- Miškinis (2011) describes a 548-summit list above 3,500 m attributed to Scaruffi (2008).
+- Task 1 independently preserved an Arquivo.pt capture of the original URL dated `2009-10-08T01:46:19Z`, with original `Last-Modified` `2009-03-30T02:49:20Z`. The capture is 100,381 bytes, has SHA-256 `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`, and contains 555 rows under the provisional target-table count.
+- The seven-row difference between the dated 555-row capture and Miškinis's reported 548 rows remains unexplained. Surviving evidence does not identify seven exclusions or a unique fitting recipe.
 - Original Stage-3 sources, derived tables, receipts, correction history, Holm family, and verdict lanes are immutable inputs to this follow-up.
+
+## Evidence-specific amendment — 2009 archive
+
+Approved on 2026-09-04 after Task 1 found independently dated row-level historical evidence.
+
+- Original URL: `http://www.scaruffi.com/travel/tallest.html`
+- Arquivo.pt archive timestamp: `2009-10-08T01:46:19Z`
+- Original `Last-Modified`: `2009-03-30T02:49:20Z`
+- Replay URL: `https://arquivo.pt/wayback/20091008014619id_/http://www.scaruffi.com/travel/tallest.html`
+- Historical capture: 100,381 bytes; SHA-256 `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`; provisional target-table row count 555.
+- Current capture: 102,018 bytes; SHA-256 `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`; target-table row count 565.
+- Evidence-supported candidate identifier: `arquivo_pt_20091008014619_as_archived`.
+
+The 2009 capture is independently dated row-level historical evidence and defines one explicit 555-row as-archived candidate. It is not Miškinis's exact 548-row sample. No task may infer, optimize, or search for seven exclusions. The controlled historical disposition remains `not_identifiable` unless a separately approved dated deviation later identifies both a defensible 548-row candidate and a unique fitting recipe. A fit of the 555-row candidate quantifies archival benchmark proximity only and cannot change that disposition.
+
+Historical/current mapping is deterministic and diagnostic only. Its categories are `exact`, `same_name_different_height`, `historical_only`, and `current_only`. An `exact` match requires the normalized casefold name and exact normalized height in metres to agree. The same normalized casefold name at a different height is reported as `same_name_different_height` and never merged; all other records are `historical_only` or `current_only`. Fuzzy matching, manual aliases, inferred substitutions, and mapping-driven deletion are prohibited. Historical-only rows remain members of the 555-row candidate.
 
 ## Chosen approach
 
@@ -28,7 +46,7 @@ Use a staged-both design.
 
 ### Phase 1: historical reconstruction assessment
 
-Generate only evidence-based reconstruction candidates, evaluate them against Miškinis's published benchmarks, and issue one of the reconstruction dispositions defined below. Do not delete rows to force a count of 548 or tune membership to improve coefficient agreement.
+Generate the evidence-supported 555-row `arquivo_pt_20091008014619_as_archived` candidate, evaluate it against Miškinis's published benchmarks under the frozen recipe set, and retain the `not_identifiable` disposition. Do not delete rows to force a count of 548 or tune membership to improve coefficient agreement.
 
 ### Phase 2: current-snapshot sensitivity
 
@@ -52,7 +70,7 @@ The governance commit is independently checked before the analysis task begins. 
 
 ## Source custody and publication boundary
 
-The raw HTML and any complete row-level derivative remain private. They stay under an ignored path and are not added to Git, release archives, Pages, fixtures, or generated HTML. The page expression and the selection are treated as a third-party copyrighted compilation with no recorded licence.
+Both raw HTML captures, the historical `_manifest.json`, and any complete row-level derivative or membership trace remain private. They stay under the ignored `data/raw/scaruffi-2026-09-03/` tree and are not added to Git, clean clones, release archives, Pages, fixtures, or generated HTML. The page expression and the selection are treated as a third-party copyrighted compilation with no recorded licence.
 
 The public repository may contain:
 
@@ -68,7 +86,9 @@ No public artifact may reproduce the complete mountain-name sequence or a row-co
 
 ### `src/scaruffi_parse.py`
 
-This module reads an explicitly supplied local capture and returns normalized records plus a structured diagnostic summary. It has no network behavior and does not write a public row-level CSV.
+This module reads an explicitly supplied local capture under a `SourceContract` and returns normalized records plus a structured diagnostic summary. It has no network behavior and does not write a public row-level CSV. The same public code parses both private captures.
+
+Each `SourceContract` binds `source_id`, expected original URL, byte count, SHA-256, the unique four-header target table, expected row count, and the approved lexical height grammar and anomaly reporting. The two frozen source IDs are `arquivo_pt_20091008014619` for `data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html` and `scaruffi_20260903_current` for `data/raw/scaruffi-2026-09-03/tallest.html`. A byte, hash, URL-identity, table, or row-count mismatch hard-fails before any fit.
 
 The parser selects the unique table with the four required headers `Mountain`, `Height`, `Country`, and `Continent`; an absent or ambiguous match is a hard failure. It retains each source ordinal and raw field text for local audit. Extra cells are allowed only when empty or whitespace-only.
 
@@ -92,7 +112,7 @@ The parser reports, without automatically resolving:
 
 ### `src/scaruffi_followup.py`
 
-This module consumes the parser's in-memory records and produces the Phase-1 and Phase-2 aggregate receipts. It must reuse the established Stage-3 model definitions, selected-cutoff logic, forced-full-support separation, goodness-of-fit procedure, and comparison conventions.
+This module consumes the parser's in-memory records and produces the Phase-1 and Phase-2 aggregate receipts. It exposes deterministic `map_historical_to_current(historical_rows, current_rows)` diagnostics and `build_historical_candidate(historical_rows)` for the fixed `arquivo_pt_20091008014619_as_archived` membership. Mapping never filters membership. The module must reuse the established Stage-3 model definitions, selected-cutoff logic, forced-full-support separation, goodness-of-fit procedure, and comparison conventions.
 
 If `src/stage3_mountains.py` is not safely importable, implementation may move only pure fitting helpers into a shared internal module. Such a refactor is allowed only with regression proof that the original Stage-3 receipt remains byte-identical. Copying or independently drifting the model formulas is not allowed.
 
@@ -103,19 +123,22 @@ Focused tests use small synthetic HTML fixtures and synthetic elevation arrays. 
 - `tests/test_scaruffi_parse.py`; and
 - `tests/test_scaruffi_followup.py`.
 
-They cover table selection, unit normalization, blank extra cells, malformed input, duplicate classification, deterministic tie ranking, order-inversion reporting, reconstruction disposition logic, private-data exclusion, and immutable Stage-3 regression behavior.
+They cover source-contract selection for both 555- and 565-row sources, hard failures for byte/hash/table/row mismatches, unit normalization, blank extra cells, malformed input, duplicate classification, deterministic tie ranking, order-inversion reporting, exact/same-name-different-height/historical-only/current-only mapping, proof that mapping cannot filter the 555-row candidate, reconstruction disposition logic, private-data exclusion, and immutable Stage-3 regression behavior. Synthetic fixtures may not reproduce the source compilation.
 
 ## Phase 1: reconstruction design
 
-Candidate membership rules must be declared in the preregistration amendment before any candidate fit is computed. A rule is eligible only if it comes from source semantics, independent dated evidence, or a documented entity-resolution rule. Examples of eligible rule classes include an independently supported historical cutoff convention or an exact duplicate proven to denote the same summit. Coefficient closeness, desired sample size, or improved goodness of fit are not membership evidence.
+The preregistration amendment must freeze the 2009 source contract, the current source contract, the mapping rules, the 555-row as-archived candidate, the private trace schema/path, the precommitted `not_identifiable` consequence under present evidence, and the rule that a 555-row fit is archival sensitivity evidence rather than replication. Coefficient closeness, desired sample size, or improved goodness of fit are not membership evidence.
 
 Candidate generation and benchmark evaluation are separate steps:
 
-1. generate the complete candidate set from the frozen evidence rules;
-2. record every included and excluded source ordinal privately;
+1. generate the complete 555-row candidate from `arquivo_pt_20091008014619_as_archived` without exclusions;
+2. record all included historical source ordinals and deterministic private row identities privately;
 3. compute aggregate candidate identities and public-safe fingerprints;
-4. evaluate candidates against Miškinis's printed sample size, threshold counts, maximum height, formula, coefficients, and residual summaries; and
-5. assign one disposition.
+4. compute the four diagnostic mapping categories against the current capture without changing candidate membership;
+5. evaluate the candidate against Miškinis's printed sample size, threshold counts, maximum height, formula, coefficients, and residual summaries; and
+6. retain the controlled `not_identifiable` disposition.
+
+The ignored trace path is `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`. It records historical source identity, candidate ID, all included historical source ordinals, deterministic private row identities sufficient to reproduce the 555-row candidate, mapping categories to the current capture, and aggregate counts. Public receipts expose only aggregate counts, cryptographic fingerprints, rule IDs, and dispositions—not names, row sequences, or a row-complete substitute.
 
 Printed integer benchmarks must match exactly. A printed continuous parameter is reproduced when the recomputed value falls within half a unit of its last printed decimal under the same formula and fitting definition. If the paper does not specify enough of the fitting procedure to make that comparison unique, the ambiguity is reported rather than resolved by choosing the most favorable implementation.
 
@@ -125,7 +148,7 @@ The permitted dispositions are:
 - **Bounded/non-unique reconstruction:** one or more evidence-generated candidates are benchmark-compatible, but surviving evidence does not uniquely establish all row memberships or the fitting recipe.
 - **Not identifiable:** no evidence-generated candidate establishes a defensible 548-row historical dataset.
 
-A numerical benchmark match alone cannot earn the exact disposition. If Phase 1 is bounded or not identifiable, the project may still report that outcome and proceed to Phase 2, but it may not claim a direct replication on Miškinis's data.
+A numerical benchmark match alone cannot earn an exact or bounded reconstruction disposition. Under the evidence held by this amendment, the 555-row fit remains archival sensitivity evidence and the disposition is `not_identifiable`; it may not be claimed as a direct replication on Miškinis's data.
 
 ## Phase 2: current-snapshot design
 
@@ -147,7 +170,7 @@ This arm is follow-up sensitivity evidence. It is not inserted retrospectively i
 
 The parser exits nonzero and produces no fit receipt when any of the following occurs:
 
-- raw hash or byte count differs from the contract;
+- raw hash, byte count, expected URL identity, or expected row count differs from either source contract;
 - the target table is missing or ambiguous;
 - required fields are missing;
 - a height token violates the frozen unit grammar;
@@ -174,12 +197,12 @@ All machine-generated text artifacts are UTF-8, LF-only, and byte-stable. The im
 
 An agent that did not implement the parser or analysis performs a fresh-context audit. The auditor works from the held raw capture, Miškinis's primary paper, the frozen governance commit, and the public outputs. The audit must independently:
 
-1. verify source hash, table selection, 565-row count, units, duplicate classes, and order diagnostics;
+1. verify both source hashes, table selections, the 555- and 565-row counts, units, duplicate classes, and order diagnostics;
 2. transcribe and verify Miškinis's formula and printed benchmarks from the paper;
-3. assess whether the Phase-1 disposition is warranted by the evidence rather than coefficient targeting;
+3. independently verify the mapping-category aggregates, that mapping never filters the 555-row candidate, and that the Phase-1 `not_identifiable` disposition is warranted rather than influenced by coefficient targeting;
 4. reproduce decisive Phase-2 estimates and model comparisons;
 5. confirm the original Stage-3 receipt and public baseline were not changed;
-6. inspect the Git tree and generated public bundle for private or row-complete source leakage; and
+6. inspect the Git tree, clean clone, and generated public bundle for either raw HTML capture, the archive manifest, private trace, or a row-complete source substitute; and
 7. review every proposed public sentence for scope, chronology, and selection-bias qualifiers.
 
 The auditor may return `STANDS`, `STANDS WITH CORRECTION`, or `DOES NOT STAND`, with discrete findings for user adjudication. The implementing agent cannot self-confirm the merit gate.
@@ -193,7 +216,7 @@ The local candidate is eligible for user review only when all of the following h
 3. all new focused tests pass;
 4. the original Stage-3 receipt hash and protected-artifact aggregate remain unchanged;
 5. the existing 109 report checks and 38-test baseline remain green before public integration;
-6. a clean clone contains no raw Scaruffi HTML, row-level derivative, or reconstructive fixture;
+6. a clean clone contains neither raw Scaruffi HTML capture, the archive manifest, private trace, row-level derivative, nor reconstructive fixture;
 7. the fresh-context audit is complete and every finding has been adjudicated by the user; and
 8. the report, Overview, explorer, README, and generated mirrors remain unchanged unless and until the user approves an integration pass.
 
@@ -202,7 +225,7 @@ After scientific acceptance, public integration is a separate task. It may add a
 ## Out of scope
 
 - Redistributing the Scaruffi HTML or a complete row-level derivative.
-- Guessing or hand-selecting the seventeen-row historical difference.
+- Guessing, optimizing, or hand-selecting the seven-row difference between the 555-row archive and Miškinis's 548 rows, or the seventeen-row difference between the 565-row current capture and 548.
 - Calling a benchmark-compatible candidate the exact historical dataset without independent membership evidence.
 - Retrofitting the original preregistration, multiplicity family, or Stage-3 verdict lanes.
 - Adding new mountain sources, prominence-as-variable analyses, cleaned Wikidata fits, tectonic causal tests, or other parked follow-ons.

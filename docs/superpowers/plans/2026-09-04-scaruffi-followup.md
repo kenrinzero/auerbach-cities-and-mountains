@@ -2,9 +2,9 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Determine what can and cannot be reconstructed about Miškinis's historical 548-summit Scaruffi sample, run a separately labelled sensitivity analysis on the dated 565-row Scaruffi capture, and integrate only owner-approved conclusions without changing the accepted Stage-3 result.
+**Goal:** Preserve the `not_identifiable` result for Miškinis's historical 548-summit sample, quantify benchmark proximity for the independently dated 555-row Arquivo.pt candidate, run separately labelled sensitivity analysis on the dated 565/564-row current Scaruffi arms, and integrate only owner-approved conclusions without changing the accepted Stage-3 result.
 
-**Architecture:** The work has two deliberately separate scientific phases. Phase 1 audits the primary paper and any independent membership evidence, freezes the candidate-generation and matching rules, and then either assesses evidence-supported 548-row candidates or records that the historical sample is not identifiable. Phase 2 parses the private 2026-09-03 capture under a strict public contract and runs the existing Stage-3 model family on an as-listed arm plus an exact-duplicate sensitivity arm. Both phases produce aggregate receipts only; the ignored HTML and any row-level reconstruction remain private. A fresh-context audit and owner adjudication precede any reader-facing integration, and publication remains a final separate signal.
+**Architecture:** Task 1 historically searched for membership evidence and found a private 2009 Arquivo.pt HTML capture with 555 target rows. The approved amendment now freezes two source contracts around one parser, deterministic diagnostic-only historical/current mapping, a fixed 555-row as-archived candidate, and the precommitted `not_identifiable` consequence. Phase 1 fits that candidate only as archival sensitivity evidence; it never searches for seven exclusions. Phase 2 runs the existing Stage-3 family on the dated 565-row current capture and its 564-row exact-duplicate sensitivity. Both phases produce aggregate public receipts while both HTML captures, the archive manifest, the private trace, and row-level material remain ignored. Fresh-context audit and owner adjudication precede reader-facing integration, and publication remains a final separate signal.
 
 **Tech Stack:** Python 3, standard-library `html.parser`, `hashlib`, `json`, `dataclasses`, NumPy/SciPy through the existing `src/stage3_mountains.py`, `unittest`, Markdown contracts and receipts, deterministic static HTML from `src/build_explorer.py`, PowerShell, Git.
 
@@ -13,11 +13,12 @@
 ## Global Constraints
 
 - The accepted public baseline is commit `4c43cc4`; existing Stage-3 inputs, `results/stage3-recompute.txt`, its SHA-256 `6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7`, its Holm family, and its verdict remain immutable.
-- Treat `data/raw/scaruffi-2026-09-03/tallest.html` as private custody material. It is 102,018 bytes with SHA-256 `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`. Never add the HTML, a parsed row table, or a reconstructed row list to Git.
+- Treat both `data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html` and `data/raw/scaruffi-2026-09-03/tallest.html` as private custody material. The historical capture is 100,381 bytes with SHA-256 `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571` and 555 target rows; the current capture is 102,018 bytes with SHA-256 `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe` and 565 target rows. Never add either HTML file, the private historical `_manifest.json`, the private trace, a parsed row table, or a reconstructed row list to Git.
 - Governance order is mandatory: primary-source audit, machine-readable and prose contract freeze, independent pre-fit review, then fitting. A numerical result must not influence candidate rules, parser rules, benchmark tolerances, seeds, or arm definitions.
-- Historical reconstruction and current-snapshot sensitivity are different objects. Never describe the 565-row capture, its 564-row exact-deduplicated sensitivity, or any subset of either as “Miškinis's 548 rows” without independent row-membership evidence.
+- Miškinis's unidentified 548 rows, the dated 555-row `arquivo_pt_20091008014619_as_archived` candidate, and the dated 565/564-row current arms are three different objects. Never describe one as another. Never search, infer, optimize, or hand-select seven exclusions from the 555-row archive.
 - The current-snapshot arms are outside the original Stage-3 multiple-testing family. They can qualify interpretation but cannot upgrade or overwrite a Stage-3 lane or headline verdict.
-- Public artifacts may contain source hashes, counts, aggregate diagnostics, model receipts, candidate fingerprints, and conclusions. They may not contain source HTML or row-level data.
+- Historical/current mapping is diagnostic only: exact normalized-casefold-name plus exact normalized-metres matches, same-name/different-height records, historical-only records, and current-only records are reported separately. No fuzzy matching, manual aliases, inferred substitutions, mapping-driven deletion, or use of mapping as a membership filter is allowed.
+- Public artifacts may contain source hashes, counts, aggregate diagnostics, model receipts, candidate fingerprints, rule IDs, and dispositions. They may not contain source HTML, the archive manifest, private trace, names, row sequences, row-level data, or a row-complete substitute.
 - Every scientific correction requires a genuinely fresh-context audit and explicit owner adjudication. Every public integration and every push require later, separate owner signals.
 - Keep UTF-8 and LF-only for all new tracked text files.
 
@@ -104,6 +105,8 @@ Expected: no diff for the accepted Stage-3 artifacts or implementation. The alre
 - Read only: `results/stage0-novelty-sweep.md`
 - Read only: `results/final-correction-receipt.md`
 - Read only: private `data/raw/scaruffi-2026-09-03/tallest.html`
+- Read only: private `data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html`
+- Read only: private `data/raw/scaruffi-2026-09-03/historical-evidence/_manifest.json`
 
 - [ ] **Step 1: Reconfirm that the raw capture is private and byte-identical**
 
@@ -139,25 +142,18 @@ For each decimal benchmark, define its acceptance tolerance as half one unit in 
 
 Search for primary or independently preserved evidence only: an archived Scaruffi snapshot dated no later than the paper, a paper supplement, an author-hosted row list, or a contemporaneous cache that exposes membership. Record the exact URL, archive timestamp, access date, and content hash for anything found. Citations or snippets that repeat only “548” are benchmark evidence, not membership evidence.
 
-If row-level historical evidence is found, preserve it only beneath the already ignored private directory `data/raw/scaruffi-2026-09-03/historical-evidence/`, together with a private `_manifest.json` containing URL, archive timestamp, retrieval time, bytes, SHA-256, media type, and rights status. Then stop after committing the public source audit. Do not proceed to Task 2 until the owner approves an evidence-specific plan amendment defining that format's parser, its identity mapping to current rows, treatment of historical rows absent from the current page, and a private membership interface. This plan deliberately does not pretend an unknown future PDF/HTML/CSV layout can be ingested safely.
+Task 1 found row-level historical evidence and preserved it beneath the already ignored private directory `data/raw/scaruffi-2026-09-03/historical-evidence/` with `_manifest.json`. The evidence is the original URL `http://www.scaruffi.com/travel/tallest.html` replayed at `https://arquivo.pt/wayback/20091008014619id_/http://www.scaruffi.com/travel/tallest.html`, Arquivo.pt timestamp `2009-10-08T01:46:19Z`, original `Last-Modified` `2009-03-30T02:49:20Z`, 100,381 bytes, SHA-256 `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`, and a provisional 555-row target table. The source audit was committed at the controlled stop. The owner then approved the evidence-specific amendment on 2026-09-04, defining the dual-source parser, diagnostic mapping, fixed 555-row candidate, and private membership interface. That approval satisfies the former stop-and-amend condition and authorizes Task 2, but no later task may reinterpret the archive as a 548-row reconstruction.
 
-The audit must end with one of these controlled findings:
+The completed audit ends with this controlled finding:
 
 ```text
 membership_evidence: present
-evidence_supported_candidate_rules: [explicit rule identifiers]
+evidence_supported_candidate_rules: [arquivo_pt_20091008014619_as_archived]
 ```
 
-or:
+Do not add a top-548 rule, a seven-row deletion from the archive, a seventeen-row deletion from the current capture, a best-fit subset, or any other rule merely because it produces 548 rows or matches a printed number.
 
-```text
-membership_evidence: absent
-evidence_supported_candidate_rules: []
-```
-
-Do not add a top-548, bottom-17 deletion, best-fit subset, or any other rule merely because it produces 548 rows or matches a printed number.
-
-The `membership_evidence: present` branch is therefore a controlled stop-and-amend-plan outcome, not authorization to feed newly found bytes into `src/scaruffi_followup.py`. Tasks 2–9 as written execute only when no new row-level historical source is found, or after an owner-approved evidence-specific amendment supplies its exact private input and normalization contract.
+The historical Task-1 finding remains a controlled stop-and-amend-plan outcome. The owner-approved 2026-09-04 amendment now supplies the exact private input and normalization contract, so Tasks 2–9 may proceed under that amendment only. It does not authorize fitting before governance, searching 555-choose-548 subsets, or changing the precommitted `not_identifiable` consequence.
 
 - [ ] **Step 4: Write the source audit as a finished evidence record**
 
@@ -176,7 +172,7 @@ Use these headings in order:
 ## Sources and hashes
 ```
 
-The “Current capture custody” section may report the source URL, retrieval timestamp already preserved in the correction receipt, 102,018 bytes, the full SHA-256, 568 total `<tr>` elements across three tables, the target header tuple, and 565 target data rows. The rights section must say that the page is a third-party copyrighted compilation with no recorded redistribution licence, so the HTML and every row-complete derivative remain private. The parser section must state the exact table selector, unit grammar, deterministic rank/tie rule, and all required anomaly classes: repeated normalized name-and-height keys, repeated case-insensitive names, same-name/different-height records, height ties, source-order inversions, missing fields, blank versus nonblank extra cells, and every kilometre/metre conversion. Mark direct-inspection anomaly counts as provisional until Task 3 appends the deterministic parser summary. It must not reproduce the rows.
+The “Current capture custody” section reports the current source URL, retrieval timestamp already preserved in the correction receipt, 102,018 bytes, the full SHA-256, 568 total `<tr>` elements across three tables, the target header tuple, and 565 target data rows. The historical-evidence sections record the Arquivo.pt replay identity, archive timestamp, original `Last-Modified`, 100,381 bytes, full SHA-256, and provisional 555 target rows. The rights section says that both captures are third-party copyrighted compilations with no recorded redistribution licence, so both HTML files, the historical manifest, and every row-complete derivative remain private. The parser section states the exact table selector, unit grammar, deterministic rank/tie rule, and all required anomaly classes: repeated normalized name-and-height keys, repeated case-insensitive names, same-name/different-height records, height ties, source-order inversions, missing fields, blank versus nonblank extra cells, and every kilometre/metre conversion. Direct-inspection anomaly counts remain provisional until Task 3 appends deterministic summaries. The audit does not reproduce rows.
 
 - [ ] **Step 5: Verify scope, encoding, and absence of row-level leakage**
 
@@ -254,14 +250,20 @@ class ScaruffiPlanTests(unittest.TestCase):
     def setUpClass(cls):
         cls.plan = json.loads(PLAN.read_text(encoding="utf-8"))
 
-    def test_capture_identity_and_nonredistribution_boundary(self):
-        source = self.plan["source"]
-        self.assertEqual(source["bytes"], 102018)
+    def test_dual_source_identity_and_nonredistribution_boundary(self):
+        sources = self.plan["source_contracts"]
+        historical = sources["arquivo_pt_20091008014619"]
+        current = sources["scaruffi_20260903_current"]
         self.assertEqual(
-            source["sha256"],
-            "4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe",
+            (historical["bytes"], historical["sha256"], historical["expected_target_rows"]),
+            (100381, "813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571", 555),
         )
-        self.assertFalse(source["redistributable"])
+        self.assertEqual(
+            (current["bytes"], current["sha256"], current["expected_target_rows"]),
+            (102018, "4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe", 565),
+        )
+        self.assertFalse(historical["redistributable"])
+        self.assertFalse(current["redistributable"])
 
     def test_accepted_stage3_receipt_is_immutable(self):
         digest = hashlib.sha256((ROOT / "results" / "stage3-recompute.txt").read_bytes()).hexdigest()
@@ -291,11 +293,24 @@ class ScaruffiPlanTests(unittest.TestCase):
 
     def test_historical_rules_are_evidence_bounded(self):
         historical = self.plan["historical_reconstruction"]
-        allowed = set(historical["allowed_candidate_rule_ids"])
-        audited = set(historical["evidence_supported_candidate_rule_ids"])
-        self.assertLessEqual(audited, allowed)
-        self.assertNotIn("top_548", audited)
-        self.assertNotIn("best_fit_548", audited)
+        self.assertEqual(historical["candidate_id"], "arquivo_pt_20091008014619_as_archived")
+        self.assertEqual(historical["candidate_rows"], 555)
+        self.assertEqual(historical["controlled_disposition"], "not_identifiable")
+        self.assertEqual(historical["excluded_ordinals"], [])
+        self.assertFalse(historical["mapping_is_membership_filter"])
+        self.assertFalse(historical["benchmark_match_can_upgrade_disposition"])
+
+    def test_private_trace_and_mapping_rules_are_frozen(self):
+        trace = self.plan["private_trace"]
+        self.assertEqual(trace["path"], "data/raw/scaruffi-2026-09-03/reconstruction-membership.json")
+        self.assertFalse(trace["redistributable"])
+        mapping = self.plan["historical_current_mapping"]
+        self.assertEqual(
+            mapping["categories"],
+            ["exact", "same_name_different_height", "historical_only", "current_only"],
+        )
+        self.assertFalse(mapping["fuzzy_matching"])
+        self.assertFalse(mapping["manual_aliases"])
 
     def test_plan_is_canonical_utf8_lf_json(self):
         raw = PLAN.read_bytes()
@@ -325,10 +340,12 @@ Create `data/scaruffi-followup-plan.json` as canonical `json.dumps(..., ensure_a
   "schema_version": 1,
   "frozen_at": "2026-09-04",
   "protected_scope": {},
-  "source": {},
+  "source_contracts": {},
   "parser": {},
+  "historical_current_mapping": {},
   "historical_reconstruction": {},
   "current_snapshot": {},
+  "private_trace": {},
   "reporting": {}
 }
 ```
@@ -336,17 +353,19 @@ Create `data/scaruffi-followup-plan.json` as canonical `json.dumps(..., ensure_a
 Populate it with the following exact decisions:
 
 - `protected_scope`: the published 59-file SHA-256 `4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`; the immutable 57-file SHA-256 `60ac68e50e32d51c85d8536fafe073cf8005a64b7585e7ce76902a61c568c62f`; and `governance_59_sha256`, computed with the Task-0 recipe only after the two authorized Markdown addenda have their final bytes. Because the JSON file is outside the 59-file scope, recording this digest does not make it recursive.
-- `source`: canonical URL, retrieval timestamp from the existing correction receipt, `bytes: 102018`, the full SHA-256, `redistributable: false`, `expected_target_rows: 565`.
-- `parser`: target headers exactly `Mountain`, `Height`, `Country`, `Continent`; Unicode NFKC plus collapsed whitespace for names; casefold only for duplicate comparison; any finite base-10 token containing a decimal point and lying in `[3.5, 9.0]` is interpreted as kilometres and multiplied by 1000; a digit-only integer token in `[3500, 9000]` is interpreted as metres; all other formats hard-fail; preserve source ordinal; analytical rank sorts by descending metres, then normalized casefold name, then source ordinal; report every tie, inversion, missing field, unexpected cell, and unit conversion without silently resolving anomaly classes.
-- `historical_reconstruction`: copy every benchmark and half-last-digit tolerance from Task 1; set `allowed_candidate_rule_ids` only to a controlled vocabulary that the source audit can actually support; copy the evidence-supported subset exactly; for each rule store its evidence pointer and whether all included/excluded memberships are independently identified; freeze the Miškinis formula, rank convention, fitting objective, parameter constraints, residual statistic, model family, cutoff treatment, comparison statistic, and recipe-identifiability status; encode the three dispositions `exact`, `bounded_non_unique`, `not_identifiable`; require candidate-specific identification of all 548 memberships, a uniquely identified fitting recipe, and all benchmark matches for `exact`.
+- `source_contracts`: keyed by `arquivo_pt_20091008014619` and `scaruffi_20260903_current`. Each contract stores its source ID, expected original URL `http://www.scaruffi.com/travel/tallest.html`, private path, bytes, SHA-256, exact four-header selector, expected row count, and `redistributable: false`. The historical contract additionally freezes Arquivo.pt timestamp `2009-10-08T01:46:19Z`, original `Last-Modified` `2009-03-30T02:49:20Z`, and replay URL `https://arquivo.pt/wayback/20091008014619id_/http://www.scaruffi.com/travel/tallest.html`; its bytes/hash/rows are `100381`, `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`, and `555`. The current contract's bytes/hash/rows are `102018`, `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`, and `565`.
+- `parser`: target headers exactly `Mountain`, `Height`, `Country`, `Continent`; Unicode NFKC plus collapsed whitespace for names; casefold only for comparison; any finite base-10 token containing a decimal point and lying in `[3.5, 9.0]` is interpreted as kilometres and multiplied by 1000; a digit-only integer token in `[3500, 9000]` is interpreted as metres; all other formats hard-fail; preserve source ordinal; analytical rank sorts by descending metres, then normalized casefold name, then source ordinal; report every tie, inversion, missing field, unexpected cell, and unit conversion without silently resolving anomaly classes. Byte, hash, expected URL identity, unique target-table, and expected-row mismatches hard-fail before any fit.
+- `historical_current_mapping`: categories in this exact order: `exact`, `same_name_different_height`, `historical_only`, `current_only`. `exact` requires normalized casefold name plus exact normalized metres. Same normalized casefold name at a different height is separate and never merged. Freeze `fuzzy_matching: false`, `manual_aliases: false`, `inferred_substitutions: false`, and `mapping_is_membership_filter: false`.
+- `historical_reconstruction`: copy every benchmark and half-last-digit tolerance from Task 1; freeze `candidate_id: arquivo_pt_20091008014619_as_archived`, `candidate_rows: 555`, all historical ordinals included, `excluded_ordinals: []`, source-rule pointer, formula, rank convention, fitting objective, parameter constraints, residual statistic, model family, cutoff treatment, comparison statistic, and recipe-identifiability status. Freeze `controlled_disposition: not_identifiable`, `benchmark_match_can_upgrade_disposition: false`, and the rule that this fit is archival sensitivity evidence rather than replication. The only path to a future 548-row candidate or different disposition is a separately owner-approved dated deviation with independent membership and unique-recipe evidence.
 - `current_snapshot`: S0 is all 565 rows as listed; S1 retains the earliest source ordinal for duplicate key `(normalized_name.casefold(), elevation_m)`; same-name/different-height rows are never merged; joint bootstrap 500; GoF bootstrap 500; seed 20260904; jitter seed 20260915; `joins_stage3_holm_family: false`.
-- `reporting`: aggregate receipts and candidate fingerprints are public; HTML, parsed rows, and reconstructed row lists are private; Stage-3 verdict and receipt are immutable.
+- `private_trace`: exact ignored path `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`; schema version; historical source ID/hash; candidate ID; all included historical source ordinals; deterministic private row identities sufficient to reproduce the 555-row candidate; the four mapping categories and row assignments; aggregate counts; `redistributable: false`.
+- `reporting`: aggregate receipts, candidate/mapping fingerprints, rule IDs, aggregate mapping counts, and dispositions are public; both HTML captures, historical `_manifest.json`, private trace, names, row sequences, parsed rows, and reconstructed row lists are private; Stage-3 verdict and receipt are immutable.
 
-If Task 1 found no independent membership evidence, freeze `evidence_supported_candidate_rule_ids` as an empty list and `no_candidate_disposition` as `not_identifiable`. Do not invent a candidate to keep Phase 1 numerically busy.
+Task 1 found independent dated row-level evidence for the 555-row as-archived candidate, but not the seven exclusions or a unique fitting recipe needed for Miškinis's 548 rows. Freeze the candidate and the `not_identifiable` consequence exactly; do not invent or search a 548-row candidate.
 
 - [ ] **Step 4: Add the prose governance amendments**
 
-Append a dated addendum to `data/CONTRACT.md` that records custody, parsing, nonredistribution, the public/private boundary, and both arms. Amend `PREREGISTRATION.md` with the historical matching/disposition rule, the current-arm seeds and replicate counts, and the explicit exclusion from the original Holm family. Add a dated external-comparator entry under AU-C11 in `CLAIM_INVENTORY.md` that distinguishes the 548-row historical object from the 565-row dated snapshot.
+Append a dated addendum to `data/CONTRACT.md` that records both source contracts, custody, parsing, deterministic diagnostic mapping, the ignored trace schema/path, nonredistribution, the public/private boundary, the 555-row archival candidate, and both current arms. Amend `PREREGISTRATION.md` with the precommitted `not_identifiable` consequence, the rule that a 555-row fit is archival sensitivity rather than replication, the mapping non-filter rule, the current-arm seeds and replicate counts, and the explicit exclusion from the original Holm family. Add a dated external-comparator entry under AU-C11 in `CLAIM_INVENTORY.md` that distinguishes Miškinis's unidentified 548 rows, the dated 555-row archival candidate, and the dated 565/564 current arms.
 
 All three prose documents must cite `data/scaruffi-followup-plan.json` as the machine-readable authority and `results/scaruffi-source-audit.md` as the evidence authority. They must say that no fit had been run when these rules were frozen.
 
@@ -375,8 +394,8 @@ git commit -m "docs: freeze Scaruffi follow-up contract"
 Dispatch a different agent that has not designed or written the addenda. Give it only the approved design, source audit, contract documents, JSON freeze, and the original Miškinis paper. Ask it to verify:
 
 1. benchmark transcription and half-last-digit tolerances;
-2. that every historical candidate rule has independent evidence;
-3. that parsing and duplicate rules are complete and deterministic;
+2. that the 555-row as-archived candidate is evidence-supported, no seven-row exclusion rule is present, and `not_identifiable` cannot be upgraded by benchmark proximity;
+3. that both source contracts, parsing, mapping, duplicate, and private-trace rules are complete and deterministic, with mapping diagnostic only;
 4. that S0/S1 are outside Stage-3 multiplicity and cannot change old verdicts;
 5. that no raw or row-level material is tracked;
 6. that the governance commit predates all fitting code and receipts.
@@ -399,6 +418,8 @@ If the audit finds an error, stop. Correct governance, obtain owner adjudication
 
 - Create: `src/scaruffi_parse.py`
 - Create: `tests/test_scaruffi_parse.py`
+- Create: `src/scaruffi_followup.py`
+- Create: `tests/test_scaruffi_followup.py`
 - Modify: `tests/test_scaruffi_plan.py`
 - Modify: `results/scaruffi-source-audit.md`
 
@@ -413,7 +434,7 @@ from decimal import Decimal
 import hashlib
 import unittest
 
-from src.scaruffi_parse import ParseError, analysis_order, parse_capture
+from src.scaruffi_parse import ParseError, SourceContract, analysis_order, parse_capture
 
 
 HTML = b"""<html><body>
@@ -431,13 +452,21 @@ HTML = b"""<html><body>
 
 
 class ScaruffiParseTests(unittest.TestCase):
-    def parse(self, payload=HTML, expected_sha256=None, expected_bytes=None):
+    def parse(self, payload=HTML, expected_sha256=None, expected_bytes=None, expected_rows=5, source_id="synthetic"):
         with TemporaryDirectory() as td:
             path = Path(td) / "capture.html"
             path.write_bytes(payload)
             expected = expected_sha256 or hashlib.sha256(payload).hexdigest()
             byte_count = len(payload) if expected_bytes is None else expected_bytes
-            return parse_capture(path, expected, byte_count)
+            contract = SourceContract(
+                source_id=source_id,
+                expected_url="https://example.invalid/tallest.html",
+                expected_bytes=byte_count,
+                expected_sha256=expected,
+                expected_headers=("Mountain", "Height", "Country", "Continent"),
+                expected_row_count=expected_rows,
+            )
+            return parse_capture(path, contract)
 
     def test_selects_only_exact_header_table_and_preserves_ordinals(self):
         rows, diagnostics = self.parse()
@@ -495,6 +524,17 @@ class ScaruffiParseTests(unittest.TestCase):
         with self.assertRaises(ParseError):
             self.parse(HTML, expected_bytes=len(HTML) + 1)
 
+    def test_expected_row_count_mismatch_hard_fails(self):
+        with self.assertRaisesRegex(ParseError, r"row count.*expected 4.*actual 5"):
+            self.parse(HTML, expected_rows=4)
+
+    def test_same_parser_accepts_distinct_historical_and_current_contracts(self):
+        old_rows, old_diag = self.parse(source_id="historical-test")
+        new_payload = HTML.replace(b"</table>\n<table><tr><td>footer", b"<tr><td>New Peak</td><td>3.750</td><td>X</td><td>Y</td></tr></table>\n<table><tr><td>footer")
+        new_rows, new_diag = self.parse(new_payload, expected_rows=6, source_id="current-test")
+        self.assertEqual((old_diag.source_id, len(old_rows)), ("historical-test", 5))
+        self.assertEqual((new_diag.source_id, len(new_rows)), ("current-test", 6))
+
     def test_ambiguous_height_hard_fails(self):
         with self.assertRaises(ParseError):
             self.parse(HTML.replace(b"8.848", b"8,848"))
@@ -535,6 +575,7 @@ Create `src/scaruffi_parse.py` with these public interfaces:
 ```python
 @dataclass(frozen=True)
 class SourceRow:
+    source_id: str
     source_ordinal: int
     mountain_raw: str
     mountain_norm: str
@@ -546,6 +587,7 @@ class SourceRow:
 
 @dataclass(frozen=True)
 class ParseDiagnostics:
+    source_id: str
     byte_count: int
     sha256: str
     table_count: int
@@ -565,21 +607,37 @@ class ParseError(ValueError):
     pass
 
 
+@dataclass(frozen=True)
+class SourceContract:
+    source_id: str
+    expected_url: str
+    expected_bytes: int
+    expected_sha256: str
+    expected_headers: tuple[str, str, str, str]
+    expected_row_count: int
+
+
 def analysis_order(rows: list[SourceRow]) -> list[SourceRow]:
     return sorted(rows, key=lambda row: (-row.elevation_m, row.mountain_norm.casefold(), row.source_ordinal))
 ```
 
-Also export `parse_capture(path: Path, expected_sha256: str, expected_bytes: int) -> tuple[list[SourceRow], ParseDiagnostics]` with the behavior below.
+Also export `load_source_contract(plan_path: Path, source_id: str) -> SourceContract` and `parse_capture(path: Path, contract: SourceContract) -> tuple[list[SourceRow], ParseDiagnostics]` with the behavior below. `load_source_contract` reads only `source_contracts[source_id]`, validates the exact expected original URL and four headers, and rejects unknown IDs.
 
-Define frozen `UnitConversion`, `AnomalyGroup`, `OrderInversion`, and `MissingField` dataclasses whose fields contain source ordinals and aggregate-safe normalized keys, never whole row objects. Implement with `html.parser.HTMLParser`, not a browser DOM or permissive dataframe scraper. Before parsing, compare both `len(raw)` and its SHA-256 with the mandatory expected values. Preserve cell text before normalization. Accept only the exact four-header target table. Require exactly one target table, allow trailing cells only when empty or whitespace-only, require non-empty mountain/country/continent fields, and accept heights matching either `^[0-9]+\.[0-9]+$` in `[3.5, 9.0]` km or `^[0-9]+$` in `[3500, 9000]` m. Reject signs, exponent notation, commas, non-finite tokens, and out-of-range results. Convert with `Decimal` and preserve the exact metre value, including a fractional metre such as `3.5005 km -> Decimal("3500.5")`; do not add a stricter integral-metre rule that the approved grammar did not authorize. A hard-fail `ParseError` for a byte/hash mismatch, missing field, or unexpected cell must identify its anomaly class and source ordinal where applicable without printing the row.
+Define frozen `UnitConversion`, `AnomalyGroup`, `OrderInversion`, and `MissingField` dataclasses whose fields contain source IDs, source ordinals, and aggregate-safe normalized keys, never whole row objects. Implement with `html.parser.HTMLParser`, not a browser DOM or permissive dataframe scraper. Before parsing, compare both `len(raw)` and its SHA-256 with the contract. Preserve cell text before normalization and attach `contract.source_id` to every `SourceRow`. Accept only the contract's exact four-header target table. Require exactly one target table and exactly `contract.expected_row_count` data rows, allow trailing cells only when empty or whitespace-only, require non-empty mountain/country/continent fields, and accept heights matching either `^[0-9]+\.[0-9]+$` in `[3.5, 9.0]` km or `^[0-9]+$` in `[3500, 9000]` m. Reject signs, exponent notation, commas, non-finite tokens, and out-of-range results. Convert with `Decimal` and preserve the exact metre value, including a fractional metre such as `3.5005 km -> Decimal("3500.5")`; do not add a stricter integral-metre rule that the approved grammar did not authorize. A hard-fail `ParseError` for a byte/hash/table/row mismatch, missing field, or unexpected cell must identify its anomaly class and source ordinal where applicable without printing the row.
 
 Define an inversion as a pair of adjacent source ordinals `(i, i+1)` for which normalized elevation increases from row `i` to row `i+1`. Define a height tie group as every elevation occurring at two or more source ordinals. Analytical ties are ordered by normalized casefold name and then source ordinal. The diagnostics must enumerate every conversion and every anomaly group structurally so the auditor can re-derive counts.
 
-The expected hash argument is mandatory. Compare before parsing and include both expected and actual hashes in a safe error message. Never expose all parsed rows from the CLI.
+The source contract is mandatory. Compare its byte count and hash before parsing and include expected and actual values in safe error messages. Validate the unique target table and row count before returning records. Never expose all parsed rows from the CLI.
 
-- [ ] **Step 4: Add a safe aggregate CLI**
+- [ ] **Step 4: Implement and synthetically test deterministic mapping diagnostics**
 
-The CLI must require `--source`, default `--plan` to `data/scaruffi-followup-plan.json`, pass both `source.sha256` and `source.bytes` into `parse_capture`, and print only after both checks pass:
+In `src/scaruffi_followup.py`, export `map_historical_to_current(historical_rows: list[SourceRow], current_rows: list[SourceRow]) -> MappingDiagnostics`. `MappingDiagnostics` contains only ordinal pairs/groups in the four frozen categories `exact`, `same_name_different_height`, `historical_only`, and `current_only`, plus their aggregate counts. Exact means `(mountain_norm.casefold(), elevation_m)` equality. Same-name/different-height records are reported separately and never merged. Matching is deterministic by source ordinal when exact duplicate keys create multiple records. No fuzzy matching, aliases, or substitutions are permitted.
+
+In `tests/test_scaruffi_followup.py`, construct synthetic rows that exercise all four categories and assert exact ordinal assignments. Also assert that `build_historical_candidate(rows)` returns all input ordinals unchanged and in source order before analytical ranking, regardless of mapping output. This is the regression proof that mapping is diagnostic and cannot become a membership filter.
+
+- [ ] **Step 5: Add a safe aggregate CLI**
+
+The CLI must require `--source-id` and `--source`, default `--plan` to `data/scaruffi-followup-plan.json`, load the named source contract, and print only after byte/hash/table/row checks pass. Run it separately for `arquivo_pt_20091008014619` and `scaruffi_20260903_current`; output contains only source ID and aggregate diagnostics.
 
 ```text
 Scaruffi parse OK
@@ -598,24 +656,25 @@ source-order inversions: <aggregate count>
 
 The CLI may name the already documented Kamet exact duplicate but must not print row contents or a complete name list.
 
-- [ ] **Step 5: Run unit tests, then the private-capture integration check**
+- [ ] **Step 6: Run unit tests, then both private-capture integration checks**
 
 ```powershell
-python -m unittest tests.test_scaruffi_parse tests.test_scaruffi_plan -v
-python src/scaruffi_parse.py --source data/raw/scaruffi-2026-09-03/tallest.html
+python -m unittest tests.test_scaruffi_parse tests.test_scaruffi_followup tests.test_scaruffi_plan -v
+python src/scaruffi_parse.py --source-id arquivo_pt_20091008014619 --source data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html
+python src/scaruffi_parse.py --source-id scaruffi_20260903_current --source data/raw/scaruffi-2026-09-03/tallest.html
 ```
 
-Expected integration values: 565 rows, eight repeated casefold names, one exact normalized-name-plus-height duplicate group, and one integer-height row. Stop on any mismatch and treat it as a contract/parser defect, not permission to loosen the parser silently.
+Expected integration values: the historical contract yields 555 rows and the current contract yields 565 rows. The current capture also yields eight repeated casefold names, one exact normalized-name-plus-height duplicate group, and one integer-height row. Stop on any mismatch and treat it as a contract/parser defect, not permission to loosen either contract silently.
 
-- [ ] **Step 6: Append the deterministic anomaly summary to the source audit**
+- [ ] **Step 7: Append both deterministic anomaly summaries to the source audit**
 
-Replace the provisional marker in `results/scaruffi-source-audit.md` with the parser version/commit, aggregate counts for every anomaly class and unit conversion, the exact inversion definition, the rights boundary, and the parser test result. Minimal identifiers such as Kamet may appear only where needed to explain a specific duplicate defect. Check UTF-8/LF and confirm the audit contains no row-complete sequence.
+Replace the provisional markers in `results/scaruffi-source-audit.md` with the parser version/commit, separate aggregate counts for every anomaly class and unit conversion in each source, the exact inversion definition, aggregate mapping-category counts, the rights boundary, and the parser/mapping test result. Minimal identifiers such as Kamet may appear only where needed to explain a specific duplicate defect. Check UTF-8/LF and confirm the audit contains no row-complete sequence.
 
-- [ ] **Step 7: Commit parser, tests, and finalized source audit**
+- [ ] **Step 8: Commit parser, mapping diagnostics, tests, and finalized source audit**
 
 ```powershell
-git add src/scaruffi_parse.py tests/test_scaruffi_parse.py tests/test_scaruffi_plan.py results/scaruffi-source-audit.md
-git commit -m "feat: parse Scaruffi capture under frozen contract"
+git add src/scaruffi_parse.py src/scaruffi_followup.py tests/test_scaruffi_parse.py tests/test_scaruffi_followup.py tests/test_scaruffi_plan.py results/scaruffi-source-audit.md
+git commit -m "feat: parse dual Scaruffi captures under frozen contracts"
 ```
 
 ---
@@ -624,65 +683,22 @@ git commit -m "feat: parse Scaruffi capture under frozen contract"
 
 **Files:**
 
-- Create: `src/scaruffi_followup.py`
-- Create: `tests/test_scaruffi_followup.py`
+- Modify: `src/scaruffi_followup.py`
+- Modify: `tests/test_scaruffi_followup.py`
 - Create: `results/scaruffi-reconstruction.txt`
 - Create privately (ignored): `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`
 
-- [ ] **Step 1: Write failing disposition tests**
+- [ ] **Step 1: Write failing archival-candidate and disposition tests**
 
-Create tests for the controlled decision logic, independent of the private HTML:
+Extend `tests/test_scaruffi_followup.py` with synthetic `SourceRow` inputs and require:
 
-```python
-import unittest
+- `build_historical_candidate(rows)` returns candidate ID `arquivo_pt_20091008014619_as_archived`, all 555 source ordinals, and no excluded ordinal when given 555 rows;
+- any row count other than 555 hard-fails;
+- mapping diagnostics do not alter candidate ordinals, including when historical-only rows and same-name/different-height rows exist;
+- no API accepts a requested target count, exclusion list, benchmark-optimization flag, or top-548 rule;
+- `assess_archival_candidate(...)` returns `ReconstructionDisposition.NOT_IDENTIFIABLE` when every benchmark matches, when some benchmarks fail, and when the fitting recipe happens to be specified, because present evidence still does not identify Miškinis's seven exclusions and unique recipe together.
 
-from src.scaruffi_followup import (
-    BenchmarkResult,
-    ReconstructionDisposition,
-    assess_reconstruction,
-)
-
-
-class ReconstructionTests(unittest.TestCase):
-    def test_no_evidence_supported_candidates_is_not_identifiable(self):
-        result = assess_reconstruction([])
-        self.assertEqual(result.disposition, ReconstructionDisposition.NOT_IDENTIFIABLE)
-
-    def test_numerical_match_without_membership_evidence_is_never_exact(self):
-        candidate = BenchmarkResult("rule-a", "abc123", True, False, True, ())
-        result = assess_reconstruction([candidate])
-        self.assertEqual(result.disposition, ReconstructionDisposition.BOUNDED_NON_UNIQUE)
-
-    def test_exact_requires_candidate_specific_membership_and_recipe_evidence(self):
-        candidate = BenchmarkResult("rule-a", "abc123", True, True, True, ())
-        result = assess_reconstruction([candidate])
-        self.assertEqual(result.disposition, ReconstructionDisposition.EXACT)
-
-    def test_recipe_ambiguity_prevents_exact(self):
-        candidate = BenchmarkResult("rule-a", "abc123", True, True, False, ())
-        result = assess_reconstruction([candidate])
-        self.assertEqual(result.disposition, ReconstructionDisposition.BOUNDED_NON_UNIQUE)
-
-    def test_multiple_matching_candidates_are_bounded_not_exact(self):
-        candidates = [
-            BenchmarkResult("rule-a", "abc123", True, True, True, ()),
-            BenchmarkResult("rule-b", "def456", True, True, True, ()),
-        ]
-        result = assess_reconstruction(candidates)
-        self.assertEqual(result.disposition, ReconstructionDisposition.BOUNDED_NON_UNIQUE)
-```
-
-- [ ] **Step 2: Run the tests to verify import failure**
-
-```powershell
-python -m unittest tests.test_scaruffi_followup -v
-```
-
-Expected: failure because `src.scaruffi_followup` does not exist.
-
-- [ ] **Step 3: Implement pure assessment types and rules**
-
-Define:
+Use these frozen public types:
 
 ```python
 class ReconstructionDisposition(str, Enum):
@@ -693,10 +709,9 @@ class ReconstructionDisposition(str, Enum):
 
 @dataclass(frozen=True)
 class BenchmarkResult:
-    rule_id: str
+    candidate_id: str
     membership_fingerprint: str
     all_benchmarks_match: bool
-    all_memberships_independently_identified: bool
     fitting_recipe_identified: bool
     mismatches: tuple[str, ...]
 
@@ -704,9 +719,22 @@ class BenchmarkResult:
 @dataclass(frozen=True)
 class ReconstructionAssessment:
     disposition: ReconstructionDisposition
-    matching_rule_ids: tuple[str, ...]
+    candidate_id: str
+    candidate_rows: int
     reason: str
 ```
+
+- [ ] **Step 2: Run the tests to verify the new interfaces fail**
+
+```powershell
+python -m unittest tests.test_scaruffi_followup -v
+```
+
+Expected: failures for the missing archival candidate, fixed-disposition, private-trace, and receipt interfaces.
+
+- [ ] **Step 3: Implement the fixed 555-row candidate and controlled assessment**
+
+`build_historical_candidate(rows)` must require exactly 555 rows from source ID `arquivo_pt_20091008014619`, include every source ordinal, exclude none, and attach candidate ID `arquivo_pt_20091008014619_as_archived`. `assess_archival_candidate(benchmark_result)` always emits `not_identifiable` under schema version 1 because the evidence does not identify the seven exclusions from 555 to 548 or a unique fitting recipe. An exact numerical match may be reported as benchmark proximity but cannot return `exact` or `bounded_non_unique`. There is no subset-search or exclusion interface.
 
 All machine-generated public text must go through one helper:
 
@@ -717,63 +745,60 @@ def write_utf8_lf(path: Path, text: str) -> None:
     path.write_bytes(text.encode("utf-8"))
 ```
 
-Use it for both public receipts and the private JSON trace (after canonical `json.dumps(..., ensure_ascii=False, indent=2) + "\n"`). Never rely on the Windows default newline translation.
+Use it for public receipts. Write the private JSON trace with the same UTF-8/LF guarantee after canonical `json.dumps(..., ensure_ascii=False, indent=2) + "\n"`. Never rely on Windows default newline translation. A candidate membership fingerprint is SHA-256 over newline-separated included source ordinals in ascending order, encoded as ASCII; a mapping fingerprint is SHA-256 over canonical private mapping assignments. Never print ordinals or assignments publicly.
 
-`assess_reconstruction(candidates)` must obey this truth table. Evidence is candidate-specific; there is no generic boolean capable of upgrading an otherwise unidentified candidate:
+- [ ] **Step 4: Implement private trace generation and diagnostic mapping**
 
-| Benchmark-compatible candidates | All 548 memberships independently identified for sole candidate | Fitting recipe uniquely identified | Disposition |
-|---:|:---:|:---:|---|
-| 0 | either | either | `not_identifiable` |
-| 1 | yes | yes | `exact` |
-| 1 | no | either | `bounded_non_unique` |
-| 1 | yes | no | `bounded_non_unique` |
-| 2+ | either | either | `bounded_non_unique` |
+Load both frozen source contracts from `data/scaruffi-followup-plan.json`, parse both private captures, build the fixed 555-row candidate, and call `map_historical_to_current`. Write `data/raw/scaruffi-2026-09-03/reconstruction-membership.json` with exact top-level keys in this order:
 
-Candidates with any failed benchmark do not count as matching. “All memberships independently identified” means evidence identifies every included and excluded source ordinal for that candidate, not merely the sample size or a generic source relationship. “Fitting recipe identified” means the paper/evidence fixes the formula, objective, parameter constraints, rank convention, and residual statistic sufficiently to make the half-last-digit comparison unique. A candidate membership fingerprint is `sha256` over newline-separated source ordinals in ascending order, encoded as ASCII; never print the ordinals publicly.
+```json
+{
+  "schema_version": 1,
+  "historical_source": {},
+  "candidate": {},
+  "included_historical_source_ordinals": [],
+  "private_row_identities": [],
+  "mapping": {},
+  "aggregate_counts": {}
+}
+```
 
-- [ ] **Step 4: Implement evidence-supported candidate generation and benchmark checking**
+`historical_source` records source ID, original URL, archive timestamp, original `Last-Modified`, bytes, and SHA-256. `candidate` records ID, row count 555, rule ID, and no exclusions. `private_row_identities` contains deterministic per-row identities derived from source ordinal plus normalized private fields and is sufficient to reproduce membership. `mapping` contains private ordinal assignments for exactly the four frozen categories. `aggregate_counts` contains candidate and category totals. Assert that every historical ordinal appears in the candidate and in exactly one historical mapping disposition (`exact`, `same_name_different_height`, or `historical_only`); current-only ordinals appear separately. Mapping must never change the included ordinals.
 
-Load `data/scaruffi-followup-plan.json`. Instantiate only rule IDs frozen in `evidence_supported_candidate_rule_ids`. An empty list is a valid and scientifically meaningful path: perform no historical fit and emit `not_identifiable`.
+- [ ] **Step 5: Fit only the frozen archival candidate and check benchmarks**
 
-For a non-empty evidence-supported candidate list:
+Fit all 555 descending elevations under the recipe set frozen in Task 2, reusing Stage-3 helpers rather than copying formulas. Compute Miškinis printed threshold/count checks and native-curve statistics with frozen tolerances. If the paper leaves the recipe non-unique, report each predeclared recipe distinctly and retain recipe ambiguity; never select by closeness. Do not search `555 choose 548`, drop historical-only rows, use mapping as a filter, infer aliases, or optimize membership.
 
-1. generate membership from the frozen source-semantic rule only;
-2. require exactly 548 rows and every row above the paper's threshold as transcribed;
-3. compute printed threshold/count checks;
-4. call the existing Miškinis-native rank fit `stage3_mountains.m6a_rank_fit` on descending elevations;
-5. compare each statistic to the frozen half-last-digit tolerance;
-6. write every included and excluded source ordinal, rule ID, and evidence pointer to the ignored private trace;
-7. record publicly only aggregate statistics, pass/fail flags, and the membership fingerprint.
-
-Never search subsets, optimize deletions, or add a rule based on fit quality.
-
-- [ ] **Step 5: Generate the historical receipt**
+- [ ] **Step 6: Generate the historical receipt**
 
 Run:
 
 ```powershell
-python src/scaruffi_followup.py reconstruct --source data/raw/scaruffi-2026-09-03/tallest.html --private-trace data/raw/scaruffi-2026-09-03/reconstruction-membership.json --output results/scaruffi-reconstruction.txt
+python src/scaruffi_followup.py reconstruct --historical-source data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html --current-source data/raw/scaruffi-2026-09-03/tallest.html --private-trace data/raw/scaruffi-2026-09-03/reconstruction-membership.json --output results/scaruffi-reconstruction.txt
 ```
 
-The command must write the private trace even when the candidate list is empty, so the absence of generated membership is auditable. The receipt must include source/plan hashes, the pre-fit audit identity, benchmark definitions and tolerances, candidate-rule IDs, aggregate results, fingerprints, fitting-recipe identifiability, and the controlled disposition. It must explicitly say that a numerical match alone cannot prove historical membership.
+The receipt must include both source IDs/hashes/counts, plan hash, pre-fit audit identity, candidate ID and 555-row count, aggregate mapping-category counts, candidate and mapping fingerprints, benchmark definitions/tolerances/results, fitting-recipe identifiability, and controlled disposition `not_identifiable`. It must state that Miškinis reports 548 rows, the seven exclusions are unidentified, the 555-row fit is archival sensitivity evidence rather than replication, and numerical closeness cannot earn exact or bounded reconstruction status.
 
-- [ ] **Step 6: Verify determinism and non-leakage**
+- [ ] **Step 7: Verify determinism, fixed membership, and non-leakage**
 
 ```powershell
 $first = (Get-FileHash results/scaruffi-reconstruction.txt -Algorithm SHA256).Hash
-python src/scaruffi_followup.py reconstruct --source data/raw/scaruffi-2026-09-03/tallest.html --private-trace data/raw/scaruffi-2026-09-03/reconstruction-membership.json --output results/scaruffi-reconstruction.txt
+python src/scaruffi_followup.py reconstruct --historical-source data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html --current-source data/raw/scaruffi-2026-09-03/tallest.html --private-trace data/raw/scaruffi-2026-09-03/reconstruction-membership.json --output results/scaruffi-reconstruction.txt
 $second = (Get-FileHash results/scaruffi-reconstruction.txt -Algorithm SHA256).Hash
 if ($first -ne $second) { throw "reconstruction receipt is nondeterministic" }
 git check-ignore -v data/raw/scaruffi-2026-09-03/reconstruction-membership.json
 git ls-files --error-unmatch data/raw/scaruffi-2026-09-03/reconstruction-membership.json
+git ls-files --error-unmatch data/raw/scaruffi-2026-09-03/historical-evidence/_manifest.json
 python -c "from pathlib import Path; p=Path('results/scaruffi-reconstruction.txt'); b=p.read_bytes(); b.decode('utf-8'); assert b'\r\n' not in b; assert not b.startswith(b'\xef\xbb\xbf')"
 python -m unittest tests.test_scaruffi_followup tests.test_scaruffi_parse -v
+python -c "import json; from pathlib import Path; p=Path('data/raw/scaruffi-2026-09-03/reconstruction-membership.json'); x=json.loads(p.read_text(encoding='utf-8')); assert x['candidate']['id']=='arquivo_pt_20091008014619_as_archived'; assert x['candidate']['row_count']==555; assert len(x['included_historical_source_ordinals'])==555; assert x['candidate']['excluded_source_ordinals']==[]"
+rg -n "^disposition: not_identifiable$|^candidate_id: arquivo_pt_20091008014619_as_archived$|^candidate_rows: 555$" results/scaruffi-reconstruction.txt
 git diff --check
 ```
 
-Use the same `--private-trace` argument on the repeat run. The `git ls-files --error-unmatch` command must fail, proving that the membership trace is not tracked.
+Use the same inputs and `--private-trace` argument on the repeat run. Both `git ls-files --error-unmatch` commands must fail, proving that the trace and historical manifest are not tracked. Inspect the public receipt for names or ordinal sequences; any row-complete leakage is a hard failure.
 
-- [ ] **Step 7: Commit implementation and receipt**
+- [ ] **Step 8: Commit implementation and aggregate receipt**
 
 ```powershell
 git add src/scaruffi_followup.py tests/test_scaruffi_followup.py results/scaruffi-reconstruction.txt
@@ -803,7 +828,7 @@ from src.scaruffi_followup import build_current_arms
 
 
 def row(i, name, metres, country="X"):
-    return SourceRow(i, name, name, str(metres), Decimal(str(metres)), country, "Test")
+    return SourceRow("synthetic", i, name, name, str(metres), Decimal(str(metres)), country, "Test")
 
 
 class CurrentSnapshotTests(unittest.TestCase):
@@ -885,27 +910,28 @@ Add a mocked adapter test that makes `describe_arm` return a non-null lane and e
 The command:
 
 ```powershell
-python src/scaruffi_followup.py current --source data/raw/scaruffi-2026-09-03/tallest.html --output results/scaruffi-recompute.txt
+python src/scaruffi_followup.py current --current-source data/raw/scaruffi-2026-09-03/tallest.html --output results/scaruffi-recompute.txt
 ```
 
 must:
 
-- require the exact source and plan hashes;
+- require the exact `scaruffi_20260903_current` source contract and plan hash;
 - report S0 `n=565` and S1 `n=564` or stop;
 - run both with the frozen secondary-arm joint bootstrap `B=500`, GoF bootstrap `B=500`, seed `20260904`, and jitter seed `20260915` inherited from the existing implementation;
 - label both as a dated 2026-09-03 snapshot sensitivity outside Stage-3 Holm;
 - append a compact S1-minus-S0 comparison for `h_min`, `n_tail`, `alpha`, `xi`, CI, M1 GoF, best AICc family, and Miškinis fit;
 - read, but never rewrite, `results/stage3-recompute.txt` and append a separately labelled comparison of S0/S1 against A0 (prominence-controlled global arm), E1 (elevation-selected), and E1b (elevation-selected including source-flagged sub-prominences) for sample size, height range, `h_min`, `xi`, M1 GoF, best family, and Miškinis residual summary;
 - report `Stage-3 lane: not assigned` for both arms and never convert the internal `hm`/`hc`/`hb` diagnostics into a follow-up confirmation lane;
-- append the immutable Stage-3 receipt hash and state that the old receipt was neither rewritten nor joined to this family.
+- append the immutable Stage-3 receipt hash and state that the old receipt was neither rewritten nor joined to this family;
+- point to `results/scaruffi-reconstruction.txt` and explicitly distinguish Miškinis's unidentified 548-row sample, the dated 555-row archival candidate, and the dated 565/564 current arms.
 
 - [ ] **Step 5: Run determinism and regression gates**
 
 ```powershell
 $stage3Before = (Get-FileHash results/stage3-recompute.txt -Algorithm SHA256).Hash
-python src/scaruffi_followup.py current --source data/raw/scaruffi-2026-09-03/tallest.html --output results/scaruffi-recompute.txt
+python src/scaruffi_followup.py current --current-source data/raw/scaruffi-2026-09-03/tallest.html --output results/scaruffi-recompute.txt
 $first = (Get-FileHash results/scaruffi-recompute.txt -Algorithm SHA256).Hash
-python src/scaruffi_followup.py current --source data/raw/scaruffi-2026-09-03/tallest.html --output results/scaruffi-recompute.txt
+python src/scaruffi_followup.py current --current-source data/raw/scaruffi-2026-09-03/tallest.html --output results/scaruffi-recompute.txt
 $second = (Get-FileHash results/scaruffi-recompute.txt -Algorithm SHA256).Hash
 $stage3After = (Get-FileHash results/stage3-recompute.txt -Algorithm SHA256).Hash
 if ($first -ne $second) { throw "current-snapshot receipt is nondeterministic" }
@@ -938,14 +964,16 @@ git commit -m "feat: compute dated Scaruffi sensitivity"
 
 - [ ] **Step 1: Dispatch a fresh-context result auditor**
 
-The auditor must not be the implementer or pre-fit auditor. It should receive the approved design, primary paper, source audit, frozen contracts, parser/follow-up code, tests, and aggregate receipts. It may read the private HTML for verification but must not quote or redistribute its rows.
+The auditor must not be the implementer or pre-fit auditor. It should receive the approved design, primary paper, source audit, frozen contracts, parser/follow-up code, tests, and aggregate receipts. It may read both private HTML captures, the historical manifest, and the private trace for verification but must not quote or redistribute rows or trace material.
 
 Require independent re-derivation of:
 
-- byte/hash/table/row counts and height parsing;
+- both byte/hash/table/row contracts and height parsing, including historical 555 and current 565;
 - repeated-name, exact-duplicate, integer-height, and order-inversion diagnostics;
+- all four historical/current mapping categories and fingerprints, with mapping proven diagnostic rather than a filter;
+- exact 555-row `arquivo_pt_20091008014619_as_archived` membership and the absence of exclusions;
+- historical `not_identifiable` disposition from the frozen evidence and benchmarks, even if the 555-row fit is numerically close;
 - S0/S1 membership counts and fingerprints;
-- historical disposition from the frozen evidence and benchmarks;
 - selected cutoffs and core S0/S1 statistics;
 - deterministic seeds/replicate counts;
 - the claim that no original Stage-3 file, family, or verdict changed;
@@ -963,7 +991,7 @@ python -c "from pathlib import Path; p=Path('AUDIT-2026-09-04-scaruffi-results.m
 
 - [ ] **Step 3: Stop for owner adjudication**
 
-Present the historical disposition, the S0/S1 sensitivity delta, and every audit finding. Do not silently apply scientific corrections and do not start reader-facing integration. The owner's decision must explicitly accept the scientific record or approve exact corrections.
+Present the historical disposition, the 555-row archival benchmark result, the S0/S1 sensitivity delta, and every audit finding. Do not silently apply scientific corrections and do not start reader-facing integration. The owner's decision must explicitly accept the scientific record or approve exact corrections.
 
 - [ ] **Step 4: Apply only accepted corrections and re-audit**
 
@@ -1000,7 +1028,7 @@ git commit -m "audit: verify Scaruffi follow-up results"
 
 - [ ] **Step 1: Write a failing summary-provenance test**
 
-The test must require the summary to name both objects, both receipts, both audits, the immutable Stage-3 hash, the historical controlled disposition, and the current arms' exclusion from Stage-3 multiplicity. It must reject phrases that collapse the current snapshot into Miškinis's sample.
+The test must require the summary to name all three objects—Miškinis's unidentified 548-row sample, the 555-row `arquivo_pt_20091008014619_as_archived` candidate, and the 565/564 current arms—plus both receipts, both audits, the immutable Stage-3 hash, the historical controlled disposition, and the current arms' exclusion from Stage-3 multiplicity. It must reject phrases that collapse any one object into another or treat archival benchmark proximity as reconstruction.
 
 - [ ] **Step 2: Write the finished scientific summary**
 
@@ -1009,17 +1037,17 @@ Use this structure:
 ```markdown
 # Scaruffi follow-up summary
 ## Bottom line
-## Historical 548-summit reconstruction assessment
+## Historical 548-summit identifiability and 555-row archival candidate
 ## Dated 2026-09-03 snapshot sensitivity
 ## What changes and what does not
 ## Provenance and audit trail
 ```
 
-Lead with the controlled disposition. Report exact S0/S1 aggregate deltas with enough qualifiers to prevent the 565-row dated page from masquerading as a 2008 reconstruction. State explicitly that accepted Stage-3 results remain the public baseline unless and until integration is separately approved.
+Lead with controlled disposition `not_identifiable`. Report the 555-row archival candidate's aggregate benchmark result as sensitivity evidence, then exact S0/S1 aggregate deltas, with enough qualifiers to prevent the 555-row archive or 565/564 current arms from masquerading as Miškinis's 548 rows. State explicitly that accepted Stage-3 results remain the public baseline unless and until integration is separately approved.
 
 - [ ] **Step 3: Append a custody/decision receipt**
 
-Append a dated addendum to `results/final-correction-receipt.md` recording the design commit, governance commit, pre-fit audit, result commits, result audit, owner adjudication, source hash, receipt hashes, and the fact that the public report/site were still unchanged at scientific closure.
+Append a dated addendum to `results/final-correction-receipt.md` recording the design/amendment commit, governance commit, pre-fit audit, result commits, result audit, owner adjudication, both source hashes, private-trace aggregate fingerprint, public receipt hashes, and the fact that the public report/site were still unchanged at scientific closure.
 
 - [ ] **Step 4: Run local closure gates**
 
@@ -1051,6 +1079,8 @@ git clone --no-local . $cloneRoot
 Push-Location $cloneRoot
 if (git ls-files data/raw/scaruffi-2026-09-03) { throw "private Scaruffi source is tracked" }
 if (Test-Path data/raw/scaruffi-2026-09-03/tallest.html) { throw "private HTML entered clean clone" }
+if (Test-Path data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html) { throw "private historical HTML entered clean clone" }
+if (Test-Path data/raw/scaruffi-2026-09-03/historical-evidence/_manifest.json) { throw "private archive manifest entered clean clone" }
 if (Test-Path data/raw/scaruffi-2026-09-03/reconstruction-membership.json) { throw "private membership trace entered clean clone" }
 python -m unittest discover -s tests -v
 python src/verify_report_numbers.py
@@ -1088,11 +1118,13 @@ Show the owner the summary and audit. Do not modify `REPORT.md`, `README.md`, `s
 Add tests that require:
 
 - Overview remains the short default tab and gains only a compact Scaruffi follow-up paragraph/card;
-- the historical 548 object is labelled `exact`, `bounded/non-unique`, or `not identifiable`, exactly matching `results/scaruffi-reconstruction.txt`;
+- Miškinis's 548-row object is labelled `not identifiable`, exactly matching `results/scaruffi-reconstruction.txt`;
+- the dated 555-row `arquivo_pt_20091008014619_as_archived` object is labelled archival sensitivity evidence, never exact or bounded reconstruction;
 - the dated current result is labelled as 565-row S0 and 564-row exact-deduplicate S1 sensitivity, not a replication;
 - the full report retains the accepted Stage-3 verdict and places all decision-critical qualifiers adjacent;
 - the Data/Custody section says the raw capture is private and provides only hash/count metadata;
 - the stale statement “preserved but not ingested” is replaced with the more precise split between private parsing, aggregate sensitivity, and nonredistribution;
+- public custody text names both source hashes/counts but contains neither manifest nor trace contents;
 - every new report numeral is read from `results/scaruffi-reconstruction.txt` or `results/scaruffi-recompute.txt` by `src/verify_report_numbers.py`.
 
 Run the targeted tests and confirm they fail before editing prose/build code:
@@ -1104,26 +1136,26 @@ python src/verify_report_numbers.py
 
 - [ ] **Step 2: Update the full report as the durable technical record**
 
-Add a clearly dated Scaruffi follow-up subsection to `REPORT.md`. Keep all current report information. The subsection must separate historical identifiability, dated sensitivity, audit result, and non-effect on the accepted Stage-3 family. Update the limitations/custody/provenance sections where the old D7 status first appears rather than leaving contradictory historical wording for a later footnote.
+Add a clearly dated Scaruffi follow-up subsection to `REPORT.md`. Keep all current report information. The subsection must distinguish Miškinis's unidentified 548-row sample, the dated 555-row archival candidate and its benchmark-proximity-only fit, the dated 565/564 current sensitivity arms, audit result, and non-effect on the accepted Stage-3 family. Update the limitations/custody/provenance sections where the old D7 status first appears rather than leaving contradictory historical wording for a later footnote.
 
 - [ ] **Step 3: Slightly expand the Overview, without turning it into the full report**
 
 In `src/build_explorer.py`, add one compact reader-facing synthesis containing:
 
-1. the historical controlled disposition;
+1. the historical controlled disposition and the distinct 555-row archival candidate;
 2. the direction and magnitude of S1-versus-S0 sensitivity in plain language;
-3. the sentence that this is a dated comparator outside the original Stage-3 family;
+3. the sentence that both dated comparators are sensitivity evidence outside the original Stage-3 family and that the 555-row fit is not replication;
 4. links/buttons to the Full report and Mountains tabs.
 
 Do not expose the row list or bury the qualifiers behind another tab. Preserve the Overview as the default landing page and the Full report as verbatim rendered `REPORT.md`.
 
 - [ ] **Step 4: Update README and custody panels**
 
-Update the README's findings/source status concisely. In the explorer's Mountains and Data panels, show source date, row counts, exact-deduplicate rule, full capture hash, historical disposition, and private-custody boundary. Preserve the original Stage-3 receipt hash and verdict alongside the new, separately labelled receipts.
+Update the README's findings/source status concisely. In the explorer's Mountains and Data panels, show both source dates, the 548/555/565/564 distinctions, exact-deduplicate rule, both full capture hashes, historical disposition, archive-manifest/private-trace boundary, and aggregate-only public receipt rule. Preserve the original Stage-3 receipt hash and verdict alongside the new, separately labelled receipts.
 
 - [ ] **Step 5: Extend numeral verification from the new receipts**
 
-Have `src/verify_report_numbers.py` parse the two Scaruffi receipts and assert every report numeral and controlled status. Do not hard-code report claims independently of receipts. Add a verifier claim for source bytes/hash/counts and a claim that the old Stage-3 SHA is unchanged.
+Have `src/verify_report_numbers.py` parse the two Scaruffi receipts and assert every report numeral and controlled status. Do not hard-code report claims independently of receipts. Add verifier claims for both source byte/hash/row identities, candidate ID, `not_identifiable`, mapping aggregates, current-arm counts, and the unchanged Stage-3 SHA.
 
 - [ ] **Step 6: Build twice and verify byte stability**
 
@@ -1174,7 +1206,7 @@ git commit -m "docs: integrate Scaruffi follow-up"
 
 - [ ] **Step 1: Obtain a fresh reader/publication audit**
 
-Use a fresh-context agent that did not implement Task 8. It must read the rendered site first as a reader, then cross-check the report, receipts, source audit, and code. Require checks for qualifier adjacency, historical/current distinction, exact numerical agreement, provenance, raw-data nonredistribution, mobile/keyboard behavior, and absence of draft/work-order voice.
+Use a fresh-context agent that did not implement Task 8. It must read the rendered site first as a reader, then cross-check the report, receipts, source audit, and code. Require checks for qualifier adjacency; unambiguous 548/555/565/564 distinction; exact numerical agreement; the immutable `not_identifiable` disposition; provenance; absence of both HTML captures, archive manifest, private trace, and row-complete substitutes from public artifacts; mobile/keyboard behavior; and absence of draft/work-order voice.
 
 - [ ] **Step 2: Apply only owner-approved audit corrections**
 
@@ -1217,12 +1249,16 @@ Append a final dated publication entry to `results/final-correction-receipt.md` 
 
 - [ ] `results/scaruffi-source-audit.md` distinguishes benchmark evidence from membership evidence.
 - [ ] Governance and the pre-fit audit are committed before fitting code or receipts.
-- [ ] The private HTML remains ignored and untracked.
-- [ ] Historical output uses exactly one controlled disposition and never promotes numerical similarity to membership proof.
+- [ ] Both private HTML captures, the historical `_manifest.json`, and `reconstruction-membership.json` remain ignored, untracked, absent from clean clones, and absent from Pages/releases/fixtures/generated HTML.
+- [ ] Both source contracts bind source ID, original URL, bytes, SHA-256, unique four-header table, expected row count, lexical height grammar, and anomaly reporting; every mismatch hard-fails before fitting.
+- [ ] The historical candidate is exactly 555 as-archived rows with ID `arquivo_pt_20091008014619_as_archived`; it contains all historical source ordinals and no inferred exclusions.
+- [ ] Mapping reports `exact`, `same_name_different_height`, `historical_only`, and `current_only` deterministically and is never a membership filter.
+- [ ] Historical output uses controlled disposition `not_identifiable`; a 555-row fit is archival sensitivity evidence and never earns exact or bounded reconstruction status under present evidence.
+- [ ] Miškinis's unidentified 548 rows, the dated 555-row archival candidate, and the dated 565/564 current arms are never conflated.
 - [ ] S0 is 565 as-listed rows; S1 removes only exact normalized-name-plus-height duplicates and is expected to contain 564 rows.
 - [ ] Both current arms are labelled dated sensitivities outside the Stage-3 Holm family.
 - [ ] `results/stage3-recompute.txt` retains full SHA-256 `6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7` and no accepted Stage-3 verdict changes.
-- [ ] All new public numerals are receipt-derived and verified.
+- [ ] Public receipts expose only aggregate counts, cryptographic fingerprints, rule IDs, and dispositions; all new public numerals are receipt-derived and verified.
 - [ ] Overview remains short and reader-facing; Full report remains complete and verbatim-derived.
 - [ ] Fresh-context scientific and reader audits are recorded.
 - [ ] Owner adjudication, integration approval, and publication approval are three separate gates.
