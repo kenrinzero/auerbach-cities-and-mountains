@@ -1,0 +1,8 @@
+# Every file in this repository is UTF-8 with LF endings, and the integrity model is
+# byte-exact: the SHA-256 values recorded in data/derived/MANIFEST.sha256, in
+# data/raw/*/_manifest.json, in data/CONTRACT.md and in
+# results/final-correction-receipt.md must reproduce on a reader's machine after a
+# fresh clone, and src/verify_report_numbers.py compares bytes rather than text.
+# Platform newline translation would silently invalidate all of them, so LF is
+# enforced here instead of being left to each cloner's core.autocrlf.
+* text=auto eol=lf
