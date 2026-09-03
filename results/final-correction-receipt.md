@@ -319,9 +319,28 @@ the new README was programmatically traced to `REPORT.md`, a stage summary or a 
 was shipped; two quantities the README had got wrong from memory (16 derived CSVs, not 15; 17.4 MB
 of modern raw, not ~18 MB) were caught by that check and corrected.
 
-**Repository state at the close of this session.** `git init` was run in the project folder to
-verify the exclusion set; **no commit, no remote, no push, and no GitHub repository exists yet**.
-The owner's remaining go-ahead is for the commit, the public repository and the Pages enablement.
+**Publication — performed 2026-09-03, this session.** Repository
+[`kenrinzero/auerbach-cities-and-mountains`](https://github.com/kenrinzero/auerbach-cities-and-mountains),
+public, branch `main`, GitHub Pages enabled on `main:/docs` (legacy build) and serving
+https://kenrinzero.github.io/auerbach-cities-and-mountains/ . Two commits: `6f5fb0e` (the package,
+96 files) and `e6dc858` (`.gitattributes`, see below). Committed as
+`kenrinzero <kenrinzero@users.noreply.github.com>` passed per-invocation with `git -c`, matching
+the axtell precedent; **no git configuration was written**.
 
-**Publication:** still not performed; the package is assembled and verified, and the push is gated
-on the owner's go-ahead.
+**Defect found by the post-push clone test, and fixed.** The first commit did *not* contain
+`.gitattributes`: `git add -A --renormalize` re-cleans tracked files only, so the newly written
+file was never staged. Without it, the system-level `core.autocrlf=true` in
+`C:/Program Files/Git/etc/gitconfig` converts LF to CRLF on checkout, so a fresh Windows clone
+returned **89 of 96 files with CRLF** — every recorded SHA-256 would have failed for a reader, and
+`src/verify_report_numbers.py` compares bytes. The absence of conversion warnings on the re-add
+was a false all-clear: re-adding already-staged content produces no warnings regardless.
+Committed blobs were always LF, so no repository content changed; `e6dc858` fixes only what a
+cloner's working tree receives. Re-tested with a genuinely fresh clone: **97 of 97 files
+byte-identical to the working tree, zero CRLF**; `cd data/derived && sha256sum -c MANIFEST.sha256`
+reports **OK for all 16**; `results/stage3-recompute.txt` `6ee0540c…`,
+`results/deliver-number-checks.txt` `0c160505…` and `docs/index.html` `294074ad…` all reproduce;
+the verifier exits 0 with 109 claims / 0 failures **inside the clone**. The page served by Pages
+was fetched and is byte-identical to `docs/index.html` (`294074ad29d1adcd…`, 172,672 B, no CRLF).
+
+**Publication:** complete. The package is live and was verified from the reader's side — clone,
+hash manifest, verifier, and served page — not only from the author's working tree.
