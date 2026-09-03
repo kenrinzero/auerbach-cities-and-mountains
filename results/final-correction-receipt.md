@@ -395,3 +395,80 @@ states, all 8 Report-tab TOC anchors resolve, and all 20 header/footer links are
 
 **Publication:** the repository and Pages site carry this addendum's build; the push of these
 changes is recorded in the project log for this session.
+
+---
+
+## reviewer-followup/prepublication-reader-gate — 2026-09-03
+
+This addendum records the reviewer-followup work from Task 1 through Task 6 and its correction
+loop. The ten Task 1–6 commits run from `cf46c493572dac29ab89ae4b64dafe1210bb4b12`
+through `238e9f95552d32571e478830f04a41c00f8127a3`. The subsequent reader-gate corrections are
+`36dd987f8ae1a9d85c939c3f983312468a5c4088`,
+`6700841ea9b8920196124eba4b0c545a570f40da`, and
+`b540bd58cc6979e8573a0b32f28456efcaf01bc4`.
+
+**Source and provenance disposition.** The 2023-source adjudication is **STANDS WITH
+CORRECTION**. Direct inspection of the source-native Appendix Figure A1 establishes `Log
+Population` on the horizontal axis, `Log Rank` on the vertical axis, and prints
+`log(Rank) = -1.15 log(Population) + 9.19`, R² = 0.9827; its caption reports 94 German cities
+and robust SE 0.03, while note 6 says all cities receive equal weight. The source does not name
+the robust-covariance convention. This settles the orientation and formal Figure A1 label; the
+project's separate reproduction and ξ/ζ mapping remain explicitly project-derived
+corroboration, not source claims.
+
+The cutoff selector now has an explicit all-ties/non-identification guard. It does not alter any
+real mountain arm: an isolated Stage 3 rerun reproduces the exact frozen receipt SHA-256
+`6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7`. The Auerbach
+implementation is an independent reimplementation of the common statistical design and the
+high-level Axtell precedent; it did not copy or import Axtell code. The invalid-row-padding defect
+was assessed as Auerbach-local and was not propagated to Axtell's binned, per-candidate routine.
+
+The Berry & Okulicz-Kozaryn year of record is corrected to 2012 (online December 2011), with the
+dated source-status correction adjacent to the preserved history. The Scaruffi record now states
+that the path probed during Stage 3 returned 404, while the correct page was subsequently obtained
+and preserved; it remains outside the fitted corpus and has not been ingested or analysed pending
+a dated data-contract addendum.
+
+**Reader-facing disposition.** Overview remains the sole short artifact and default explorer
+entry, with the city findings foregrounded. The full Report now opens as a finished publication:
+neutral `Project links`, abstract and results before audit/provenance, and operational history
+retained later. This pre-deployment candidate does not claim that its local bytes already match a
+live deployment.
+
+**Gate sequence.** On the frozen pre-reader candidate (`238e9f9`), deterministic verification
+passed: 109/109 verifier claims, 26/26 tests, and a byte-stable 194,799-byte explorer mirror with
+SHA-256 `fbf4ab5e17eb2da4e40f8f7c6abc14a1f85bb50efb7a4d834d755cdc524300a9`.
+Derived custody was 16/16 and raw Stage 3 custody 22/22, with protected-scope aggregate
+`4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`.
+
+The genuinely fresh-context reader nevertheless returned **MATERIAL_ISSUES** with five exact
+findings: (1) the A4 lane and AICc explanation conflicted; (2) Mountains and Data had page-wide
+mobile overflow; (3) the SVG charts lacked accessible names/descriptions; (4) a full-report
+Contents link changed location without transferring focus; and (5) the pre-deployment candidate
+called remote pages `Published` despite byte mismatch. Three localized minor defects were also
+accepted: a literal `---`, an unspecified `independent audit`, and a favicon 404. Commit
+`36dd987` resolved those findings; `6700841` preserved and tested the reader-gate contracts; and
+`b540bd5` aligned the final mountain-rule wording with D9. The same fresh-context reader's recheck
+then returned **CLEAR**. Separate cross-agent code review supplied an implementation-review
+dimension; it was **not independent human conceptual replication** and does not rule out shared
+model-family blind spots.
+
+**Final deterministic and browser verification at `b540bd5`.** The verifier passes **109/109**
+claims with zero failures; the full suite passes **34/34** tests. Two generated mirrors are
+byte-identical at **200,940 bytes** and SHA-256
+`5f9eab19ae6bb79c46d3dd2eb17734c965794ab80435228d2beb09e97e145299`.
+The isolated Stage 3 receipt remains exactly
+`6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7`; the derived and raw
+manifests pass 16/16 and 22/22 respectively; and the exact 59-file protected-scope recipe remains
+`4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`. UTF-8/LF/no-BOM,
+inline-JavaScript syntax, stale-public-state, and `git diff --check` gates pass.
+
+Playwright browser QA passes at desktop 1180 × 900 and mobile 392 × 844 / 390 × 844: all seven
+tabs and both Overview actions work; ArrowRight/Home/End tab selection and focus work; the Report
+Contents target receives focus and the next Tab reaches the next table region; document overflow
+is zero on every tab; wide tables scroll only inside labelled, keyboard-focusable regions; all
+11/11 SVGs have an accessible name and description; and the browser console records zero errors
+and zero warnings, with no favicon request.
+
+**Reviewer-followup publication boundary:** no push, deployment, or merge occurred; publication
+awaits the user's separate signal.
