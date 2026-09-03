@@ -285,6 +285,7 @@ class ChartReadabilityTests(unittest.TestCase):
         self.page.wait_for_timeout(100)
         focused = self.page.evaluate("document.activeElement.id")
         self.assertEqual(target_id, focused)
+        self.assertEqual("#rp-s4", self.page.evaluate("location.hash"))
         self.assertEqual("-1", self.page.locator("#" + target_id).get_attribute("tabindex"))
         self.page.keyboard.press("Tab")
         follows = self.page.evaluate(

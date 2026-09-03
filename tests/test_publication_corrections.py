@@ -3,6 +3,8 @@ import sys
 import unittest
 from pathlib import Path
 
+from src import verify_report_numbers
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -62,6 +64,25 @@ class PublicationCorrectionTests(unittest.TestCase):
         self.assertIn("M6b GoF p 0.0020", c52)
         self.assertIn("M1 GoF p 0.7665", c52)
         self.assertIn("M-rank supported", c52)
+
+    def test_a4_m6b_delta_is_computed_from_its_model_rows_and_best_is_checked(self):
+        self.assertTrue(
+            hasattr(verify_report_numbers, "a4_m6b_companions"),
+            "verifier must expose the A4 M6b calculation it reports",
+        )
+        companions = verify_report_numbers.a4_m6b_companions
+        arm = {
+            "best": "M6b miskinis-dens",
+            "d_best": 999.0,
+            "models": {
+                "M1 pl": {"aicc": 246.34},
+                "M6b miskinis-dens": {"aicc": 220.87},
+            },
+        }
+        self.assertAlmostEqual(-25.47, companions(arm)[0], places=9)
+        arm["best"] = "M3 trunc-pl"
+        with self.assertRaises(AssertionError):
+            companions(arm)
 
     def test_public_conclusions_keep_their_decision_critical_qualifiers_adjacent(self):
         report_claim = self.report[

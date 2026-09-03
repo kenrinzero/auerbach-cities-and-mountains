@@ -46,6 +46,7 @@ DOCS_INDEX = ROOT / "docs" / "index.html"
 REPO_URL = "https://github.com/kenrinzero/auerbach-cities-and-mountains"
 BLOB_URL = REPO_URL + "/blob/main/"
 RECEIPTS_SHA = hashlib.sha256((ROOT / "results" / "stage3-recompute.txt").read_bytes()).hexdigest()
+SELF_CONTAINED_FAVICON = '<link rel="icon" href="data:,">'
 
 PRIMARY = ["A0", "R1", "R2", "R3"]
 ARM_LABEL = {
@@ -121,14 +122,16 @@ PREDICTIONS = [
      "Pure full-support power law rejected in all eight prominence-defined arms; xi = 0.4598 "
      "(CI [0.1164, 0.5218]) on the global arm and < 1 in all ten; bounded/cutoff family favored "
      "where the test has power (A0/A1/A2/A3/R2) and indistinguishable in the small-tail arms "
-     "(A4/R1/R3). A4 stays in the M-rank lane despite M6b dAICc -25.47 because Vuong p 0.5619 "
-     "is not significant and M6b GoF p 0.0020 fails absolute fit. The empirical bounded-support "
+     "(A4/R1/R3). A4 stays outside H-MB because M1 GoF p 0.7665 passes and no bounded alternative "
+     "wins on the preregistered significant comparison. M6b has lower companion AICc (dAICc -25.47), "
+     "but Vuong p 0.5619 is nonsignificant and M6b GoF p 0.0020 separately fails absolute fit. The empirical bounded-support "
      "implication is compatible; no tectonic causal mechanism was tested."),
     ("P6", "borne out, with qualifiers",
      "Miskinis rank curve R2(log) 0.99447 Alps / 0.92308 Rockies / 0.99244 global, but only "
      "0.81840 on the Himalayas where fitted h_max 7863.2 m cannot reach the observed 8848 m. "
-     "M6b has lower AICc than M1 in A0/R1/R2/R3/A4. In A4, however, Vuong p 0.5619 and M6b "
-     "GoF p 0.0020 keep the receipt-derived M-rank lane under the frozen rule. 'At least as well "
+     "M6b has lower AICc than M1 in A0/R1/R2/R3/A4. A4 stays outside H-MB because M1 GoF p "
+     "0.7665 passes and no bounded alternative wins on the preregistered significant comparison; M6b "
+     "Vuong p 0.5619 is nonsignificant and its GoF p 0.0020 separately fails absolute fit. 'At least as well "
      "as any power law' holds only as an AICc statement; 'as well as any alternative' does not."),
     ("P7", "borne out",
      "At n = 94: MLE bias -0.0044, RMSE 0.1007, coverage 0.943; the project's population-on-rank "
@@ -386,9 +389,11 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
         and sampling coverage, before model-family detail: the list-building process pushes estimates toward
         Auerbach&rsquo;s direction. Summit heights nevertheless decline more gently with rank in all four
         primary arms. The result then splits: bounded or cutoff families win in the global, lower-prominence and Himalaya arms,
-        while the Alps, Rockies and highest-prominence A4 tail satisfy the stricter rank-law lane. In A4 the
-        project-side M6b fit has &Delta;AICc &minus;25.47, but lower AICc alone does not switch the lane:
-        Vuong p = 0.5619 is not significant and M6b fails absolute GoF at p = 0.0020. The evidence
+        while the Alps, Rockies and highest-prominence A4 tail satisfy the stricter rank-law lane. In A4,
+        M1 passes GoF at p = 0.7665 and no bounded alternative wins on the preregistered significant comparison. AICc is
+        companion evidence, not part of that alternative-win rule: M6b has lower companion AICc
+        (&Delta;AICc &minus;25.47), but its Vuong p = 0.5619 is not significant and it fails absolute GoF at
+        p = 0.0020. The evidence
         supports no tectonic causal mechanism, and the global arm rejects every fitted family on absolute
         goodness-of-fit.</p></article>
       </div>
@@ -523,10 +528,12 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
       exploratory and excluded from the family.</p></div>
     <div class="card"><h3>Model comparison, all ten arms</h3><div class="table-scroll" role="region" tabindex="0"
       aria-label="Mountain model comparison table; scroll horizontally to see all columns"><table id="tmodels"></table></div>
-      <p class="note">The frozen H-MB rule requires a preregistered bounded alternative to have both lower
-      AICc and significant Vuong evidence against M1; lower AICc alone does not switch the lane. In A4,
-      M6b has &Delta;AICc &minus;25.47, but Vuong p = 0.5619 is not significant and M6b GoF p = 0.0020 fails
-      absolute fit, while M1 GoF p = 0.7665. These are project-side model diagnostics, not source claims.
+      <p class="note">The frozen H-MB rule is true if M3 beats M1 on the LRT, M2/M5/M6b beats M1 on
+      Vuong at p &lt; 0.05, or M1 is rejected on GoF while at least one alternative is not. AICc is companion
+      evidence, not part of that alternative-win rule; lower AICc alone does not switch the lane. In A4,
+      M1 passes GoF at p = 0.7665 and no bounded alternative wins on the preregistered significant comparison.
+      M6b has lower companion AICc (&Delta;AICc &minus;25.47), but its Vuong p = 0.5619 is not significant and
+      M6b GoF p = 0.0020 fails absolute fit. These are project-side model diagnostics, not source claims.
       Other honesty notes: on A0 <em>all six</em> families are rejected on GoF at the selected cutoff,
       so H-MB there rests on Vuong/AICc alone (D13). M4 is a truncated lognormal &mdash; unbounded above &mdash;
       so per the frozen rule it never counts toward H-MB, yet it is best-AICc on R2/R3, where its printed
@@ -1119,6 +1126,15 @@ def render_report_md(path):
     return "".join(out), "".join(toc)
 
 
+def assert_self_contained_html(html):
+    """Reject every loading surface except the exact inert data-URI favicon."""
+    for link in re.findall(r"<link\b[^>]*>", html, re.I):
+        assert link == SELF_CONTAINED_FAVICON, "external reference found: %s" % link
+    for pat in (r"<script[^>]+src=", r"@import", r"url\(\s*['\"]?https?:",
+                r"<img\b", r"<iframe\b", r"fetch\(", r"XMLHttpRequest"):
+        assert not re.search(pat, html, re.I), "external reference found: %s" % pat
+
+
 def main():
     data = build_data()
     footer = "".join([
@@ -1241,10 +1257,9 @@ def main():
                 "__REPO__", "__FOOTER__"):
         assert tok not in html, "unsubstituted template placeholder: %s" % tok
 
-    # self-containment assertions: no external network references of any kind
-    for pat in (r"<script[^>]+src=", r"<link[^>]+href=['\"]https?:", r"@import", r"url\(\s*['\"]?https?:",
-                r"<img\b", r"<iframe\b", r"fetch\(", r"XMLHttpRequest"):
-        assert not re.search(pat, html, re.I), "external reference found: %s" % pat
+    # self-containment assertions: the exact inert favicon is the sole link allowlist entry
+    assert html.count(SELF_CONTAINED_FAVICON) == 1, "expected exact self-contained favicon"
+    assert_self_contained_html(html)
     assert "\r" not in html
     DOCS_INDEX.parent.mkdir(parents=True, exist_ok=True)
     for target in (OUT, DOCS_INDEX):
@@ -1259,7 +1274,7 @@ def main():
     print("  embedded: %d cities, %d DE admin, %d DE FUA, %d modern rows, %d arms (%d points)"
           % (len(data["cities"]), len(data["de_admin"]), len(data["de_fua"]), len(data["modern"]),
              len(data["arms"]), sum(len(v) for v in data["arm_points"].values())))
-    print("  self-containment: no <script src>, external <link href=http>, @import, url(http), <img>, <iframe>, "
+    print("  self-containment: exact data favicon only; no other <link>, <script src>, @import, url(http), <img>, <iframe>, "
           "fetch(), XMLHttpRequest")
     return 0
 

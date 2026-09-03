@@ -209,6 +209,14 @@ for _k, _b in arm_blocks().items():
     A[_k] = parse_arm(_b)
 
 
+def a4_m6b_companions(arm):
+    """Return A4's directly computed M6b-vs-M1 AICc delta and M6b row."""
+    assert arm["best"] == "M6b miskinis-dens", "A4 reported best model is not M6b"
+    m1 = arm["models"]["M1 pl"]
+    m6b = arm["models"]["M6b miskinis-dens"]
+    return m6b["aicc"] - m1["aicc"], m6b
+
+
 # --------------------------------------------------------------------------
 # A. Step-0 receipts and prereg notation (deterministic; recomputed here)
 # --------------------------------------------------------------------------
@@ -660,12 +668,12 @@ def main():
         r"^   (%s)\s+M6a R2\(log\) ([\d.]+) RMS\s+([\d.]+) m hmax\s+([\d.]+) \| M6b AICc\s+([\d.]+) vs M1\s+([\d.]+) \(dAICc\s+([+-][\d.]+)\), Vuong z ([+-][\d.]+) p (\S+)$"
         % "|".join(ARMS), S3.split("[P6 inputs]")[1].split("====")[0], re.M))
     a4 = A["A4"]
-    a4_m6b = a4["models"]["M6b miskinis-dens"]
+    a4_m6b_delta, a4_m6b = a4_m6b_companions(a4)
     claim("C52", "P6 Miskinis: M6a rank-space R2(log) %s; M6b dAICc vs M1 %s; "
                  "A4 decision companions dAICc %.2f, Vuong p %s, M6b GoF p %.4f, M1 GoF p %.4f, lane %s"
           % (" / ".join("%s %s" % (k, p6[k][1]) for k in ("A0", "R1", "R2", "R3", "E1") if k in p6),
              " / ".join("%s %s" % (k, p6[k][6]) for k in ("A0", "R1", "R2", "R3", "E1") if k in p6),
-             a4["d_best"], a4_m6b["vp"], a4_m6b["gof"],
+             a4_m6b_delta, a4_m6b["vp"], a4_m6b["gof"],
              a4["models"]["M1 pl"]["gof"], a4["lane"]),
           ["0.99244", "0.99447", "0.81840", "0.92308", "-241.15", "-6.47", "-6.85", "-4.44", "+0.65",
            "A4", "-25.47", "0.5619", "0.0020", "0.7665", "M-rank supported"],

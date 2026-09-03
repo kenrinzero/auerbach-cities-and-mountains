@@ -5,6 +5,8 @@ import sys
 import unittest
 from pathlib import Path
 
+from src import build_explorer
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -102,6 +104,11 @@ class ReaderFacingSiteTests(unittest.TestCase):
     def test_a4_lane_explains_the_frozen_rule_and_companion_evidence(self):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
         overview = visible_text(element(self.page, "section", "tab-overview"))
+        scoreboard = " ".join(
+            description
+            for prediction, _, description in build_explorer.PREDICTIONS
+            if prediction in {"P5", "P6"}
+        )
         mountains = visible_text(element(self.page, "section", "tab-mount"))
 
         for artifact, text in (
@@ -115,10 +122,44 @@ class ReaderFacingSiteTests(unittest.TestCase):
                 self.assertIn("−25.47", text)
                 self.assertIn("0.5619", text)
                 self.assertIn("0.0020", text)
+                self.assertIn("0.7665", text)
+                self.assertIn("no bounded alternative wins on the preregistered significant comparison", text)
+
+        for artifact, text in (("REPORT.md", report), ("Mountains", mountains)):
+            with self.subTest(artifact=artifact, rule="frozen H-MB rule"):
+                self.assertIn("M3 beats M1 on the LRT", text)
+                self.assertIn("M2/M5/M6b beats M1 on Vuong at p < 0.05", text)
+                self.assertIn("M1 is rejected on GoF", text)
+                self.assertIn("AICc is companion evidence", text)
+                self.assertNotIn("requires a preregistered bounded alternative to have both lower AICc", text)
+
+        self.assertNotIn("has both lower AICc and significant Vuong", report)
+        self.assertNotIn("M6b GoF p = 0.0020 keep it out", report)
+        for expected in ("A4", "-25.47", "0.5619", "0.0020", "0.7665",
+                         "no bounded alternative wins on the preregistered significant comparison"):
+            self.assertIn(expected, scoreboard)
+        self.assertNotIn("M6b GoF p 0.0020 keep", scoreboard)
+        self.assertNotIn("M6b GoF p 0.0020 keep", mountains)
 
         self.assertIn("lower AICc alone does not switch the lane", report)
         self.assertIn("lower AICc alone does not switch the lane", mountains)
         self.assertIn("A0/R1/R2/R3/A4", report)
+
+    def test_self_containment_allows_only_the_exact_data_favicon_link(self):
+        self.assertTrue(
+            hasattr(build_explorer, "assert_self_contained_html"),
+            "builder must expose its real self-containment boundary for pressure testing",
+        )
+        validate = build_explorer.assert_self_contained_html
+        validate('<link rel="icon" href="data:,">')
+        for forbidden in (
+            '<link rel="stylesheet" href="//cdn.example/style.css">',
+            '<link rel="stylesheet" href="style.css">',
+            '<link rel="icon" href="data:image/svg+xml,<svg></svg>">',
+        ):
+            with self.subTest(forbidden=forbidden):
+                with self.assertRaises(AssertionError):
+                    validate(forbidden)
 
     def test_reader_text_measures_match_the_approved_axtell_like_layout(self):
         overview = css_properties(self.page, ".overview")
