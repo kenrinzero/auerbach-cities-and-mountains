@@ -17,10 +17,10 @@ quantities from the manifested derived CSVs. Nothing is refitted here. Fitted
 curves drawn on the rank plots are the *reported* exponents/parameters anchored
 for display, and are labelled as such wherever they appear.
 
-The first tab, Report, is REPORT.md rendered verbatim at build time
-(render_report_md) and is the landing tab: a cold reader meets the narrative
-before the dashboards, and because the page is a pure function of the report's
-bytes it can never drift from the text the needle checks govern.
+The first tab, Overview, is a short reader-facing synthesis. The Full report tab
+is REPORT.md rendered verbatim at build time (render_report_md), so the technical
+record remains a pure function of the report's bytes and cannot drift from the
+text the needle checks govern.
 
 Precedent: ../2001-axtell-zipf-distribution-of-us-firm-sizes/src/build_explorer.py.
 """
@@ -277,8 +277,31 @@ header a:hover,footer a:hover{text-decoration:underline}
 footer .fblock{margin:14px 0 0;line-height:1.65}
 footer ul.cites{margin:4px 0 0;padding-left:18px}
 footer ul.cites li{margin:3px 0}
+footer .footer-lead{margin:18px 0 10px;line-height:1.55}
+footer details{border-top:1px solid var(--line);padding-top:10px}
+footer summary{color:var(--fg);cursor:pointer;font-weight:600}
 footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--line)}
 .big{font-size:26px;font-variant-numeric:tabular-nums}
+/* ---- Overview: the short reader-facing entry point ---- */
+.overview{max-width:980px;margin:0 auto;padding:10px 0 24px}
+.overview-kicker{margin:0 0 6px;color:var(--acc);font-size:12px;font-weight:700;
+                 letter-spacing:.1em;text-transform:uppercase}
+.overview h2{font-size:28px;line-height:1.2;margin:0 0 12px}
+.overview-lede{max-width:72ch;margin:0 0 22px;font-size:17px;line-height:1.65;color:#d7dce5}
+.overview-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.overview-grid .card{margin:0;padding:18px}
+.overview-grid h3{margin:0 0 8px;color:var(--fg);font-size:15px;letter-spacing:0;text-transform:none}
+.overview-grid p{margin:0;line-height:1.6}
+.overview-caveats{margin:16px 0 0;padding:16px 18px;border-left:3px solid var(--warn);
+                  background:var(--card);border-radius:0 10px 10px 0}
+.overview-caveats h3{margin:0 0 6px;color:var(--fg);font-size:14px;letter-spacing:0;text-transform:none}
+.overview-caveats ul{margin:4px 0 0;padding-left:20px}
+.overview-caveats li{margin:5px 0}
+.overview-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.overview-actions button{border:1px solid var(--acc);border-radius:7px;background:#1b2534;color:#fff;
+                         padding:9px 14px;font:inherit;cursor:pointer}
+.overview-actions button.secondary{border-color:var(--line);background:var(--card)}
+@media(max-width:760px){.overview-grid{grid-template-columns:1fr}.overview h2{font-size:24px}}
 /* ---- Report tab: reading typography ---- */
 .rp{font-size:15px;line-height:1.7;color:var(--fg)}
 .rp-lede{color:var(--mut);font-size:13.5px;line-height:1.6;border-left:3px solid var(--acc);
@@ -314,21 +337,52 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
 <header>
   <h1>Auerbach (1913) <em>Das Gesetz der Bev&ouml;lkerungskonzentration</em> &mdash; cities and mountains, recomputed</h1>
   <div class="repo-line"><a href="__REPO__">github.com/kenrinzero/auerbach-cities-and-mountains</a>
-    &mdash; source code, data custody, tests, the frozen pre-registration, the complete audit chain,
-    and every receipt behind this page.</div>
+    &mdash; source, data, methods, tests and independent audits.</div>
   <div class="credit-line">Directed by Kenrin (<a href="https://github.com/kenrinzero">@kenrinzero</a>).
-    Analysis by AI agents under his direction &mdash; <b>Kimi K3</b>, <b>GPT-5.6 Sol</b> and
-    <b>Qwen3.8-Max</b> &mdash; with every stage audited by a different agent than the one that
-    implemented it. Who wrote what, and what they got wrong:
-    <a href="__REPO__/blob/main/CREDITS.md">CREDITS.md</a>, summarised at the foot of this page.</div>
-  <p>Stage-4 explorer &middot; __META__</p>
-  <p>Every number here is re-derived by <code>src/verify_report_numbers.py</code> &rarr;
-     <code>results/deliver-number-checks.txt</code>. Stage 4 refits nothing: fitted values are read from the
-     frozen receipts, deterministic values from the manifested derived CSVs.</p>
+    Analysis by AI agents under his direction: <b>Kimi (Kimi K3)</b>,
+    <b>Codex (GPT-5.6 Sol)</b>, and <b>Qoder (Qwen3.8-Max)</b>.
+    <a href="__REPO__/blob/main/CREDITS.md">Full attribution and independence record</a>.</div>
 </header>
 <nav id="nav" role="tablist"></nav>
 <main>
-  <section id="tab-report" role="tabpanel">
+  <section id="tab-overview" role="tabpanel">
+    <div class="overview">
+      <p class="overview-kicker">The headline, without the technical ledger</p>
+      <h2>What we found</h2>
+      <p class="overview-lede">Auerbach&rsquo;s city-size regularity survives a modern recomputation,
+      but not as a universal constant detached from definitions. His 1913 pattern is compatible with
+      Zipf&rsquo;s law; the same broad shape remains visible in modern cities even though concentration
+      levels and country ordering have moved. For mountain summits, the pre-registered
+      gentler-than-inverse reading is supported, but no single simple power law describes every arm.</p>
+      <div class="overview-grid">
+        <article class="card"><h3>1913 cities</h3><p>The band Auerbach reported begins at rank 15
+        exactly when his own containment rule is applied. A free-exponent fit over all 94 cities gives
+        &xi; = 0.9801, statistically compatible with the Zipf value of 1. The important correction is
+        textual: his printed 47,8 is the mean across all 94 cities, not the stabilized tail mean described
+        in the prose.</p></article>
+        <article class="card"><h3>Modern cities</h3><p>Germany still has a Zipf-compatible shape,
+        while its concentration level has shifted. The twelve-country ordering is no longer intact,
+        although a positive concordance remains. Most importantly, switching from municipalities to
+        Functional Urban Areas changes the concentration statistic sharply, showing that city boundaries
+        are part of the measurement rather than harmless bookkeeping.</p></article>
+        <article class="card"><h3>Mountains</h3><p>Summit heights decline more gently with rank in
+        all four primary arms. The distributional result is less uniform: bounded or cutoff
+        families win in the global, lower-prominence and Himalaya arms, while the Alps, Rockies and highest-prominence
+        tail satisfy the stricter rank-law lane. The evidence supports no tectonic causal mechanism, and
+        the global arm rejects every fitted family on absolute goodness-of-fit.</p></article>
+      </div>
+      <div class="overview-caveats"><h3>What the headline does not mean</h3><ul>
+        <li>Auerbach supplied a band and descriptive argument, not an estimated exponent.</li>
+        <li>The modern boundary comparison is deliberately coarse and may overstate a suburb-merging effect.</li>
+        <li>Coverage bias in summit lists points toward the mountain result, so that limitation travels with it.</li>
+      </ul></div>
+      <div class="overview-actions">
+        <button type="button" onclick="activateFromOverview('report')">Read the full report</button>
+        <button type="button" class="secondary" onclick="activateFromOverview('score')">See the prediction scoreboard</button>
+      </div>
+    </div>
+  </section>
+  <section id="tab-report" role="tabpanel" hidden>
     <div class="rp">
       <div class="rp-measure">
         <p class="rp-lede">The report in full, rendered verbatim from <code>REPORT.md</code> at build time
@@ -456,8 +510,10 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
           <tr><td>peaklist.org</td><td>unreachable (D6)</td></tr>
           <tr><td>peakbagger.com</td><td>terms page HTTP 403 &rarr; the contract's mandatory ToS check could not be
               satisfied, so it was <em>not</em> scraped (D6)</td></tr>
-          <tr><td>Mi&scaron;kinis's 548-summit list</td><td>scaruffi.com 404 &rarr; comparator not obtainable (D7);
-              P6 answered through his model form, not his data</td></tr>
+          <tr><td>Scaruffi comparator (Mi&scaron;kinis's 548-summit list)</td><td>The page was
+              <strong>obtained and preserved</strong> after publication, but is not yet ingested or analysed.
+              Using it as DC-3c requires a dated data-contract addendum; the current P6 result therefore
+              still answers Mi&scaron;kinis through his model form, not his list.</td></tr>
           <tr><td>Wikidata snapshot</td><td>1543 QIDs, cross-check only, <strong>never fitted</strong> (D8):
               73 without elevation, 276 with an impossible one (max 16,390 m), 95 with prominence above elevation
               beyond the parser's 0.5 m tolerance</td></tr>
@@ -814,25 +870,50 @@ function renderData(){
 }
 
 /* ---------------- tabs ---------------- */
-const TABS=[["report","Report"],["score","Scoreboard"],["1913","1913 cities"],["modern","Modern cities"],
+const TABS=[["overview","Overview"],["report","Full report"],["score","Scoreboard"],["1913","1913 cities"],["modern","Modern cities"],
   ["mount","Mountains"],["data","Data & custody"]];
 const RENDERED={};
 function show(id){
   TABS.forEach(t=>{
-    document.getElementById("tab-"+t[0]).hidden=(t[0]!==id);
-    document.querySelector("button[data-tab='"+t[0]+"']").setAttribute("aria-selected",
-      t[0]===id?"true":"false");});
+    const panel=document.getElementById("tab-"+t[0]);
+    const b=document.querySelector("button[data-tab='"+t[0]+"']");
+    panel.hidden=(t[0]!==id);
+    b.setAttribute("aria-selected",t[0]===id?"true":"false");
+    b.tabIndex=t[0]===id?0:-1;});
   if(!RENDERED[id]){RENDERED[id]=true;
     const R={score:renderScore,"1913":render1913,modern:renderModern,mount:renderMountains,
       data:renderData};
-    if(R[id])R[id]();}   // the Report tab is static HTML: nothing to render lazily
+    if(R[id])R[id]();}   // Overview and Full report are static HTML: nothing to render lazily
+}
+function activateFromOverview(id){
+  show(id);
+  const panel=document.getElementById("tab-"+id);
+  panel.tabIndex=-1;
+  panel.focus();
+}
+function moveTab(ev,index){
+  if(!["ArrowLeft","ArrowRight","Home","End"].includes(ev.key))return;
+  ev.preventDefault();
+  let next=index;
+  if(ev.key==="Home")next=0;
+  else if(ev.key==="End")next=TABS.length-1;
+  else next=(index+(ev.key==="ArrowRight"?1:-1)+TABS.length)%TABS.length;
+  show(TABS[next][0]);
+  document.getElementById("navtab-"+TABS[next][0]).focus();
 }
 function boot(){
   const nav=document.getElementById("nav");
-  TABS.forEach(t=>{const b=document.createElement("button");b.textContent=t[1];
+  TABS.forEach((t,index)=>{const b=document.createElement("button");b.textContent=t[1];
+    const panel=document.getElementById("tab-"+t[0]);
+    b.id="navtab-"+t[0];
     b.setAttribute("role","tab");b.setAttribute("data-tab",t[0]);
-    b.setAttribute("aria-selected","false");b.onclick=()=>show(t[0]);nav.appendChild(b);});
-  show("report");  // a cold reader lands on the report itself
+    b.setAttribute("aria-selected","false");
+    b.setAttribute("aria-controls","tab-"+t[0]);
+    panel.setAttribute("aria-labelledby",b.id);
+    b.onclick=()=>show(t[0]);
+    b.onkeydown=ev=>moveTab(ev,index);
+    nav.appendChild(b);});
+  show("overview");  // a cold reader lands on the concise synthesis
 }
 boot();
 </script>
@@ -952,6 +1033,11 @@ def render_report_md(path):
 def main():
     data = build_data()
     footer = "".join([
+        '<div class="footer-lead">Full methods, citations and attribution remain available here without '
+        'crowding the headline. See also the <a href="' + BLOB_URL + 'README.md#citations">complete '
+        'bibliography</a> and <a href="' + BLOB_URL + 'AUDIT-2026-09-03-citations-and-prose.md">citation '
+        'and prose audit</a>.</div>',
+        '<details><summary>Technical provenance, credits and key citations</summary>',
         '<div class="fblock"><h3>Reproducibility</h3>',
         "<div>Every number on this page is re-derived by <code>src/verify_report_numbers.py</code> from the "
         "derived CSVs and the frozen receipts (109 claims, 0 failures, exit non-zero on any mismatch). The "
@@ -969,9 +1055,9 @@ def main():
         '<div class="fblock"><h3 id="credits">Credits</h3>',
         '<div>Directed by Kenrin (<a href="https://github.com/kenrinzero">@kenrinzero</a>), who set the scope, '
         "adjudicated every audit finding and approved every correction before it landed. The analysis was produced "
-        "by AI agents under his direction: <b>Kimi K3</b> &mdash; Stage 0 pre-registration and claim inventory, the "
-        "Stage-1 scan transcription, and the Stage-2/3/4 audits; <b>GPT-5.6 Sol</b> &mdash; the independent final "
-        "audit and its F1&ndash;F6 correction pass; <b>Qwen3.8-Max</b> &mdash; the Stage-1 audit, the Stage-2 and "
+        "by AI agents under his direction: <b>Kimi (Kimi K3)</b> &mdash; Stage 0 pre-registration and claim inventory, the "
+        "Stage-1 scan transcription, and the Stage-2/3/4 audits; <b>Codex (GPT-5.6 Sol)</b> &mdash; the independent final "
+        "audit, its F1&ndash;F6 correction pass, and this citation/prose pass; <b>Qoder (Qwen3.8-Max)</b> &mdash; the Stage-1 audit, the Stage-2 and "
         "Stage-3 implementations, the report, this explorer, and publication. No agent audited a stage it "
         'implemented. Full attribution session by session, and what each agent got wrong: '
         '<a href="' + BLOB_URL + 'CREDITS.md">CREDITS.md</a>.</div>',
@@ -990,7 +1076,11 @@ def main():
         "<div>The paper under test and its companions:</div>",
         '<ul class="cites">',
         "<li>Auerbach, F. (1913). &ldquo;Das Gesetz der Bev&ouml;lkerungskonzentration.&rdquo; "
-        "<em>Petermanns Geographische Mitteilungen</em> <b>59</b>(I), 74&ndash;76, Tafel 14. Gotha: Justus Perthes.</li>",
+        "<em>Petermanns Geographische Mitteilungen</em> <b>59</b>, 74&ndash;76, Tafel 14. Gotha: Justus Perthes.</li>",
+        "<li>Ciccone, A. (2021, February). <em>Das Gesetz der Bev&ouml;lkerungskonzentration &mdash; The Law "
+        'of Population Concentration</em>. Working translation, version 1.0, University of Mannheim. '
+        '<a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Ciccone/auerbach_1913_translation_1.0.pdf">'
+        'Open working copy</a> &mdash; the version used during the historical transcription.</li>',
         "<li>Auerbach, F., &amp; Ciccone, A. (2023). &ldquo;The Law of Population Concentration.&rdquo; "
         '<em>Environment and Planning B</em> <b>50</b>(2), 290&ndash;298. '
         '<a href="https://doi.org/10.1177/23998083221147139">doi:10.1177/23998083221147139</a> &mdash; the '
@@ -1021,14 +1111,17 @@ def main():
         "</ul>",
         '<div style="margin-top:8px">Data: Eurostat (<code>urb_cpop1</code>, <code>urb_lpop1</code>, '
         "<code>demo_pjan</code>), World Bank (<code>SP.POP.TOTL</code>), 25 English-Wikipedia articles via the "
-        "MediaWiki API, one Wikidata SPARQL snapshot, and the Functional Urban Area definition of the EU/FAO/"
-        'UN-Habitat/OECD/World Bank <em>Degree of Urbanisation</em> manual (2021), '
-        '<a href="https://doi.org/10.2785/706535">doi:10.2785/706535</a>. Per-file licence, retrieval date and '
+        "MediaWiki API, one Wikidata SPARQL snapshot, and the Functional Urban Area definition of the European "
+        'Commission/FAO/UN-Habitat/International Labour Organization (ILO)/OECD/World Bank '
+        '<a href="https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-02-20-499"><em>Degree '
+        'of Urbanisation</em> manual (2021)</a>, <a href="https://doi.org/10.2785/706535">'
+        'doi:10.2785/706535</a>. Per-file licence, retrieval date and '
         'SHA-256 in <a href="' + BLOB_URL + 'data/CONTRACT.md">data/CONTRACT.md</a> and the two '
         "<code>_manifest.json</code> files. The complete 29-reference list &mdash; with fields we could not verify "
         'from a primary source omitted rather than guessed &mdash; is in '
         '<a href="' + BLOB_URL + 'README.md#citations">README.md</a>.</div>',
         "</div>",
+        "</details>",
 
         '<div class="fineprint">&copy; 2026 kenrinzero &middot; code MIT '
         '(<a href="' + BLOB_URL + 'LICENSE">LICENSE</a>) &middot; documents CC-BY-4.0 '

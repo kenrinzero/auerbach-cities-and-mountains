@@ -55,6 +55,8 @@ the last one found real problems (see below). That is the point of the structure
 | Verification findings V1–V5 (stale hash table, README date, an unrecoverable aggregate recipe, a wrong session label, an incomplete audit chain) and their fixes | Qoder, session #1003 | — (owner-adjudicated) |
 | Owner-reported explorer defects and features: centred page column (V6), the Report tab, and two rounds of reading-measure typography | Qoder, sessions #1004–#1007 | — (owner verified visually) |
 | Publication packaging: this README, `CREDITS.md`, licensing, `.gitignore`, the Pages build step, and the repository itself | Qoder, session #1008 | — |
+| Site credits and citation footer; preservation capture of the newly reachable Scaruffi page | Qoder, session #1009 | — (owner reviewed the live page) |
+| Reader-facing Overview, citation/prose audit, public-status corrections and attribution normalization | Codex, session #1010 | — (owner approved the design; deterministic and browser gates recorded in the project log) |
 
 Kimi additionally drafted the Stage-3 and Stage-4 work orders that scoped Qoder's implementing
 sessions to a single session each, and scoped the Stage-5 bibliometrics limb that the owner then
@@ -65,10 +67,11 @@ split off into a separate project (it is not part of this repository).
 Recorded here deliberately, because a credits file that lists only successes is advertising.
 
 - Kimi's Stage-1 transcription and Qoder's Stage-1 audit together caught a cell the printed
-  sources disagree on: Auerbach's Table 2 prints Schweiz's A.K. as **2,8**; the 2023 translation
+  sources disagree on: Auerbach's Table 2 prints Schweiz's A.K. as **2,8**; Ciccone's translation
   prints 2,6. Both transcription passes and the arithmetic favour the scan. The translation also
-  carries 47,2 for 47,8 and 64,6 for 64,5 Mill. — the 2023 translation is therefore never used as
-  a numeric source in this project.
+  carries 47,2 for 47,8 and 64,6 for 64,5 Mill. The project consulted the February 2021 working
+  version; the open 2023 release adds Fig. 4 and retains the mismatches. Neither version is used
+  as a numeric source for Auerbach's tables.
 - Qoder's Stage-2 implementation shipped a German table that was not what its header claimed.
   Kimi's audit caught it; the corrected true 2025 cross-section (n = 131) is what stands.
 - Qoder's Stage-3 implementation shipped a selector bug that silently forced floor cutoffs and
