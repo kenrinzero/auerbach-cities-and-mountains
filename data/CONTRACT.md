@@ -216,3 +216,28 @@ single cell, i.e. their rows are one cell shorter than their header; the parser 
 documented *structural* repair (never a value-driven one) and reports it. One Himalaya row
 (Khyarisatam) has an empty prominence cell in the source and is dropped under A6, named in
 the report. The `range` field exists row-level only for 535 of 1,522 A0 rows (deviation D1).
+
+## Addendum 4 — Ciccone source-version reconciliation
+
+Retrieved and inspected 2026-09-03. Both source PDFs remain private under the ignored
+`paper/` directory and are not redistributed. Public custody consists only of URLs,
+bibliographic identity, byte sizes, SHA-256 hashes, and paraphrased observations in
+`results/ciccone-2021-2023-source-reconciliation.md`.
+
+| Version | Official source and retrieval route | Private filename | Bytes | SHA-256 | Redistribution status |
+|---|---|---|---:|---|---|
+| February 2021 working translation, version 1.0 | University of Mannheim: https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Ciccone/auerbach_1913_translation_1.0.pdf | `paper/Ciccone 2021 — Auerbach translation v1.0.pdf` | 3,146,817 | `1a9954bd8071c1519fa2c6e8a51facddd0862e0a8ad2cd088b04a110063057c6` | Private source copy; not added to Git or redistributed. The PDF's note licenses the reproduced figure images CC0 1.0, but this project does not rely on that note as a licence for the translation as a whole. |
+| 2023 published article | DOI: https://doi.org/10.1177/23998083221147139 (SAGE); published-version bytes retrieved from the University of Mannheim repository: https://madoc.bib.uni-mannheim.de/64096/1/23998083221147139.pdf | `paper/Auerbach and Ciccone 2023 — The Law of Population Concentration.pdf` | 1,648,753 | `4935515fc8a41d9c07c82200f204adf24279115ea0812cb8b89b0c2982ceeaad` | The article states CC BY 4.0, but this project's private-source policy still excludes the PDF bytes from Git and redistribution. |
+
+This addendum supersedes the filename implication of the previously held private file
+`paper/Auerbach 1913 — The Law of Population Concentration (Ciccone trans. 2023).pdf`.
+Content inspection identified those exact bytes as the February 2021 working translation,
+and the file was renamed accordingly. Addendum 1's substantive statement that the then-held
+PDF was the Mannheim February 2021 version remains correct; its statement that the 2023
+release was not on disk is now historical. The 2023 publication is now held privately and
+its added regression plot is formally labeled Appendix Figure A1 (the fourth figure), not
+Figure 4.
+
+The reconciliation record is
+`results/ciccone-2021-2023-source-reconciliation.md`. Its source enum is a Task 1
+proposal pending the fresh-context Task 2 audit; it is not independently confirmed here.
