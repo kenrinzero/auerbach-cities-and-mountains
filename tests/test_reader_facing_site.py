@@ -327,6 +327,33 @@ class ReaderFacingSiteTests(unittest.TestCase):
             self.assertIn(expected, followup)
         self.assertNotIn("protected-scope recipe remains", followup)
 
+        closure_heading = "## post-review/final-candidate closure — 2026-09-03"
+        self.assertEqual(1, receipt.count(closure_heading))
+        closure = receipt[receipt.index(closure_heading) :]
+        closure_flat = " ".join(closure.split())
+        for expected in (
+            "09c2e29aebc0163feadc161253c9e1166f19bbe1",
+            "final whole-branch review returned **APPROVED** with no new findings",
+            "109/109",
+            "38/38",
+            "201,693 bytes",
+            "3b848f1b5d03a45c73fc8c8c5394bac31b981cb429b2f25c9667b06b64f37d0b",
+            "6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7",
+            "16/16",
+            "22/22",
+            "4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110",
+            "base and historical-value reconciliation is already explained above",
+            "UTF-8/LF/no-BOM",
+            "inline JavaScript",
+            "git diff --check",
+            "browser and accessibility coverage",
+            "changes only receipt and test evidence",
+            "public candidate bytes remain those of `09c2e29`",
+            "no push, deployment, or merge occurred",
+            "publication still awaits the user's signal",
+        ):
+            self.assertIn(expected, closure_flat)
+
     def test_project_report_links_render_as_clickable_anchors(self):
         report_tab = element(self.page, "section", "tab-report")
         self.assertIn("Project links:", visible_text(report_tab))

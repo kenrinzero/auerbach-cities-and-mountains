@@ -490,3 +490,39 @@ and zero warnings, with no favicon request.
 
 **Reviewer-followup publication boundary:** no push, deployment, or merge occurred; publication
 awaits the user's separate signal.
+
+---
+
+## post-review/final-candidate closure — 2026-09-03
+
+**Candidate and correction disposition.** The final reviewed public candidate is commit
+`09c2e29aebc0163feadc161253c9e1166f19bbe1`. It closes the whole-branch review's documentation
+and provenance findings: the Report now records the implemented all-ties/non-identification guard
+and closed browser-QA status; current provenance reaches data-contract Addendum 4 and the completed
+Ciccone source reconciliation/audit while preserving the historical Task 1 pending statement;
+Report headings and local cross-references are sequential; verifier/no-refit wording is precise;
+and the protected-scope history distinguishes the unreproducible pre-commit record from the
+reproducible branch base and authorized final change. The final whole-branch review returned
+**APPROVED** with no new findings; all prior findings were resolved.
+
+**Final candidate verification.** The number verifier passes **109/109** claims with zero
+failures, and the full suite passes **38/38** tests. Deterministic generation leaves
+`results/explorer.html` and `docs/index.html` byte-identical at **201,693 bytes**, SHA-256
+`3b848f1b5d03a45c73fc8c8c5394bac31b981cb429b2f25c9667b06b64f37d0b`. The Stage 3
+receipt remains exactly
+`6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7`; derived custody is
+16/16 and the raw Stage 3 manifest is 22/22. The exact 59-file protected aggregate remains
+`4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`; its base and
+historical-value reconciliation is already explained above. Strict UTF-8/LF/no-BOM, inline
+JavaScript syntax, stale-current-state, receipt-scope, and `git diff --check` gates pass.
+
+The final suite and reviewer retain the browser and accessibility coverage established by the
+reader gate: all seven tabs and both Overview actions, ArrowRight/Home/End keyboard behavior,
+Report-anchor focus transfer and next-Tab order, desktop/mobile geometry, zero page-wide overflow,
+locally scrollable labelled table regions, 11/11 named and described SVGs, and a clean browser
+console without a favicon request.
+
+**Closure boundary.** This closure commit changes only receipt and test evidence. The public
+candidate bytes remain those of `09c2e29`, including both mirror files at the hash above. No
+source, analysis, protected artifact, Report, README, builder, or public HTML changes. For this
+closure, no push, deployment, or merge occurred; publication still awaits the user's signal.
