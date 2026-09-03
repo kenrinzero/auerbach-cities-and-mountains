@@ -38,7 +38,15 @@ The prose immediately above Table 1 prints “`548–53 = 4`” while the same s
 
 Integers above are exact-match benchmarks. Every decimal benchmark has acceptance tolerance equal to half one unit in its last printed decimal place: `α` ±0.000005; `β` ±0.0000005 after expanding `3.1170 × 10^-2`; residual mean and standard deviation ±0.05 m; the mantissa `1.613` ±0.0005 (equivalently ±0.5 after multiplication by `10^3`); spectral exponent ±0.0005; equation-(7) mantissa `1.6388` ±0.00005 (equivalently ±50 after multiplication by `10^6`) and exponent ±0.000005; mean errors `14.5%` and `13.3%` ±0.05 percentage point; power-comparator mantissa `4.513` ±0.0005 (equivalently ±0.000005 after multiplication by `10^-2`); Table 3 correlations ±0.005; Table 1 threshold decimals ±0.05 km; its one-decimal error entries ±0.05 in their printed units. The exact `β` expansion is `0.031170`, so its half-last-printed-digit tolerance is `0.0000005`.
 
-Table 2 (p. 24) extrapolates equation (6) below the observed source floor; it is not empirical membership evidence. It prints theoretical counts of 534, 709, 1,277, 2,591, 2,793, 3,782, and 3,826 at 3,500, 3,000, 2,000, 1,000, 914.4, 610, and 600 m, respectively. The 3,500 m entry repeats equation (6)'s 534; the lower-threshold entries cannot be checked against the preserved page, which states a 3,500 m floor.
+Table 2 (p. 24) extrapolates equations (6)–(7) below the observed source floor; it is not empirical membership evidence. Preserving the displayed precision, the complete printed table is:
+
+| `η`, m | 3,500 | 3,000 | 2,000 | 1,000 | 914.4 | 610 | 600 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| `N` | 534 | 709 | 1,277 | 2,591 | 2,793 | 3,782 | 3,826 |
+| `δN` | 47 | 63 | 123 | 342 | 387 | 667 | 682 |
+| `ε`, % | 8.85 | 8.86 | 9.67 | 13.2 | 13.9 | 17.6 | 177.8 |
+
+The 3,500 m count repeats equation (6)'s 534; the lower-threshold entries cannot be checked against the preserved page, which states a 3,500 m floor. Counts, whole-metre thresholds, and `δN` values are exact-match benchmarks. The `914.4 m` threshold has tolerance ±0.05 m; `8.85%`, `8.86%`, and `9.67%` have tolerance ±0.005 percentage point; and `13.2%`, `13.9%`, `17.6%`, and `177.8%` have tolerance ±0.05 percentage point. The source-visible `177.8` at 600 m is preserved rather than silently repaired, even though `682 / 3,826 × 100` is about `17.8%`.
 
 The paper supplies no mountain names, row appendix, supplementary dataset, content-dated Scaruffi URL, or reproducible rule that maps a later page to the 548 memberships. The bibliographic year “2008” is not an archive timestamp. Figures 1a, 1b, 2a, and 2b show aggregate curves or residuals and do not expose row identities.
 
