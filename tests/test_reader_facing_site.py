@@ -139,6 +139,12 @@ class ReaderFacingSiteTests(unittest.TestCase):
         ):
             self.assertNotIn(stale, visible_text(self.page))
 
+    def test_method_provenance_distinguishes_framework_from_implementation(self):
+        public_text = self.readme + visible_text(self.page)
+        self.assertIn("continuous-data cutoff selector was implemented separately", public_text)
+        self.assertIn("statistical framework", public_text)
+        self.assertNotIn("imported here by design", public_text.lower())
+
     def test_public_bibliography_uses_verified_citation_fields(self):
         for expected in (
             "**59**, 74–76, mit Tafel 14",

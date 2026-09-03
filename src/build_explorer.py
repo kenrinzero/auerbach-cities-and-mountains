@@ -1094,9 +1094,10 @@ def main():
         '<a href="https://doi.org/10.1137/070710111">Clauset, Shalizi &amp; Newman (2009)</a>; non-nested '
         "comparison by Vuong (1989); multiplicity by Holm (1979); rank correlation by Kendall (1938); the "
         'rank-shifted OLS comparator of <a href="https://doi.org/10.1198/jbes.2009.06157">Gabaix &amp; Ibragimov '
-        "(2011)</a>. The whole machinery was first built and audited in "
-        '<a href="https://github.com/kenrinzero/axtell-zipf-susb">kenrinzero/axtell-zipf-susb</a> and imported here '
-        "by design, so a defect in it would have surfaced twice rather than once.</div>",
+        "(2011)</a>. The statistical framework and audit lessons were reused from "
+        '<a href="https://github.com/kenrinzero/axtell-zipf-susb">kenrinzero/axtell-zipf-susb</a>. Auerbach\'s '
+        "continuous-data cutoff selector was implemented separately; Axtell uses a binned, per-candidate cutoff "
+        "routine and did not share the invalid-row padding defect.</div>",
         "</div>",
 
         '<div class="fblock"><h3 id="citations">Citations</h3>',

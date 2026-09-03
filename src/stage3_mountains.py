@@ -109,8 +109,18 @@ def select_hmin(h, min_abs=MIN_TAIL_ABS, min_frac=MIN_TAIL_FRAC):
     # from the per-candidate max — padding them with +inf made every interior candidate
     # score inf, so argmin always returned the support floor (D12 was an artifact).
     dist = np.where(ok, np.maximum(np.abs(emp_hi - model), np.abs(emp_lo - model)), -np.inf)
-    b = int(np.argmin(dist.max(axis=0)))
-    return float(xs[keep[b]]), float(alpha[b]), float(dist[:, b].max()), int(nj[b])
+    scores = dist.max(axis=0)
+    identifiable = (
+        np.isfinite(alpha)
+        & (alpha > 1.0)
+        & np.isfinite(scores)
+        & (scores >= 0.0)
+    )
+    if not np.any(identifiable):
+        raise ValueError("no identifiable power-law cutoff candidate")
+    candidates = np.flatnonzero(identifiable)
+    b = int(candidates[np.argmin(scores[identifiable])])
+    return float(xs[keep[b]]), float(alpha[b]), float(scores[b]), int(nj[b])
 
 
 def joint_bootstrap(h, B, seed=SEED):
