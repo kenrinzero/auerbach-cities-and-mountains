@@ -347,3 +347,23 @@ rows, and hard-codes the approved assignments, category counts, eleven row hashe
 membership hash, mapping hash, 6,901-byte trace length, and trace hash. This preserves
 the historical all-555 candidate, `not_identifiable` disposition, no-exclusion rule, and
 all scientific decisions.
+
+## Addendum 8 — Owner-approved conformance and trace-invariant correction — 2026-09-04
+
+Before any parser or fit, this final bounded correction makes the public synthetic
+oracles conform to the frozen source-ID grammar and makes private-trace relationships
+normative. Public synthetic identifiers are underscore-safe; the eleven synthetic row
+hashes, membership fingerprint, mapping fingerprint, and canonical trace SHA-256 were
+recomputed from those identifiers. The public test applies the declared schemas to every
+synthetic anomaly record and to the complete synthetic trace rather than merely reading
+schema metadata.
+
+The JSON authority now explicitly binds a future private trace's capture identities and
+row source IDs to the two frozen source contracts; its candidate to the all-555,
+no-exclusion rule; historical membership to ordinals 1 through 555; rows to unique,
+complete ordinal coverage; assignments to a category-dependent total partition with
+row-hash lookup equality; aggregates to membership and assignments; and fingerprints to
+the specified encodings. Valid public conformance and invalid candidate, source-link,
+assignment-nullability, aggregate, and fingerprint counterexamples are tested. No private
+trace, parser output, fit, receipt, source fact, candidate, disposition, seed, or
+Stage-3 artifact was created or changed.

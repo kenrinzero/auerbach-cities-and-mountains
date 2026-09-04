@@ -1,9 +1,11 @@
 import hashlib
 import json
 import math
+import re
 import subprocess
 import unittest
-from collections import defaultdict
+from collections import Counter, defaultdict
+from copy import deepcopy
 from decimal import Decimal
 from pathlib import Path
 
@@ -46,19 +48,19 @@ FAILURE_ANOMALY_ROWS = [
     (3, "P4", "4.400", "X", "Test", ["unexpected"]),
 ]
 HISTORICAL_ROWS = [
-    ("historical-test", 1, "a", "100", "X", "Test"),
-    ("historical-test", 2, "a", "100", "X", "Test"),
-    ("historical-test", 3, "a", "90", "X", "Test"),
-    ("historical-test", 4, "b", "80", "X", "Test"),
-    ("historical-test", 5, "c", "70", "X", "Test"),
+    ("historical_test", 1, "a", "100", "X", "Test"),
+    ("historical_test", 2, "a", "100", "X", "Test"),
+    ("historical_test", 3, "a", "90", "X", "Test"),
+    ("historical_test", 4, "b", "80", "X", "Test"),
+    ("historical_test", 5, "c", "70", "X", "Test"),
 ]
 CURRENT_ROWS = [
-    ("current-test", 10, "a", "100", "X", "Test"),
-    ("current-test", 11, "a", "95", "X", "Test"),
-    ("current-test", 12, "a", "90", "X", "Test"),
-    ("current-test", 13, "a", "90", "X", "Test"),
-    ("current-test", 14, "b", "81", "X", "Test"),
-    ("current-test", 15, "d", "60", "X", "Test"),
+    ("current_test", 10, "a", "100", "X", "Test"),
+    ("current_test", 11, "a", "95", "X", "Test"),
+    ("current_test", 12, "a", "90", "X", "Test"),
+    ("current_test", 13, "a", "90", "X", "Test"),
+    ("current_test", 14, "b", "81", "X", "Test"),
+    ("current_test", 15, "d", "60", "X", "Test"),
 ]
 EXPECTED_MAPPING_TRIPLES = [
     ("exact", 1, 10),
@@ -70,22 +72,212 @@ EXPECTED_MAPPING_TRIPLES = [
     ("current_only", None, 15),
 ]
 EXPECTED_ROW_SHA256 = [
-    "9d1fd43d39c7916594d43af436be01f8d270d078da82c0a9aabb9c4ec32417c0",
-    "74574aa4dfec326a304766b359eba315bc7f26d047153a5841e0189e5f23ec7e",
-    "c2702e1106281e3e3f29045e44b2e4aa0a024812b5fa29ee163c1b9f3f04b2f7",
-    "d1d6e511f692a71a309052f24eda2e265f0dc814379c65442b610f5d77b5ba37",
-    "180db86db81bc137573d67a884ae49b83b5c54dc32955599560ae8daa74dbb12",
-    "99f704eaae661eff4aacf0468c4e51612e659cb9484c098cafe142a9cbb2d2ef",
-    "220ed100b75f64894b24fb9ac5863415e7236af270d6fb631c27caaa6400e797",
-    "242f57372eba1f5047041df10042cd22011105d600eec126295aa103ea6e43c7",
-    "d2544081a79cdeda665e1af4568f2d693da6ec45b9b2751b45800fcd4b2b3f67",
-    "39f84f5ed0d3f1fa46a1e557c174e38410896ef9a95d1397f0e32c809f2b3bd5",
-    "532322fe381c9acaca5e2c83adced7e5e0e60e8a61e8c69245f45992662a8500",
+    "8e73e389619bc61f0d6100bcc4f642be2bcd533bddff922013e7fd0e729dfabb",
+    "47091bda835e12359ee15477016b36336d7beb574b58d5e904e20f64c3c8a011",
+    "470e7c4cd09f46e54a190f0641706e2e27e167134c4119a90ed2398aaf9b9c36",
+    "4e1c01365141caf029be2ad952ecbdf6ac126824b2a63a3fde8bd609dfb5ad83",
+    "ce23408e3911c5190b29cb8524fbc53018d3ec2af27b00f1b54ff17ae4153ad1",
+    "ab464940b44ba26e7aaa680ab64ad87354546743fda7fabff439e27fea1e3144",
+    "a3b4c134545d4663a4fea7ab8d8b0867e4fcb57d90351262d08dc6e1e22a445d",
+    "9889d687840ef6a2e25d93f90fc5fdbbd15d1246f64dd9cd5ebe367f380608a1",
+    "66aab6c5234b6bf9372e8446420fdc103c0ca8374b3ee5400ca7071b3281ef5e",
+    "468e97a408da2c61d9455d8f302967f04d596488b81407a69e1ebc00ad5834c7",
+    "b4ad9956368661c5fb2bff3dd4c613dc403237aa9e66b7a0c8730beb0740fe95",
 ]
-EXPECTED_MEMBERSHIP_SHA256 = "f7fee5af6130cc782f140d159b56364349d37be14ea502e9e8cd42e99b2a3ac6"
-EXPECTED_MAPPING_SHA256 = "f5f8bc4c04fd4883cb60b67d26eb5d3f9de360f61df83d943eeebc3d4c47348e"
+EXPECTED_MEMBERSHIP_SHA256 = "682b133b33142caf09ab878369f74465ac8efbe72f53f72e1f75b51be334e02c"
+EXPECTED_MAPPING_SHA256 = "4c51b925455f89e890fd28e74b8b47e01542fd3001f5b39104592b53902cf034"
 EXPECTED_TRACE_UTF8_BYTES = 6901
-EXPECTED_TRACE_SHA256 = "78d4f66a82da94ab51d699bcbfbf96302e4cca9b59f668649a2fc03903de7ee6"
+EXPECTED_TRACE_SHA256 = "51273337184af6ec95bbc36a6d7423fd06589411e6f250a89ad48cd18388409b"
+
+
+def validate_typed_value(value, schema, path="$"):
+    errors = []
+    if value is None:
+        return [] if schema["nullable"] else [f"{path}:null_not_allowed"]
+    schema_type = schema["type"]
+    type_ok = {
+        "object": isinstance(value, dict),
+        "array": isinstance(value, list),
+        "string": isinstance(value, str),
+        "integer": isinstance(value, int) and not isinstance(value, bool),
+    }[schema_type]
+    if not type_ok:
+        return [f"{path}:wrong_type"]
+    if "const" in schema and value != schema["const"]:
+        errors.append(f"{path}:wrong_const")
+    if "enum" in schema and value not in schema["enum"]:
+        errors.append(f"{path}:outside_enum")
+    if schema_type == "string":
+        if "minimum_length" in schema and len(value) < schema["minimum_length"]:
+            errors.append(f"{path}:too_short")
+        if "pattern" in schema and re.fullmatch(schema["pattern"], value) is None:
+            errors.append(f"{path}:pattern_mismatch")
+    if schema_type == "integer" and "minimum" in schema and value < schema["minimum"]:
+        errors.append(f"{path}:below_minimum")
+    if schema_type == "array":
+        if len(value) < schema.get("minimum_items", 0):
+            errors.append(f"{path}:too_few_items")
+        if schema.get("strictly_ascending") and (value != sorted(value) or len(value) != len(set(value))):
+            errors.append(f"{path}:not_strictly_ascending")
+        for index, item in enumerate(value):
+            errors.extend(validate_typed_value(item, schema["items"], f"{path}[{index}]"))
+    if schema_type == "object":
+        expected_keys = schema["key_order"]
+        if schema.get("additional_properties") is False and set(value) != set(expected_keys):
+            errors.append(f"{path}:wrong_keys")
+        if list(value) != expected_keys:
+            errors.append(f"{path}:wrong_key_order")
+        for key in expected_keys:
+            if key not in value:
+                errors.append(f"{path}.{key}:missing")
+            else:
+                errors.extend(validate_typed_value(value[key], schema["properties"][key], f"{path}.{key}"))
+    return errors
+
+
+def trace_schema(trace_contract):
+    typed = deepcopy(trace_contract["typed_trace_schema"])
+    nested = trace_contract["nested_schema"]
+    for field in ("source_identities", "candidate", "row_identities", "aggregate_counts", "fingerprints"):
+        typed["properties"][field] = nested[field]
+    for field in ("included_historical_source_ordinals", "mapping_assignments"):
+        typed["properties"][field] = nested[field]
+    return typed
+
+
+def validate_trace_invariants(trace_object, plan, synthetic):
+    errors = validate_typed_value(trace_object, trace_schema(plan["private_trace"]))
+    invariants = plan["private_trace"].get("cross_field_invariants")
+    if invariants is None:
+        return errors + ["$:missing_cross_field_invariants"]
+    required = {
+        "production": [
+            "historical_source_contract_key", "current_source_contract_key",
+            "historical_capture_identity_pointer", "historical_manifest_identity_pointer",
+            "current_capture_identity_pointer",
+            "historical_candidate_id_pointer", "historical_candidate_rule_id_pointer",
+            "historical_candidate_row_count_pointer", "historical_included_ordinals_rule",
+            "historical_excluded_ordinals_pointer", "row_coverage_rule",
+            "row_identity_encoding_rule",
+            "assignment_partition_rule", "aggregate_count_rule", "fingerprint_rule",
+        ],
+        "synthetic": [
+            "source_identity_rule", "candidate_rule", "included_ordinals_rule",
+            "row_coverage_rule", "row_identity_encoding_rule", "assignment_partition_rule", "aggregate_count_rule",
+            "fingerprint_rule",
+        ],
+    }
+    for scope, keys in required.items():
+        if set(invariants.get(scope, {})) != set(keys):
+            errors.append(f"$.cross_field_invariants.{scope}:incomplete")
+    contracts = plan["source_contracts"]
+    production = invariants["production"]
+    expected_production = {
+        "historical_source_contract_key": "arquivo_pt_20091008014619",
+        "current_source_contract_key": "scaruffi_20260903_current",
+        "historical_capture_identity_pointer": "source_contracts.arquivo_pt_20091008014619.content_identity",
+        "historical_manifest_identity_pointer": "source_contracts.arquivo_pt_20091008014619.manifest_content_identity",
+        "current_capture_identity_pointer": "source_contracts.scaruffi_20260903_current.content_identity",
+        "historical_candidate_id_pointer": "historical_reconstruction.candidate_id",
+        "historical_candidate_rule_id_pointer": "historical_reconstruction.candidate_rule_id",
+        "historical_candidate_row_count_pointer": "historical_reconstruction.candidate_rows",
+        "historical_included_ordinals_rule": "ascending inclusive range 1..historical_reconstruction.candidate_rows",
+        "historical_excluded_ordinals_pointer": "historical_reconstruction.excluded_ordinals",
+        "row_coverage_rule": "one row identity per source ordinal; historical source_id/capture identity binds arquivo_pt_20091008014619 and current binds scaruffi_20260903_current",
+        "row_identity_encoding_rule": "each row_sha256 equals the prescribed compact UTF-8 newline-terminated row identity encoding",
+        "assignment_partition_rule": "each row identity appears exactly once; category determines present historical/current sides and lookup hash equality",
+        "aggregate_count_rule": "candidate_rows equals included historical rows; category counts equal mapping assignments",
+        "fingerprint_rule": "membership and mapping fingerprints equal their prescribed compact UTF-8 newline-terminated encodings",
+    }
+    if production != expected_production:
+        errors.append("$.cross_field_invariants.production:wrong_binding")
+    historical_contract = contracts["arquivo_pt_20091008014619"]
+    current_contract = contracts["scaruffi_20260903_current"]
+    historical_reconstruction = plan["historical_reconstruction"]
+    if historical_reconstruction["candidate_rows"] != historical_contract["expected_row_count"] or historical_reconstruction["excluded_ordinals"] != []:
+        errors.append("$.cross_field_invariants.production:historical_membership_not_all_rows")
+    if not historical_contract["content_identity"].startswith("scaruffi-content-sha256-v1:arquivo_pt_20091008014619:") or not current_contract["content_identity"].startswith("scaruffi-content-sha256-v1:scaruffi_20260903_current:"):
+        errors.append("$.cross_field_invariants.production:source_contract_identity_mismatch")
+    if production.get("historical_source_contract_key") not in contracts or production.get("current_source_contract_key") not in contracts:
+        errors.append("$.cross_field_invariants.production:unknown_source_contract")
+    historical_rows = trace_object["row_identities"]["historical"]
+    current_rows = trace_object["row_identities"]["current"]
+    historical_id = historical_rows[0]["source_id"] if historical_rows else None
+    current_id = current_rows[0]["source_id"] if current_rows else None
+    identities = trace_object["source_identities"]
+    for identity_key, source_id in (("historical_capture", historical_id), ("current_capture", current_id)):
+        identity = identities[identity_key]
+        if identity.split(":")[1] != source_id:
+            errors.append(f"$.source_identities.{identity_key}:row_source_id_mismatch")
+    if any(row["source_id"] != historical_id for row in historical_rows):
+        errors.append("$.row_identities.historical:source_id_mismatch")
+    if any(row["source_id"] != current_id for row in current_rows):
+        errors.append("$.row_identities.current:source_id_mismatch")
+    for side, rows in (("historical", historical_rows), ("current", current_rows)):
+        for row in rows:
+            identity = [
+                trace_object["row_identity_schema_id"], row["source_id"], row["source_ordinal"],
+                row["normalized_casefold_name"], row["canonical_metres"],
+                row["normalized_country"], row["normalized_continent"],
+            ]
+            expected_row_sha256 = hashlib.sha256((json.dumps(identity, ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")).hexdigest()
+            if row["row_sha256"] != expected_row_sha256:
+                errors.append(f"$.row_identities.{side}:row_identity_encoding_mismatch")
+    candidate = trace_object["candidate"]
+    historical_ordinals = [row["source_ordinal"] for row in historical_rows]
+    current_ordinals = [row["source_ordinal"] for row in current_rows]
+    if candidate["row_count"] != len(historical_rows):
+        errors.append("$.candidate.row_count:historical_row_count_mismatch")
+    if trace_object["included_historical_source_ordinals"] != historical_ordinals:
+        errors.append("$.included_historical_source_ordinals:historical_coverage_mismatch")
+    if candidate["excluded_source_ordinals"]:
+        errors.append("$.candidate.excluded_source_ordinals:must_be_empty")
+    if len(set(historical_ordinals)) != len(historical_ordinals) or len(set(current_ordinals)) != len(current_ordinals):
+        errors.append("$.row_identities:duplicate_ordinal")
+    assignments = trace_object["mapping_assignments"]
+    historical_by_ordinal = {row["source_ordinal"]: row for row in historical_rows}
+    current_by_ordinal = {row["source_ordinal"]: row for row in current_rows}
+    observed_historical, observed_current = [], []
+    for assignment in assignments:
+        category = assignment["category"]
+        historical_present = assignment["historical_ordinal"] is not None
+        current_present = assignment["current_ordinal"] is not None
+        required_sides = {
+            "exact": (True, True), "same_name_different_height": (True, True),
+            "historical_only": (True, False), "current_only": (False, True),
+        }[category]
+        if (historical_present, current_present) != required_sides:
+            errors.append(f"$.mapping_assignments.{category}:category_nullability_mismatch")
+            continue
+        if historical_present:
+            observed_historical.append(assignment["historical_ordinal"])
+            row = historical_by_ordinal.get(assignment["historical_ordinal"])
+            if row is None or assignment["historical_row_sha256"] != row["row_sha256"]:
+                errors.append("$.mapping_assignments:historical_lookup_mismatch")
+        elif assignment["historical_row_sha256"] is not None:
+            errors.append("$.mapping_assignments:historical_hash_must_be_null")
+        if current_present:
+            observed_current.append(assignment["current_ordinal"])
+            row = current_by_ordinal.get(assignment["current_ordinal"])
+            if row is None or assignment["current_row_sha256"] != row["row_sha256"]:
+                errors.append("$.mapping_assignments:current_lookup_mismatch")
+        elif assignment["current_row_sha256"] is not None:
+            errors.append("$.mapping_assignments:current_hash_must_be_null")
+    if sorted(observed_historical) != historical_ordinals or sorted(observed_current) != current_ordinals:
+        errors.append("$.mapping_assignments:row_partition_mismatch")
+    expected_counts = {"candidate_rows": len(historical_rows)}
+    expected_counts.update(Counter(assignment["category"] for assignment in assignments))
+    if trace_object["aggregate_counts"] != expected_counts:
+        errors.append("$.aggregate_counts:assignment_or_membership_mismatch")
+    expected_membership = hashlib.sha256((json.dumps([trace_object["membership_fingerprint_schema_id"], [row["row_sha256"] for row in historical_rows]], ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")).hexdigest()
+    expected_mapping = hashlib.sha256((json.dumps([trace_object["mapping_fingerprint_schema_id"], assignments], ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")).hexdigest()
+    if trace_object["fingerprints"] != {"membership_sha256": expected_membership, "mapping_sha256": expected_mapping}:
+        errors.append("$.fingerprints:encoding_mismatch")
+    if synthetic:
+        synthetic_rules = invariants["synthetic"]
+        if candidate["id"] != synthetic_rules["candidate_rule"]["id"] or candidate["rule_id"] != synthetic_rules["candidate_rule"]["rule_id"]:
+            errors.append("$.candidate:synthetic_rule_mismatch")
+    return errors
 
 
 def canonical_metres(raw):
@@ -332,27 +524,27 @@ class ScaruffiPlanTests(unittest.TestCase):
             ["source_id", "source_ordinal", "column_index", "cell_text"],
         )
         vectors = parser["anomaly_conformance_vectors"]
-        self.assertEqual([vector["id"] for vector in vectors], ["synthetic-anomaly-valid-v1", "synthetic-anomaly-failure-v1"])
+        self.assertEqual([vector["id"] for vector in vectors], ["synthetic_anomaly_valid_v1", "synthetic_anomaly_failure_v1"])
         expected_fields = parser["anomaly_field_order"]
         for vector in vectors:
             self.assertEqual(list(vector["expected_anomalies"]), expected_fields)
-        valid = derive_anomalies("synthetic-anomaly-v1", VALID_ANOMALY_ROWS)
-        failure = derive_anomalies("synthetic-anomaly-failure-v1", FAILURE_ANOMALY_ROWS)
+        valid = derive_anomalies("synthetic_anomaly_v1", VALID_ANOMALY_ROWS)
+        failure = derive_anomalies("synthetic_anomaly_failure_v1", FAILURE_ANOMALY_ROWS)
         self.assertEqual(
             valid["kilometre_conversions"],
             [
-                {"source_id": "synthetic-anomaly-v1", "source_ordinal": 1, "height_raw": "4.000", "canonical_metres": "4000"},
-                {"source_id": "synthetic-anomaly-v1", "source_ordinal": 3, "height_raw": "4.100", "canonical_metres": "4100"},
-                {"source_id": "synthetic-anomaly-v1", "source_ordinal": 4, "height_raw": "4.100", "canonical_metres": "4100"},
+                {"source_id": "synthetic_anomaly_v1", "source_ordinal": 1, "height_raw": "4.000", "canonical_metres": "4000"},
+                {"source_id": "synthetic_anomaly_v1", "source_ordinal": 3, "height_raw": "4.100", "canonical_metres": "4100"},
+                {"source_id": "synthetic_anomaly_v1", "source_ordinal": 4, "height_raw": "4.100", "canonical_metres": "4100"},
             ],
         )
-        self.assertEqual(valid["metre_conversions"], [{"source_id": "synthetic-anomaly-v1", "source_ordinal": 2, "height_raw": "4000", "canonical_metres": "4000"}])
-        self.assertEqual(valid["exact_name_height_groups"][0], {"source_id": "synthetic-anomaly-v1", "name_casefold": "p1", "canonical_metres": "4000", "source_ordinals": [1, 2]})
-        self.assertEqual(valid["height_tie_groups"], [{"source_id": "synthetic-anomaly-v1", "canonical_metres": "4000", "source_ordinals": [1, 2]}, {"source_id": "synthetic-anomaly-v1", "canonical_metres": "4100", "source_ordinals": [3, 4]}])
-        self.assertEqual(valid["source_order_inversions"], [{"source_id": "synthetic-anomaly-v1", "previous_source_ordinal": 2, "next_source_ordinal": 3, "previous_canonical_metres": "4000", "next_canonical_metres": "4100"}])
-        self.assertEqual(valid["blank_extra_cells"], [{"source_id": "synthetic-anomaly-v1", "source_ordinal": 1, "column_index": 5, "cell_text": ""}, {"source_id": "synthetic-anomaly-v1", "source_ordinal": 1, "column_index": 6, "cell_text": " "}])
-        self.assertEqual(failure["missing_fields"], [{"source_id": "synthetic-anomaly-failure-v1", "source_ordinal": 2, "field": "mountain"}])
-        self.assertEqual(failure["nonblank_extra_cells"], [{"source_id": "synthetic-anomaly-failure-v1", "source_ordinal": 3, "column_index": 5, "cell_text": "unexpected"}])
+        self.assertEqual(valid["metre_conversions"], [{"source_id": "synthetic_anomaly_v1", "source_ordinal": 2, "height_raw": "4000", "canonical_metres": "4000"}])
+        self.assertEqual(valid["exact_name_height_groups"][0], {"source_id": "synthetic_anomaly_v1", "name_casefold": "p1", "canonical_metres": "4000", "source_ordinals": [1, 2]})
+        self.assertEqual(valid["height_tie_groups"], [{"source_id": "synthetic_anomaly_v1", "canonical_metres": "4000", "source_ordinals": [1, 2]}, {"source_id": "synthetic_anomaly_v1", "canonical_metres": "4100", "source_ordinals": [3, 4]}])
+        self.assertEqual(valid["source_order_inversions"], [{"source_id": "synthetic_anomaly_v1", "previous_source_ordinal": 2, "next_source_ordinal": 3, "previous_canonical_metres": "4000", "next_canonical_metres": "4100"}])
+        self.assertEqual(valid["blank_extra_cells"], [{"source_id": "synthetic_anomaly_v1", "source_ordinal": 1, "column_index": 5, "cell_text": ""}, {"source_id": "synthetic_anomaly_v1", "source_ordinal": 1, "column_index": 6, "cell_text": " "}])
+        self.assertEqual(failure["missing_fields"], [{"source_id": "synthetic_anomaly_failure_v1", "source_ordinal": 2, "field": "mountain"}])
+        self.assertEqual(failure["nonblank_extra_cells"], [{"source_id": "synthetic_anomaly_failure_v1", "source_ordinal": 3, "column_index": 5, "cell_text": "unexpected"}])
         self.assertEqual(vectors[0]["expected_anomalies"], valid)
         self.assertEqual(vectors[1]["expected_anomalies"], failure)
         self.assertEqual(vectors[1]["hard_fail_reasons"], ["missing_required_field", "nonblank_extra_cell"])
@@ -407,6 +599,85 @@ class ScaruffiPlanTests(unittest.TestCase):
         self.assertEqual(member["key_order"], ["source_ordinal", "canonical_metres"])
         self.assertEqual(member["properties"]["source_ordinal"], {"type": "integer", "nullable": False, "minimum": 1, "semantics": "one-based target-table data-row ordinal"})
         self.assertEqual(member["properties"]["canonical_metres"], {"type": "string", "nullable": False, "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$", "semantics": "canonical Decimal metres text"})
+
+    def test_public_synthetic_vectors_conform_and_bind_complete_trace_oracles(self):
+        parser = self.plan["parser"]
+        for vector in parser["anomaly_conformance_vectors"]:
+            for field, records in vector["expected_anomalies"].items():
+                for index, record in enumerate(records):
+                    self.assertEqual(
+                        validate_typed_value(record, parser["anomaly_value_schema"]["fields"][field]["typed_record_schema"]),
+                        [],
+                        f"{vector['id']}:{field}[{index}]",
+                    )
+        trace = self.plan["private_trace"]
+        vector = trace["synthetic_conformance_vector"]
+        self.assertEqual(vector["source_ids"], {"historical": "historical_test", "current": "current_test"})
+        self.assertEqual(vector["source_identities"], {
+            "historical_capture": "scaruffi-content-sha256-v1:historical_test:1:" + "1" * 64,
+            "historical_manifest": "scaruffi-manifest-sha256-v1:1:" + "3" * 64,
+            "current_capture": "scaruffi-content-sha256-v1:current_test:1:" + "2" * 64,
+        })
+        self.assertEqual(vector["candidate"], {"id": "synthetic_as_archived", "row_count": 5, "rule_id": "as_archived", "excluded_source_ordinals": []})
+        self.assertEqual(vector["rows"], {
+            "historical": [{"source_id": source_id, "source_ordinal": ordinal, "normalized_casefold_name": name, "canonical_metres": metres, "normalized_country": country, "normalized_continent": continent} for source_id, ordinal, name, metres, country, continent in HISTORICAL_ROWS],
+            "current": [{"source_id": source_id, "source_ordinal": ordinal, "normalized_casefold_name": name, "canonical_metres": metres, "normalized_country": country, "normalized_continent": continent} for source_id, ordinal, name, metres, country, continent in CURRENT_ROWS],
+        })
+        self.assertEqual(vector["mapping_triples"], [list(item) for item in EXPECTED_MAPPING_TRIPLES])
+        approved_counts = {"candidate_rows": 5, "exact": 2, "same_name_different_height": 2, "historical_only": 1, "current_only": 2}
+        derived_counts = {"candidate_rows": len(HISTORICAL_ROWS)}
+        derived_counts.update(Counter(category for category, _historical, _current in EXPECTED_MAPPING_TRIPLES))
+        self.assertEqual(derived_counts, approved_counts)
+        self.assertEqual(vector["aggregate_counts"], approved_counts)
+        row_objects = {"historical": [], "current": []}
+        for side in ("historical", "current"):
+            for source_row in vector["rows"][side]:
+                source_id = source_row["source_id"]
+                ordinal = source_row["source_ordinal"]
+                name = source_row["normalized_casefold_name"]
+                metres = source_row["canonical_metres"]
+                country = source_row["normalized_country"]
+                continent = source_row["normalized_continent"]
+                digest = hashlib.sha256((json.dumps(["scaruffi-private-row-v1", source_id, ordinal, name, metres, country, continent], ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")).hexdigest()
+                row_objects[side].append({"source_id": source_id, "source_ordinal": ordinal, "normalized_casefold_name": name, "canonical_metres": metres, "normalized_country": country, "normalized_continent": continent, "row_sha256": digest})
+        self.assertEqual([row["row_sha256"] for side in ("historical", "current") for row in row_objects[side]], EXPECTED_ROW_SHA256)
+        row_hashes = {(row["source_id"], row["source_ordinal"]): row["row_sha256"] for side in ("historical", "current") for row in row_objects[side]}
+        assignments = [{"category": category, "historical_ordinal": historical, "current_ordinal": current, "historical_row_sha256": None if historical is None else row_hashes[("historical_test", historical)], "current_row_sha256": None if current is None else row_hashes[("current_test", current)]} for category, historical, current in EXPECTED_MAPPING_TRIPLES]
+        trace_object = {
+            "schema_id": "scaruffi-private-trace-v1", "schema_version": 1,
+            "row_identity_schema_id": "scaruffi-private-row-v1", "membership_fingerprint_schema_id": "scaruffi-membership-fingerprint-v1", "mapping_fingerprint_schema_id": "scaruffi-mapping-fingerprint-v1",
+            "source_identities": vector["source_identities"], "candidate": vector["candidate"],
+            "included_historical_source_ordinals": [1, 2, 3, 4, 5], "row_identities": row_objects,
+            "mapping_assignments": assignments, "aggregate_counts": derived_counts,
+            "fingerprints": {"membership_sha256": EXPECTED_MEMBERSHIP_SHA256, "mapping_sha256": EXPECTED_MAPPING_SHA256},
+        }
+        self.assertEqual(validate_trace_invariants(trace_object, self.plan, synthetic=True), [])
+        self.assertEqual(vector["expected_row_sha256"], EXPECTED_ROW_SHA256)
+        self.assertEqual(vector["expected_membership_sha256"], EXPECTED_MEMBERSHIP_SHA256)
+        self.assertEqual(vector["expected_mapping_sha256"], EXPECTED_MAPPING_SHA256)
+        raw = (json.dumps(trace_object, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+        self.assertEqual((len(raw), hashlib.sha256(raw).hexdigest()), (EXPECTED_TRACE_UTF8_BYTES, EXPECTED_TRACE_SHA256))
+        self.assertEqual((vector["expected_trace_utf8_bytes"], vector["expected_trace_sha256"]), (EXPECTED_TRACE_UTF8_BYTES, EXPECTED_TRACE_SHA256))
+
+        invalid_candidate = deepcopy(trace_object)
+        invalid_candidate["candidate"]["row_count"] = 4
+        self.assertIn("$.candidate.row_count:historical_row_count_mismatch", validate_trace_invariants(invalid_candidate, self.plan, synthetic=True))
+        invalid_assignment = deepcopy(trace_object)
+        invalid_assignment["mapping_assignments"][4]["current_ordinal"] = 13
+        invalid_assignment["mapping_assignments"][4]["current_row_sha256"] = row_hashes[("current_test", 13)]
+        self.assertIn("$.mapping_assignments.historical_only:category_nullability_mismatch", validate_trace_invariants(invalid_assignment, self.plan, synthetic=True))
+        invalid_source = deepcopy(trace_object)
+        invalid_source["row_identities"]["historical"][0]["source_id"] = "other_test"
+        self.assertIn("$.source_identities.historical_capture:row_source_id_mismatch", validate_trace_invariants(invalid_source, self.plan, synthetic=True))
+        invalid_row_hash = deepcopy(trace_object)
+        invalid_row_hash["row_identities"]["historical"][0]["row_sha256"] = "0" * 64
+        self.assertIn("$.row_identities.historical:row_identity_encoding_mismatch", validate_trace_invariants(invalid_row_hash, self.plan, synthetic=True))
+        invalid_counts = deepcopy(trace_object)
+        invalid_counts["aggregate_counts"]["exact"] = 3
+        self.assertIn("$.aggregate_counts:assignment_or_membership_mismatch", validate_trace_invariants(invalid_counts, self.plan, synthetic=True))
+        invalid_fingerprints = deepcopy(trace_object)
+        invalid_fingerprints["fingerprints"]["membership_sha256"] = "0" * 64
+        self.assertIn("$.fingerprints:encoding_mismatch", validate_trace_invariants(invalid_fingerprints, self.plan, synthetic=True))
 
     def test_private_trace_complete_schema_and_synthetic_fingerprint_oracle(self):
         trace = self.plan["private_trace"]
@@ -486,8 +757,8 @@ class ScaruffiPlanTests(unittest.TestCase):
                     "category": category,
                     "historical_ordinal": historical_ordinal,
                     "current_ordinal": current_ordinal,
-                    "historical_row_sha256": None if historical_ordinal is None else hash_by_ordinal[("historical-test", historical_ordinal)],
-                    "current_row_sha256": None if current_ordinal is None else hash_by_ordinal[("current-test", current_ordinal)],
+                    "historical_row_sha256": None if historical_ordinal is None else hash_by_ordinal[("historical_test", historical_ordinal)],
+                    "current_row_sha256": None if current_ordinal is None else hash_by_ordinal[("current_test", current_ordinal)],
                 }
             )
         membership_sha256 = hashlib.sha256(
@@ -507,11 +778,11 @@ class ScaruffiPlanTests(unittest.TestCase):
             "membership_fingerprint_schema_id": "scaruffi-membership-fingerprint-v1",
             "mapping_fingerprint_schema_id": "scaruffi-mapping-fingerprint-v1",
             "source_identities": {
-                "historical_capture": "scaruffi-content-sha256-v1:historical-test:1:1111111111111111111111111111111111111111111111111111111111111111",
+                "historical_capture": "scaruffi-content-sha256-v1:historical_test:1:1111111111111111111111111111111111111111111111111111111111111111",
                 "historical_manifest": "scaruffi-manifest-sha256-v1:1:3333333333333333333333333333333333333333333333333333333333333333",
-                "current_capture": "scaruffi-content-sha256-v1:current-test:1:2222222222222222222222222222222222222222222222222222222222222222",
+                "current_capture": "scaruffi-content-sha256-v1:current_test:1:2222222222222222222222222222222222222222222222222222222222222222",
             },
-            "candidate": {"id": "synthetic-as-archived", "row_count": 5, "rule_id": "as_archived", "excluded_source_ordinals": []},
+            "candidate": {"id": "synthetic_as_archived", "row_count": 5, "rule_id": "as_archived", "excluded_source_ordinals": []},
             "included_historical_source_ordinals": [1, 2, 3, 4, 5],
             "row_identities": row_objects,
             "mapping_assignments": assignments,

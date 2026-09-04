@@ -4,7 +4,7 @@
   "protected_scope": {
     "published_59_sha256": "4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110",
     "immutable_57_sha256": "60ac68e50e32d51c85d8536fafe073cf8005a64b7585e7ce76902a61c568c62f",
-    "governance_59_sha256": "8292451daf3ec1e0f2d1f1d3347bdc2a81d707efe8ca2ae0cd00463cd281d485",
+    "governance_59_sha256": "5399ae7858d94f45d34215dd233564b82d6bfc4764da6f261c67c77106f3f768",
     "governance_digest_recipe": "sha256 of UTF-8 manifest lines '<file_sha256>  <path>\\n', with git ls-files data/raw data/derived plus PREREGISTRATION.md, CLAIM_INVENTORY.md, and the eight fixed Stage-0 through Stage-3 receipt files, sorted by UTF-8 path bytes; this JSON is outside the scope and therefore does not recurse"
   },
   "source_contracts": {
@@ -629,8 +629,8 @@
     },
     "anomaly_conformance_vectors": [
       {
-        "id": "synthetic-anomaly-valid-v1",
-        "source_id": "synthetic-anomaly-v1",
+        "id": "synthetic_anomaly_valid_v1",
+        "source_id": "synthetic_anomaly_v1",
         "input_rows": [
           {
             "source_ordinal": 1,
@@ -671,19 +671,19 @@
         "expected_anomalies": {
           "kilometre_conversions": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "source_ordinal": 1,
               "height_raw": "4.000",
               "canonical_metres": "4000"
             },
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "source_ordinal": 3,
               "height_raw": "4.100",
               "canonical_metres": "4100"
             },
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "source_ordinal": 4,
               "height_raw": "4.100",
               "canonical_metres": "4100"
@@ -691,7 +691,7 @@
           ],
           "metre_conversions": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "source_ordinal": 2,
               "height_raw": "4000",
               "canonical_metres": "4000"
@@ -699,7 +699,7 @@
           ],
           "repeated_casefold_name_groups": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "name_casefold": "p1",
               "members": [
                 {
@@ -719,7 +719,7 @@
           ],
           "same_name_different_height_groups": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "name_casefold": "p1",
               "members": [
                 {
@@ -739,7 +739,7 @@
           ],
           "exact_name_height_groups": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "name_casefold": "p1",
               "canonical_metres": "4000",
               "source_ordinals": [
@@ -750,7 +750,7 @@
           ],
           "height_tie_groups": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "canonical_metres": "4000",
               "source_ordinals": [
                 1,
@@ -758,7 +758,7 @@
               ]
             },
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "canonical_metres": "4100",
               "source_ordinals": [
                 3,
@@ -768,7 +768,7 @@
           ],
           "source_order_inversions": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "previous_source_ordinal": 2,
               "next_source_ordinal": 3,
               "previous_canonical_metres": "4000",
@@ -778,13 +778,13 @@
           "missing_fields": [],
           "blank_extra_cells": [
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "source_ordinal": 1,
               "column_index": 5,
               "cell_text": ""
             },
             {
-              "source_id": "synthetic-anomaly-v1",
+              "source_id": "synthetic_anomaly_v1",
               "source_ordinal": 1,
               "column_index": 6,
               "cell_text": " "
@@ -795,8 +795,8 @@
         "hard_fail_reasons": []
       },
       {
-        "id": "synthetic-anomaly-failure-v1",
-        "source_id": "synthetic-anomaly-failure-v1",
+        "id": "synthetic_anomaly_failure_v1",
+        "source_id": "synthetic_anomaly_failure_v1",
         "input_rows": [
           {
             "source_ordinal": 1,
@@ -828,19 +828,19 @@
         "expected_anomalies": {
           "kilometre_conversions": [
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "source_ordinal": 1,
               "height_raw": "4.200",
               "canonical_metres": "4200"
             },
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "source_ordinal": 2,
               "height_raw": "4.300",
               "canonical_metres": "4300"
             },
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "source_ordinal": 3,
               "height_raw": "4.400",
               "canonical_metres": "4400"
@@ -853,14 +853,14 @@
           "height_tie_groups": [],
           "source_order_inversions": [
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "previous_source_ordinal": 1,
               "next_source_ordinal": 2,
               "previous_canonical_metres": "4200",
               "next_canonical_metres": "4300"
             },
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "previous_source_ordinal": 2,
               "next_source_ordinal": 3,
               "previous_canonical_metres": "4300",
@@ -869,7 +869,7 @@
           ],
           "missing_fields": [
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "source_ordinal": 2,
               "field": "mountain"
             }
@@ -877,7 +877,7 @@
           "blank_extra_cells": [],
           "nonblank_extra_cells": [
             {
-              "source_id": "synthetic-anomaly-failure-v1",
+              "source_id": "synthetic_anomaly_failure_v1",
               "source_ordinal": 3,
               "column_index": 5,
               "cell_text": "unexpected"
@@ -1751,20 +1751,57 @@
         }
       }
     },
+    "cross_field_invariants": {
+      "production": {
+        "historical_source_contract_key": "arquivo_pt_20091008014619",
+        "current_source_contract_key": "scaruffi_20260903_current",
+        "historical_capture_identity_pointer": "source_contracts.arquivo_pt_20091008014619.content_identity",
+        "historical_manifest_identity_pointer": "source_contracts.arquivo_pt_20091008014619.manifest_content_identity",
+        "current_capture_identity_pointer": "source_contracts.scaruffi_20260903_current.content_identity",
+        "historical_candidate_id_pointer": "historical_reconstruction.candidate_id",
+        "historical_candidate_rule_id_pointer": "historical_reconstruction.candidate_rule_id",
+        "historical_candidate_row_count_pointer": "historical_reconstruction.candidate_rows",
+        "historical_included_ordinals_rule": "ascending inclusive range 1..historical_reconstruction.candidate_rows",
+        "historical_excluded_ordinals_pointer": "historical_reconstruction.excluded_ordinals",
+        "row_coverage_rule": "one row identity per source ordinal; historical source_id/capture identity binds arquivo_pt_20091008014619 and current binds scaruffi_20260903_current",
+        "row_identity_encoding_rule": "each row_sha256 equals the prescribed compact UTF-8 newline-terminated row identity encoding",
+        "assignment_partition_rule": "each row identity appears exactly once; category determines present historical/current sides and lookup hash equality",
+        "aggregate_count_rule": "candidate_rows equals included historical rows; category counts equal mapping assignments",
+        "fingerprint_rule": "membership and mapping fingerprints equal their prescribed compact UTF-8 newline-terminated encodings"
+      },
+      "synthetic": {
+        "source_identity_rule": {
+          "historical_capture_source_id": "equals source_ids.historical and every rows.historical[].source_id",
+          "current_capture_source_id": "equals source_ids.current and every rows.current[].source_id"
+        },
+        "candidate_rule": {
+          "id": "synthetic_as_archived",
+          "rule_id": "as_archived",
+          "row_count": "equals rows.historical length",
+          "excluded_source_ordinals": "empty array"
+        },
+        "included_ordinals_rule": "equals rows.historical source_ordinal values in ascending order",
+        "row_coverage_rule": "historical and current source ordinals are unique; each row list is source_ordinal ascending",
+        "row_identity_encoding_rule": "each row_sha256 equals the prescribed compact UTF-8 newline-terminated row identity encoding",
+        "assignment_partition_rule": "each row identity appears exactly once; category determines present historical/current sides and lookup hash equality",
+        "aggregate_count_rule": "candidate_rows equals rows.historical length; category counts equal mapping_triples",
+        "fingerprint_rule": "membership and mapping fingerprints equal their prescribed compact UTF-8 newline-terminated encodings"
+      }
+    },
     "trace_serialization": "json.dumps(trace, ensure_ascii=False, indent=2) + '\\n', UTF-8 LF-only, sort_keys=false",
     "synthetic_conformance_vector": {
-      "id": "synthetic-private-trace-v1",
+      "id": "synthetic_private_trace_v1",
       "source_ids": {
-        "historical": "historical-test",
-        "current": "current-test"
+        "historical": "historical_test",
+        "current": "current_test"
       },
       "source_identities": {
-        "historical_capture": "scaruffi-content-sha256-v1:historical-test:1:1111111111111111111111111111111111111111111111111111111111111111",
+        "historical_capture": "scaruffi-content-sha256-v1:historical_test:1:1111111111111111111111111111111111111111111111111111111111111111",
         "historical_manifest": "scaruffi-manifest-sha256-v1:1:3333333333333333333333333333333333333333333333333333333333333333",
-        "current_capture": "scaruffi-content-sha256-v1:current-test:1:2222222222222222222222222222222222222222222222222222222222222222"
+        "current_capture": "scaruffi-content-sha256-v1:current_test:1:2222222222222222222222222222222222222222222222222222222222222222"
       },
       "candidate": {
-        "id": "synthetic-as-archived",
+        "id": "synthetic_as_archived",
         "row_count": 5,
         "rule_id": "as_archived",
         "excluded_source_ordinals": []
@@ -1772,7 +1809,7 @@
       "rows": {
         "historical": [
           {
-            "source_id": "historical-test",
+            "source_id": "historical_test",
             "source_ordinal": 1,
             "normalized_casefold_name": "a",
             "canonical_metres": "100",
@@ -1780,7 +1817,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "historical-test",
+            "source_id": "historical_test",
             "source_ordinal": 2,
             "normalized_casefold_name": "a",
             "canonical_metres": "100",
@@ -1788,7 +1825,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "historical-test",
+            "source_id": "historical_test",
             "source_ordinal": 3,
             "normalized_casefold_name": "a",
             "canonical_metres": "90",
@@ -1796,7 +1833,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "historical-test",
+            "source_id": "historical_test",
             "source_ordinal": 4,
             "normalized_casefold_name": "b",
             "canonical_metres": "80",
@@ -1804,7 +1841,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "historical-test",
+            "source_id": "historical_test",
             "source_ordinal": 5,
             "normalized_casefold_name": "c",
             "canonical_metres": "70",
@@ -1814,7 +1851,7 @@
         ],
         "current": [
           {
-            "source_id": "current-test",
+            "source_id": "current_test",
             "source_ordinal": 10,
             "normalized_casefold_name": "a",
             "canonical_metres": "100",
@@ -1822,7 +1859,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "current-test",
+            "source_id": "current_test",
             "source_ordinal": 11,
             "normalized_casefold_name": "a",
             "canonical_metres": "95",
@@ -1830,7 +1867,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "current-test",
+            "source_id": "current_test",
             "source_ordinal": 12,
             "normalized_casefold_name": "a",
             "canonical_metres": "90",
@@ -1838,7 +1875,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "current-test",
+            "source_id": "current_test",
             "source_ordinal": 13,
             "normalized_casefold_name": "a",
             "canonical_metres": "90",
@@ -1846,7 +1883,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "current-test",
+            "source_id": "current_test",
             "source_ordinal": 14,
             "normalized_casefold_name": "b",
             "canonical_metres": "81",
@@ -1854,7 +1891,7 @@
             "normalized_continent": "Test"
           },
           {
-            "source_id": "current-test",
+            "source_id": "current_test",
             "source_ordinal": 15,
             "normalized_casefold_name": "d",
             "canonical_metres": "60",
@@ -1908,22 +1945,22 @@
         "current_only": 2
       },
       "expected_row_sha256": [
-        "9d1fd43d39c7916594d43af436be01f8d270d078da82c0a9aabb9c4ec32417c0",
-        "74574aa4dfec326a304766b359eba315bc7f26d047153a5841e0189e5f23ec7e",
-        "c2702e1106281e3e3f29045e44b2e4aa0a024812b5fa29ee163c1b9f3f04b2f7",
-        "d1d6e511f692a71a309052f24eda2e265f0dc814379c65442b610f5d77b5ba37",
-        "180db86db81bc137573d67a884ae49b83b5c54dc32955599560ae8daa74dbb12",
-        "99f704eaae661eff4aacf0468c4e51612e659cb9484c098cafe142a9cbb2d2ef",
-        "220ed100b75f64894b24fb9ac5863415e7236af270d6fb631c27caaa6400e797",
-        "242f57372eba1f5047041df10042cd22011105d600eec126295aa103ea6e43c7",
-        "d2544081a79cdeda665e1af4568f2d693da6ec45b9b2751b45800fcd4b2b3f67",
-        "39f84f5ed0d3f1fa46a1e557c174e38410896ef9a95d1397f0e32c809f2b3bd5",
-        "532322fe381c9acaca5e2c83adced7e5e0e60e8a61e8c69245f45992662a8500"
+        "8e73e389619bc61f0d6100bcc4f642be2bcd533bddff922013e7fd0e729dfabb",
+        "47091bda835e12359ee15477016b36336d7beb574b58d5e904e20f64c3c8a011",
+        "470e7c4cd09f46e54a190f0641706e2e27e167134c4119a90ed2398aaf9b9c36",
+        "4e1c01365141caf029be2ad952ecbdf6ac126824b2a63a3fde8bd609dfb5ad83",
+        "ce23408e3911c5190b29cb8524fbc53018d3ec2af27b00f1b54ff17ae4153ad1",
+        "ab464940b44ba26e7aaa680ab64ad87354546743fda7fabff439e27fea1e3144",
+        "a3b4c134545d4663a4fea7ab8d8b0867e4fcb57d90351262d08dc6e1e22a445d",
+        "9889d687840ef6a2e25d93f90fc5fdbbd15d1246f64dd9cd5ebe367f380608a1",
+        "66aab6c5234b6bf9372e8446420fdc103c0ca8374b3ee5400ca7071b3281ef5e",
+        "468e97a408da2c61d9455d8f302967f04d596488b81407a69e1ebc00ad5834c7",
+        "b4ad9956368661c5fb2bff3dd4c613dc403237aa9e66b7a0c8730beb0740fe95"
       ],
-      "expected_membership_sha256": "f7fee5af6130cc782f140d159b56364349d37be14ea502e9e8cd42e99b2a3ac6",
-      "expected_mapping_sha256": "f5f8bc4c04fd4883cb60b67d26eb5d3f9de360f61df83d943eeebc3d4c47348e",
+      "expected_membership_sha256": "682b133b33142caf09ab878369f74465ac8efbe72f53f72e1f75b51be334e02c",
+      "expected_mapping_sha256": "4c51b925455f89e890fd28e74b8b47e01542fd3001f5b39104592b53902cf034",
       "expected_trace_utf8_bytes": 6901,
-      "expected_trace_sha256": "78d4f66a82da94ab51d699bcbfbf96302e4cca9b59f668649a2fc03903de7ee6"
+      "expected_trace_sha256": "51273337184af6ec95bbc36a6d7423fd06589411e6f250a89ad48cd18388409b"
     },
     "redistributable": false
   },

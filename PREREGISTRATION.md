@@ -297,3 +297,15 @@ hard-codes the approved records, mapping/category counts, eleven row hashes,
 fingerprint hashes, 6,901-byte serialized trace length, and trace SHA-256. This is only
 a deterministic governance correction: it changes no candidate, disposition, source
 fact, recipe, seed, arm, result, or original Stage-3 boundary.
+
+### Amendment 5 — 2026-09-04 — Owner-approved public conformance and trace invariants
+
+The public synthetic conformance identifiers are normalized to the frozen underscore-safe
+source-ID grammar, with every dependent row/fingerprint/trace oracle recomputed. The
+focused test applies the typed schemas to complete public synthetic objects and derives
+mapping counts independently before comparing them with both hard-coded approvals and the
+JSON vector. The JSON also makes future private-trace cross-field relations binding:
+frozen source identities, all-555/no-exclusion candidate membership, ordinal coverage and
+uniqueness, category-dependent assignment nullability and row-hash lookups, aggregates,
+and fingerprint encodings. This correction neither implements a parser nor changes any
+scientific decision or original Stage-3 boundary.

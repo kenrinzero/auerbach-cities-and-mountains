@@ -70,6 +70,14 @@ inputs, with the approved assignments, counts, eleven row hashes, fingerprint ha
 does not alter any source fact, historical candidate, `not_identifiable` disposition,
 scientific formula, future sensitivity arm, seed, or Stage-3 verdict boundary.
 
+**Owner-approved conformance/invariant correction — 2026-09-04.** Before any parser or
+fit, underscore-safe public synthetic identifiers replaced nonconforming source IDs and
+all dependent public hashes were recomputed. The authority now requires complete schema
+conformance and binds a future private trace to frozen capture identities, all-555/no-
+exclusion membership, unique row coverage, category-dependent mapping/row-hash lookups,
+derived aggregate counts, and specified fingerprints. It changes no source fact,
+candidate, `not_identifiable` disposition, formula, seed, arm, or Stage-3 boundary.
+
 ## B. External numbers this project adjudicates (not 1913 claims)
 
 | ID | Item | Checkability | Tier | Where |
