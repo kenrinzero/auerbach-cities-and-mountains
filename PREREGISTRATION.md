@@ -230,3 +230,38 @@ deterministic, and is non-vacuous.
 unchanged and now rests on the primary rule by construction; prediction P1's "r₀ lands
 near but not necessarily at 15" is answered as "exactly 15 under the primary rule".
 No numeric result changes. Stage 1's flagged deviation 3 is closed by this amendment.
+
+### Amendment 2 — 2026-09-04 — Scaruffi pre-fit governance freeze — external comparator
+
+`data/scaruffi-followup-plan.json` is the machine-readable authority for this amendment
+and `results/scaruffi-source-audit.md` is its evidence authority. No fit had been run
+when these rules were frozen. The 548 rows reported by Miškinis (2011), the independently
+dated 555-row Arquivo.pt candidate, and the dated 565/564-row current arms are distinct
+objects and must never be presented as interchangeable.
+
+The sole evidence-supported historical candidate is
+`arquivo_pt_20091008014619_as_archived` with rule
+`as_archived_all_rows_v1`: it includes every one of the 555 historical source ordinals
+and has `excluded_ordinals: []`. Neither the paper nor surviving evidence identifies the
+seven exclusions or a unique fitting recipe needed to recover Miškinis's 548 rows.
+Accordingly the precommitted disposition is `not_identifiable`. A benchmark match,
+coefficient proximity, goodness of fit, or mapping result cannot upgrade that
+disposition. A later 555-row fit is archival sensitivity evidence, not a replication;
+only a separately owner-approved dated deviation with independent 548-row membership and
+unique-recipe evidence can change this consequence.
+
+The historical/current mapping is a total diagnostic partition, not a membership filter:
+exact normalized-casefold-name plus canonical-metre pairs are exhausted first, remaining
+same-name/different-height pairs are matched by ascending source ordinal, and unpaired
+rows are reported as historical-only or current-only. No fuzzy matching, aliases,
+inferred substitutions, deletion, or selection by mapping is allowed.
+
+The dated current-page sensitivity arms are S0, all 565 listed rows, and S1, the
+564-row exact-duplicate-only arm retaining the earliest source ordinal for
+`(normalized_name.casefold(), elevation_m)`; same-name/different-height records are
+never merged. Joint and goodness-of-fit bootstraps each use 500 replicates; the analysis
+seed is 20260904 and the jitter seed is 20260915. These arms do **not** join the original
+Stage-3 Holm family and cannot upgrade, overwrite, or otherwise alter an accepted
+Stage-3 lane or verdict. Source contracts, benchmark tolerances, model interface,
+private-trace encoding, and stop conditions are fixed by the JSON authority before any
+implementation or fitting.

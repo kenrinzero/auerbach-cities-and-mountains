@@ -28,6 +28,28 @@ Notation (single source of truth, prereg §1): rank-size `s(r) = A·r^(−ξ)`; 
 | AU-C12 | Wealth claim (same section): count grows ~quadratically with falling minimum wealth — "four times as many half-millionaires as millionaires" (Pareto ccdf exponent 2, receipt D4). Stated without citing Pareto (1896). | Statistical, but no data plan in this project — **parked** (optional Stage 6 material). | T1 | parked |
 | AU-C13 | Mechanistic speculation: more "driving forces" → sharper law (mountains < cities < wealth complexity ordering). | Not directly checkable as stated; Stage 3's regional arms probe the tectonic-activity axis. Explicitly speculative; report as such. | T1 | Stage 3 / 6 |
 
+### AU-C11 external comparator governance — 2026-09-04
+
+This entry records a pre-fit external-comparator boundary, not a new result.
+`data/scaruffi-followup-plan.json` is the machine-readable authority and
+`results/scaruffi-source-audit.md` is the evidence authority. No fit had been run when
+these rules were frozen. Miškinis (2011) reports an unidentified 548-summit list above
+3,500 m attributed to Scaruffi (2008), the printed curve
+`h(x) = h_1 exp(-βx^α)`, `h_1 = 8,848 m`, `α = 0.54044`, and
+`β = 3.1170 × 10^-2`, alongside the tabulated and residual benchmarks preserved with
+half-last-digit tolerances in the JSON authority. The paper supplies neither mountain
+memberships nor a dated source snapshot nor a unique fitting recipe.
+
+Independent dated evidence instead supports only the 555-row
+`arquivo_pt_20091008014619_as_archived` archival candidate. It retains all rows and no
+seven-row exclusion rule exists or may be searched for; any later fit is archival
+sensitivity evidence rather than a replication, with the controlled disposition
+`not_identifiable` regardless of benchmark proximity. Separately, the current
+2026-09-03 capture defines S0 (565 as-listed rows) and S1 (564 rows after
+exact-name-and-height duplicate-only retention of the earliest ordinal). These arms are
+dated elevation-selected sensitivity evidence outside the original Stage-3 Holm family;
+they cannot modify AU-C11's accepted Stage-3 verdict lanes.
+
 ## B. External numbers this project adjudicates (not 1913 claims)
 
 | ID | Item | Checkability | Tier | Where |

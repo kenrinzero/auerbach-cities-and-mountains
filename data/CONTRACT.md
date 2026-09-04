@@ -247,3 +247,55 @@ with **STANDS WITH CORRECTION**: source-description corrections only. It confirm
 orientation, corrected the formal plot label to Appendix Figure A1, and kept the
 source's printed facts distinct from the project's reproduction and ξ/ζ mapping. The
 audit record is `AUDIT-CICCONE-SOURCE-RECONCILIATION.md`.
+
+## Addendum 5 — Scaruffi dual-source follow-up governance — 2026-09-04
+
+This dated addendum freezes governance before any Scaruffi parser, fit, receipt, or
+result exists. `data/scaruffi-followup-plan.json` is the machine-readable authority;
+`results/scaruffi-source-audit.md` is the evidence authority. No fit had been run when
+these rules were frozen.
+
+| Source ID | Private custody path | Identity | Target rows | Provenance metadata |
+|---|---|---|---:|---|
+| `arquivo_pt_20091008014619` | `data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html` | 100,381 bytes; SHA-256 `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571` | 555 | Arquivo.pt `2009-10-08T01:46:19Z`; original Last-Modified `2009-03-30T02:49:20Z`; replay URL recorded in the JSON contract; ignored `_manifest.json` is 910 bytes, SHA-256 `552c29fbe850d5e7b2aa730d9a1eca733551c89ab064389eba6b13d6a6440519`. |
+| `scaruffi_20260903_current` | `data/raw/scaruffi-2026-09-03/tallest.html` | 102,018 bytes; SHA-256 `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe` | 565 | dated 2026-09-03 current capture; no archival manifest or archive metadata. |
+
+Both are third-party copyrighted compilations with no recorded redistribution licence.
+The HTML, historical `_manifest.json`, private trace, names, parsed rows, row sequences,
+and reconstructed row lists remain ignored and private: none may enter Git, releases,
+Pages, fixtures, or public generated output. The public boundary permits only hashes,
+counts, aggregate diagnostics, rule IDs, aggregate mapping counts, fingerprints,
+receipts, and dispositions. The documentary URL is
+`http://www.scaruffi.com/travel/tallest.html`; capture bytes prove the frozen content
+identity, not the URL from which the bytes originated.
+
+The two contracts use `scaruffi-source-contract-v2`, exact headers `Mountain`,
+`Height`, `Country`, and `Continent`, `scaruffi-height-lexical-v1`, and
+`scaruffi-anomaly-report-v1`. A unique exact-header table is mandatory. Names are NFKC
+normalized with collapsed whitespace and casefolded only for comparison; source ordinal
+is retained; analytical rank is descending normalized metres, normalized casefold name,
+then source ordinal. Decimal `^[0-9]+\.[0-9]+$` heights in [3.5, 9.0] are kilometres
+times 1,000, while digit-only `^[0-9]+$` heights in [3500, 9000] are metres. Unsupported
+schema IDs, byte/hash/content-identity failures, manifest identity failures, table or
+row-count failures, missing fields, invalid heights, and nonblank extra cells hard-fail
+before fitting. The anomaly report emits, in order, kilometre conversions, metre
+conversions, repeated casefold-name groups, same-name/different-height groups, exact
+name-height groups, height ties, source-order inversions, missing fields, blank extra
+cells, and nonblank extra cells.
+
+Historical/current mapping is deterministic diagnostics only: exhaust exact
+`(normalized casefold name, canonical metres)` pairs one-to-one by source ordinal;
+then pair remaining same-name/different-height rows one-to-one by source ordinal; then
+emit `historical_only` and `current_only`. Fuzzy matching, aliases, inferred
+substitutions, and mapping-driven deletion are prohibited. The ignored private trace is
+`data/raw/scaruffi-2026-09-03/reconstruction-membership.json` under
+`scaruffi-private-trace-v1`, with the canonical row, assignment, ordering, and
+fingerprint encodings frozen in the JSON authority.
+
+The sole archival candidate is the all-row, 555-row
+`arquivo_pt_20091008014619_as_archived` (`as_archived_all_rows_v1`): every historical
+ordinal is retained and none is excluded. It is not Miškinis's unidentified 548-row
+sample. The dated 2026-09-03 current arms are S0 (all 565 rows as listed) and S1
+(564-row exact-name-and-height duplicate sensitivity retaining the earliest source
+ordinal); same-name/different-height rows are never merged. Their later analysis is
+separately labelled sensitivity evidence and cannot revise the original Stage-3 verdict.
