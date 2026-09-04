@@ -255,15 +255,42 @@ class ScaruffiPlanTests(unittest.TestCase):
         historical = sources["arquivo_pt_20091008014619"]
         current = sources["scaruffi_20260903_current"]
         self.assertEqual(
-            (historical["bytes"], historical["sha256"], historical["expected_target_rows"]),
+            (historical["expected_bytes"], historical["expected_sha256"], historical["expected_row_count"]),
             (100381, "813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571", 555),
         )
         self.assertEqual(
-            (current["bytes"], current["sha256"], current["expected_target_rows"]),
+            (current["expected_bytes"], current["expected_sha256"], current["expected_row_count"]),
             (102018, "4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe", 565),
         )
         self.assertFalse(historical["redistributable"])
         self.assertFalse(current["redistributable"])
+        for source in (historical, current):
+            self.assertEqual(source["schema_id"], "scaruffi-source-contract-v2")
+            self.assertEqual(source["height_grammar_id"], "scaruffi-height-lexical-v1")
+            self.assertEqual(source["anomaly_schema_id"], "scaruffi-anomaly-report-v1")
+            self.assertEqual(
+                source["content_identity"],
+                f"scaruffi-content-sha256-v1:{source['source_id']}:{source['expected_bytes']}:{source['expected_sha256']}",
+            )
+        self.assertEqual(
+            historical["content_identity"],
+            "scaruffi-content-sha256-v1:arquivo_pt_20091008014619:100381:813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571",
+        )
+        self.assertEqual(
+            current["content_identity"],
+            "scaruffi-content-sha256-v1:scaruffi_20260903_current:102018:4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe",
+        )
+        self.assertEqual(historical["manifest_path"], "data/raw/scaruffi-2026-09-03/historical-evidence/_manifest.json")
+        self.assertGreater(historical["manifest_expected_bytes"], 0)
+        self.assertRegex(historical["manifest_expected_sha256"], r"^[0-9a-f]{64}$")
+        self.assertEqual(
+            historical["manifest_content_identity"],
+            f"scaruffi-manifest-sha256-v1:{historical['manifest_expected_bytes']}:{historical['manifest_expected_sha256']}",
+        )
+        self.assertIsNone(current["manifest_path"])
+        self.assertIsNone(current["manifest_expected_bytes"])
+        self.assertIsNone(current["manifest_expected_sha256"])
+        self.assertIsNone(current["manifest_content_identity"])
 
     def test_accepted_stage3_receipt_is_immutable(self):
         digest = hashlib.sha256((ROOT / "results" / "stage3-recompute.txt").read_bytes()).hexdigest()
@@ -294,6 +321,7 @@ class ScaruffiPlanTests(unittest.TestCase):
     def test_historical_rules_are_evidence_bounded(self):
         historical = self.plan["historical_reconstruction"]
         self.assertEqual(historical["candidate_id"], "arquivo_pt_20091008014619_as_archived")
+        self.assertEqual(historical["candidate_rule_id"], "as_archived_all_rows_v1")
         self.assertEqual(historical["candidate_rows"], 555)
         self.assertEqual(historical["controlled_disposition"], "not_identifiable")
         self.assertEqual(historical["excluded_ordinals"], [])
@@ -303,6 +331,10 @@ class ScaruffiPlanTests(unittest.TestCase):
     def test_private_trace_and_mapping_rules_are_frozen(self):
         trace = self.plan["private_trace"]
         self.assertEqual(trace["path"], "data/raw/scaruffi-2026-09-03/reconstruction-membership.json")
+        self.assertEqual(trace["schema_id"], "scaruffi-private-trace-v1")
+        self.assertEqual(trace["row_identity_schema_id"], "scaruffi-private-row-v1")
+        self.assertEqual(trace["membership_fingerprint_schema_id"], "scaruffi-membership-fingerprint-v1")
+        self.assertEqual(trace["mapping_fingerprint_schema_id"], "scaruffi-mapping-fingerprint-v1")
         self.assertFalse(trace["redistributable"])
         mapping = self.plan["historical_current_mapping"]
         self.assertEqual(
@@ -311,6 +343,8 @@ class ScaruffiPlanTests(unittest.TestCase):
         )
         self.assertFalse(mapping["fuzzy_matching"])
         self.assertFalse(mapping["manual_aliases"])
+        self.assertEqual(mapping["pairing_order"], ["exact", "same_name_different_height", "one_sided"])
+        self.assertEqual(mapping["within_group_order"], "source_ordinal_ascending")
 
     def test_plan_is_canonical_utf8_lf_json(self):
         raw = PLAN.read_bytes()
@@ -353,12 +387,21 @@ Create `data/scaruffi-followup-plan.json` as canonical `json.dumps(..., ensure_a
 Populate it with the following exact decisions:
 
 - `protected_scope`: the published 59-file SHA-256 `4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110`; the immutable 57-file SHA-256 `60ac68e50e32d51c85d8536fafe073cf8005a64b7585e7ce76902a61c568c62f`; and `governance_59_sha256`, computed with the Task-0 recipe only after the two authorized Markdown addenda have their final bytes. Because the JSON file is outside the 59-file scope, recording this digest does not make it recursive.
-- `source_contracts`: keyed by `arquivo_pt_20091008014619` and `scaruffi_20260903_current`. Each contract stores its source ID, expected original URL `http://www.scaruffi.com/travel/tallest.html`, private path, bytes, SHA-256, exact four-header selector, expected row count, and `redistributable: false`. The historical contract additionally freezes Arquivo.pt timestamp `2009-10-08T01:46:19Z`, original `Last-Modified` `2009-03-30T02:49:20Z`, and replay URL `https://arquivo.pt/wayback/20091008014619id_/http://www.scaruffi.com/travel/tallest.html`; its bytes/hash/rows are `100381`, `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`, and `555`. The current contract's bytes/hash/rows are `102018`, `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`, and `565`.
-- `parser`: target headers exactly `Mountain`, `Height`, `Country`, `Continent`; Unicode NFKC plus collapsed whitespace for names; casefold only for comparison; any finite base-10 token containing a decimal point and lying in `[3.5, 9.0]` is interpreted as kilometres and multiplied by 1000; a digit-only integer token in `[3500, 9000]` is interpreted as metres; all other formats hard-fail; preserve source ordinal; analytical rank sorts by descending metres, then normalized casefold name, then source ordinal; report every tie, inversion, missing field, unexpected cell, and unit conversion without silently resolving anomaly classes. Byte, hash, expected URL identity, unique target-table, and expected-row mismatches hard-fail before any fit.
-- `historical_current_mapping`: categories in this exact order: `exact`, `same_name_different_height`, `historical_only`, `current_only`. `exact` requires normalized casefold name plus exact normalized metres. Same normalized casefold name at a different height is separate and never merged. Freeze `fuzzy_matching: false`, `manual_aliases: false`, `inferred_substitutions: false`, and `mapping_is_membership_filter: false`.
-- `historical_reconstruction`: copy every benchmark and half-last-digit tolerance from Task 1; freeze `candidate_id: arquivo_pt_20091008014619_as_archived`, `candidate_rows: 555`, all historical ordinals included, `excluded_ordinals: []`, source-rule pointer, formula, rank convention, fitting objective, parameter constraints, residual statistic, model family, cutoff treatment, comparison statistic, and recipe-identifiability status. Freeze `controlled_disposition: not_identifiable`, `benchmark_match_can_upgrade_disposition: false`, and the rule that this fit is archival sensitivity evidence rather than replication. The only path to a future 548-row candidate or different disposition is a separately owner-approved dated deviation with independent membership and unique-recipe evidence.
+- `source_contracts`: keyed by `arquivo_pt_20091008014619` and `scaruffi_20260903_current`. Each serialized contract uses these exact runtime field names: `schema_id`, `source_id`, `expected_url`, `private_path`, `expected_bytes`, `expected_sha256`, `content_identity`, `expected_headers`, `expected_row_count`, `height_grammar_id`, `anomaly_schema_id`, `manifest_path`, `manifest_expected_bytes`, `manifest_expected_sha256`, `manifest_content_identity`, `replay_url`, `archive_timestamp`, `original_last_modified`, and `redistributable`. Values shared by both are `schema_id: scaruffi-source-contract-v2`, documentary `expected_url: http://www.scaruffi.com/travel/tallest.html`, `expected_headers: [Mountain, Height, Country, Continent]`, `height_grammar_id: scaruffi-height-lexical-v1`, `anomaly_schema_id: scaruffi-anomaly-report-v1`, and `redistributable: false`. Define `content_identity` exactly as ASCII `scaruffi-content-sha256-v1:<source_id>:<expected_bytes>:<lowercase_expected_sha256>`. Thus the historical identity is `scaruffi-content-sha256-v1:arquivo_pt_20091008014619:100381:813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`, and the current identity is `scaruffi-content-sha256-v1:scaruffi_20260903_current:102018:4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`. The historical contract additionally freezes `archive_timestamp: 2009-10-08T01:46:19Z`, `original_last_modified: 2009-03-30T02:49:20Z`, `replay_url: https://arquivo.pt/wayback/20091008014619id_/http://www.scaruffi.com/travel/tallest.html`, and `manifest_path: data/raw/scaruffi-2026-09-03/historical-evidence/_manifest.json`; its expected bytes/hash/rows are `100381`, `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`, and `555`. Before freezing JSON, compute the ignored manifest's `manifest_expected_bytes` and lowercase `manifest_expected_sha256` from its exact local bytes, and set `manifest_content_identity` to `scaruffi-manifest-sha256-v1:<manifest_expected_bytes>:<manifest_expected_sha256>`. The current expected bytes/hash/rows are `102018`, `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`, and `565`; its four manifest fields and its three archive-metadata fields are JSON `null`.
+
+Compute the historical manifest fields before any fit with exactly:
+
+```powershell
+$manifestPath = 'data/raw/scaruffi-2026-09-03/historical-evidence/_manifest.json'
+$manifestExpectedBytes = (Get-Item -LiteralPath $manifestPath).Length
+$manifestExpectedSha256 = (Get-FileHash -LiteralPath $manifestPath -Algorithm SHA256).Hash.ToLowerInvariant()
+$manifestContentIdentity = "scaruffi-manifest-sha256-v1:$manifestExpectedBytes`:$manifestExpectedSha256"
+```
+- `parser`: freeze the complete behavior of `scaruffi-height-lexical-v1` and `scaruffi-anomaly-report-v1`. The height grammar accepts only finite `^[0-9]+\.[0-9]+$` values in `[3.5, 9.0]` as kilometres times 1000 and digit-only `^[0-9]+$` values in `[3500, 9000]` as metres. The anomaly schema emits these fields in this order: `kilometre_conversions`, `metre_conversions`, `repeated_casefold_name_groups`, `same_name_different_height_groups`, `exact_name_height_groups`, `height_tie_groups`, `source_order_inversions`, `missing_fields`, `blank_extra_cells`, `nonblank_extra_cells`. Target headers are exactly `Mountain`, `Height`, `Country`, `Continent`; names use Unicode NFKC plus collapsed whitespace, casefold only for comparison; source ordinal is preserved; analytical rank sorts by descending metres, normalized casefold name, then source ordinal. Unsupported contract/grammar/anomaly IDs, byte, hash, recomputed content-identity, unique-target-table, and expected-row mismatches hard-fail before any fit. `expected_url` is frozen provenance metadata and is not claimed to be inferable from HTML bytes.
+- `historical_current_mapping`: categories in this exact order: `exact`, `same_name_different_height`, `historical_only`, `current_only`; `pairing_order` is `exact`, `same_name_different_height`, `one_sided`; `within_group_order` is `source_ordinal_ascending`. Exact pairs are exhausted one-to-one within each `(normalized casefold name, canonical metres)` key before any name-only pairing. Remaining rows with the same normalized casefold name on both sides are paired one-to-one by ascending source ordinal as `same_name_different_height`. Unpaired historical rows become `historical_only`; unpaired current rows become `current_only`. Freeze `fuzzy_matching: false`, `manual_aliases: false`, `inferred_substitutions: false`, and `mapping_is_membership_filter: false`.
+- `historical_reconstruction`: copy every benchmark and half-last-digit tolerance from Task 1; freeze `candidate_id: arquivo_pt_20091008014619_as_archived`, `candidate_rule_id: as_archived_all_rows_v1`, `candidate_rows: 555`, all historical ordinals included, `excluded_ordinals: []`, source-evidence pointer, formula, rank convention, fitting objective, parameter constraints, residual statistic, model family, cutoff treatment, comparison statistic, and recipe-identifiability status. Freeze `controlled_disposition: not_identifiable`, `benchmark_match_can_upgrade_disposition: false`, and the rule that this fit is archival sensitivity evidence rather than replication. The only path to a future 548-row candidate or different disposition is a separately owner-approved dated deviation with independent membership and unique-recipe evidence.
 - `current_snapshot`: S0 is all 565 rows as listed; S1 retains the earliest source ordinal for duplicate key `(normalized_name.casefold(), elevation_m)`; same-name/different-height rows are never merged; joint bootstrap 500; GoF bootstrap 500; seed 20260904; jitter seed 20260915; `joins_stage3_holm_family: false`.
-- `private_trace`: exact ignored path `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`; schema version; historical source ID/hash; candidate ID; all included historical source ordinals; deterministic private row identities sufficient to reproduce the 555-row candidate; the four mapping categories and row assignments; aggregate counts; `redistributable: false`.
+- `private_trace`: exact ignored path `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`; `schema_id: scaruffi-private-trace-v1`; `row_identity_schema_id: scaruffi-private-row-v1`; `membership_fingerprint_schema_id: scaruffi-membership-fingerprint-v1`; `mapping_fingerprint_schema_id: scaruffi-mapping-fingerprint-v1`; exact row-identity, assignment, canonical ordering, and fingerprint encodings specified in Tasks 3–4; `redistributable: false`.
 - `reporting`: aggregate receipts, candidate/mapping fingerprints, rule IDs, aggregate mapping counts, and dispositions are public; both HTML captures, historical `_manifest.json`, private trace, names, row sequences, parsed rows, and reconstructed row lists are private; Stage-3 verdict and receipt are immutable.
 
 Task 1 found independent dated row-level evidence for the 555-row as-archived candidate, but not the seven exclusions or a unique fitting recipe needed for Miškinis's 548 rows. Freeze the candidate and the `not_identifiable` consequence exactly; do not invent or search a 548-row candidate.
@@ -431,10 +474,18 @@ Create `tests/test_scaruffi_parse.py` with synthetic three-table HTML. Exercise 
 from pathlib import Path
 from tempfile import TemporaryDirectory
 from decimal import Decimal
+from dataclasses import fields, replace
 import hashlib
 import unittest
 
-from src.scaruffi_parse import ParseError, SourceContract, analysis_order, parse_capture
+from src.scaruffi_parse import (
+    ParseError,
+    SourceContract,
+    ParseDiagnostics,
+    analysis_order,
+    parse_capture,
+    verify_manifest_identity,
+)
 
 
 HTML = b"""<html><body>
@@ -452,21 +503,42 @@ HTML = b"""<html><body>
 
 
 class ScaruffiParseTests(unittest.TestCase):
-    def parse(self, payload=HTML, expected_sha256=None, expected_bytes=None, expected_rows=5, source_id="synthetic"):
+    def contract_for(self, payload=HTML, expected_sha256=None, expected_bytes=None, expected_rows=5, source_id="synthetic"):
+        expected = expected_sha256 or hashlib.sha256(payload).hexdigest()
+        byte_count = len(payload) if expected_bytes is None else expected_bytes
+        return SourceContract(
+            schema_id="scaruffi-source-contract-v2",
+            source_id=source_id,
+            expected_url="https://example.invalid/tallest.html",
+            private_path="synthetic/capture.html",
+            expected_bytes=byte_count,
+            expected_sha256=expected,
+            content_identity=f"scaruffi-content-sha256-v1:{source_id}:{byte_count}:{expected}",
+            expected_headers=("Mountain", "Height", "Country", "Continent"),
+            expected_row_count=expected_rows,
+            height_grammar_id="scaruffi-height-lexical-v1",
+            anomaly_schema_id="scaruffi-anomaly-report-v1",
+            manifest_path=None,
+            manifest_expected_bytes=None,
+            manifest_expected_sha256=None,
+            manifest_content_identity=None,
+            replay_url=None,
+            archive_timestamp=None,
+            original_last_modified=None,
+            redistributable=False,
+        )
+
+    def parse_with_contract(self, payload, contract):
         with TemporaryDirectory() as td:
             path = Path(td) / "capture.html"
             path.write_bytes(payload)
-            expected = expected_sha256 or hashlib.sha256(payload).hexdigest()
-            byte_count = len(payload) if expected_bytes is None else expected_bytes
-            contract = SourceContract(
-                source_id=source_id,
-                expected_url="https://example.invalid/tallest.html",
-                expected_bytes=byte_count,
-                expected_sha256=expected,
-                expected_headers=("Mountain", "Height", "Country", "Continent"),
-                expected_row_count=expected_rows,
-            )
             return parse_capture(path, contract)
+
+    def parse(self, payload=HTML, expected_sha256=None, expected_bytes=None, expected_rows=5, source_id="synthetic"):
+        return self.parse_with_contract(
+            payload,
+            self.contract_for(payload, expected_sha256, expected_bytes, expected_rows, source_id),
+        )
 
     def test_selects_only_exact_header_table_and_preserves_ordinals(self):
         rows, diagnostics = self.parse()
@@ -483,6 +555,16 @@ class ScaruffiParseTests(unittest.TestCase):
         self.assertEqual(len(diagnostics.height_tie_groups), 2)
         self.assertEqual(len(diagnostics.kilometre_conversions), 4)
         self.assertEqual(len(diagnostics.metre_conversions), 1)
+        self.assertEqual(
+            tuple(field.name for field in fields(ParseDiagnostics))[-10:],
+            (
+                "kilometre_conversions", "metre_conversions",
+                "repeated_casefold_name_groups", "same_name_different_height_groups",
+                "exact_name_height_groups", "height_tie_groups",
+                "source_order_inversions", "missing_fields",
+                "blank_extra_cells", "nonblank_extra_cells",
+            ),
+        )
 
     def test_same_name_different_height_is_reported_not_merged(self):
         payload = HTML.replace(
@@ -527,6 +609,43 @@ class ScaruffiParseTests(unittest.TestCase):
     def test_expected_row_count_mismatch_hard_fails(self):
         with self.assertRaisesRegex(ParseError, r"row count.*expected 4.*actual 5"):
             self.parse(HTML, expected_rows=4)
+
+    def test_contract_schema_grammar_anomaly_and_identity_mismatches_hard_fail(self):
+        base = self.contract_for(HTML)
+        bad_values = {
+            "schema_id": "scaruffi-source-contract-v999",
+            "source_id": "wrong-source",
+            "content_identity": "scaruffi-content-sha256-v1:synthetic:0:" + "0" * 64,
+            "expected_headers": ("Summit", "Height", "Country", "Continent"),
+            "height_grammar_id": "scaruffi-height-lexical-v999",
+            "anomaly_schema_id": "scaruffi-anomaly-report-v999",
+            "redistributable": True,
+        }
+        for field, bad in bad_values.items():
+            with self.subTest(field=field), self.assertRaises(ParseError):
+                self.parse_with_contract(HTML, replace(base, **{field: bad}))
+
+    def test_manifest_byte_hash_and_content_identity_mismatches_hard_fail(self):
+        payload = b'{"synthetic":true}\n'
+        digest = hashlib.sha256(payload).hexdigest()
+        base = replace(
+            self.contract_for(HTML),
+            manifest_path="synthetic/_manifest.json",
+            manifest_expected_bytes=len(payload),
+            manifest_expected_sha256=digest,
+            manifest_content_identity=f"scaruffi-manifest-sha256-v1:{len(payload)}:{digest}",
+        )
+        with TemporaryDirectory() as td:
+            path = Path(td) / "_manifest.json"
+            path.write_bytes(payload)
+            verify_manifest_identity(path, base)
+            for field, bad in {
+                "manifest_expected_bytes": len(payload) + 1,
+                "manifest_expected_sha256": "0" * 64,
+                "manifest_content_identity": "scaruffi-manifest-sha256-v1:0:" + "0" * 64,
+            }.items():
+                with self.subTest(field=field), self.assertRaises(ParseError):
+                    verify_manifest_identity(path, replace(base, **{field: bad}))
 
     def test_same_parser_accepts_distinct_historical_and_current_contracts(self):
         old_rows, old_diag = self.parse(source_id="historical-test")
@@ -601,6 +720,8 @@ class ParseDiagnostics:
     height_tie_groups: tuple["AnomalyGroup", ...]
     source_order_inversions: tuple["OrderInversion", ...]
     missing_fields: tuple["MissingField", ...]
+    blank_extra_cells: tuple["UnexpectedCell", ...]
+    nonblank_extra_cells: tuple["UnexpectedCell", ...]
 
 
 class ParseError(ValueError):
@@ -609,31 +730,78 @@ class ParseError(ValueError):
 
 @dataclass(frozen=True)
 class SourceContract:
+    schema_id: str
     source_id: str
     expected_url: str
+    private_path: str
     expected_bytes: int
     expected_sha256: str
+    content_identity: str
     expected_headers: tuple[str, str, str, str]
     expected_row_count: int
+    height_grammar_id: str
+    anomaly_schema_id: str
+    manifest_path: str | None
+    manifest_expected_bytes: int | None
+    manifest_expected_sha256: str | None
+    manifest_content_identity: str | None
+    replay_url: str | None
+    archive_timestamp: str | None
+    original_last_modified: str | None
+    redistributable: bool
 
 
 def analysis_order(rows: list[SourceRow]) -> list[SourceRow]:
     return sorted(rows, key=lambda row: (-row.elevation_m, row.mountain_norm.casefold(), row.source_ordinal))
 ```
 
-Also export `load_source_contract(plan_path: Path, source_id: str) -> SourceContract` and `parse_capture(path: Path, contract: SourceContract) -> tuple[list[SourceRow], ParseDiagnostics]` with the behavior below. `load_source_contract` reads only `source_contracts[source_id]`, validates the exact expected original URL and four headers, and rejects unknown IDs.
+Also export `load_source_contract(plan_path: Path, source_id: str) -> SourceContract`, `verify_manifest_identity(path: Path, contract: SourceContract) -> None`, and `parse_capture(path: Path, contract: SourceContract) -> tuple[list[SourceRow], ParseDiagnostics]`. `load_source_contract` reads only `source_contracts[source_id]`, rejects unknown IDs, requires schema ID `scaruffi-source-contract-v2`, height grammar ID `scaruffi-height-lexical-v1`, anomaly schema ID `scaruffi-anomaly-report-v1`, the exact four headers, lowercase 64-hex capture/manifest hashes, and exact recomputation of both content-identity strings from their serialized components. The historical CLI calls `verify_manifest_identity` on `contract.manifest_path` and only then calls `parse_capture`. `verify_manifest_identity` requires all four manifest fields together, compares local length and SHA-256, recomputes `scaruffi-manifest-sha256-v1:<actual_bytes>:<actual_sha256>`, and hard-fails on mismatch. The current contract requires all four manifest fields to be null and relies on its hash-backed capture identity plus the existing custody record.
 
-Define frozen `UnitConversion`, `AnomalyGroup`, `OrderInversion`, and `MissingField` dataclasses whose fields contain source IDs, source ordinals, and aggregate-safe normalized keys, never whole row objects. Implement with `html.parser.HTMLParser`, not a browser DOM or permissive dataframe scraper. Before parsing, compare both `len(raw)` and its SHA-256 with the contract. Preserve cell text before normalization and attach `contract.source_id` to every `SourceRow`. Accept only the contract's exact four-header target table. Require exactly one target table and exactly `contract.expected_row_count` data rows, allow trailing cells only when empty or whitespace-only, require non-empty mountain/country/continent fields, and accept heights matching either `^[0-9]+\.[0-9]+$` in `[3.5, 9.0]` km or `^[0-9]+$` in `[3500, 9000]` m. Reject signs, exponent notation, commas, non-finite tokens, and out-of-range results. Convert with `Decimal` and preserve the exact metre value, including a fractional metre such as `3.5005 km -> Decimal("3500.5")`; do not add a stricter integral-metre rule that the approved grammar did not authorize. A hard-fail `ParseError` for a byte/hash/table/row mismatch, missing field, or unexpected cell must identify its anomaly class and source ordinal where applicable without printing the row.
+Define frozen `UnitConversion`, `AnomalyGroup`, `OrderInversion`, `MissingField`, and `UnexpectedCell` dataclasses whose fields contain source IDs, source ordinals, and aggregate-safe normalized keys, never whole row objects. Implement with `html.parser.HTMLParser`, not a browser DOM or permissive dataframe scraper. Before parsing, validate every supported schema ID; compare `len(raw)` and SHA-256; recompute `scaruffi-content-sha256-v1:<source_id>:<len(raw)>:<actual_sha256>`; and require exact equality to the contract. Preserve cell text before normalization and attach `contract.source_id` to every `SourceRow`. Accept only the contract's exact four-header target table. Require exactly one target table and exactly `contract.expected_row_count` data rows, allow trailing cells only when empty or whitespace-only, require non-empty mountain/country/continent fields, and implement only `scaruffi-height-lexical-v1`: `^[0-9]+\.[0-9]+$` in `[3.5, 9.0]` km or `^[0-9]+$` in `[3500, 9000]` m. Reject signs, exponent notation, commas, non-finite tokens, and out-of-range results. Convert with `Decimal` and preserve exact metres. Emit all ten `scaruffi-anomaly-report-v1` fields in their frozen order, including empty tuples. A hard-fail `ParseError` must identify the failed contract field and source ID without printing a row.
 
 Define an inversion as a pair of adjacent source ordinals `(i, i+1)` for which normalized elevation increases from row `i` to row `i+1`. Define a height tie group as every elevation occurring at two or more source ordinals. Analytical ties are ordered by normalized casefold name and then source ordinal. The diagnostics must enumerate every conversion and every anomaly group structurally so the auditor can re-derive counts.
 
-The source contract is mandatory. Compare its byte count and hash before parsing and include expected and actual values in safe error messages. Validate the unique target table and row count before returning records. Never expose all parsed rows from the CLI.
+The source contract is mandatory. The local file can prove byte/hash content identity but cannot prove the remote URL from which those bytes originated. Accordingly, remove every URL-identity hard-fail claim from `parse_capture`: `expected_url`, replay URL, and timestamps are governance-frozen provenance metadata. The exact manifest-byte identity ties those audited metadata to the manifest version reviewed in Task 1 without pretending to extract provenance from capture bytes. Never expose all parsed rows from the CLI.
 
 - [ ] **Step 4: Implement and synthetically test deterministic mapping diagnostics**
 
-In `src/scaruffi_followup.py`, export `map_historical_to_current(historical_rows: list[SourceRow], current_rows: list[SourceRow]) -> MappingDiagnostics`. `MappingDiagnostics` contains only ordinal pairs/groups in the four frozen categories `exact`, `same_name_different_height`, `historical_only`, and `current_only`, plus their aggregate counts. Exact means `(mountain_norm.casefold(), elevation_m)` equality. Same-name/different-height records are reported separately and never merged. Matching is deterministic by source ordinal when exact duplicate keys create multiple records. No fuzzy matching, aliases, or substitutions are permitted.
+In `src/scaruffi_followup.py`, define the frozen assignment type and export `map_historical_to_current(historical_rows: list[SourceRow], current_rows: list[SourceRow]) -> MappingDiagnostics`:
 
-In `tests/test_scaruffi_followup.py`, construct synthetic rows that exercise all four categories and assert exact ordinal assignments. Also assert that `build_historical_candidate(rows)` returns all input ordinals unchanged and in source order before analytical ranking, regardless of mapping output. This is the regression proof that mapping is diagnostic and cannot become a membership filter.
+```python
+@dataclass(frozen=True)
+class MappingAssignment:
+    category: str
+    historical_ordinal: int | None
+    current_ordinal: int | None
+    historical_row_sha256: str | None
+    current_row_sha256: str | None
+```
+
+Implement `canonical_metres(value: Decimal) -> str` and `private_row_identity(row: SourceRow) -> dict[str, object]` in this task because mapping assignments carry row hashes. `canonical_metres` uses `format(value, "f")`, strips trailing fractional zeros and a trailing decimal point, and maps empty or `-0` to `0` (`3980.0 -> "3980"`, `3980.500 -> "3980.5"`). For each row, `normalized_casefold_name` is `mountain_norm.casefold()`; `normalized_country` and `normalized_continent` use Unicode NFKC and collapse every whitespace run to one ASCII space. Form the exact array `["scaruffi-private-row-v1", source_id, source_ordinal, normalized_casefold_name, canonical_metres, normalized_country, normalized_continent]`; serialize with `json.dumps(value, ensure_ascii=False, separators=(",", ":")) + "\n"`; encode UTF-8; and SHA-256 those bytes as `row_sha256`. The returned object has keys in this exact order: `source_id`, `source_ordinal`, `normalized_casefold_name`, `canonical_metres`, `normalized_country`, `normalized_continent`, `row_sha256`. Mapping calls this helper once per row and places only the appropriate row hashes in each assignment.
+
+Reject duplicate or non-positive ordinals within either input. Then execute exactly this total one-to-one partition:
+
+1. Compute every row's `name_key = mountain_norm.casefold()` and canonical-metre text. Group each side by `(name_key, canonical_metres)`. For every full key present on both sides, sort both ordinal lists ascending and zip the first `min(len(historical), len(current))` pairs as `exact`. Mark both members consumed.
+2. From unconsumed rows, group each side by `name_key`. For every name present on both sides, sort both ordinal lists ascending and zip the first `min(...)` pairs as `same_name_different_height`. Exact full-key pairs were exhausted in step 1, so assert the paired canonical metres differ. Mark both members consumed.
+3. Emit each remaining historical row as `historical_only` and each remaining current row as `current_only`.
+4. Sort all assignments by `(category_index, historical_ordinal or 0, current_ordinal or 0)`, where category indexes are `exact=0`, `same_name_different_height=1`, `historical_only=2`, `current_only=3`.
+5. Assert that the historical non-null ordinals across assignments equal the input historical ordinal set exactly once and the current non-null ordinals equal the input current ordinal set exactly once. Return these assignments plus counts in the same four-category order. Mapping output is never passed into `build_historical_candidate`.
+
+In `tests/test_scaruffi_followup.py`, add `test_ambiguous_duplicate_names_have_one_total_ordered_partition`. Use historical rows `(1,A,100)`, `(2,A,100)`, `(3,A,90)`, `(4,B,80)`, `(5,C,70)` and current rows `(10,A,100)`, `(11,A,95)`, `(12,A,90)`, `(13,A,90)`, `(14,B,81)`, `(15,D,60)`, with source IDs `historical-test` and `current-test`. Assert the ordered category/ordinal triples are exactly:
+
+```python
+[
+    ("exact", 1, 10),
+    ("exact", 3, 12),
+    ("same_name_different_height", 2, 11),
+    ("same_name_different_height", 4, 14),
+    ("historical_only", 5, None),
+    ("current_only", None, 13),
+    ("current_only", None, 15),
+]
+```
+
+Assert counts `exact=2`, `same_name_different_height=2`, `historical_only=1`, `current_only=2`, and assert every input ordinal occurs once. Add a permutation test that reverses both input lists and receives byte-identical assignments. Also assert that `build_historical_candidate(historical_rows)` returns historical ordinals `[1,2,3,4,5]` unchanged regardless of the mapping result. This is the regression proof that mapping is diagnostic and cannot become a membership filter.
 
 - [ ] **Step 5: Add a safe aggregate CLI**
 
@@ -649,12 +817,12 @@ target rows: 565
 integer-height rows: 1
 repeated casefold names: 8
 exact normalized-name+height duplicate groups: 1
-same-name/different-height groups: <aggregate count>
-height-tie groups: <aggregate count>
-source-order inversions: <aggregate count>
+same-name/different-height groups: {len(diagnostics.same_name_different_height_groups)}
+height-tie groups: {len(diagnostics.height_tie_groups)}
+source-order inversions: {len(diagnostics.source_order_inversions)}
 ```
 
-The CLI may name the already documented Kamet exact duplicate but must not print row contents or a complete name list.
+The braces above are the exact `f`-string expressions used by the CLI, not literal output. The CLI may name the already documented Kamet exact duplicate but must not print row contents or a complete name list.
 
 - [ ] **Step 6: Run unit tests, then both private-capture integration checks**
 
@@ -734,7 +902,7 @@ Expected: failures for the missing archival candidate, fixed-disposition, privat
 
 - [ ] **Step 3: Implement the fixed 555-row candidate and controlled assessment**
 
-`build_historical_candidate(rows)` must require exactly 555 rows from source ID `arquivo_pt_20091008014619`, include every source ordinal, exclude none, and attach candidate ID `arquivo_pt_20091008014619_as_archived`. `assess_archival_candidate(benchmark_result)` always emits `not_identifiable` under schema version 1 because the evidence does not identify the seven exclusions from 555 to 548 or a unique fitting recipe. An exact numerical match may be reported as benchmark proximity but cannot return `exact` or `bounded_non_unique`. There is no subset-search or exclusion interface.
+`build_historical_candidate(rows)` must require exactly 555 rows from source ID `arquivo_pt_20091008014619`, include every source ordinal, exclude none, and attach candidate ID `arquivo_pt_20091008014619_as_archived` plus rule ID `as_archived_all_rows_v1`. `assess_archival_candidate(benchmark_result)` always emits `not_identifiable` under schema version 1 because the evidence does not identify the seven exclusions from 555 to 548 or a unique fitting recipe. An exact numerical match may be reported as benchmark proximity but cannot return `exact` or `bounded_non_unique`. There is no subset-search or exclusion interface.
 
 All machine-generated public text must go through one helper:
 
@@ -745,25 +913,73 @@ def write_utf8_lf(path: Path, text: str) -> None:
     path.write_bytes(text.encode("utf-8"))
 ```
 
-Use it for public receipts. Write the private JSON trace with the same UTF-8/LF guarantee after canonical `json.dumps(..., ensure_ascii=False, indent=2) + "\n"`. Never rely on Windows default newline translation. A candidate membership fingerprint is SHA-256 over newline-separated included source ordinals in ascending order, encoded as ASCII; a mapping fingerprint is SHA-256 over canonical private mapping assignments. Never print ordinals or assignments publicly.
+Use it for public receipts and for the canonical private trace bytes. Never rely on Windows default newline translation. The precise private JSON and fingerprint encodings are frozen below; never print ordinals, row identities, or assignments publicly.
 
 - [ ] **Step 4: Implement private trace generation and diagnostic mapping**
 
-Load both frozen source contracts from `data/scaruffi-followup-plan.json`, parse both private captures, build the fixed 555-row candidate, and call `map_historical_to_current`. Write `data/raw/scaruffi-2026-09-03/reconstruction-membership.json` with exact top-level keys in this order:
+Load both frozen source contracts from `data/scaruffi-followup-plan.json`, verify the historical manifest byte/hash identity, parse both private captures, build the fixed 555-row candidate, and call `map_historical_to_current`. Use the Task-3 `private_row_identity` helper as the sole implementation of row normalization and row hashing; do not duplicate that formula. Historical and current row-identity arrays are each sorted by `source_ordinal` ascending.
 
-```json
-{
+Each mapping assignment object has keys in this exact order: `category`, `historical_ordinal`, `current_ordinal`, `historical_row_sha256`, `current_row_sha256`. Missing-side values are JSON `null`. Assignment order is the mapping sort order frozen in Task 3. Compute the membership preimage as `json.dumps(["scaruffi-membership-fingerprint-v1", [item["row_sha256"] for item in historical_row_identities]], ensure_ascii=False, separators=(",", ":")) + "\n"`. Compute the mapping preimage as `json.dumps(["scaruffi-mapping-fingerprint-v1", ordered_assignment_objects], ensure_ascii=False, separators=(",", ":")) + "\n"`. Encode each complete preimage as UTF-8 and SHA-256 it; no ordinal-only or platform-newline encoding is permitted.
+
+Write `data/raw/scaruffi-2026-09-03/reconstruction-membership.json` with exact top-level and nested keys in this order:
+
+```python
+trace = {
+  "schema_id": "scaruffi-private-trace-v1",
   "schema_version": 1,
-  "historical_source": {},
-  "candidate": {},
-  "included_historical_source_ordinals": [],
-  "private_row_identities": [],
-  "mapping": {},
-  "aggregate_counts": {}
+  "row_identity_schema_id": "scaruffi-private-row-v1",
+  "membership_fingerprint_schema_id": "scaruffi-membership-fingerprint-v1",
+  "mapping_fingerprint_schema_id": "scaruffi-mapping-fingerprint-v1",
+  "source_identities": {
+    "historical_capture": historical_contract.content_identity,
+    "historical_manifest": historical_contract.manifest_content_identity,
+    "current_capture": current_contract.content_identity,
+  },
+  "candidate": {
+    "id": "arquivo_pt_20091008014619_as_archived",
+    "row_count": 555,
+    "rule_id": "as_archived_all_rows_v1",
+    "excluded_source_ordinals": [],
+  },
+  "included_historical_source_ordinals": included_ordinals,
+  "row_identities": {
+    "historical": historical_row_identities,
+    "current": current_row_identities,
+  },
+  "mapping_assignments": ordered_assignment_objects,
+  "aggregate_counts": {
+    "candidate_rows": 555,
+    "exact": mapping_counts["exact"],
+    "same_name_different_height": mapping_counts["same_name_different_height"],
+    "historical_only": mapping_counts["historical_only"],
+    "current_only": mapping_counts["current_only"],
+  },
+  "fingerprints": {
+    "membership_sha256": membership_sha256,
+    "mapping_sha256": mapping_sha256,
+  },
 }
 ```
 
-`historical_source` records source ID, original URL, archive timestamp, original `Last-Modified`, bytes, and SHA-256. `candidate` records ID, row count 555, rule ID, and no exclusions. `private_row_identities` contains deterministic per-row identities derived from source ordinal plus normalized private fields and is sufficient to reproduce membership. `mapping` contains private ordinal assignments for exactly the four frozen categories. `aggregate_counts` contains candidate and category totals. Assert that every historical ordinal appears in the candidate and in exactly one historical mapping disposition (`exact`, `same_name_different_height`, or `historical_only`); current-only ordinals appear separately. Mapping must never change the included ordinals.
+Serialize the complete trace with insertion order as shown, `json.dumps(trace, ensure_ascii=False, indent=2) + "\n"`, UTF-8, and LF only; `sort_keys` must remain false. Assert that `included_historical_source_ordinals` is `[1, 2, ..., 555]`, every historical/current row identity is present once, every ordinal occurs in exactly one mapping assignment, aggregate counts equal the assignment recount, and mapping does not change candidate ordinals.
+
+Add `test_private_trace_schema_and_fingerprints_are_byte_exact` using the ambiguous-duplicate fixture from Task 3, candidate ID `synthetic-as-archived`, rule ID `as_archived`, synthetic identities `scaruffi-content-sha256-v1:historical-test:1:` plus 64 `1` characters, `scaruffi-manifest-sha256-v1:1:` plus 64 `3` characters, and `scaruffi-content-sha256-v1:current-test:1:` plus 64 `2` characters. Country is `X` and continent is `Test` for every row. The eleven row hashes in historical-then-current ordinal order must be:
+
+```text
+9d1fd43d39c7916594d43af436be01f8d270d078da82c0a9aabb9c4ec32417c0
+74574aa4dfec326a304766b359eba315bc7f26d047153a5841e0189e5f23ec7e
+c2702e1106281e3e3f29045e44b2e4aa0a024812b5fa29ee163c1b9f3f04b2f7
+d1d6e511f692a71a309052f24eda2e265f0dc814379c65442b610f5d77b5ba37
+180db86db81bc137573d67a884ae49b83b5c54dc32955599560ae8daa74dbb12
+99f704eaae661eff4aacf0468c4e51612e659cb9484c098cafe142a9cbb2d2ef
+220ed100b75f64894b24fb9ac5863415e7236af270d6fb631c27caaa6400e797
+242f57372eba1f5047041df10042cd22011105d600eec126295aa103ea6e43c7
+d2544081a79cdeda665e1af4568f2d693da6ec45b9b2751b45800fcd4b2b3f67
+39f84f5ed0d3f1fa46a1e557c174e38410896ef9a95d1397f0e32c809f2b3bd5
+532322fe381c9acaca5e2c83adced7e5e0e60e8a61e8c69245f45992662a8500
+```
+
+Construct the expected assignment objects from the exact ordered triples in Task 3 and these literal row hashes, not by calling production fingerprint helpers. Assert membership fingerprint `f7fee5af6130cc782f140d159b56364349d37be14ea502e9e8cd42e99b2a3ac6`, mapping fingerprint `f5f8bc4c04fd4883cb60b67d26eb5d3f9de360f61df83d943eeebc3d4c47348e`, full canonical trace length 6,901 UTF-8 bytes, and full trace SHA-256 `78d4f66a82da94ab51d699bcbfbf96302e4cca9b59f668649a2fc03903de7ee6`. Reverse both input lists and require the same trace bytes and hashes.
 
 - [ ] **Step 5: Fit only the frozen archival candidate and check benchmarks**
 
@@ -968,9 +1184,9 @@ The auditor must not be the implementer or pre-fit auditor. It should receive th
 
 Require independent re-derivation of:
 
-- both byte/hash/table/row contracts and height parsing, including historical 555 and current 565;
+- both `scaruffi-source-contract-v2` byte/hash/content-identity/table/row contracts, the ignored manifest's `scaruffi-manifest-sha256-v1` identity, both frozen grammar/reporting schema IDs, and height parsing, including historical 555 and current 565;
 - repeated-name, exact-duplicate, integer-height, and order-inversion diagnostics;
-- all four historical/current mapping categories and fingerprints, with mapping proven diagnostic rather than a filter;
+- the total ordered one-to-one mapping partition, all four category counts, literal assignment ordering, canonical private-trace encoding, and independently recomputed membership/mapping fingerprints, with mapping proven diagnostic rather than a filter;
 - exact 555-row `arquivo_pt_20091008014619_as_archived` membership and the absence of exclusions;
 - historical `not_identifiable` disposition from the frozen evidence and benchmarks, even if the 555-row fit is numerically close;
 - S0/S1 membership counts and fingerprints;
@@ -1250,14 +1466,15 @@ Append a final dated publication entry to `results/final-correction-receipt.md` 
 - [ ] `results/scaruffi-source-audit.md` distinguishes benchmark evidence from membership evidence.
 - [ ] Governance and the pre-fit audit are committed before fitting code or receipts.
 - [ ] Both private HTML captures, the historical `_manifest.json`, and `reconstruction-membership.json` remain ignored, untracked, absent from clean clones, and absent from Pages/releases/fixtures/generated HTML.
-- [ ] Both source contracts bind source ID, original URL, bytes, SHA-256, unique four-header table, expected row count, lexical height grammar, and anomaly reporting; every mismatch hard-fails before fitting.
+- [ ] Both `scaruffi-source-contract-v2` contracts bind source ID, documentary original URL, bytes, SHA-256, recomputable `scaruffi-content-sha256-v1` identity, unique four-header table, expected row count, `scaruffi-height-lexical-v1`, and `scaruffi-anomaly-report-v1`; every locally enforceable schema/content/table/row mismatch hard-fails, and historical URL/timestamp metadata is tied to exact ignored-manifest bytes by `scaruffi-manifest-sha256-v1` plus the source audit without pretending HTML bytes reveal a remote URL.
 - [ ] The historical candidate is exactly 555 as-archived rows with ID `arquivo_pt_20091008014619_as_archived`; it contains all historical source ordinals and no inferred exclusions.
-- [ ] Mapping reports `exact`, `same_name_different_height`, `historical_only`, and `current_only` deterministically and is never a membership filter.
+- [ ] Mapping exhausts one-to-one ordinal-ordered exact pairs, then ordinal-ordered same-name/different-height pairs, then one-sided rows; every historical/current ordinal appears exactly once in the total ordered partition, and mapping is never a membership filter.
 - [ ] Historical output uses controlled disposition `not_identifiable`; a 555-row fit is archival sensitivity evidence and never earns exact or bounded reconstruction status under present evidence.
 - [ ] Miškinis's unidentified 548 rows, the dated 555-row archival candidate, and the dated 565/564 current arms are never conflated.
 - [ ] S0 is 565 as-listed rows; S1 removes only exact normalized-name-plus-height duplicates and is expected to contain 564 rows.
 - [ ] Both current arms are labelled dated sensitivities outside the Stage-3 Holm family.
 - [ ] `results/stage3-recompute.txt` retains full SHA-256 `6ee0540c11ab60ef4fe68f32fee026a1b0b60d9ebacfd44feddcd82612c193c7` and no accepted Stage-3 verdict changes.
+- [ ] `scaruffi-private-trace-v1` uses the frozen row schema, assignment objects/order, canonical metres/text/JSON encoding, and versioned membership/mapping hash preimages; the fixed ambiguous-duplicate fixture reproduces the literal hashes and canonical trace SHA-256.
 - [ ] Public receipts expose only aggregate counts, cryptographic fingerprints, rule IDs, and dispositions; all new public numerals are receipt-derived and verified.
 - [ ] Overview remains short and reader-facing; Full report remains complete and verbatim-derived.
 - [ ] Fresh-context scientific and reader audits are recorded.

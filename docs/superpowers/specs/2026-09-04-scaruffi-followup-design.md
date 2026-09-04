@@ -35,10 +35,11 @@ Approved on 2026-09-04 after Task 1 found independently dated row-level historic
 - Historical capture: 100,381 bytes; SHA-256 `813731ac6000d00cab2c7d7915a294a8b2dbf6551b0a5fc4a34f9aa0d882a571`; provisional target-table row count 555.
 - Current capture: 102,018 bytes; SHA-256 `4120acf43eff541148f920cd5f663abc09bd89ff3d60e47f572cdc27835e52fe`; target-table row count 565.
 - Evidence-supported candidate identifier: `arquivo_pt_20091008014619_as_archived`.
+- Candidate rule identifier: `as_archived_all_rows_v1`.
 
 The 2009 capture is independently dated row-level historical evidence and defines one explicit 555-row as-archived candidate. It is not Miškinis's exact 548-row sample. No task may infer, optimize, or search for seven exclusions. The controlled historical disposition remains `not_identifiable` unless a separately approved dated deviation later identifies both a defensible 548-row candidate and a unique fitting recipe. A fit of the 555-row candidate quantifies archival benchmark proximity only and cannot change that disposition.
 
-Historical/current mapping is deterministic and diagnostic only. Its categories are `exact`, `same_name_different_height`, `historical_only`, and `current_only`. An `exact` match requires the normalized casefold name and exact normalized height in metres to agree. The same normalized casefold name at a different height is reported as `same_name_different_height` and never merged; all other records are `historical_only` or `current_only`. Fuzzy matching, manual aliases, inferred substitutions, and mapping-driven deletion are prohibited. Historical-only rows remain members of the 555-row candidate.
+Historical/current mapping is deterministic and diagnostic only. Its category precedence is `exact`, then `same_name_different_height`, then the one-sided categories `historical_only` and `current_only`. First, within each exact `(normalized casefold name, canonical metres)` key, pair historical and current rows one-to-one in ascending source-ordinal order. Second, remove those pairs and, within each remaining normalized casefold name present on both sides, pair rows one-to-one in ascending source-ordinal order as `same_name_different_height`; because exact pairs were exhausted first, these paired heights differ. Finally, classify every unpaired row on its own side. This assigns every historical and current source ordinal exactly once. Fuzzy matching, manual aliases, inferred substitutions, and mapping-driven deletion are prohibited. Historical-only rows remain members of the 555-row candidate.
 
 ## Chosen approach
 
@@ -88,7 +89,7 @@ No public artifact may reproduce the complete mountain-name sequence or a row-co
 
 This module reads an explicitly supplied local capture under a `SourceContract` and returns normalized records plus a structured diagnostic summary. It has no network behavior and does not write a public row-level CSV. The same public code parses both private captures.
 
-Each `SourceContract` binds `source_id`, expected original URL, byte count, SHA-256, the unique four-header target table, expected row count, and the approved lexical height grammar and anomaly reporting. The two frozen source IDs are `arquivo_pt_20091008014619` for `data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html` and `scaruffi_20260903_current` for `data/raw/scaruffi-2026-09-03/tallest.html`. A byte, hash, URL-identity, table, or row-count mismatch hard-fails before any fit.
+Each `SourceContract` uses schema ID `scaruffi-source-contract-v2` and binds `source_id`, documentary `expected_url`, byte count, SHA-256, content identity, the unique four-header target table, expected row count, height grammar ID `scaruffi-height-lexical-v1`, and anomaly schema ID `scaruffi-anomaly-report-v1`. The content identity is the ASCII string `scaruffi-content-sha256-v1:<source_id>:<expected_bytes>:<expected_sha256>`; `parse_capture` recomputes it from the actual local bytes and fails on any mismatch. The parser cannot infer a remote URL from HTML bytes, so `expected_url`, replay URL, and timestamps are frozen provenance metadata, not parser-observed fields. The historical contract additionally binds the ignored manifest by its own ASCII identity `scaruffi-manifest-sha256-v1:<expected_bytes>:<expected_sha256>`; `verify_manifest_identity` recomputes that identity from the local manifest bytes before parsing. The source audit supplies the semantic interpretation of those exact hash-bound manifest bytes. The two frozen source IDs are `arquivo_pt_20091008014619` for `data/raw/scaruffi-2026-09-03/historical-evidence/scaruffi-tallest-20091008014619.html` and `scaruffi_20260903_current` for `data/raw/scaruffi-2026-09-03/tallest.html`. Unsupported schema/grammar/anomaly IDs or a capture/manifest byte, hash, content-identity, table, or row-count mismatch hard-fails before any fit.
 
 The parser selects the unique table with the four required headers `Mountain`, `Height`, `Country`, and `Continent`; an absent or ambiguous match is a hard failure. It retains each source ordinal and raw field text for local audit. Extra cells are allowed only when empty or whitespace-only.
 
@@ -123,7 +124,7 @@ Focused tests use small synthetic HTML fixtures and synthetic elevation arrays. 
 - `tests/test_scaruffi_parse.py`; and
 - `tests/test_scaruffi_followup.py`.
 
-They cover source-contract selection for both 555- and 565-row sources, hard failures for byte/hash/table/row mismatches, unit normalization, blank extra cells, malformed input, duplicate classification, deterministic tie ranking, order-inversion reporting, exact/same-name-different-height/historical-only/current-only mapping, proof that mapping cannot filter the 555-row candidate, reconstruction disposition logic, private-data exclusion, and immutable Stage-3 regression behavior. Synthetic fixtures may not reproduce the source compilation.
+They cover source-contract selection for both 555- and 565-row sources; hard failures for schema, grammar, anomaly-schema, byte, hash, capture/manifest content-identity, table, and row mismatches; unit normalization; every frozen anomaly field; deterministic ranking; the ordered one-to-one mapping algorithm including ambiguous duplicate-name cases; a byte-exact synthetic private trace with fixed membership and mapping fingerprints; proof that mapping cannot filter the 555-row candidate; reconstruction disposition logic; private-data exclusion; and immutable Stage-3 regression behavior. Synthetic fixtures may not reproduce the source compilation.
 
 ## Phase 1: reconstruction design
 
@@ -138,7 +139,7 @@ Candidate generation and benchmark evaluation are separate steps:
 5. evaluate the candidate against Miškinis's printed sample size, threshold counts, maximum height, formula, coefficients, and residual summaries; and
 6. retain the controlled `not_identifiable` disposition.
 
-The ignored trace path is `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`. It records historical source identity, candidate ID, all included historical source ordinals, deterministic private row identities sufficient to reproduce the 555-row candidate, mapping categories to the current capture, and aggregate counts. Public receipts expose only aggregate counts, cryptographic fingerprints, rule IDs, and dispositions—not names, row sequences, or a row-complete substitute.
+The ignored trace path is `data/raw/scaruffi-2026-09-03/reconstruction-membership.json`, with schema ID `scaruffi-private-trace-v1`. It records both capture content identities, the historical manifest content identity, candidate ID, all included historical source ordinals, deterministic identities for every historical and current row, the total mapping partition, aggregate counts, and fingerprints. A row identity hashes the newline-terminated compact UTF-8 JSON array `['scaruffi-private-row-v1', source_id, source_ordinal, normalized_casefold_name, canonical_metres, normalized_country, normalized_continent]`. A mapping assignment contains category, nullable historical/current ordinals, and nullable historical/current row hashes; assignments are ordered by category precedence and ordinals. Membership and mapping fingerprints hash compact newline-terminated UTF-8 JSON arrays tagged `scaruffi-membership-fingerprint-v1` and `scaruffi-mapping-fingerprint-v1` respectively. The plan freezes exact field order, decimal canonicalization, JSON encoding, and synthetic expected hashes. Public receipts expose only aggregate counts, cryptographic fingerprints, rule IDs, and dispositions—not names, row sequences, assignments, or a row-complete substitute.
 
 Printed integer benchmarks must match exactly. A printed continuous parameter is reproduced when the recomputed value falls within half a unit of its last printed decimal under the same formula and fitting definition. If the paper does not specify enough of the fitting procedure to make that comparison unique, the ambiguity is reported rather than resolved by choosing the most favorable implementation.
 
@@ -170,7 +171,9 @@ This arm is follow-up sensitivity evidence. It is not inserted retrospectively i
 
 The parser exits nonzero and produces no fit receipt when any of the following occurs:
 
-- raw hash, byte count, expected URL identity, or expected row count differs from either source contract;
+- raw hash, byte count, recomputed content identity, or expected row count differs from either source contract;
+- a source contract uses an unsupported contract, height-grammar, or anomaly-schema ID;
+- the historical manifest's bytes, SHA-256, or recomputed manifest content identity disagrees with the serialized contract;
 - the target table is missing or ambiguous;
 - required fields are missing;
 - a height token violates the frozen unit grammar;
