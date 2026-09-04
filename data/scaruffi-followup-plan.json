@@ -4,7 +4,7 @@
   "protected_scope": {
     "published_59_sha256": "4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110",
     "immutable_57_sha256": "60ac68e50e32d51c85d8536fafe073cf8005a64b7585e7ce76902a61c568c62f",
-    "governance_59_sha256": "0f3f403ff726cb14f8ce7831c4e3f9e75ba025f1fb678ed2cde9a3bc2319bdcd",
+    "governance_59_sha256": "8292451daf3ec1e0f2d1f1d3347bdc2a81d707efe8ca2ae0cd00463cd281d485",
     "governance_digest_recipe": "sha256 of UTF-8 manifest lines '<file_sha256>  <path>\\n', with git ls-files data/raw data/derived plus PREREGISTRATION.md, CLAIM_INVENTORY.md, and the eight fixed Stage-0 through Stage-3 receipt files, sorted by UTF-8 path bytes; this JSON is outside the scope and therefore does not recurse"
   },
   "source_contracts": {
@@ -111,7 +111,44 @@
             "height_raw",
             "canonical_metres"
           ],
-          "record_type": "one record per accepted decimal-kilometre token"
+          "record_type": "one record per accepted decimal-kilometre token",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "source_ordinal",
+              "height_raw",
+              "canonical_metres"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 1,
+                "semantics": "one-based target-table data-row ordinal"
+              },
+              "height_raw": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[0-9]+\\.[0-9]+$",
+                "semantics": "accepted decimal-kilometre lexical token exactly as parsed"
+              },
+              "canonical_metres": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                "semantics": "canonical Decimal metres text"
+              }
+            }
+          }
         },
         "metre_conversions": {
           "record_fields": [
@@ -120,7 +157,44 @@
             "height_raw",
             "canonical_metres"
           ],
-          "record_type": "one record per accepted integer-metre token"
+          "record_type": "one record per accepted integer-metre token",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "source_ordinal",
+              "height_raw",
+              "canonical_metres"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 1,
+                "semantics": "one-based target-table data-row ordinal"
+              },
+              "height_raw": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[0-9]+$",
+                "semantics": "accepted integer-metre lexical token exactly as parsed"
+              },
+              "canonical_metres": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                "semantics": "canonical Decimal metres text"
+              }
+            }
+          }
         },
         "repeated_casefold_name_groups": {
           "record_fields": [
@@ -135,7 +209,60 @@
           "group_key": [
             "name_casefold"
           ],
-          "inclusion": "groups with two or more source rows"
+          "inclusion": "groups with two or more source rows",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "name_casefold",
+              "members"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "name_casefold": {
+                "type": "string",
+                "nullable": false,
+                "minimum_length": 1,
+                "semantics": "NFKC collapsed-whitespace mountain name after Unicode casefold"
+              },
+              "members": {
+                "type": "array",
+                "nullable": false,
+                "minimum_items": 2,
+                "semantics": "source-ordinal ascending members",
+                "items": {
+                  "type": "object",
+                  "nullable": false,
+                  "additional_properties": false,
+                  "key_order": [
+                    "source_ordinal",
+                    "canonical_metres"
+                  ],
+                  "properties": {
+                    "source_ordinal": {
+                      "type": "integer",
+                      "nullable": false,
+                      "minimum": 1,
+                      "semantics": "one-based target-table data-row ordinal"
+                    },
+                    "canonical_metres": {
+                      "type": "string",
+                      "nullable": false,
+                      "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                      "semantics": "canonical Decimal metres text"
+                    }
+                  }
+                }
+              }
+            }
+          }
         },
         "same_name_different_height_groups": {
           "record_fields": [
@@ -150,7 +277,60 @@
           "group_key": [
             "name_casefold"
           ],
-          "inclusion": "groups with two or more distinct canonical_metres values"
+          "inclusion": "groups with two or more distinct canonical_metres values",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "name_casefold",
+              "members"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "name_casefold": {
+                "type": "string",
+                "nullable": false,
+                "minimum_length": 1,
+                "semantics": "NFKC collapsed-whitespace mountain name after Unicode casefold"
+              },
+              "members": {
+                "type": "array",
+                "nullable": false,
+                "minimum_items": 2,
+                "semantics": "source-ordinal ascending members with at least two canonical metres values",
+                "items": {
+                  "type": "object",
+                  "nullable": false,
+                  "additional_properties": false,
+                  "key_order": [
+                    "source_ordinal",
+                    "canonical_metres"
+                  ],
+                  "properties": {
+                    "source_ordinal": {
+                      "type": "integer",
+                      "nullable": false,
+                      "minimum": 1,
+                      "semantics": "one-based target-table data-row ordinal"
+                    },
+                    "canonical_metres": {
+                      "type": "string",
+                      "nullable": false,
+                      "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                      "semantics": "canonical Decimal metres text"
+                    }
+                  }
+                }
+              }
+            }
+          }
         },
         "exact_name_height_groups": {
           "record_fields": [
@@ -163,7 +343,50 @@
             "name_casefold",
             "canonical_metres"
           ],
-          "inclusion": "groups with two or more source rows"
+          "inclusion": "groups with two or more source rows",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "name_casefold",
+              "canonical_metres",
+              "source_ordinals"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "name_casefold": {
+                "type": "string",
+                "nullable": false,
+                "minimum_length": 1,
+                "semantics": "NFKC collapsed-whitespace mountain name after Unicode casefold"
+              },
+              "canonical_metres": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                "semantics": "canonical Decimal metres text"
+              },
+              "source_ordinals": {
+                "type": "array",
+                "nullable": false,
+                "minimum_items": 2,
+                "semantics": "strictly ascending source ordinals",
+                "items": {
+                  "type": "integer",
+                  "nullable": false,
+                  "minimum": 1,
+                  "semantics": "one-based target-table data-row ordinal"
+                }
+              }
+            }
+          }
         },
         "height_tie_groups": {
           "record_fields": [
@@ -174,7 +397,43 @@
           "group_key": [
             "canonical_metres"
           ],
-          "inclusion": "groups with two or more source rows"
+          "inclusion": "groups with two or more source rows",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "canonical_metres",
+              "source_ordinals"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "canonical_metres": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                "semantics": "canonical Decimal metres text"
+              },
+              "source_ordinals": {
+                "type": "array",
+                "nullable": false,
+                "minimum_items": 2,
+                "semantics": "strictly ascending source ordinals",
+                "items": {
+                  "type": "integer",
+                  "nullable": false,
+                  "minimum": 1,
+                  "semantics": "one-based target-table data-row ordinal"
+                }
+              }
+            }
+          }
         },
         "source_order_inversions": {
           "record_fields": [
@@ -184,7 +443,51 @@
             "previous_canonical_metres",
             "next_canonical_metres"
           ],
-          "record_type": "one record for each adjacent ordinal pair whose elevation strictly increases"
+          "record_type": "one record for each adjacent ordinal pair whose elevation strictly increases",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "previous_source_ordinal",
+              "next_source_ordinal",
+              "previous_canonical_metres",
+              "next_canonical_metres"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "previous_source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 1,
+                "semantics": "one-based preceding target-table data-row ordinal"
+              },
+              "next_source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 2,
+                "semantics": "one-based immediately following target-table data-row ordinal"
+              },
+              "previous_canonical_metres": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                "semantics": "canonical Decimal metres text before inversion"
+              },
+              "next_canonical_metres": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                "semantics": "canonical Decimal metres text after inversion and strictly numerically greater"
+              }
+            }
+          }
         },
         "missing_fields": {
           "record_fields": [
@@ -192,7 +495,42 @@
             "source_ordinal",
             "field"
           ],
-          "record_type": "one record per missing required field in header order Mountain, Height, Country, Continent"
+          "record_type": "one record per missing required field in header order Mountain, Height, Country, Continent",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "source_ordinal",
+              "field"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 1,
+                "semantics": "one-based target-table data-row ordinal"
+              },
+              "field": {
+                "type": "string",
+                "nullable": false,
+                "enum": [
+                  "mountain",
+                  "height",
+                  "country",
+                  "continent"
+                ],
+                "semantics": "missing required field in target-header order"
+              }
+            }
+          }
         },
         "blank_extra_cells": {
           "record_fields": [
@@ -201,7 +539,44 @@
             "column_index",
             "cell_text"
           ],
-          "record_type": "one record per trailing cell whose raw text is empty or whitespace-only; column_index is one-based"
+          "record_type": "one record per trailing cell whose raw text is empty or whitespace-only; column_index is one-based",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "source_ordinal",
+              "column_index",
+              "cell_text"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 1,
+                "semantics": "one-based target-table data-row ordinal"
+              },
+              "column_index": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 5,
+                "semantics": "one-based trailing cell position"
+              },
+              "cell_text": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^\\s*$",
+                "semantics": "raw blank or whitespace-only trailing cell text"
+              }
+            }
+          }
         },
         "nonblank_extra_cells": {
           "record_fields": [
@@ -210,7 +585,44 @@
             "column_index",
             "cell_text"
           ],
-          "record_type": "one record per trailing cell whose raw text is not whitespace-only; column_index is one-based"
+          "record_type": "one record per trailing cell whose raw text is not whitespace-only; column_index is one-based",
+          "typed_record_schema": {
+            "type": "object",
+            "nullable": false,
+            "additional_properties": false,
+            "key_order": [
+              "source_id",
+              "source_ordinal",
+              "column_index",
+              "cell_text"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "nullable": false,
+                "pattern": "^[a-z0-9_]+$",
+                "semantics": "source contract source_id"
+              },
+              "source_ordinal": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 1,
+                "semantics": "one-based target-table data-row ordinal"
+              },
+              "column_index": {
+                "type": "integer",
+                "nullable": false,
+                "minimum": 5,
+                "semantics": "one-based trailing cell position"
+              },
+              "cell_text": {
+                "type": "string",
+                "nullable": false,
+                "minimum_length": 1,
+                "semantics": "raw trailing cell text whose stripped value is nonempty"
+              }
+            }
+          }
         }
       },
       "hard_fail_observation_rule": "diagnostic classification is deterministic before enforcement; a missing required field or nonblank extra cell then hard-fails and produces no fit receipt"
@@ -903,44 +1315,441 @@
       "aggregate_counts",
       "fingerprints"
     ],
+    "typed_trace_schema": {
+      "type": "object",
+      "nullable": false,
+      "additional_properties": false,
+      "key_order": [
+        "schema_id",
+        "schema_version",
+        "row_identity_schema_id",
+        "membership_fingerprint_schema_id",
+        "mapping_fingerprint_schema_id",
+        "source_identities",
+        "candidate",
+        "included_historical_source_ordinals",
+        "row_identities",
+        "mapping_assignments",
+        "aggregate_counts",
+        "fingerprints"
+      ],
+      "properties": {
+        "schema_id": {
+          "type": "string",
+          "nullable": false,
+          "const": "scaruffi-private-trace-v1",
+          "semantics": "private trace schema identifier"
+        },
+        "schema_version": {
+          "type": "integer",
+          "nullable": false,
+          "const": 1,
+          "minimum": 1,
+          "semantics": "private trace schema version"
+        },
+        "row_identity_schema_id": {
+          "type": "string",
+          "nullable": false,
+          "const": "scaruffi-private-row-v1",
+          "semantics": "row identity schema identifier"
+        },
+        "membership_fingerprint_schema_id": {
+          "type": "string",
+          "nullable": false,
+          "const": "scaruffi-membership-fingerprint-v1",
+          "semantics": "membership fingerprint schema identifier"
+        },
+        "mapping_fingerprint_schema_id": {
+          "type": "string",
+          "nullable": false,
+          "const": "scaruffi-mapping-fingerprint-v1",
+          "semantics": "mapping fingerprint schema identifier"
+        },
+        "source_identities": {
+          "type": "object",
+          "nullable": false,
+          "semantics": "exact object typed by nested_schema.source_identities"
+        },
+        "candidate": {
+          "type": "object",
+          "nullable": false,
+          "semantics": "exact object typed by nested_schema.candidate"
+        },
+        "included_historical_source_ordinals": {
+          "type": "array",
+          "nullable": false,
+          "semantics": "exact array typed by nested_schema.included_historical_source_ordinals"
+        },
+        "row_identities": {
+          "type": "object",
+          "nullable": false,
+          "semantics": "exact object typed by nested_schema.row_identities"
+        },
+        "mapping_assignments": {
+          "type": "array",
+          "nullable": false,
+          "semantics": "exact array typed by nested_schema.mapping_assignments"
+        },
+        "aggregate_counts": {
+          "type": "object",
+          "nullable": false,
+          "semantics": "exact object typed by nested_schema.aggregate_counts"
+        },
+        "fingerprints": {
+          "type": "object",
+          "nullable": false,
+          "semantics": "exact object typed by nested_schema.fingerprints"
+        }
+      }
+    },
     "nested_schema": {
-      "source_identities": [
-        "historical_capture",
-        "historical_manifest",
-        "current_capture"
-      ],
-      "candidate": [
-        "id",
-        "row_count",
-        "rule_id",
-        "excluded_source_ordinals"
-      ],
-      "included_historical_source_ordinals": "array of positive integer historical source ordinals in ascending order",
-      "row_identities": [
-        "historical",
-        "current"
-      ],
-      "row_identity_item": [
-        "source_id",
-        "source_ordinal",
-        "normalized_casefold_name",
-        "canonical_metres",
-        "normalized_country",
-        "normalized_continent",
-        "row_sha256"
-      ],
-      "mapping_assignments": "array of mapping_assignment_key_order objects in mapping_assignment_order",
-      "aggregate_counts": [
-        "candidate_rows",
-        "exact",
-        "same_name_different_height",
-        "historical_only",
-        "current_only"
-      ],
-      "fingerprints": [
-        "membership_sha256",
-        "mapping_sha256"
-      ]
+      "source_identities": {
+        "type": "object",
+        "nullable": false,
+        "additional_properties": false,
+        "key_order": [
+          "historical_capture",
+          "historical_manifest",
+          "current_capture"
+        ],
+        "properties": {
+          "historical_capture": {
+            "type": "string",
+            "nullable": false,
+            "pattern": "^scaruffi-content-sha256-v1:[a-z0-9_]+:[0-9]+:[0-9a-f]{64}$",
+            "semantics": "historical capture content identity"
+          },
+          "historical_manifest": {
+            "type": "string",
+            "nullable": false,
+            "pattern": "^scaruffi-manifest-sha256-v1:[0-9]+:[0-9a-f]{64}$",
+            "semantics": "historical manifest content identity"
+          },
+          "current_capture": {
+            "type": "string",
+            "nullable": false,
+            "pattern": "^scaruffi-content-sha256-v1:[a-z0-9_]+:[0-9]+:[0-9a-f]{64}$",
+            "semantics": "current capture content identity"
+          }
+        }
+      },
+      "candidate": {
+        "type": "object",
+        "nullable": false,
+        "additional_properties": false,
+        "key_order": [
+          "id",
+          "row_count",
+          "rule_id",
+          "excluded_source_ordinals"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "nullable": false,
+            "minimum_length": 1,
+            "semantics": "candidate identifier"
+          },
+          "row_count": {
+            "type": "integer",
+            "nullable": false,
+            "minimum": 1,
+            "semantics": "candidate membership row count"
+          },
+          "rule_id": {
+            "type": "string",
+            "nullable": false,
+            "minimum_length": 1,
+            "semantics": "candidate membership rule identifier"
+          },
+          "excluded_source_ordinals": {
+            "type": "array",
+            "nullable": false,
+            "strictly_ascending": true,
+            "semantics": "excluded historical source ordinals",
+            "items": {
+              "type": "integer",
+              "nullable": false,
+              "minimum": 1,
+              "semantics": "one-based excluded historical source ordinal"
+            }
+          }
+        }
+      },
+      "included_historical_source_ordinals": {
+        "type": "array",
+        "nullable": false,
+        "minimum_items": 1,
+        "strictly_ascending": true,
+        "semantics": "all included one-based historical source ordinals",
+        "items": {
+          "type": "integer",
+          "nullable": false,
+          "minimum": 1,
+          "semantics": "one-based included historical source ordinal"
+        }
+      },
+      "row_identities": {
+        "type": "object",
+        "nullable": false,
+        "additional_properties": false,
+        "key_order": [
+          "historical",
+          "current"
+        ],
+        "properties": {
+          "historical": {
+            "type": "array",
+            "nullable": false,
+            "sorted_by": "source_ordinal_ascending",
+            "semantics": "historical row identity objects",
+            "items": {
+              "type": "object",
+              "nullable": false,
+              "additional_properties": false,
+              "key_order": [
+                "source_id",
+                "source_ordinal",
+                "normalized_casefold_name",
+                "canonical_metres",
+                "normalized_country",
+                "normalized_continent",
+                "row_sha256"
+              ],
+              "properties": {
+                "source_id": {
+                  "type": "string",
+                  "nullable": false,
+                  "pattern": "^[a-z0-9_]+$",
+                  "semantics": "historical source_id"
+                },
+                "source_ordinal": {
+                  "type": "integer",
+                  "nullable": false,
+                  "minimum": 1,
+                  "semantics": "one-based source ordinal"
+                },
+                "normalized_casefold_name": {
+                  "type": "string",
+                  "nullable": false,
+                  "minimum_length": 1,
+                  "semantics": "NFKC collapsed-whitespace casefold name"
+                },
+                "canonical_metres": {
+                  "type": "string",
+                  "nullable": false,
+                  "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                  "semantics": "canonical Decimal metres text"
+                },
+                "normalized_country": {
+                  "type": "string",
+                  "nullable": false,
+                  "minimum_length": 1,
+                  "semantics": "NFKC collapsed-whitespace country"
+                },
+                "normalized_continent": {
+                  "type": "string",
+                  "nullable": false,
+                  "minimum_length": 1,
+                  "semantics": "NFKC collapsed-whitespace continent"
+                },
+                "row_sha256": {
+                  "type": "string",
+                  "nullable": false,
+                  "pattern": "^[0-9a-f]{64}$",
+                  "semantics": "lowercase SHA-256 row identity"
+                }
+              }
+            }
+          },
+          "current": {
+            "type": "array",
+            "nullable": false,
+            "sorted_by": "source_ordinal_ascending",
+            "semantics": "current row identity objects",
+            "items": {
+              "type": "object",
+              "nullable": false,
+              "additional_properties": false,
+              "key_order": [
+                "source_id",
+                "source_ordinal",
+                "normalized_casefold_name",
+                "canonical_metres",
+                "normalized_country",
+                "normalized_continent",
+                "row_sha256"
+              ],
+              "properties": {
+                "source_id": {
+                  "type": "string",
+                  "nullable": false,
+                  "pattern": "^[a-z0-9_]+$",
+                  "semantics": "current source_id"
+                },
+                "source_ordinal": {
+                  "type": "integer",
+                  "nullable": false,
+                  "minimum": 1,
+                  "semantics": "one-based source ordinal"
+                },
+                "normalized_casefold_name": {
+                  "type": "string",
+                  "nullable": false,
+                  "minimum_length": 1,
+                  "semantics": "NFKC collapsed-whitespace casefold name"
+                },
+                "canonical_metres": {
+                  "type": "string",
+                  "nullable": false,
+                  "pattern": "^(0|[1-9][0-9]*(\\.[0-9]+)?)$",
+                  "semantics": "canonical Decimal metres text"
+                },
+                "normalized_country": {
+                  "type": "string",
+                  "nullable": false,
+                  "minimum_length": 1,
+                  "semantics": "NFKC collapsed-whitespace country"
+                },
+                "normalized_continent": {
+                  "type": "string",
+                  "nullable": false,
+                  "minimum_length": 1,
+                  "semantics": "NFKC collapsed-whitespace continent"
+                },
+                "row_sha256": {
+                  "type": "string",
+                  "nullable": false,
+                  "pattern": "^[0-9a-f]{64}$",
+                  "semantics": "lowercase SHA-256 row identity"
+                }
+              }
+            }
+          }
+        }
+      },
+      "mapping_assignments": {
+        "type": "array",
+        "nullable": false,
+        "sorted_by": "mapping_assignment_order",
+        "semantics": "total historical/current mapping assignments",
+        "items": {
+          "type": "object",
+          "nullable": false,
+          "additional_properties": false,
+          "key_order": [
+            "category",
+            "historical_ordinal",
+            "current_ordinal",
+            "historical_row_sha256",
+            "current_row_sha256"
+          ],
+          "properties": {
+            "category": {
+              "type": "string",
+              "nullable": false,
+              "enum": [
+                "exact",
+                "same_name_different_height",
+                "historical_only",
+                "current_only"
+              ],
+              "semantics": "mapping category"
+            },
+            "historical_ordinal": {
+              "type": "integer",
+              "nullable": true,
+              "minimum": 1,
+              "semantics": "one-based source ordinal or null for the absent side"
+            },
+            "current_ordinal": {
+              "type": "integer",
+              "nullable": true,
+              "minimum": 1,
+              "semantics": "one-based source ordinal or null for the absent side"
+            },
+            "historical_row_sha256": {
+              "type": "string",
+              "nullable": true,
+              "pattern": "^[0-9a-f]{64}$",
+              "semantics": "lowercase SHA-256 row identity or null for the absent side"
+            },
+            "current_row_sha256": {
+              "type": "string",
+              "nullable": true,
+              "pattern": "^[0-9a-f]{64}$",
+              "semantics": "lowercase SHA-256 row identity or null for the absent side"
+            }
+          }
+        }
+      },
+      "aggregate_counts": {
+        "type": "object",
+        "nullable": false,
+        "additional_properties": false,
+        "key_order": [
+          "candidate_rows",
+          "exact",
+          "same_name_different_height",
+          "historical_only",
+          "current_only"
+        ],
+        "properties": {
+          "candidate_rows": {
+            "type": "integer",
+            "nullable": false,
+            "minimum": 0,
+            "semantics": "candidate row count"
+          },
+          "exact": {
+            "type": "integer",
+            "nullable": false,
+            "minimum": 0,
+            "semantics": "exact mapping assignment count"
+          },
+          "same_name_different_height": {
+            "type": "integer",
+            "nullable": false,
+            "minimum": 0,
+            "semantics": "same-name/different-height assignment count"
+          },
+          "historical_only": {
+            "type": "integer",
+            "nullable": false,
+            "minimum": 0,
+            "semantics": "historical-only assignment count"
+          },
+          "current_only": {
+            "type": "integer",
+            "nullable": false,
+            "minimum": 0,
+            "semantics": "current-only assignment count"
+          }
+        }
+      },
+      "fingerprints": {
+        "type": "object",
+        "nullable": false,
+        "additional_properties": false,
+        "key_order": [
+          "membership_sha256",
+          "mapping_sha256"
+        ],
+        "properties": {
+          "membership_sha256": {
+            "type": "string",
+            "nullable": false,
+            "pattern": "^[0-9a-f]{64}$",
+            "semantics": "lowercase SHA-256 membership fingerprint"
+          },
+          "mapping_sha256": {
+            "type": "string",
+            "nullable": false,
+            "pattern": "^[0-9a-f]{64}$",
+            "semantics": "lowercase SHA-256 mapping fingerprint"
+          }
+        }
+      }
     },
     "trace_serialization": "json.dumps(trace, ensure_ascii=False, indent=2) + '\\n', UTF-8 LF-only, sort_keys=false",
     "synthetic_conformance_vector": {

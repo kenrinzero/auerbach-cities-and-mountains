@@ -284,3 +284,16 @@ fixes nested private-trace structure, serialization order, and public synthetic
 row/fingerprint/trace-byte hashes. These deterministic interfaces change neither the
 all-555 membership rule, `not_identifiable` disposition, no-exclusion rule, nor the S0/S1
 seeds, replicate counts, and exclusion from the original Holm family.
+
+### Amendment 4 — 2026-09-04 — Owner-approved typed pre-fit schemas
+
+Before any parser or fit, the owner-approved correction makes the JSON authority's
+diagnostic and trace schemas fully typed. Every anomaly record/member and every trace
+top-level/nested value now specifies JSON type, nullability, exact key order, bounds or
+patterns, array-item type/order, and field semantics; private fingerprints require
+lowercase SHA-256 text. The public focused test independently derives the synthetic
+anomalies and exact-first/name-second assignments from hard-coded public rows and
+hard-codes the approved records, mapping/category counts, eleven row hashes,
+fingerprint hashes, 6,901-byte serialized trace length, and trace SHA-256. This is only
+a deterministic governance correction: it changes no candidate, disposition, source
+fact, recipe, seed, arm, result, or original Stage-3 boundary.

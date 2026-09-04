@@ -60,6 +60,16 @@ private-trace conformance interfaces, including public synthetic hashes. The aut
 the unidentified 548 rows, all-555 candidate, `not_identifiable` disposition, or S0/S1's
 exclusion from the original Stage-3 Holm family.
 
+**Owner-approved typed-schema correction — 2026-09-04.** Before any parser or fit, the
+same authority completed the anomaly record/member and private-trace top-level/nested
+schemas with types, nullability, key orders, bounds/patterns, item types/order, and
+lowercase SHA-256 requirements. The focused public test independently derives its
+synthetic diagnostic records and exact-first/name-second mapping from hard-coded public
+inputs, with the approved assignments, counts, eleven row hashes, fingerprint hashes,
+6,901-byte trace length, and trace hash hard-coded as anti-drift oracles. This correction
+does not alter any source fact, historical candidate, `not_identifiable` disposition,
+scientific formula, future sensitivity arm, seed, or Stage-3 verdict boundary.
+
 ## B. External numbers this project adjudicates (not 1913 claims)
 
 | ID | Item | Checkability | Tier | Where |

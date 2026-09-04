@@ -326,3 +326,24 @@ aggregate counts, and fingerprints. Its public synthetic oracle fixes all eleven
 hashes, membership and mapping hashes, and a 6,901-byte canonical trace hash. This is a
 conformance oracle only; neither a private trace nor row-level source derivative was
 created or made public.
+
+## Addendum 7 — Owner-approved typed pre-fit schemas — 2026-09-04
+
+This dated correction resolves the follow-up audit's remaining schema and oracle defects
+before any parser or fit. The authority remains `data/scaruffi-followup-plan.json`; no
+raw/private evidence, trace, parser output, receipt, or fitted result was created.
+
+For every anomaly record and every group member, the JSON now normatively fixes JSON
+type, nullability, no-extra-property rule, key order, integer lower bounds, decimal and
+blank-text patterns, array item type, and exact field semantics. In particular, ordinal
+and column values are one-based positive integers, canonical metres is non-null canonical
+Decimal text, and a blank-extra diagnostic remains one record per cell.
+
+For every private-trace top-level and nested value, the JSON now normatively fixes type,
+nullability, constants, key order, array item type/order, bounds, source-identity
+patterns, and lowercase SHA-256 format. The focused public test independently derives
+the synthetic anomaly records and exact-first/name-second mapping from hard-coded public
+rows, and hard-codes the approved assignments, category counts, eleven row hashes,
+membership hash, mapping hash, 6,901-byte trace length, and trace hash. This preserves
+the historical all-555 candidate, `not_identifiable` disposition, no-exclusion rule, and
+all scientific decisions.
