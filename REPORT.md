@@ -178,7 +178,7 @@ Nothing here is hidden or silently folded in. Corrections to frozen artifacts la
 
 **Reviewer-follow-up closure — 2026-09-03.** The all-ties/non-identification guard for the corrected h_min selector is now explicit and regression-covered; the forced full-support fit remains separately reportable, and the isolated Stage-3 rerun confirms that no real arm changed. The source-version audit is complete with a **STANDS WITH CORRECTION** disposition, and browser QA is closed on desktop and mobile widths with keyboard, overflow, accessibility and console checks recorded in `results/final-correction-receipt.md`.
 
-Still open and non-blocking: the per-country FUA (topographic-arm) τ; the full IN+PK+BD successor pool; DC-1b → AU-C3 and DC-2d → AU-C8's modern analog; DC-1c → EXT-C2's re-fit; EXT-C3; a prominence-as-variable arm; and a cleaned-and-fitted Wikidata arm. The Scaruffi follow-up is closed, not deferred: its historical object remains `not_identifiable`, and no current-snapshot analysis was run.
+Unpursued possibilities, not open project work: the per-country FUA (topographic-arm) τ; the full IN+PK+BD successor pool; DC-1b → AU-C3 and DC-2d → AU-C8's modern analog; DC-1c → EXT-C2's re-fit; EXT-C3; a prominence-as-variable arm; and a cleaned-and-fitted Wikidata arm. The project is complete. The Scaruffi follow-up is closed, not deferred: its historical object remains `not_identifiable`, and no current-snapshot analysis was run.
 
 ## 6. Limitations
 

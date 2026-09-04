@@ -230,8 +230,12 @@ class ReaderFacingSiteTests(unittest.TestCase):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
         self.assertIn("retired before ingestion or fitting", report)
         self.assertIn("controlled disposition **`not_identifiable`**", report)
-        open_line = next(line for line in report.splitlines() if line.startswith("Still open and non-blocking:"))
-        self.assertNotIn("548-summit comparator", open_line)
+        possibilities_line = next(
+            line for line in report.splitlines()
+            if line.startswith("Unpursued possibilities, not open project work:")
+        )
+        self.assertNotIn("548-summit comparator", possibilities_line)
+        self.assertNotIn("Still open and non-blocking:", report)
 
     def test_public_report_does_not_claim_the_live_project_is_unpublished(self):
         for stale in (
@@ -276,8 +280,8 @@ class ReaderFacingSiteTests(unittest.TestCase):
         report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
         contract = (ROOT / "data" / "CONTRACT.md").read_text(encoding="utf-8")
         historical = (
-            "Its source enum is a Task 1\n"
-            "proposal pending the fresh-context Task 2 audit; it is not independently confirmed here."
+            "Its source enum began as a Task 1\n"
+            "proposal; the completed fresh-context Task 2 disposition is recorded immediately below."
         )
         disposition = "**Task 2 disposition — 2026-09-03:**"
         self.assertIn(historical, contract)
@@ -288,6 +292,7 @@ class ReaderFacingSiteTests(unittest.TestCase):
         self.assertIn("source-description corrections only", current_disposition)
         self.assertIn("AUDIT-CICCONE-SOURCE-RECONCILIATION.md", current_disposition)
         self.assertNotIn("pending the fresh-context Task 2 audit", current_disposition)
+        self.assertNotIn("it is not independently confirmed here", current_disposition)
 
         for artifact, text in (
             ("README.md", self.readme),

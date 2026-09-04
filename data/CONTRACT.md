@@ -239,8 +239,8 @@ its added regression plot is formally labeled Appendix Figure A1 (the fourth fig
 Figure 4.
 
 The reconciliation record is
-`results/ciccone-2021-2023-source-reconciliation.md`. Its source enum is a Task 1
-proposal pending the fresh-context Task 2 audit; it is not independently confirmed here.
+`results/ciccone-2021-2023-source-reconciliation.md`. Its source enum began as a Task 1
+proposal; the completed fresh-context Task 2 disposition is recorded immediately below.
 
 **Task 2 disposition — 2026-09-03:** the fresh-context source-version audit completed
 with **STANDS WITH CORRECTION**: source-description corrections only. It confirmed the source enum and inverse-axis
