@@ -4,7 +4,7 @@
   "protected_scope": {
     "published_59_sha256": "4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110",
     "immutable_57_sha256": "60ac68e50e32d51c85d8536fafe073cf8005a64b7585e7ce76902a61c568c62f",
-    "governance_59_sha256": "40c9de30bc603a40441391d2e3554e60395272d880f9c41ddfd14c7a530fdce1",
+    "governance_59_sha256": "0f3f403ff726cb14f8ce7831c4e3f9e75ba025f1fb678ed2cde9a3bc2319bdcd",
     "governance_digest_recipe": "sha256 of UTF-8 manifest lines '<file_sha256>  <path>\\n', with git ls-files data/raw data/derived plus PREREGISTRATION.md, CLAIM_INVENTORY.md, and the eight fixed Stage-0 through Stage-3 receipt files, sorted by UTF-8 path bytes; this JSON is outside the scope and therefore does not recurse"
   },
   "source_contracts": {
@@ -90,6 +90,394 @@
       "blank_extra_cells",
       "nonblank_extra_cells"
     ],
+    "decimal_conversion": {
+      "numeric_type": "Decimal parsed directly from the ASCII lexical token; no binary float",
+      "kilometre_conversion": "Decimal(height_raw) * Decimal('1000') exactly after inclusive Decimal bounds checks",
+      "metre_conversion": "Decimal(height_raw) exactly after inclusive Decimal bounds checks",
+      "canonical_metres": "format(value, 'f'), strip trailing fractional zeros and a trailing decimal point, map empty or -0 to 0"
+    },
+    "anomaly_value_schema": {
+      "container_type": "array",
+      "record_order": "source_ordinal_ascending_then_field_specific_key",
+      "group_order": "UTF-8 byte order of the declared group-key tuple; members are source_ordinal ascending",
+      "blank_extra_cells_semantics": "one record per blank trailing cell, not one record per affected row",
+      "target_current_blank_extra_cells": 1130,
+      "target_historical_blank_extra_cells": 1110,
+      "fields": {
+        "kilometre_conversions": {
+          "record_fields": [
+            "source_id",
+            "source_ordinal",
+            "height_raw",
+            "canonical_metres"
+          ],
+          "record_type": "one record per accepted decimal-kilometre token"
+        },
+        "metre_conversions": {
+          "record_fields": [
+            "source_id",
+            "source_ordinal",
+            "height_raw",
+            "canonical_metres"
+          ],
+          "record_type": "one record per accepted integer-metre token"
+        },
+        "repeated_casefold_name_groups": {
+          "record_fields": [
+            "source_id",
+            "name_casefold",
+            "members"
+          ],
+          "member_fields": [
+            "source_ordinal",
+            "canonical_metres"
+          ],
+          "group_key": [
+            "name_casefold"
+          ],
+          "inclusion": "groups with two or more source rows"
+        },
+        "same_name_different_height_groups": {
+          "record_fields": [
+            "source_id",
+            "name_casefold",
+            "members"
+          ],
+          "member_fields": [
+            "source_ordinal",
+            "canonical_metres"
+          ],
+          "group_key": [
+            "name_casefold"
+          ],
+          "inclusion": "groups with two or more distinct canonical_metres values"
+        },
+        "exact_name_height_groups": {
+          "record_fields": [
+            "source_id",
+            "name_casefold",
+            "canonical_metres",
+            "source_ordinals"
+          ],
+          "group_key": [
+            "name_casefold",
+            "canonical_metres"
+          ],
+          "inclusion": "groups with two or more source rows"
+        },
+        "height_tie_groups": {
+          "record_fields": [
+            "source_id",
+            "canonical_metres",
+            "source_ordinals"
+          ],
+          "group_key": [
+            "canonical_metres"
+          ],
+          "inclusion": "groups with two or more source rows"
+        },
+        "source_order_inversions": {
+          "record_fields": [
+            "source_id",
+            "previous_source_ordinal",
+            "next_source_ordinal",
+            "previous_canonical_metres",
+            "next_canonical_metres"
+          ],
+          "record_type": "one record for each adjacent ordinal pair whose elevation strictly increases"
+        },
+        "missing_fields": {
+          "record_fields": [
+            "source_id",
+            "source_ordinal",
+            "field"
+          ],
+          "record_type": "one record per missing required field in header order Mountain, Height, Country, Continent"
+        },
+        "blank_extra_cells": {
+          "record_fields": [
+            "source_id",
+            "source_ordinal",
+            "column_index",
+            "cell_text"
+          ],
+          "record_type": "one record per trailing cell whose raw text is empty or whitespace-only; column_index is one-based"
+        },
+        "nonblank_extra_cells": {
+          "record_fields": [
+            "source_id",
+            "source_ordinal",
+            "column_index",
+            "cell_text"
+          ],
+          "record_type": "one record per trailing cell whose raw text is not whitespace-only; column_index is one-based"
+        }
+      },
+      "hard_fail_observation_rule": "diagnostic classification is deterministic before enforcement; a missing required field or nonblank extra cell then hard-fails and produces no fit receipt"
+    },
+    "anomaly_conformance_vectors": [
+      {
+        "id": "synthetic-anomaly-valid-v1",
+        "source_id": "synthetic-anomaly-v1",
+        "input_rows": [
+          {
+            "source_ordinal": 1,
+            "mountain": "P1",
+            "height": "4.000",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": [
+              "",
+              " "
+            ]
+          },
+          {
+            "source_ordinal": 2,
+            "mountain": "p1",
+            "height": "4000",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": []
+          },
+          {
+            "source_ordinal": 3,
+            "mountain": "P1",
+            "height": "4.100",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": []
+          },
+          {
+            "source_ordinal": 4,
+            "mountain": "P2",
+            "height": "4.100",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": []
+          }
+        ],
+        "expected_anomalies": {
+          "kilometre_conversions": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "source_ordinal": 1,
+              "height_raw": "4.000",
+              "canonical_metres": "4000"
+            },
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "source_ordinal": 3,
+              "height_raw": "4.100",
+              "canonical_metres": "4100"
+            },
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "source_ordinal": 4,
+              "height_raw": "4.100",
+              "canonical_metres": "4100"
+            }
+          ],
+          "metre_conversions": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "source_ordinal": 2,
+              "height_raw": "4000",
+              "canonical_metres": "4000"
+            }
+          ],
+          "repeated_casefold_name_groups": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "name_casefold": "p1",
+              "members": [
+                {
+                  "source_ordinal": 1,
+                  "canonical_metres": "4000"
+                },
+                {
+                  "source_ordinal": 2,
+                  "canonical_metres": "4000"
+                },
+                {
+                  "source_ordinal": 3,
+                  "canonical_metres": "4100"
+                }
+              ]
+            }
+          ],
+          "same_name_different_height_groups": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "name_casefold": "p1",
+              "members": [
+                {
+                  "source_ordinal": 1,
+                  "canonical_metres": "4000"
+                },
+                {
+                  "source_ordinal": 2,
+                  "canonical_metres": "4000"
+                },
+                {
+                  "source_ordinal": 3,
+                  "canonical_metres": "4100"
+                }
+              ]
+            }
+          ],
+          "exact_name_height_groups": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "name_casefold": "p1",
+              "canonical_metres": "4000",
+              "source_ordinals": [
+                1,
+                2
+              ]
+            }
+          ],
+          "height_tie_groups": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "canonical_metres": "4000",
+              "source_ordinals": [
+                1,
+                2
+              ]
+            },
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "canonical_metres": "4100",
+              "source_ordinals": [
+                3,
+                4
+              ]
+            }
+          ],
+          "source_order_inversions": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "previous_source_ordinal": 2,
+              "next_source_ordinal": 3,
+              "previous_canonical_metres": "4000",
+              "next_canonical_metres": "4100"
+            }
+          ],
+          "missing_fields": [],
+          "blank_extra_cells": [
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "source_ordinal": 1,
+              "column_index": 5,
+              "cell_text": ""
+            },
+            {
+              "source_id": "synthetic-anomaly-v1",
+              "source_ordinal": 1,
+              "column_index": 6,
+              "cell_text": " "
+            }
+          ],
+          "nonblank_extra_cells": []
+        },
+        "hard_fail_reasons": []
+      },
+      {
+        "id": "synthetic-anomaly-failure-v1",
+        "source_id": "synthetic-anomaly-failure-v1",
+        "input_rows": [
+          {
+            "source_ordinal": 1,
+            "mountain": "P3",
+            "height": "4.200",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": []
+          },
+          {
+            "source_ordinal": 2,
+            "mountain": "",
+            "height": "4.300",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": []
+          },
+          {
+            "source_ordinal": 3,
+            "mountain": "P4",
+            "height": "4.400",
+            "country": "X",
+            "continent": "Test",
+            "extra_cells": [
+              "unexpected"
+            ]
+          }
+        ],
+        "expected_anomalies": {
+          "kilometre_conversions": [
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "source_ordinal": 1,
+              "height_raw": "4.200",
+              "canonical_metres": "4200"
+            },
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "source_ordinal": 2,
+              "height_raw": "4.300",
+              "canonical_metres": "4300"
+            },
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "source_ordinal": 3,
+              "height_raw": "4.400",
+              "canonical_metres": "4400"
+            }
+          ],
+          "metre_conversions": [],
+          "repeated_casefold_name_groups": [],
+          "same_name_different_height_groups": [],
+          "exact_name_height_groups": [],
+          "height_tie_groups": [],
+          "source_order_inversions": [
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "previous_source_ordinal": 1,
+              "next_source_ordinal": 2,
+              "previous_canonical_metres": "4200",
+              "next_canonical_metres": "4300"
+            },
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "previous_source_ordinal": 2,
+              "next_source_ordinal": 3,
+              "previous_canonical_metres": "4300",
+              "next_canonical_metres": "4400"
+            }
+          ],
+          "missing_fields": [
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "source_ordinal": 2,
+              "field": "mountain"
+            }
+          ],
+          "blank_extra_cells": [],
+          "nonblank_extra_cells": [
+            {
+              "source_id": "synthetic-anomaly-failure-v1",
+              "source_ordinal": 3,
+              "column_index": 5,
+              "cell_text": "unexpected"
+            }
+          ]
+        },
+        "hard_fail_reasons": [
+          "missing_required_field",
+          "nonblank_extra_cell"
+        ]
+      }
+    ],
     "target_headers": [
       "Mountain",
       "Height",
@@ -165,7 +553,8 @@
     },
     "formula": {
       "rank_curve": "h(x) = h_1 exp(-beta x^alpha)",
-      "transformed_relation": "ln(h_1 / h_n) = alpha x + beta in double-log coordinates",
+      "power_relation": "ln(h_1 / h(x)) = beta x^alpha",
+      "double_log_linearization": "ln(ln(h_1 / h(x))) = ln(beta) + alpha ln(x)",
       "inverse_count": "N = {ln(h_1/h)/beta}^{1/alpha} + 1",
       "inverse_count_difference": "delta_N_th = 1.6388 x 10^6 {ln(8848/h)}^0.85034"
     },
@@ -201,6 +590,16 @@
           {
             "rank": 700,
             "metres": 3020
+          }
+        ],
+        "direct_evaluation_metres": [
+          {
+            "rank": 600,
+            "metres": 3291.265
+          },
+          {
+            "rank": 700,
+            "metres": 3020.302
           }
         ],
         "residual_mean_metres": {
@@ -498,12 +897,225 @@
       "mapping_fingerprint_schema_id",
       "source_identities",
       "candidate",
+      "included_historical_source_ordinals",
       "row_identities",
       "mapping_assignments",
       "aggregate_counts",
       "fingerprints"
     ],
+    "nested_schema": {
+      "source_identities": [
+        "historical_capture",
+        "historical_manifest",
+        "current_capture"
+      ],
+      "candidate": [
+        "id",
+        "row_count",
+        "rule_id",
+        "excluded_source_ordinals"
+      ],
+      "included_historical_source_ordinals": "array of positive integer historical source ordinals in ascending order",
+      "row_identities": [
+        "historical",
+        "current"
+      ],
+      "row_identity_item": [
+        "source_id",
+        "source_ordinal",
+        "normalized_casefold_name",
+        "canonical_metres",
+        "normalized_country",
+        "normalized_continent",
+        "row_sha256"
+      ],
+      "mapping_assignments": "array of mapping_assignment_key_order objects in mapping_assignment_order",
+      "aggregate_counts": [
+        "candidate_rows",
+        "exact",
+        "same_name_different_height",
+        "historical_only",
+        "current_only"
+      ],
+      "fingerprints": [
+        "membership_sha256",
+        "mapping_sha256"
+      ]
+    },
     "trace_serialization": "json.dumps(trace, ensure_ascii=False, indent=2) + '\\n', UTF-8 LF-only, sort_keys=false",
+    "synthetic_conformance_vector": {
+      "id": "synthetic-private-trace-v1",
+      "source_ids": {
+        "historical": "historical-test",
+        "current": "current-test"
+      },
+      "source_identities": {
+        "historical_capture": "scaruffi-content-sha256-v1:historical-test:1:1111111111111111111111111111111111111111111111111111111111111111",
+        "historical_manifest": "scaruffi-manifest-sha256-v1:1:3333333333333333333333333333333333333333333333333333333333333333",
+        "current_capture": "scaruffi-content-sha256-v1:current-test:1:2222222222222222222222222222222222222222222222222222222222222222"
+      },
+      "candidate": {
+        "id": "synthetic-as-archived",
+        "row_count": 5,
+        "rule_id": "as_archived",
+        "excluded_source_ordinals": []
+      },
+      "rows": {
+        "historical": [
+          {
+            "source_id": "historical-test",
+            "source_ordinal": 1,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "100",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "historical-test",
+            "source_ordinal": 2,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "100",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "historical-test",
+            "source_ordinal": 3,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "90",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "historical-test",
+            "source_ordinal": 4,
+            "normalized_casefold_name": "b",
+            "canonical_metres": "80",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "historical-test",
+            "source_ordinal": 5,
+            "normalized_casefold_name": "c",
+            "canonical_metres": "70",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          }
+        ],
+        "current": [
+          {
+            "source_id": "current-test",
+            "source_ordinal": 10,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "100",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "current-test",
+            "source_ordinal": 11,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "95",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "current-test",
+            "source_ordinal": 12,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "90",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "current-test",
+            "source_ordinal": 13,
+            "normalized_casefold_name": "a",
+            "canonical_metres": "90",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "current-test",
+            "source_ordinal": 14,
+            "normalized_casefold_name": "b",
+            "canonical_metres": "81",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          },
+          {
+            "source_id": "current-test",
+            "source_ordinal": 15,
+            "normalized_casefold_name": "d",
+            "canonical_metres": "60",
+            "normalized_country": "X",
+            "normalized_continent": "Test"
+          }
+        ]
+      },
+      "mapping_triples": [
+        [
+          "exact",
+          1,
+          10
+        ],
+        [
+          "exact",
+          3,
+          12
+        ],
+        [
+          "same_name_different_height",
+          2,
+          11
+        ],
+        [
+          "same_name_different_height",
+          4,
+          14
+        ],
+        [
+          "historical_only",
+          5,
+          null
+        ],
+        [
+          "current_only",
+          null,
+          13
+        ],
+        [
+          "current_only",
+          null,
+          15
+        ]
+      ],
+      "aggregate_counts": {
+        "candidate_rows": 5,
+        "exact": 2,
+        "same_name_different_height": 2,
+        "historical_only": 1,
+        "current_only": 2
+      },
+      "expected_row_sha256": [
+        "9d1fd43d39c7916594d43af436be01f8d270d078da82c0a9aabb9c4ec32417c0",
+        "74574aa4dfec326a304766b359eba315bc7f26d047153a5841e0189e5f23ec7e",
+        "c2702e1106281e3e3f29045e44b2e4aa0a024812b5fa29ee163c1b9f3f04b2f7",
+        "d1d6e511f692a71a309052f24eda2e265f0dc814379c65442b610f5d77b5ba37",
+        "180db86db81bc137573d67a884ae49b83b5c54dc32955599560ae8daa74dbb12",
+        "99f704eaae661eff4aacf0468c4e51612e659cb9484c098cafe142a9cbb2d2ef",
+        "220ed100b75f64894b24fb9ac5863415e7236af270d6fb631c27caaa6400e797",
+        "242f57372eba1f5047041df10042cd22011105d600eec126295aa103ea6e43c7",
+        "d2544081a79cdeda665e1af4568f2d693da6ec45b9b2751b45800fcd4b2b3f67",
+        "39f84f5ed0d3f1fa46a1e557c174e38410896ef9a95d1397f0e32c809f2b3bd5",
+        "532322fe381c9acaca5e2c83adced7e5e0e60e8a61e8c69245f45992662a8500"
+      ],
+      "expected_membership_sha256": "f7fee5af6130cc782f140d159b56364349d37be14ea502e9e8cd42e99b2a3ac6",
+      "expected_mapping_sha256": "f5f8bc4c04fd4883cb60b67d26eb5d3f9de360f61df83d943eeebc3d4c47348e",
+      "expected_trace_utf8_bytes": 6901,
+      "expected_trace_sha256": "78d4f66a82da94ab51d699bcbfbf96302e4cca9b59f668649a2fc03903de7ee6"
+    },
     "redistributable": false
   },
   "reporting": {

@@ -265,3 +265,22 @@ Stage-3 Holm family and cannot upgrade, overwrite, or otherwise alter an accepte
 Stage-3 lane or verdict. Source contracts, benchmark tolerances, model interface,
 private-trace encoding, and stop conditions are fixed by the JSON authority before any
 implementation or fitting.
+
+### Amendment 3 — 2026-09-04 — Owner-approved pre-fit correction (PF-1/PF-2/PF-3)
+
+This amendment corrects governance defects identified by the fresh pre-fit audit before
+any parser or fit. `data/scaruffi-followup-plan.json` is the machine-readable authority
+and `results/scaruffi-source-audit.md` the evidence authority; no fit had been run when
+these corrections were frozen.
+
+The Miškinis curve implies `ln(h_1 / h(x)) = βx^α` and hence
+`ln(ln(h_1 / h(x))) = ln(β) + α ln(x)`, not the previously mistranscribed relation.
+The printed rank-origin ambiguity and absent fitting objective, weighting, constraints,
+and optimizer remain non-identifying; this correction does not select a recipe.
+
+The JSON authority now completely fixes Decimal/canonical-metre handling, anomaly values
+and ordering, and a public synthetic diagnostic conformance suite; it also completely
+fixes nested private-trace structure, serialization order, and public synthetic
+row/fingerprint/trace-byte hashes. These deterministic interfaces change neither the
+all-555 membership rule, `not_identifiable` disposition, no-exclusion rule, nor the S0/S1
+seeds, replicate counts, and exclusion from the original Holm family.

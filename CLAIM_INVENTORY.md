@@ -50,6 +50,16 @@ exact-name-and-height duplicate-only retention of the earliest ordinal). These a
 dated elevation-selected sensitivity evidence outside the original Stage-3 Holm family;
 they cannot modify AU-C11's accepted Stage-3 verdict lanes.
 
+**Owner-approved pre-fit correction — 2026-09-04 (PF-1/PF-2/PF-3).** Before any parser
+or fit, the external-comparator governance authority corrected the Miškinis power relation
+to `ln(h_1 / h(x)) = βx^α` and its double-log linearization to
+`ln(ln(h_1 / h(x))) = ln(β) + α ln(x)`. It additionally froze exact Decimal/anomaly and
+private-trace conformance interfaces, including public synthetic hashes. The authority is
+`data/scaruffi-followup-plan.json`; the evidence record is
+`results/scaruffi-source-audit.md`; no fit had been run. The correction does not change
+the unidentified 548 rows, all-555 candidate, `not_identifiable` disposition, or S0/S1's
+exclusion from the original Stage-3 Holm family.
+
 ## B. External numbers this project adjudicates (not 1913 claims)
 
 | ID | Item | Checkability | Tier | Where |

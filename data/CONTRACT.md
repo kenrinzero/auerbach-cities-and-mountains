@@ -299,3 +299,30 @@ sample. The dated 2026-09-03 current arms are S0 (all 565 rows as listed) and S1
 (564-row exact-name-and-height duplicate sensitivity retaining the earliest source
 ordinal); same-name/different-height rows are never merged. Their later analysis is
 separately labelled sensitivity evidence and cannot revise the original Stage-3 verdict.
+
+## Addendum 6 — Owner-approved Scaruffi pre-fit correction — 2026-09-04
+
+This correction resolves fresh-audit findings PF-1 through PF-3 before any parser or fit.
+`data/scaruffi-followup-plan.json` remains the machine-readable authority and
+`results/scaruffi-source-audit.md` remains the evidence authority. No fit had been run
+when this correction was frozen.
+
+The correct Miškinis relation is `ln(h_1 / h(x)) = βx^α`, obtained from
+`h(x) = h_1 exp(-βx^α)`; in double-log coordinates it is
+`ln(ln(h_1 / h(x))) = ln(β) + α ln(x)`. This correction retains the separate,
+unresolved rank-origin convention and the paper's non-identified fitting recipe. It does
+not authorize an inferred objective or a favorable recipe choice.
+
+The parser contract now fixes `Decimal` conversion and canonical metre text, every
+diagnostic value type, field key, grouping key, group/member ordering, and one-record-per-
+cell semantics for trailing blank cells. Thus the current capture's 565 affected rows mean
+1,130 blank-cell records and the historical capture's 555 affected rows mean 1,110 such
+records. The JSON authority supplies public synthetic vectors covering every anomaly field
+without reproducing source rows.
+
+The private-trace contract now fixes all nested keys, types, and insertion orders for
+source identities, candidate, included ordinals, per-source row identities, assignments,
+aggregate counts, and fingerprints. Its public synthetic oracle fixes all eleven row
+hashes, membership and mapping hashes, and a 6,901-byte canonical trace hash. This is a
+conformance oracle only; neither a private trace nor row-level source derivative was
+created or made public.

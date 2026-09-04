@@ -1,5 +1,6 @@
 import hashlib
 import json
+import math
 import subprocess
 import unittest
 from pathlib import Path
@@ -133,6 +134,165 @@ class ScaruffiPlanTests(unittest.TestCase):
         self.assertFalse(mapping["manual_aliases"])
         self.assertEqual(mapping["pairing_order"], ["exact", "same_name_different_height", "one_sided"])
         self.assertEqual(mapping["within_group_order"], "source_ordinal_ascending")
+
+    def test_transformed_relation_is_the_power_relation_and_double_log_linearization(self):
+        formula = self.plan["historical_reconstruction"]["formula"]
+        self.assertEqual(formula["power_relation"], "ln(h_1 / h(x)) = beta x^alpha")
+        self.assertEqual(
+            formula["double_log_linearization"],
+            "ln(ln(h_1 / h(x))) = ln(beta) + alpha ln(x)",
+        )
+        curve = self.plan["historical_reconstruction"]["benchmarks"]["rank_curve"]
+        alpha = curve["alpha"]["value"]
+        beta = curve["beta"]["value"]
+        h1 = curve["h1_metres"]
+        self.assertEqual(
+            curve["direct_evaluation_metres"],
+            [{"rank": 600, "metres": 3291.265}, {"rank": 700, "metres": 3020.302}],
+        )
+        for benchmark in curve["direct_evaluation_metres"]:
+            computed = h1 * math.exp(-beta * benchmark["rank"] ** alpha)
+            self.assertAlmostEqual(computed, benchmark["metres"], places=3)
+
+    def test_anomaly_schema_freezes_values_ordering_decimal_rules_and_public_vectors(self):
+        parser = self.plan["parser"]
+        self.assertEqual(
+            parser["decimal_conversion"],
+            {
+                "numeric_type": "Decimal parsed directly from the ASCII lexical token; no binary float",
+                "kilometre_conversion": "Decimal(height_raw) * Decimal('1000') exactly after inclusive Decimal bounds checks",
+                "metre_conversion": "Decimal(height_raw) exactly after inclusive Decimal bounds checks",
+                "canonical_metres": "format(value, 'f'), strip trailing fractional zeros and a trailing decimal point, map empty or -0 to 0",
+            },
+        )
+        schema = parser["anomaly_value_schema"]
+        self.assertEqual(schema["container_type"], "array")
+        self.assertEqual(schema["record_order"], "source_ordinal_ascending_then_field_specific_key")
+        self.assertEqual(schema["blank_extra_cells_semantics"], "one record per blank trailing cell, not one record per affected row")
+        self.assertEqual(schema["target_current_blank_extra_cells"], 1130)
+        self.assertEqual(schema["target_historical_blank_extra_cells"], 1110)
+        self.assertEqual(
+            list(schema["fields"]),
+            parser["anomaly_field_order"],
+        )
+        self.assertEqual(
+            schema["fields"]["blank_extra_cells"]["record_fields"],
+            ["source_id", "source_ordinal", "column_index", "cell_text"],
+        )
+        vectors = parser["anomaly_conformance_vectors"]
+        self.assertEqual([vector["id"] for vector in vectors], ["synthetic-anomaly-valid-v1", "synthetic-anomaly-failure-v1"])
+        expected_fields = parser["anomaly_field_order"]
+        for vector in vectors:
+            self.assertEqual(list(vector["expected_anomalies"]), expected_fields)
+        valid = vectors[0]["expected_anomalies"]
+        failure = vectors[1]["expected_anomalies"]
+        self.assertEqual(len(valid["blank_extra_cells"]), 2)
+        self.assertEqual(valid["missing_fields"], [])
+        self.assertEqual(failure["missing_fields"][0]["field"], "mountain")
+        self.assertEqual(failure["nonblank_extra_cells"][0]["cell_text"], "unexpected")
+        self.assertEqual(vectors[1]["hard_fail_reasons"], ["missing_required_field", "nonblank_extra_cell"])
+
+    def test_private_trace_complete_schema_and_synthetic_fingerprint_oracle(self):
+        trace = self.plan["private_trace"]
+        self.assertEqual(
+            trace["trace_top_level_key_order"],
+            [
+                "schema_id",
+                "schema_version",
+                "row_identity_schema_id",
+                "membership_fingerprint_schema_id",
+                "mapping_fingerprint_schema_id",
+                "source_identities",
+                "candidate",
+                "included_historical_source_ordinals",
+                "row_identities",
+                "mapping_assignments",
+                "aggregate_counts",
+                "fingerprints",
+            ],
+        )
+        self.assertEqual(trace["nested_schema"]["source_identities"], ["historical_capture", "historical_manifest", "current_capture"])
+        self.assertEqual(trace["nested_schema"]["candidate"], ["id", "row_count", "rule_id", "excluded_source_ordinals"])
+        self.assertEqual(trace["nested_schema"]["row_identities"], ["historical", "current"])
+        self.assertEqual(
+            trace["nested_schema"]["aggregate_counts"],
+            ["candidate_rows", "exact", "same_name_different_height", "historical_only", "current_only"],
+        )
+        self.assertEqual(trace["nested_schema"]["fingerprints"], ["membership_sha256", "mapping_sha256"])
+        vector = trace["synthetic_conformance_vector"]
+        row_hashes = []
+        row_objects = {"historical": [], "current": []}
+        for side in ("historical", "current"):
+            for row in vector["rows"][side]:
+                identity = [
+                    "scaruffi-private-row-v1",
+                    row["source_id"],
+                    row["source_ordinal"],
+                    row["normalized_casefold_name"],
+                    row["canonical_metres"],
+                    row["normalized_country"],
+                    row["normalized_continent"],
+                ]
+                row_sha256 = hashlib.sha256(
+                    (json.dumps(identity, ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
+                ).hexdigest()
+                row_hashes.append(row_sha256)
+                row_objects[side].append(
+                    {
+                        "source_id": row["source_id"],
+                        "source_ordinal": row["source_ordinal"],
+                        "normalized_casefold_name": row["normalized_casefold_name"],
+                        "canonical_metres": row["canonical_metres"],
+                        "normalized_country": row["normalized_country"],
+                        "normalized_continent": row["normalized_continent"],
+                        "row_sha256": row_sha256,
+                    }
+                )
+        self.assertEqual(row_hashes, vector["expected_row_sha256"])
+        hash_by_ordinal = {
+            (item["source_id"], item["source_ordinal"]): item["row_sha256"]
+            for side in ("historical", "current")
+            for item in row_objects[side]
+        }
+        assignments = []
+        for category, historical_ordinal, current_ordinal in vector["mapping_triples"]:
+            assignments.append(
+                {
+                    "category": category,
+                    "historical_ordinal": historical_ordinal,
+                    "current_ordinal": current_ordinal,
+                    "historical_row_sha256": None if historical_ordinal is None else hash_by_ordinal[(vector["source_ids"]["historical"], historical_ordinal)],
+                    "current_row_sha256": None if current_ordinal is None else hash_by_ordinal[(vector["source_ids"]["current"], current_ordinal)],
+                }
+            )
+        membership_sha256 = hashlib.sha256(
+            (json.dumps(["scaruffi-membership-fingerprint-v1", [item["row_sha256"] for item in row_objects["historical"]]], ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
+        ).hexdigest()
+        mapping_sha256 = hashlib.sha256(
+            (json.dumps(["scaruffi-mapping-fingerprint-v1", assignments], ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
+        ).hexdigest()
+        self.assertEqual(membership_sha256, vector["expected_membership_sha256"])
+        self.assertEqual(mapping_sha256, vector["expected_mapping_sha256"])
+        trace_object = {
+            "schema_id": "scaruffi-private-trace-v1",
+            "schema_version": 1,
+            "row_identity_schema_id": "scaruffi-private-row-v1",
+            "membership_fingerprint_schema_id": "scaruffi-membership-fingerprint-v1",
+            "mapping_fingerprint_schema_id": "scaruffi-mapping-fingerprint-v1",
+            "source_identities": vector["source_identities"],
+            "candidate": vector["candidate"],
+            "included_historical_source_ordinals": [1, 2, 3, 4, 5],
+            "row_identities": row_objects,
+            "mapping_assignments": assignments,
+            "aggregate_counts": vector["aggregate_counts"],
+            "fingerprints": {
+                "membership_sha256": membership_sha256,
+                "mapping_sha256": mapping_sha256,
+            },
+        }
+        raw = (json.dumps(trace_object, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+        self.assertEqual(len(raw), vector["expected_trace_utf8_bytes"])
+        self.assertEqual(hashlib.sha256(raw).hexdigest(), vector["expected_trace_sha256"])
 
     def test_plan_is_canonical_utf8_lf_json(self):
         raw = PLAN.read_bytes()
