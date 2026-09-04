@@ -218,13 +218,20 @@ class ReaderFacingSiteTests(unittest.TestCase):
         for provenance_term in ("Stage-4", "SHA-256", "receipt", "katflow", "session"):
             self.assertNotIn(provenance_term, header)
 
-    def test_data_tab_reports_scaruffi_as_preserved_but_not_ingested(self):
+    def test_data_tab_reports_scaruffi_as_retired_before_fit(self):
         custody = visible_text(element(self.page, "section", "tab-data"))
         self.assertIn("Scaruffi", custody)
-        self.assertIn("obtained and preserved", custody)
-        self.assertIn("not yet ingested or analysed", custody)
-        self.assertIn("data-contract addendum", custody)
+        self.assertIn("retired before ingestion or fitting", custody)
+        self.assertIn("not identifiable", custody)
+        self.assertNotIn("not yet ingested or analysed", custody)
+        self.assertNotIn("pending a dated data-contract addendum", custody)
         self.assertNotIn("comparator not obtainable", custody)
+
+        report = (ROOT / "REPORT.md").read_text(encoding="utf-8")
+        self.assertIn("retired before ingestion or fitting", report)
+        self.assertIn("controlled disposition **`not_identifiable`**", report)
+        open_line = next(line for line in report.splitlines() if line.startswith("Still open and non-blocking:"))
+        self.assertNotIn("548-summit comparator", open_line)
 
     def test_public_report_does_not_claim_the_live_project_is_unpublished(self):
         for stale in (
@@ -419,7 +426,7 @@ class ReaderFacingSiteTests(unittest.TestCase):
         stage3 = report[stage3_start:report.index("**Stage 4", stage3_start)]
         normalized_stage3 = re.sub(r"\s+", " ", stage3).strip()
         historical = "the Scaruffi path probed returned 404, so Miškinis's 548-summit list was not obtainable within Stage 3)."
-        corrective = "The correct page was subsequently obtained and preserved, remains outside the fitted corpus, and is not yet ingested or analysed pending a dated data-contract addendum."
+        corrective = "The correct page was subsequently obtained and preserved, but the historical 548-row membership and unique fitting recipe proved not identifiable; the follow-up was retired before ingestion or fitting, with no current-snapshot analysis run."
         self.assertIn(historical + " " + corrective, normalized_stage3)
 
 

@@ -557,9 +557,10 @@ footer .fineprint{margin-top:16px;padding-top:10px;border-top:1px solid var(--li
           <tr><td>peakbagger.com</td><td>terms page HTTP 403 &rarr; the contract's mandatory ToS check could not be
               satisfied, so it was <em>not</em> scraped (D6)</td></tr>
           <tr><td>Scaruffi comparator (Mi&scaron;kinis's 548-summit list)</td><td>The page was
-              <strong>obtained and preserved</strong> after publication, but is not yet ingested or analysed.
-              Using it as DC-3c requires a dated data-contract addendum; the current P6 result therefore
-              still answers Mi&scaron;kinis through his model form, not his list.</td></tr>
+              obtained and preserved after publication. The source audit found that the historical
+              548-row membership and unique fitting recipe are <strong>not identifiable</strong>, so the
+              follow-up was <strong>retired before ingestion or fitting</strong>. No current-snapshot
+              analysis was run; P6 therefore answers Mi&scaron;kinis through his model form, not his list.</td></tr>
           <tr><td>Wikidata snapshot</td><td>1543 QIDs, cross-check only, <strong>never fitted</strong> (D8):
               73 without elevation, 276 with an impossible one (max 16,390 m), 95 with prominence above elevation
               beyond the parser's 0.5 m tolerance</td></tr>

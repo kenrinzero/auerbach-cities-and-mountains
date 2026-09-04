@@ -1,5 +1,11 @@
 # Scaruffi Follow-up Implementation Plan
 
+> **Retired before fit — do not execute.** On 2026-09-04 the owner retired this plan
+> because the historical 548-row membership and unique fitting recipe remain
+> `not_identifiable`. No parser, fit, private trace, or current-snapshot analysis was
+> run. The plan is preserved only as an audit trail; reopening is governed by
+> `results/scaruffi-followup-closure.md`.
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Preserve the `not_identifiable` result for Miškinis's historical 548-summit sample, quantify benchmark proximity for the independently dated 555-row Arquivo.pt candidate, run separately labelled sensitivity analysis on the dated 565/564-row current Scaruffi arms, and integrate only owner-approved conclusions without changing the accepted Stage-3 result.

@@ -1,10 +1,25 @@
 {
   "schema_version": 1,
   "frozen_at": "2026-09-04",
+  "retirement": {
+    "status": "retired_before_fit",
+    "decision_date": "2026-09-04",
+    "decision_authority": "owner",
+    "historical_disposition": "not_identifiable",
+    "current_snapshot_analysis": "not_run",
+    "parser_status": "not_implemented",
+    "fit_status": "not_run",
+    "reason": "The historical 548-row membership and unique fitting recipe are not identifiable from surviving evidence; further validator work would not resolve that scientific limitation.",
+    "closure_record": "results/scaruffi-followup-closure.md",
+    "reopen_only_if": [
+      "independent evidence identifies the exact historical 548-row membership or exclusions",
+      "independent evidence identifies the unique Miskinis fitting recipe"
+    ]
+  },
   "protected_scope": {
     "published_59_sha256": "4821ab10a6ad62ff7bea2e9f8f876730a7d98fd9fef6d98ba67dce5606e29110",
     "immutable_57_sha256": "60ac68e50e32d51c85d8536fafe073cf8005a64b7585e7ce76902a61c568c62f",
-    "governance_59_sha256": "5399ae7858d94f45d34215dd233564b82d6bfc4764da6f261c67c77106f3f768",
+    "governance_59_sha256": "c9fbd40fc881c2b4fa40ab8c6456e097eb0bcc3025c207b528128a4c96028135",
     "governance_digest_recipe": "sha256 of UTF-8 manifest lines '<file_sha256>  <path>\\n', with git ls-files data/raw data/derived plus PREREGISTRATION.md, CLAIM_INVENTORY.md, and the eight fixed Stage-0 through Stage-3 receipt files, sorted by UTF-8 path bytes; this JSON is outside the scope and therefore does not recurse"
   },
   "source_contracts": {

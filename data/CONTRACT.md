@@ -41,7 +41,7 @@ borders, British India) are documented per country *before* fitting (prereg §4.
 |---|---|---|---|---|
 | DC-3a | Global ultra-prominence list (P ≥ 1,500 m) | peaklist.org ultras; fallback: Wikipedia "List of Ultras" (CC-BY-SA) | summit, elevation m, prominence m, range, coordinates | open |
 | DC-3b | Regional prominence lists: Alps, Himalayas, Rockies | peaklist.org regional lists; peakbagger (ToS check mandatory — no scraping if prohibited; manual export or fallback to Wikipedia lists) | as DC-3a | open |
-| DC-3c | Elevation-only deep list (sensitivity arm) | Scaruffi-style compiled lists / Wikipedia lists of highest mountains; Miškinis 2011's 548-summit list as historical comparator | summit, elevation m | open |
+| DC-3c | Elevation-only deep list (sensitivity arm) | Scaruffi-style compiled lists / Wikipedia lists of highest mountains; Miškinis 2011's 548-summit list as historical comparator | summit, elevation m | retired before fit (`not_identifiable`) |
 
 Coverage notes (prereg §5.4): prominence lists are climbing-community products —
 climbed peaks overrepresented, remote ranges underrepresented. The sweep across
@@ -367,3 +367,18 @@ the specified encodings. Valid public conformance and invalid candidate, source-
 assignment-nullability, aggregate, and fingerprint counterexamples are tested. No private
 trace, parser output, fit, receipt, source fact, candidate, disposition, seed, or
 Stage-3 artifact was created or changed.
+
+## Addendum 9 — Scaruffi follow-up retirement — 2026-09-04
+
+The owner retired the Scaruffi follow-up before ingestion or fitting. The independently
+dated 2009 capture has 555 target rows, while Miškinis reports 548 and provides neither
+the seven exclusions nor a unique fitting recipe. The historical disposition remains
+`not_identifiable`; the current 2026-09-03 capture was not analysed. No parser, fit,
+private trace, or fit receipt was produced.
+
+The prior source contracts and pre-fit conformance material are retained as historical
+custody records, not as an executable work order. Reopening requires independent
+evidence that identifies the exact historical 548-row membership/exclusions or the
+unique Miškinis fitting recipe. `results/scaruffi-followup-closure.md` is the terminal
+human-readable record; `data/scaruffi-followup-plan.json.retirement` is the
+machine-readable status.

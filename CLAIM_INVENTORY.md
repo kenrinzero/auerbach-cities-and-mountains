@@ -78,6 +78,16 @@ exclusion membership, unique row coverage, category-dependent mapping/row-hash l
 derived aggregate counts, and specified fingerprints. It changes no source fact,
 candidate, `not_identifiable` disposition, formula, seed, arm, or Stage-3 boundary.
 
+**Terminal owner decision — retired before fit, 2026-09-04.** A final fresh-context
+audit found that the production trace invariants remained incompletely enforced even
+after the bounded corrections. The owner chose retirement rather than another validator
+redesign. AU-C11's accepted Stage-3 result is unchanged; the Scaruffi historical object
+remains `not_identifiable`, no current-snapshot analysis was run, and no parser, fit,
+private trace, or fit receipt exists. This comparator is closed rather than parked.
+Reopening requires independent evidence identifying the exact historical 548-row
+membership/exclusions or the unique Miškinis fitting recipe. See
+`results/scaruffi-followup-closure.md`.
+
 ## B. External numbers this project adjudicates (not 1913 claims)
 
 | ID | Item | Checkability | Tier | Where |

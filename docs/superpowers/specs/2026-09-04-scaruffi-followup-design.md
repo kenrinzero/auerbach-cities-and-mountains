@@ -1,5 +1,11 @@
 # Scaruffi Historical Comparator and Current-Snapshot Sensitivity
 
+> **Retired before fit — 2026-09-04.** The owner closed this proposed follow-up after
+> the historical 548-row membership and unique fitting recipe proved
+> `not_identifiable`. No parser, fit, private trace, or current-snapshot analysis was
+> run. This document is retained as historical design evidence and must not be executed;
+> see `results/scaruffi-followup-closure.md` for the reopening condition.
+
 **Status:** Approved in chat on 2026-09-04; evidence-specific amendment approved in chat on 2026-09-04 after the source audit found a dated 2009 capture.
 
 **Project:** `paper-claims/auerbach-mountains-and-cities`

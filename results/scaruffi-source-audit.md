@@ -1,5 +1,11 @@
 # Scaruffi / Miškinis source audit — 2026-09-04
 
+> **Terminal status — retired before fit.** This evidence record remains authoritative,
+> but the owner closed the follow-up on 2026-09-04 with historical disposition
+> `not_identifiable`. No parser, fit, private trace, or current-snapshot analysis was
+> run. See `results/scaruffi-followup-closure.md`; this audit is not an instruction to
+> continue the former plan.
+
 ## Question and non-fitting boundary
 
 This audit establishes what the primary paper prints, the custody and rights status of the preserved 2026-09-03 Scaruffi capture, and whether independently preserved row-level evidence exists for the historical comparator. It does not fit the current capture, reconstruct Miškinis's sample, select rows to reproduce a benchmark, or alter any accepted Stage-3 source, receipt, multiplicity family, or verdict. Benchmark evidence is not membership evidence: a repeated count or coefficient cannot identify which summits were included.
@@ -88,7 +94,7 @@ Because row-level historical evidence is present, the controlling plan requires 
 
 ## Identifiability consequence
 
-The cited 2008 list is not yet exactly reconstructable as Miškinis used it. The surviving 2009 snapshot supplies independently dated row-level evidence, but its provisional 555-row target table differs from the paper's 548, and the paper does not disclose the seven exclusions, a dated retrieval, or a unique fitting recipe. Accordingly, historical exactness is presently non-identified. This is a controlled stop-and-amend-plan outcome, not permission to infer membership or proceed with the current-capture analysis.
+The cited 2008 list is not exactly reconstructable as Miškinis used it. The surviving 2009 snapshot supplies independently dated row-level evidence, but its 555-row target table differs from the paper's 548, and the paper does not disclose the seven exclusions, a dated retrieval, or a unique fitting recipe. Accordingly, the historical object has the terminal controlled disposition `not_identifiable`. The owner retired the follow-up before fit; this is not permission to infer membership or proceed with current-capture analysis.
 
 ## Sources and hashes
 

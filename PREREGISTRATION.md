@@ -309,3 +309,16 @@ frozen source identities, all-555/no-exclusion candidate membership, ordinal cov
 uniqueness, category-dependent assignment nullability and row-hash lookups, aggregates,
 and fingerprint encodings. This correction neither implements a parser nor changes any
 scientific decision or original Stage-3 boundary.
+
+### Amendment 6 — 2026-09-04 — Scaruffi follow-up retired before fit
+
+The owner retired the Scaruffi follow-up after the historical 548-row membership and
+unique fitting recipe remained `not_identifiable`. No parser, fit, private trace, or
+current-snapshot analysis was run. All earlier Scaruffi amendments remain as the dated
+record of the attempted pre-fit boundary, but they no longer authorize Task 3.
+
+The terminal status is `retired_before_fit`. Reopening requires genuinely new
+independent evidence identifying either the exact historical membership/exclusions or
+the unique Miškinis fitting recipe; another validator correction, new current capture,
+or benchmark-proximity exercise alone is insufficient. The accepted Stage-3
+preregistration, receipts, multiplicity family, and verdicts are unchanged.

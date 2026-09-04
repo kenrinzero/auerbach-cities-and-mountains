@@ -1,7 +1,15 @@
 # Independent Scaruffi pre-fit audit — 2026-09-04
 
-**Current verdict at `8ef9bfbcdc93cedca21fa92ae52354fdf481b11d`: PASS AFTER
-OWNER-APPROVED CORRECTION — the pre-fit gate is passed.**
+**Terminal status at `2a3e8bed95878c9c1f770e08e09c70f2ed671e57`:
+RETIRED BEFORE FIT — the pre-fit gate did not advance.** The final fresh-context
+re-audit found that production trace bindings remained declarative rather than fully
+enforced. The owner elected retirement instead of another validator redesign. No
+parser, fit, private trace, or current-snapshot analysis was run; the historical
+disposition remains `not_identifiable`. See `results/scaruffi-followup-closure.md`.
+
+**Earlier verdict at `8ef9bfbcdc93cedca21fa92ae52354fdf481b11d`: PASS AFTER
+OWNER-APPROVED CORRECTION — retained below as audit history and superseded by the later
+fresh-context re-audit.**
 
 **Historical verdict at `eee031dd1a724d538c3d2f302eab680842e58d08`: FAIL —
 retained below as the original audit record.**
@@ -232,3 +240,21 @@ the held private sources, and the official Miškinis paper.
 The corrected governance freeze is scientifically complete and deterministic for the
 authorized pre-fit boundary. This verdict authorizes eligibility for Task 3 only under
 the frozen contracts; it does not implement or pre-approve any parser or fit result.
+
+## Final re-audit and owner disposition — terminal record
+
+A later fresh-context, read-only re-audit at
+`2a3e8bed95878c9c1f770e08e09c70f2ed671e57` reproduced the 14/14 focused tests,
+52/52 full tests, 109/109 number verifier, source aggregates, privacy boundary, and
+protected hashes. It nevertheless returned **FAIL** on one remaining Important finding:
+the executable validator accepted production-shaped traces with wrong exact source
+identities, candidate ID/rule, shifted ordinal ranges, or reordered assignments when
+their dependent hashes were recomputed consistently. The written production invariants
+were therefore stronger than their executable enforcement.
+
+The owner accepted the audit and chose retirement rather than another conformance-only
+correction. That choice is now terminal: status `retired_before_fit`, historical
+disposition `not_identifiable`, current-snapshot analysis `not_run`. Task 3 was never
+started. Reopening requires new independent evidence identifying the exact historical
+548-row membership/exclusions or the unique Miškinis fitting recipe; validator work by
+itself is not a reopening condition.

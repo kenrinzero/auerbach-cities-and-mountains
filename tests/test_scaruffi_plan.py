@@ -383,6 +383,22 @@ class ScaruffiPlanTests(unittest.TestCase):
     def setUpClass(cls):
         cls.plan = json.loads(PLAN.read_text(encoding="utf-8"))
 
+    def test_followup_is_retired_before_fit(self):
+        retirement = self.plan["retirement"]
+        self.assertEqual(retirement["status"], "retired_before_fit")
+        self.assertEqual(retirement["decision_date"], "2026-09-04")
+        self.assertEqual(retirement["decision_authority"], "owner")
+        self.assertEqual(retirement["historical_disposition"], "not_identifiable")
+        self.assertEqual(retirement["current_snapshot_analysis"], "not_run")
+        self.assertEqual(retirement["parser_status"], "not_implemented")
+        self.assertEqual(retirement["fit_status"], "not_run")
+        self.assertEqual(retirement["closure_record"], "results/scaruffi-followup-closure.md")
+        self.assertEqual(len(retirement["reopen_only_if"]), 2)
+        closure = (ROOT / retirement["closure_record"]).read_text(encoding="utf-8")
+        self.assertIn("retired_before_fit", closure)
+        self.assertIn("not_identifiable", closure)
+        self.assertIn("No current-snapshot analysis was run", closure)
+
     def test_dual_source_identity_and_nonredistribution_boundary(self):
         sources = self.plan["source_contracts"]
         historical = sources["arquivo_pt_20091008014619"]
